@@ -1,0 +1,123 @@
+[
+ {
+  "module": "retention_period",
+  "kind": "arm",
+  "svg": "armexpg1.svg",
+  "num": "1",
+  "ocr": "Retention_period_arm",
+  "ref": "Retention_period_arm.required_am_arms",
+  "score": 100,
+  "method": "schema->primary",
+  "flag": "convention"
+ },
+ {
+  "module": "retention_period",
+  "kind": "arm",
+  "svg": "armexpg1.svg",
+  "num": "2",
+  "ocr": "Time interval assignment arm",
+  "ref": "Time_interval_assignment_arm.required_am_arms",
+  "score": 100,
+  "method": "schema->primary",
+  "flag": "convention"
+ },
+ {
+  "module": "retention_period",
+  "kind": "arm",
+  "svg": "armexpg1.svg",
+  "num": "3",
+  "ocr": "Value with unit arm",
+  "ref": "Value_with_unit_arm.required_am_arms",
+  "score": 100,
+  "method": "schema->primary",
+  "flag": "convention"
+ },
+ {
+  "module": "retention_period",
+  "kind": "arm",
+  "svg": "armexpg1.svg",
+  "num": "4",
+  "ocr": "Activity_arm",
+  "ref": "Activity_arm.required_am_arms",
+  "score": 100,
+  "method": "schema->primary",
+  "flag": "convention"
+ },
+ {
+  "module": "retention_period",
+  "kind": "arm",
+  "svg": "armexpg1.svg",
+  "num": "5",
+  "ocr": "Event_assignment_arm",
+  "ref": "Event_assignment_arm.required_am_arms",
+  "score": 100,
+  "method": "schema->primary",
+  "flag": "convention"
+ },
+ {
+  "module": "retention_period",
+  "kind": "arm",
+  "svg": "armexpg2.svg",
+  "num": "1",
+  "ocr": "Event arm. date or event",
+  "ref": "Event_arm.date_or_event",
+  "score": 100,
+  "method": "qualified-verbatim",
+  "flag": ""
+ },
+ {
+  "module": "retention_period",
+  "kind": "arm",
+  "svg": "armexpg2.svg",
+  "num": "2",
+  "ocr": "Event_arm. date_or_event",
+  "ref": "Event_arm.date_or_event",
+  "score": 100,
+  "method": "qualified-verbatim",
+  "flag": ""
+ },
+ {
+  "module": "retention_period",
+  "kind": "arm",
+  "svg": "armexpg2.svg",
+  "num": "3",
+  "ocr": "Value with_unit_arm. Duration",
+  "ref": "Value_with_unit_arm.Duration",
+  "score": 100,
+  "method": "qualified-verbatim",
+  "flag": ""
+ },
+ {
+  "module": "retention_period",
+  "kind": "arm",
+  "svg": "armexpg2.svg",
+  "num": "4",
+  "ocr": "Time interval assignment_arm. time_ _interval _item",
+  "ref": "Time_interval_assignment_arm.time_interval_item",
+  "score": 100,
+  "method": "qualified-verbatim",
+  "flag": ""
+ },
+ {
+  "module": "retention_period",
+  "kind": "arm",
+  "svg": "armexpg2.svg",
+  "num": "5",
+  "ocr": "period_or_date_or_event_select",
+  "ref": "Retention_period_arm.period_or_date_or_event_select",
+  "score": 100,
+  "method": "exact-name-local-clean",
+  "flag": ""
+ },
+ {
+  "module": "retention_period",
+  "kind": "arm",
+  "svg": "armexpg2.svg",
+  "num": "6",
+  "ocr": "Retention_period",
+  "ref": "Retention_period_arm.Retention_period",
+  "score": 100,
+  "method": "exact-name-local-clean",
+  "flag": ""
+ }
+]

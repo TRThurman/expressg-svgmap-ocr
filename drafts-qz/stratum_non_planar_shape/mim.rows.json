@@ -1,0 +1,24 @@
+[
+ {
+  "module": "stratum_non_planar_shape",
+  "kind": "mim",
+  "svg": "mimexpg1.svg",
+  "num": "1",
+  "ocr": "Manifold surface mim",
+  "ref": "Manifold_surface_mim.short_listing",
+  "score": 100,
+  "method": "schema->primary",
+  "flag": "convention"
+ },
+ {
+  "module": "stratum_non_planar_shape",
+  "kind": "mim",
+  "svg": "mimexpg1.svg",
+  "num": "2",
+  "ocr": "Layered_interconnect_module_design_mim",
+  "ref": "Layered_interconnect_module_design_mim.short_listing",
+  "score": 100,
+  "method": "schema->primary",
+  "flag": "convention"
+ }
+]

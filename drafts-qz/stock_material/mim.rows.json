@@ -1,0 +1,123 @@
+[
+ {
+  "module": "stock_material",
+  "kind": "mim",
+  "svg": "mimexpg1.svg",
+  "num": "1",
+  "ocr": "Elemental_geometric_shape_mim",
+  "ref": "Elemental_geometric_shape_mim.short_listing",
+  "score": 100,
+  "method": "schema->primary",
+  "flag": "convention"
+ },
+ {
+  "module": "stock_material",
+  "kind": "mim",
+  "svg": "mimexpg1.svg",
+  "num": "2",
+  "ocr": "Specification_document mim",
+  "ref": "Specification_document_mim.short_listing",
+  "score": 100,
+  "method": "schema->primary",
+  "flag": "convention"
+ },
+ {
+  "module": "stock_material",
+  "kind": "mim",
+  "svg": "mimexpg1.svg",
+  "num": "3",
+  "ocr": "Part_view_definition mim",
+  "ref": "Part_view_definition_mim.short_listing",
+  "score": 100,
+  "method": "schema->primary",
+  "flag": "convention"
+ },
+ {
+  "module": "stock_material",
+  "kind": "mim",
+  "svg": "mimexpg1.svg",
+  "num": "4",
+  "ocr": "Stock material mim",
+  "ref": "Stock_material_mim.short_listing",
+  "score": 100,
+  "method": "schema->primary",
+  "flag": "convention"
+ },
+ {
+  "module": "stock_material",
+  "kind": "mim",
+  "svg": "mimexpg1.svg",
+  "num": "5",
+  "ocr": "Generic material_aspects_mim",
+  "ref": "Generic_material_aspects_mim.short_listing",
+  "score": 100,
+  "method": "schema->primary",
+  "flag": "convention"
+ },
+ {
+  "module": "stock_material",
+  "kind": "mim",
+  "svg": "mimexpg1.svg",
+  "num": "6",
+  "ocr": "Approval_mim",
+  "ref": "Approval_mim.short_listing",
+  "score": 100,
+  "method": "schema->primary",
+  "flag": "convention"
+ },
+ {
+  "module": "stock_material",
+  "kind": "mim",
+  "svg": "mimexpg1.svg",
+  "num": "7",
+  "ocr": "product definition schema",
+  "ref": "product_definition_schema",
+  "score": 100,
+  "method": "schema->primary",
+  "flag": "convention"
+ },
+ {
+  "module": "stock_material",
+  "kind": "mim",
+  "svg": "mimexpg1.svg",
+  "num": "8",
+  "ocr": "product  structure schema",
+  "ref": "product_structure_schema",
+  "score": 100,
+  "method": "schema->primary",
+  "flag": "convention"
+ },
+ {
+  "module": "stock_material",
+  "kind": "mim",
+  "svg": "mimexpg2.svg",
+  "num": "1",
+  "ocr": "(EX)sm approval item",
+  "ref": "Stock_material_mim.sm_approval_item",
+  "score": 100,
+  "method": "exact-name-local-clean",
+  "flag": ""
+ },
+ {
+  "module": "stock_material",
+  "kind": "mim",
+  "svg": "mimexpg2.svg",
+  "num": "2",
+  "ocr": "product definition _schema.product defiition",
+  "ref": "product_definition_schema.product_definition",
+  "score": 96.96969696969697,
+  "method": "qualified-fuzzy",
+  "flag": "check"
+ },
+ {
+  "module": "stock_material",
+  "kind": "mim",
+  "svg": "mimexpg2.svg",
+  "num": "3",
+  "ocr": "Approval mim.approval item",
+  "ref": "Approval_mim.approval_item",
+  "score": 100,
+  "method": "qualified-verbatim",
+  "flag": ""
+ }
+]

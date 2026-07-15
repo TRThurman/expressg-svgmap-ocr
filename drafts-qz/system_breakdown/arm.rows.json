@@ -1,0 +1,178 @@
+[
+ {
+  "module": "system_breakdown",
+  "kind": "arm",
+  "svg": "armexpg1.svg",
+  "num": "1",
+  "ocr": "System_breakdown_arm",
+  "ref": "System_breakdown_arm.required_am_arms",
+  "score": 100,
+  "method": "schema->primary",
+  "flag": "convention"
+ },
+ {
+  "module": "system_breakdown",
+  "kind": "arm",
+  "svg": "armexpg1.svg",
+  "num": "2",
+  "ocr": "Product_breakdown_arm",
+  "ref": "Product_breakdown_arm.required_am_arms",
+  "score": 100,
+  "method": "schema->primary",
+  "flag": "convention"
+ },
+ {
+  "module": "system_breakdown",
+  "kind": "arm",
+  "svg": "armexpg2.svg",
+  "num": "1",
+  "ocr": "Product breakdown _arm.Breakdown",
+  "ref": "Product_breakdown_arm.Breakdown",
+  "score": 100,
+  "method": "qualified-verbatim",
+  "flag": ""
+ },
+ {
+  "module": "system_breakdown",
+  "kind": "arm",
+  "svg": "armexpg2.svg",
+  "num": "2",
+  "ocr": "Product breakdown arm.Breakdown_ element",
+  "ref": "Product_breakdown_arm.Breakdown_element",
+  "score": 100,
+  "method": "qualified-verbatim",
+  "flag": ""
+ },
+ {
+  "module": "system_breakdown",
+  "kind": "arm",
+  "svg": "armexpg2.svg",
+  "num": "3",
+  "ocr": "Product_breakdown_arm.Breakdown_element_ _version",
+  "ref": "Product_breakdown_arm.Breakdown_element_version",
+  "score": 100,
+  "method": "qualified-verbatim",
+  "flag": ""
+ },
+ {
+  "module": "system_breakdown",
+  "kind": "arm",
+  "svg": "armexpg2.svg",
+  "num": "4",
+  "ocr": "Product_ breakdown_arm.Breakdown_element _definition",
+  "ref": "Product_breakdown_arm.Breakdown_element_definition",
+  "score": 100,
+  "method": "qualified-verbatim",
+  "flag": ""
+ },
+ {
+  "module": "system_breakdown",
+  "kind": "arm",
+  "svg": "armexpg2.svg",
+  "num": "5",
+  "ocr": "Product breakdown arm.Breakdown context",
+  "ref": "Product_breakdown_arm.Breakdown_context",
+  "score": 100,
+  "method": "qualified-verbatim",
+  "flag": ""
+ },
+ {
+  "module": "system_breakdown",
+  "kind": "arm",
+  "svg": "armexpg2.svg",
+  "num": "6",
+  "ocr": "Product _breakdown_arm.Breakdown element usage",
+  "ref": "Product_breakdown_arm.Breakdown_element_usage",
+  "score": 100,
+  "method": "qualified-verbatim",
+  "flag": ""
+ },
+ {
+  "module": "system_breakdown",
+  "kind": "arm",
+  "svg": "armexpg2.svg",
+  "num": "7",
+  "ocr": "Product breakdown arm.Breakdown version",
+  "ref": "Product_breakdown_arm.Breakdown_version",
+  "score": 100,
+  "method": "qualified-verbatim",
+  "flag": ""
+ },
+ {
+  "module": "system_breakdown",
+  "kind": "arm",
+  "svg": "armexpg2.svg",
+  "num": "8",
+  "ocr": "System_breakdown",
+  "ref": "System_breakdown_arm.System_breakdown",
+  "score": 100,
+  "method": "exact-name-local-clean",
+  "flag": ""
+ },
+ {
+  "module": "system_breakdown",
+  "kind": "arm",
+  "svg": "armexpg2.svg",
+  "num": "9",
+  "ocr": "System_breakdown_context",
+  "ref": "System_breakdown_arm.System_breakdown_context",
+  "score": 100,
+  "method": "exact-name-local-clean",
+  "flag": ""
+ },
+ {
+  "module": "system_breakdown",
+  "kind": "arm",
+  "svg": "armexpg2.svg",
+  "num": "10",
+  "ocr": "System_breakdown_version",
+  "ref": "System_breakdown_arm.System_breakdown_version",
+  "score": 100,
+  "method": "exact-name-local-clean",
+  "flag": ""
+ },
+ {
+  "module": "system_breakdown",
+  "kind": "arm",
+  "svg": "armexpg2.svg",
+  "num": "11",
+  "ocr": "System_element",
+  "ref": "System_breakdown_arm.System_element",
+  "score": 100,
+  "method": "exact-name-local-clean",
+  "flag": ""
+ },
+ {
+  "module": "system_breakdown",
+  "kind": "arm",
+  "svg": "armexpg2.svg",
+  "num": "12",
+  "ocr": "System_element definition",
+  "ref": "System_breakdown_arm.System_element_definition",
+  "score": 100,
+  "method": "exact-name-local-clean",
+  "flag": ""
+ },
+ {
+  "module": "system_breakdown",
+  "kind": "arm",
+  "svg": "armexpg2.svg",
+  "num": "13",
+  "ocr": "System_element_usage",
+  "ref": "System_breakdown_arm.System_element_usage",
+  "score": 100,
+  "method": "exact-name-local-clean",
+  "flag": ""
+ },
+ {
+  "module": "system_breakdown",
+  "kind": "arm",
+  "svg": "armexpg2.svg",
+  "num": "14",
+  "ocr": "System_element_version",
+  "ref": "System_breakdown_arm.System_element_version",
+  "score": 100,
+  "method": "exact-name-local-clean",
+  "flag": ""
+ }
+]

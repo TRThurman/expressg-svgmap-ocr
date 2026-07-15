@@ -1,0 +1,39 @@
+(*"Schematic_element_mim.__expressg"
+[.svgmap]
+====
+image::mimexpg1.svg[]
+
+* <<express:Schematic_element_mim.short_listing>>; 1
+* <<express:aic_geometrically_bounded_2d_wireframe>>; 2
+* <<express:Foundation_representation_mim.short_listing>>; 3
+* <<express:Draughting_annotation_mim.short_listing>>; 4
+* <<express:Class_mim.short_listing>>; 5
+* <<express:Set_theory_mim.short_listing>>; 6
+* <<express:representation_schema>>; 7
+* <<express:presentation_organization_schema>>; 8
+* <<express:presentation_appearance_schema>>; 9
+====
+*)
+
+(*"Schematic_element_mim.__expressg"
+[.svgmap]
+====
+image::mimexpg2.svg[]
+
+* <<express:Schematic_element_mim.connection_of_schematic_element_occurrence>>; 1
+* <<express:Schematic_element_mim.composition_of_schematic_element_occurrence>>; 2
+* <<express:Schematic_element_mim.definition_of_schematic_element_occurrence>>; 3
+* <<express:Schematic_element_mim.usage_of_schematic_element_occurrence>>; 4
+* <<express:Schematic_element_mim.derivation_of_schematic_element_definition>>; 5
+* <<express:representation_schema.mapped_item>>; 6
+* <<express:Schematic_element_mim.schematic_element_occurrence>>; 7
+* <<express:Schematic_element_mim.explicit_schematic_element_definition>>; 8
+* <<express:Schematic_element_mim.implicit_schematic_element_definition>>; 9
+* <<express:Schematic_element_mim.schematic_element_definition>>; 10
+* <<express:Schematic_element_mim.schematic_element>>; 11
+* <<express:Schematic_element_mim.draughting_model>>; 12
+* <<express:UNRESOLVED>>; 13
+* <<express:Foundation_representation_mim.Representation>>; 14
+* <<express:presentation_organization_schema.presentation_representation>>; 15
+====
+*)

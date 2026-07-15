@@ -1,0 +1,82 @@
+(*"Surface_conditions_arm.__expressg"
+[.svgmap]
+====
+image::armexpg1.svg[]
+
+* <<express:Geometric_tolerance_arm.required_am_arms>>; 1
+* <<express:Value_with_unit_extension_arm.required_am_arms>>; 2
+* <<express:Part_view_definition_arm.required_am_arms>>; 3
+* <<express:Generic_material_aspects_arm.required_am_arms>>; 4
+* <<express:Surface_conditions_arm.required_am_arms>>; 5
+====
+*)
+
+(*"Surface_conditions_arm.__expressg"
+[.svgmap]
+====
+image::armexpg2.svg[]
+
+* <<express:Surface_conditions_arm.measuring_gauge_select>>; 1
+* <<express:Surface_conditions_arm.measure_qualification_or_value_with_unit>>; 2
+* <<express:Surface_conditions_arm.shaped_element_select>>; 3
+* <<express:Surface_conditions_arm.Surface_texture>>; 4
+* <<express:UNRESOLVED>>; 5
+* <<express:UNRESOLVED>>; 6
+* <<express:UNRESOLVED>>; 7
+* <<express:UNRESOLVED>>; 8
+* <<express:UNRESOLVED>>; 9
+* <<express:UNRESOLVED>>; 10
+* <<express:UNRESOLVED>>; 11
+* <<express:UNRESOLVED>>; 12
+* <<express:UNRESOLVED>>; 13
+* <<express:UNRESOLVED>>; 14
+* <<express:Value_with_unit_extension_arm.Angle_data_element>>; 15
+* <<express:Part_view_definition_arm.Part_view_definition>>; 16
+* <<express:UNRESOLVED>>; 17
+* <<express:UNRESOLVED>>; 18
+* <<express:UNRESOLVED>>; 19
+* <<express:UNRESOLVED>>; 20
+* <<express:UNRESOLVED>>; 21
+* <<express:Part_view_definition_arm.Part_view_definition>>; 22
+* <<express:Surface_conditions_arm.Tactile_appearance>>; 23
+* <<express:Surface_conditions_arm.Contact_ratio>>; 24
+* <<express:Surface_conditions_arm.Treatment_result>>; 25
+* <<express:Surface_conditions_arm.Hardness>>; 26
+* <<express:Surface_conditions_arm.Visual_appearance>>; 27
+* <<express:Surface_conditions_arm.Surface_condition>>; 28
+* <<express:Surface_conditions_arm.Extended_visual_appearance>>; 29
+====
+*)
+
+(*"Surface_conditions_arm.__expressg"
+[.svgmap]
+====
+image::armexpg3.svg[]
+
+* <<express:Geometric_tolerance_arm.gps_filtration_specification_target>>; 1
+* <<express:Surface_conditions_arm.sf_material_item_select>>; 2
+* <<express:Surface_conditions_arm.3>>; 3
+* <<express:UNRESOLVED>>; 4
+* <<express:UNRESOLVED>>; 5
+* <<express:Generic_material_aspects_arm.material_item_select>>; 6
+* <<express:Value_with_unit_extension_arm.Length_data_element>>; 7
+* <<express:UNRESOLVED>>; 8
+* <<express:Value_with_unit_extension_arm.Length_data_element>>; 9
+* <<express:Surface_conditions_arm.sc_additional_application_domain_enumeration>>; 10
+* <<express:UNRESOLVED>>; 11
+* <<express:Geometric_tolerance_arm.gps_filtration_specification_target>>; 12
+* <<express:Value_with_unit_extension_arm.Length_data_element>>; 13
+* <<express:Value_with_unit_extension_arm.Length_data_element>>; 14
+* <<express:UNRESOLVED>>; 15
+* <<express:Surface_conditions_arm.sc_additional_application_domain_enumeration>>; 16
+* <<express:Surface_conditions_arm.surface_texture_requirement_type>>; 17
+* <<express:Surface_conditions_arm.surface_texture_material_removal_condition_enumeration>>; 18
+* <<express:Surface_conditions_arm.surface_lay_and_orientation>>; 19
+* <<express:Surface_conditions_arm.surface_texture_characteristic_type>>; 20
+* <<express:Surface_conditions_arm.Surface_texture_parameter>>; 21
+* <<express:Surface_conditions_arm.Surface_texture>>; 22
+* <<express:Surface_conditions_arm.Standard_surface_texture_parameter>>; 23
+* <<express:Surface_conditions_arm.Coating_layer>>; 24
+* <<express:Surface_conditions_arm.User_defined_surface_texture_parameter>>; 25
+====
+*)

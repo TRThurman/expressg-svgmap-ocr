@@ -1,0 +1,28 @@
+(*"Schematic_drawing_mim.__expressg"
+[.svgmap]
+====
+image::mimexpg1.svg[]
+
+* <<express:Schematic_element_mim.short_listing>>; 1
+* <<express:Drawing_structure_and_administration_mim.short_listing>>; 2
+* <<express:Foundation_representation_mim.short_listing>>; 3
+* <<express:Schematic_drawing_mim.short_listing>>; 4
+====
+*)
+
+(*"Schematic_drawing_mim.__expressg"
+[.svgmap]
+====
+image::mimexpg2.svg[]
+
+* <<express:Schematic_element_mim.schematic_element_definition>>; 1
+* <<express:Drawing_structure_and_administration_mim.Drawing_sheet_revision>>; 2
+* <<express:Foundation_representation_mim.RepresentationRelationship>>; 3
+* <<express:Schematic_drawing_mim.intra_page_connector>>; 4
+* <<express:Schematic_drawing_mim.off_page_connector>>; 5
+* <<express:Schematic_drawing_mim.on_page_connector>>; 6
+* <<express:Schematic_drawing_mim.page_connector>>; 7
+* <<express:Schematic_drawing_mim.schematic_drawing>>; 8
+* <<express:Schematic_drawing_mim.reference_between_page_connectors>>; 9
+====
+*)

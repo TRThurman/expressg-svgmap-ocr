@@ -1,0 +1,37 @@
+(*"Shape_feature_mim.__expressg"
+[.svgmap]
+====
+image::mimexpg1.svg[]
+
+* <<express:product_property_definition_schema>>; 1
+* <<express:shape_aspect_definition_schema>>; 2
+* <<express:Contextual_shape_positioning_mim.short_listing>>; 3
+* <<express:Property_assignment_mim.short_listing>>; 4
+* <<express:machining_feature_schema>>; 5
+* <<express:product_property_representation_schema>>; 6
+* <<express:Characterizable_object_mim.short_listing>>; 7
+====
+*)
+
+(*"Shape_feature_mim.__expressg"
+[.svgmap]
+====
+image::mimexpg2.svg[]
+
+* <<express:product_property_definition_schema.shape_aspect>>; 1
+* <<express:support_resource_schema.text>>; 2
+* <<express:product_property_definition_schema.characterized_object_relationship>>; 3
+* <<express:support_resource_schema.text>>; 4
+* <<express:support_resource_schema.label>>; 5
+* <<express:support_resource_schema.label>>; 6
+* <<express:product_property_definition_schema.characterized_object>>; 7
+* <<express:product_property_definition_schema.shape_aspect_relationship>>; 8
+* <<express:product_property_definition_schema.characterized_object>>; 9
+* <<express:shape_aspect_definition_schema.feature_definition>>; 10
+* <<express:Shape_feature_mim.shape_feature_definition_element_relationship>>; 11
+* <<express:Shape_feature_mim.general_feature>>; 12
+* <<express:Shape_feature_mim.placed_feature>>; 13
+* <<express:Shape_feature_mim.shape_feature_definition>>; 14
+* <<express:Shape_feature_mim.shape_feature_definition_relationship>>; 15
+====
+*)

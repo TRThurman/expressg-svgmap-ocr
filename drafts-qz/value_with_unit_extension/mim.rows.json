@@ -1,0 +1,178 @@
+[
+ {
+  "module": "value_with_unit_extension",
+  "kind": "mim",
+  "svg": "mimexpg1.svg",
+  "num": "1",
+  "ocr": "measure schema",
+  "ref": "measure_schema",
+  "score": 100,
+  "method": "schema->primary",
+  "flag": "convention"
+ },
+ {
+  "module": "value_with_unit_extension",
+  "kind": "mim",
+  "svg": "mimexpg1.svg",
+  "num": "2",
+  "ocr": "Value_with _unit_extension mim",
+  "ref": "Value_with_unit_extension_mim.short_listing",
+  "score": 100,
+  "method": "schema->primary",
+  "flag": "convention"
+ },
+ {
+  "module": "value_with_unit_extension",
+  "kind": "mim",
+  "svg": "mimexpg1.svg",
+  "num": "3",
+  "ocr": "Value with _unit _mim",
+  "ref": "Value_with_unit_mim.short_listing",
+  "score": 100,
+  "method": "schema->primary",
+  "flag": "convention"
+ },
+ {
+  "module": "value_with_unit_extension",
+  "kind": "mim",
+  "svg": "mimexpg1.svg",
+  "num": "4",
+  "ocr": "iso13584 generic_expressions_schema",
+  "ref": "iso13584_generic_expressions_schema",
+  "score": 100,
+  "method": "schema->primary",
+  "flag": "convention"
+ },
+ {
+  "module": "value_with_unit_extension",
+  "kind": "mim",
+  "svg": "mimexpg1.svg",
+  "num": "5",
+  "ocr": "mathematical functions _schema",
+  "ref": "mathematical_functions_schema",
+  "score": 100,
+  "method": "schema->primary",
+  "flag": "convention"
+ },
+ {
+  "module": "value_with_unit_extension",
+  "kind": "mim",
+  "svg": "mimexpg2.svg",
+  "num": "1",
+  "ocr": "measure schema.ratio measure with unit",
+  "ref": "measure_schema.ratio_measure_with_unit",
+  "score": 100,
+  "method": "qualified-verbatim",
+  "flag": ""
+ },
+ {
+  "module": "value_with_unit_extension",
+  "kind": "mim",
+  "svg": "mimexpg2.svg",
+  "num": "2",
+  "ocr": "measure_schema.measure_ with_ unit",
+  "ref": "measure_schema.measure_with_unit",
+  "score": 100,
+  "method": "qualified-verbatim",
+  "flag": ""
+ },
+ {
+  "module": "value_with_unit_extension",
+  "kind": "mim",
+  "svg": "mimexpg2.svg",
+  "num": "3",
+  "ocr": "measure_schema.context_dependent :unit",
+  "ref": "measure_schema.context_dependent_unit",
+  "score": 100,
+  "method": "qualified-verbatim",
+  "flag": ""
+ },
+ {
+  "module": "value_with_unit_extension",
+  "kind": "mim",
+  "svg": "mimexpg2.svg",
+  "num": "4",
+  "ocr": "measure schema.derived unit",
+  "ref": "measure_schema.derived_unit",
+  "score": 100,
+  "method": "qualified-verbatim",
+  "flag": ""
+ },
+ {
+  "module": "value_with_unit_extension",
+  "kind": "mim",
+  "svg": "mimexpg2.svg",
+  "num": "5",
+  "ocr": "iso13584 generic _expressions _schema.variable semantics",
+  "ref": "iso13584_generic_expressions_schema.variable_semantics",
+  "score": 100,
+  "method": "qualified-verbatim",
+  "flag": ""
+ },
+ {
+  "module": "value_with_unit_extension",
+  "kind": "mim",
+  "svg": "mimexpg2.svg",
+  "num": "6",
+  "ocr": "iso13584 generic_expressions_schema.environment",
+  "ref": "iso13584_generic_expressions_schema.environment",
+  "score": 100,
+  "method": "qualified-verbatim",
+  "flag": ""
+ },
+ {
+  "module": "value_with_unit_extension",
+  "kind": "mim",
+  "svg": "mimexpg2.svg",
+  "num": "7",
+  "ocr": "expression_conversion_based_unit",
+  "ref": "Value_with_unit_extension_mim.expression_conversion_based_unit",
+  "score": 100,
+  "method": "exact-name-local-clean",
+  "flag": ""
+ },
+ {
+  "module": "value_with_unit_extension",
+  "kind": "mim",
+  "svg": "mimexpg2.svg",
+  "num": "8",
+  "ocr": "dielectric_constant measure_ with_unit",
+  "ref": "Value_with_unit_extension_mim.dielectric_constant_measure_with_unit",
+  "score": 100,
+  "method": "exact-name-local-clean",
+  "flag": ""
+ },
+ {
+  "module": "value_with_unit_extension",
+  "kind": "mim",
+  "svg": "mimexpg2.svg",
+  "num": "9",
+  "ocr": "*thermal_resistance_measure_with_unit",
+  "ref": "Value_with_unit_extension_mim.thermal_resistance_measure_with_unit",
+  "score": 100,
+  "method": "exact-name-local-clean",
+  "flag": ""
+ },
+ {
+  "module": "value_with_unit_extension",
+  "kind": "mim",
+  "svg": "mimexpg2.svg",
+  "num": "10",
+  "ocr": "*thermal resistance unit",
+  "ref": "Value_with_unit_extension_mim.thermal_resistance_unit",
+  "score": 100,
+  "method": "exact-name-local-clean",
+  "flag": ""
+ },
+ {
+  "module": "value_with_unit_extension",
+  "kind": "mim",
+  "svg": "mimexpg2.svg",
+  "num": "11",
+  "ocr": "loss_tangent_measure_with_unit",
+  "ref": "Value_with_unit_extension_mim.loss_tangent_measure_with_unit",
+  "score": 100,
+  "method": "exact-name-local-clean",
+  "flag": ""
+ }
+]

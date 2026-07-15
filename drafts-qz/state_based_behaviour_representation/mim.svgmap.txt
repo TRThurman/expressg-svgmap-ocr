@@ -1,0 +1,10 @@
+(*"State_based_behaviour_representation_mim.__expressg"
+[.svgmap]
+====
+image::mimexpg1.svg[]
+
+* <<express:Foundation_representation_mim.short_listing>>; 1
+* <<express:Foundation_state_definition_mim.short_listing>>; 2
+* <<express:systems_engineering_representation_schema>>; 3
+====
+*)

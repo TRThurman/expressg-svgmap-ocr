@@ -1,0 +1,38 @@
+(*"Requirement_management_arm.__expressg"
+[.svgmap]
+====
+image::armexpg1.svg[]
+
+* <<express:Requirement_management_arm.required_am_arms>>; 1
+* <<express:Classification_assignment_arm.required_am_arms>>; 2
+* <<express:Collection_identification_and_version_arm.required_am_arms>>; 3
+* <<express:Document_assignment_arm.required_am_arms>>; 4
+* <<express:Document_properties_arm.required_am_arms>>; 5
+* <<express:Effectivity_application_arm.required_am_arms>>; 6
+* <<express:Identification_relationship_arm.required_am_arms>>; 7
+* <<express:Information_rights_arm.required_am_arms>>; 8
+* <<express:Property_as_definition_arm.required_am_arms>>; 9
+* <<express:Requirement_assignment_arm.required_am_arms>>; 10
+* <<express:Requirement_view_definition_relationship_arm.required_am_arms>>; 11
+====
+*)
+
+(*"Requirement_management_arm.__expressg"
+[.svgmap]
+====
+image::armexpg2.svg[]
+
+* <<express:Collection_identification_and_version_arm.Collection_version>>; 1
+* <<express:Document_and_version_identification_arm.Document_version>>; 2
+* <<express:Foundation_representation_arm.Representation_item>>; 3
+* <<express:Requirement_management_arm.requirement_representation_proxy_select>>; 4
+* <<express:Requirement_management_arm.Representation_proxy_item>>; 5
+====
+*)
+
+(*"Requirement_management_arm.__expressg"
+[.svgmap]
+====
+image::armexpg3.svg[]
+====
+*)

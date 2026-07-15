@@ -1,0 +1,30 @@
+(*"Selected_item_mim.__expressg"
+[.svgmap]
+====
+image::mimexpg1.svg[]
+
+* <<express:Selected_item_mim.short_listing>>; 1
+* <<express:Classification_assignment_mim.short_listing>>; 2
+* <<express:management_resources_schema>>; 3
+====
+*)
+
+(*"Selected_item_mim.__expressg"
+[.svgmap]
+====
+image::mimexpg2.svg[]
+
+* <<express:classification_schema.class>>; 1
+* <<express:Classification_assignment_mim.applied_classification_assignment>>; 2
+* <<express:group_schema.group>>; 3
+* <<express:Classification_assignment_mim.classification_item>>; 4
+* <<express:management_resources_schema.group_assignment>>; 5
+* <<express:Selected_item_mim.selected_item_context_items>>; 6
+* <<express:Selected_item_mim.selected_item_select>>; 7
+* <<express:Selected_item_mim.selected_item>>; 8
+* <<express:Selected_item_mim.selected_item_assignment>>; 9
+* <<express:Selected_item_mim.selected_items_assignment_in_context_group>>; 10
+* <<express:Selected_item_mim.selected_items_context_group>>; 11
+* <<express:Selected_item_mim.selected_items_context_group_to_context>>; 12
+====
+*)

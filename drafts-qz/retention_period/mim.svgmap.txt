@@ -1,0 +1,22 @@
+(*"Retention_period_mim.__expressg"
+[.svgmap]
+====
+image::mimexpg1.svg[]
+
+* <<express:Retention_period_mim.short_listing>>; 1
+* <<express:Time_interval_assignment_mim.short_listing>>; 2
+* <<express:Value_with_unit_mim.short_listing>>; 3
+* <<express:Activity_mim.short_listing>>; 4
+* <<express:Event_assignment_mim.short_listing>>; 5
+====
+*)
+
+(*"Retention_period_mim.__expressg"
+[.svgmap]
+====
+image::mimexpg2.svg[]
+
+* <<express:action_schema.action>>; 1
+* <<express:Retention_period_mim.retention>>; 2
+====
+*)

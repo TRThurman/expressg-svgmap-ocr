@@ -1,0 +1,29 @@
+(*"Resource_as_realized_mim.__expressg"
+[.svgmap]
+====
+image::mimexpg1.svg[]
+
+* <<express:Resource_as_realized_mim.short_listing>>; 1
+* <<express:Required_resource_mim.short_listing>>; 2
+* <<express:Resource_management_mim.short_listing>>; 3
+* <<express:action_schema>>; 4
+* <<express:Classification_assignment_mim.short_listing>>; 5
+* <<express:Resource_item_mim.short_listing>>; 6
+* <<express:Value_with_unit_mim.short_listing>>; 7
+* <<express:Activity_method_assignment_mim.short_listing>>; 8
+====
+*)
+
+(*"Resource_as_realized_mim.__expressg"
+[.svgmap]
+====
+image::mimexpg2.svg[]
+
+* <<express:action_schema.action_resource>>; 1
+* <<express:action_schema.action_resource_relationship>>; 2
+* <<express:action_schema.action_method>>; 3
+* <<express:action_schema.supported_item>>; 4
+* <<express:Classification_assignment_mim.classification_item>>; 5
+* <<express:Resource_as_realized_mim.resource_as_realized_classification_item>>; 6
+====
+*)

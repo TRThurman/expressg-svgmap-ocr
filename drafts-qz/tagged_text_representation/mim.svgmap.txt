@@ -1,0 +1,32 @@
+(*"Tagged_text_representation_mim.__expressg"
+[.svgmap]
+====
+image::mimexpg1.svg[]
+
+* <<express:Tagged_text_representation_mim.short_listing>>; 1
+* <<express:Foundation_representation_mim.short_listing>>; 2
+* <<express:representation_schema>>; 3
+====
+*)
+
+(*"Tagged_text_representation_mim.__expressg"
+[.svgmap]
+====
+image::mimexpg2.svg[]
+
+* <<express:Tagged_text_representation_mim.string_representation_item_select>>; 1
+* <<express:representation_schema.mapped_item>>; 2
+* <<express:representation_schema.compound_representation_item>>; 3
+* <<express:representation_schema.representation_context>>; 4
+* <<express:qualified_measure_schema.descriptive_representation_item>>; 5
+* <<express:qualified_measure_schema.descriptive_representation_item>>; 6
+* <<express:representation_schema.representation>>; 7
+* <<express:Tagged_text_representation_mim.tagged_text_format>>; 8
+* <<express:Tagged_text_representation_mim.structured_text_composition>>; 9
+* <<express:Tagged_text_representation_mim.included_text_block>>; 10
+* <<express:Tagged_text_representation_mim.tagged_text_item>>; 11
+* <<express:Tagged_text_representation_mim.uniform_resource_identifier>>; 12
+* <<express:Tagged_text_representation_mim.structured_text_representation>>; 13
+* <<express:Tagged_text_representation_mim.ttr_descriptive_representation_item_subtypes>>; 14
+====
+*)

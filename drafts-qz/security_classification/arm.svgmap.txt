@@ -1,0 +1,19 @@
+(*"Security_classification_arm.__expressg"
+[.svgmap]
+====
+image::armexpg1.svg[]
+
+* <<express:Security_classification_arm.required_am_arms>>; 1
+====
+*)
+
+(*"Security_classification_arm.__expressg"
+[.svgmap]
+====
+image::armexpg2.svg[]
+
+* <<express:Security_classification_arm.security_classification_item>>; 1
+* <<express:Security_classification_arm.Security_classification_assignment>>; 2
+* <<express:Security_classification_arm.Security_classification>>; 3
+====
+*)

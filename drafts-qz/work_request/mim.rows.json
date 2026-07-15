@@ -1,0 +1,79 @@
+[
+ {
+  "module": "work_request",
+  "kind": "mim",
+  "svg": "mimexpg1.svg",
+  "num": "1",
+  "ocr": "Work_request_mim",
+  "ref": "Work_request_mim.short_listing",
+  "score": 100,
+  "method": "schema->primary",
+  "flag": "convention"
+ },
+ {
+  "module": "work_request",
+  "kind": "mim",
+  "svg": "mimexpg1.svg",
+  "num": "2",
+  "ocr": "management_resources schema",
+  "ref": "management_resources_schema",
+  "score": 100,
+  "method": "schema->primary",
+  "flag": "convention"
+ },
+ {
+  "module": "work_request",
+  "kind": "mim",
+  "svg": "mimexpg1.svg",
+  "num": "3",
+  "ocr": "action schema",
+  "ref": "action_schema",
+  "score": 100,
+  "method": "schema->primary",
+  "flag": "convention"
+ },
+ {
+  "module": "work_request",
+  "kind": "mim",
+  "svg": "mimexpg1.svg",
+  "num": "4",
+  "ocr": "Activity method_mim",
+  "ref": "Activity_method_mim.short_listing",
+  "score": 100,
+  "method": "schema->primary",
+  "flag": "convention"
+ },
+ {
+  "module": "work_request",
+  "kind": "mim",
+  "svg": "mimexpg2.svg",
+  "num": "1",
+  "ocr": "(EX) action_request_item",
+  "ref": "Work_request_mim.action_request_item",
+  "score": 100,
+  "method": "exact-name-local-clean",
+  "flag": ""
+ },
+ {
+  "module": "work_request",
+  "kind": "mim",
+  "svg": "mimexpg2.svg",
+  "num": "2",
+  "ocr": "management resources_schema.action_request assigment",
+  "ref": "management_resources_schema.action_request_assignment",
+  "score": 97.77777777777777,
+  "method": "qualified-fuzzy",
+  "flag": "check"
+ },
+ {
+  "module": "work_request",
+  "kind": "mim",
+  "svg": "mimexpg2.svg",
+  "num": "3",
+  "ocr": "applied_action_request_assignment",
+  "ref": "Work_request_mim.applied_action_request_assignment",
+  "score": 100,
+  "method": "exact-name-local-clean",
+  "flag": ""
+ }
+]

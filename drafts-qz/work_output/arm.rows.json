@@ -1,0 +1,134 @@
+[
+ {
+  "module": "work_output",
+  "kind": "arm",
+  "svg": "armexpg1.svg",
+  "num": "1",
+  "ocr": "Work output arm",
+  "ref": "Work_output_arm.required_am_arms",
+  "score": 100,
+  "method": "schema->primary",
+  "flag": "convention"
+ },
+ {
+  "module": "work_output",
+  "kind": "arm",
+  "svg": "armexpg1.svg",
+  "num": "2",
+  "ocr": "Classification_ _assignment arm",
+  "ref": "Classification_assignment_arm.required_am_arms",
+  "score": 100,
+  "method": "schema->primary",
+  "flag": "convention"
+ },
+ {
+  "module": "work_output",
+  "kind": "arm",
+  "svg": "armexpg1.svg",
+  "num": "3",
+  "ocr": "Value with unit arm",
+  "ref": "Value_with_unit_arm.required_am_arms",
+  "score": 100,
+  "method": "schema->primary",
+  "flag": "convention"
+ },
+ {
+  "module": "work_output",
+  "kind": "arm",
+  "svg": "armexpg1.svg",
+  "num": "4",
+  "ocr": "Activity_method_assignment_arm",
+  "ref": "Activity_method_assignment_arm.required_am_arms",
+  "score": 100,
+  "method": "schema->primary",
+  "flag": "convention"
+ },
+ {
+  "module": "work_output",
+  "kind": "arm",
+  "svg": "armexpg2.svg",
+  "num": "1",
+  "ocr": "Classification_assignment_arm.classification_item",
+  "ref": "Classification_assignment_arm.classification_item",
+  "score": 100,
+  "method": "qualified-verbatim",
+  "flag": ""
+ },
+ {
+  "module": "work_output",
+  "kind": "arm",
+  "svg": "armexpg2.svg",
+  "num": "2",
+  "ocr": "Value with unit arm.Value with unit",
+  "ref": "Value_with_unit_arm.Value_with_unit",
+  "score": 100,
+  "method": "qualified-verbatim",
+  "flag": ""
+ },
+ {
+  "module": "work_output",
+  "kind": "arm",
+  "svg": "armexpg2.svg",
+  "num": "3",
+  "ocr": "(EX) *work item",
+  "ref": "Work_output_arm.work_item",
+  "score": 100,
+  "method": "exact-name-local-clean",
+  "flag": ""
+ },
+ {
+  "module": "work_output",
+  "kind": "arm",
+  "svg": "armexpg2.svg",
+  "num": "4",
+  "ocr": "(EX) *work_output classification_item",
+  "ref": "Work_output_arm.work_output_classification_item",
+  "score": 100,
+  "method": "exact-name-local-clean",
+  "flag": ""
+ },
+ {
+  "module": "work_output",
+  "kind": "arm",
+  "svg": "armexpg2.svg",
+  "num": "5",
+  "ocr": "(EX) *work_output_item",
+  "ref": "Work_output_arm.work_output_item",
+  "score": 100,
+  "method": "exact-name-local-clean",
+  "flag": ""
+ },
+ {
+  "module": "work_output",
+  "kind": "arm",
+  "svg": "armexpg2.svg",
+  "num": "6",
+  "ocr": "Work_output",
+  "ref": "Work_output_arm.Work_output",
+  "score": 100,
+  "method": "exact-name-local-clean",
+  "flag": ""
+ },
+ {
+  "module": "work_output",
+  "kind": "arm",
+  "svg": "armexpg2.svg",
+  "num": "7",
+  "ocr": "Work_output_assignment",
+  "ref": "Work_output_arm.Work_output_assignment",
+  "score": 100,
+  "method": "exact-name-local-clean",
+  "flag": ""
+ },
+ {
+  "module": "work_output",
+  "kind": "arm",
+  "svg": "armexpg2.svg",
+  "num": "8",
+  "ocr": "Work output relationship",
+  "ref": "Work_output_arm.Work_output_relationship",
+  "score": 100,
+  "method": "exact-name-local-clean",
+  "flag": ""
+ }
+]

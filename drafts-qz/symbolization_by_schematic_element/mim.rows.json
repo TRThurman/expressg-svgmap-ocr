@@ -1,0 +1,167 @@
+[
+ {
+  "module": "symbolization_by_schematic_element",
+  "kind": "mim",
+  "svg": "mimexpg1.svg",
+  "num": "1",
+  "ocr": "symbolization_by_schematic_elemnent_mim",
+  "ref": "Symbolization_by_schematic_element_mim.short_listing",
+  "score": 93.15068493150685,
+  "method": "fuzzy-local-schema",
+  "flag": "check"
+ },
+ {
+  "module": "symbolization_by_schematic_element",
+  "kind": "mim",
+  "svg": "mimexpg1.svg",
+  "num": "2",
+  "ocr": "class_mim",
+  "ref": "Class_mim.short_listing",
+  "score": 100,
+  "method": "schema->primary",
+  "flag": "convention"
+ },
+ {
+  "module": "symbolization_by_schematic_element",
+  "kind": "mim",
+  "svg": "mimexpg1.svg",
+  "num": "3",
+  "ocr": "schematic elenent mim",
+  "ref": "Schematic_element_mim.short_listing",
+  "score": 90.0,
+  "method": "fuzzy-local-schema",
+  "flag": "check"
+ },
+ {
+  "module": "symbolization_by_schematic_element",
+  "kind": "mim",
+  "svg": "mimexpg1.svg",
+  "num": "4",
+  "ocr": "presentation_organization_sch ena",
+  "ref": "presentation_organization_schema.area_in_set",
+  "score": 79.45205479452055,
+  "method": "fuzzy-local-concat",
+  "flag": "check"
+ },
+ {
+  "module": "symbolization_by_schematic_element",
+  "kind": "mim",
+  "svg": "mimexpg2.svg",
+  "num": "1",
+  "ocr": "schenatic elenent mim. schematic_element",
+  "ref": "Schematic_element_mim.schematic_element",
+  "score": 90.41095890410959,
+  "method": "fuzzy-local-concat",
+  "flag": "check"
+ },
+ {
+  "module": "symbolization_by_schematic_element",
+  "kind": "mim",
+  "svg": "mimexpg2.svg",
+  "num": "2",
+  "ocr": "schenatic elenent mim. schematic element definition",
+  "ref": "Schematic_element_mim.schematic_element_definition",
+  "score": 91.48936170212765,
+  "method": "fuzzy-local-concat",
+  "flag": "check"
+ },
+ {
+  "module": "symbolization_by_schematic_element",
+  "kind": "mim",
+  "svg": "mimexpg2.svg",
+  "num": "3",
+  "ocr": "Class arm. Class",
+  "ref": "Class_arm.Class",
+  "score": 100,
+  "method": "qualified-verbatim",
+  "flag": ""
+ },
+ {
+  "module": "symbolization_by_schematic_element",
+  "kind": "mim",
+  "svg": "mimexpg2.svg",
+  "num": "4",
+  "ocr": "symbolization_by_schematic_element",
+  "ref": "Symbolization_by_schematic_element_mim.symbolization_by_schematic_element",
+  "score": 100,
+  "method": "exact-name-local-clean",
+  "flag": ""
+ },
+ {
+  "module": "symbolization_by_schematic_element",
+  "kind": "mim",
+  "svg": "mimexpg2.svg",
+  "num": "5",
+  "ocr": "symbolization_of_menber _or_subclass by_schematic_element",
+  "ref": "Symbolization_by_schematic_element_mim.symbolization_of_member_or_subclass_by_schematic_element",
+  "score": 91.42857142857143,
+  "method": "fuzzy-local-name",
+  "flag": "check"
+ },
+ {
+  "module": "symbolization_by_schematic_element",
+  "kind": "mim",
+  "svg": "mimexpg2.svg",
+  "num": "6",
+  "ocr": "symbolized_iten",
+  "ref": "Symbolization_by_schematic_element_mim.symbolized_item",
+  "score": 89.65517241379311,
+  "method": "fuzzy-local-name",
+  "flag": "check"
+ },
+ {
+  "module": "symbolization_by_schematic_element",
+  "kind": "mim",
+  "svg": "mimexpg2.svg",
+  "num": "7",
+  "ocr": "(EX) symbolized_iten_seect",
+  "ref": "Symbolization_by_schematic_element_mim.symbolized_item_select",
+  "score": 87.8048780487805,
+  "method": "fuzzy-local-name",
+  "flag": "check"
+ },
+ {
+  "module": "symbolization_by_schematic_element",
+  "kind": "mim",
+  "svg": "mimexpg2.svg",
+  "num": "8",
+  "ocr": "symbolized_class",
+  "ref": "Symbolization_by_schematic_element_mim.symbolized_class",
+  "score": 100,
+  "method": "exact-name-local-clean",
+  "flag": ""
+ },
+ {
+  "module": "symbolization_by_schematic_element",
+  "kind": "mim",
+  "svg": "mimexpg2.svg",
+  "num": "9",
+  "ocr": "(EX) symbolized_class_select",
+  "ref": "Symbolization_by_schematic_element_mim.symbolized_class_select",
+  "score": 100,
+  "method": "exact-name-local-clean",
+  "flag": ""
+ },
+ {
+  "module": "symbolization_by_schematic_element",
+  "kind": "mim",
+  "svg": "mimexpg2.svg",
+  "num": "10",
+  "ocr": "presentation_organization_scherna. presented_item_representation",
+  "ref": "presentation_organization_schema.presented_item_representation",
+  "score": 94.11764705882352,
+  "method": "fuzzy-local-concat",
+  "flag": "check"
+ },
+ {
+  "module": "symbolization_by_schematic_element",
+  "kind": "mim",
+  "svg": "mimexpg2.svg",
+  "num": "11",
+  "ocr": "presentation organization_schena. presented itern",
+  "ref": "presentation_organization_schema.presented_item",
+  "score": 91.11111111111111,
+  "method": "fuzzy-local-concat",
+  "flag": "check"
+ }
+]

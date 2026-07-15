@@ -1,0 +1,32 @@
+(*"Surface_visual_texture_arm.__expressg"
+[.svgmap]
+====
+image::armexpg1.svg[]
+
+* <<express:Surface_visual_texture_arm.required_am_arms>>; 1
+* <<express:Support_resource_arm.required_am_arms>>; 2
+* <<express:Tessellated_geometry_arm.required_am_arms>>; 3
+* <<express:Appearance_assignment_arm.required_am_arms>>; 4
+====
+*)
+
+(*"Surface_visual_texture_arm.__expressg"
+[.svgmap]
+====
+image::armexpg2.svg[]
+
+* <<express:Surface_visual_texture_arm.svt_appearance_select>>; 1
+* <<express:Surface_visual_texture_arm.tessellated_face_or_tessellated_surface_set>>; 2
+* <<express:Appearance_assignment_arm.Styled_element>>; 3
+* <<express:Tessellated_geometry_arm.Tessellated_surface_set>>; 4
+* <<express:Support_resource_arm.label>>; 5
+* <<express:Appearance_assignment_arm.Appearance_assignment>>; 6
+* <<express:Tessellated_geometry_arm.Tessellated_face>>; 7
+* <<express:Appearance_assignment_arm.appearance_select>>; 8
+* <<express:Surface_visual_texture_arm.visual_texture_file_type>>; 9
+* <<express:Surface_visual_texture_arm.Texture_style_tessellation_specification>>; 10
+* <<express:Surface_visual_texture_arm.Single_texture_style_tessellation_specification>>; 11
+* <<express:Surface_visual_texture_arm.Styled_tessellated_face_or_surface_with_texture>>; 12
+* <<express:Surface_visual_texture_arm.non_negative_real>>; 13
+====
+*)

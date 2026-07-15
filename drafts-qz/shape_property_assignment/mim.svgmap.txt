@@ -1,0 +1,17 @@
+(*"Shape_property_assignment_mim.__expressg"
+[.svgmap]
+====
+image::mimexpg1.svg[]
+
+* <<express:product_property_definition_schema>>; 1
+* <<express:Assembly_structure_mim.short_listing>>; 2
+* <<express:Geometric_model_relationship_mim.short_listing>>; 3
+* <<express:External_model_mim.short_listing>>; 4
+* <<express:basic_attribute_schema>>; 5
+* <<express:Product_view_definition_relationship_mim.short_listing>>; 6
+* <<express:product_property_representation_schema>>; 7
+* <<express:Property_assignment_mim.short_listing>>; 8
+* <<express:shape_dimension_schema>>; 9
+* <<express:shape_tolerance_schema>>; 10
+====
+*)

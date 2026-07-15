@@ -1,0 +1,17 @@
+(*"Tessellated_geometry_mim.__expressg"
+[.svgmap]
+====
+image::mimexpg1.svg[]
+
+* <<express:Basic_geometric_topology_mim.short_listing>>; 1
+* <<express:geometric_model_schema>>; 2
+* <<express:Draughting_element_mim.short_listing>>; 3
+* <<express:representation_schema>>; 4
+* <<express:Elemental_topology_mim.short_listing>>; 5
+* <<express:Advanced_boundary_representation_mim.short_listing>>; 6
+* <<express:draughting_element_schema>>; 7
+* <<express:Basic_geometry_mim.short_listing>>; 8
+* <<express:Elemental_geometric_shape_mim.short_listing>>; 9
+* <<express:Basic_curve_mim.short_listing>>; 10
+====
+*)

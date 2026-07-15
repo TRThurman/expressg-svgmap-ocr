@@ -1,0 +1,13 @@
+(*"Solid_with_local_modification_mim.__expressg"
+[.svgmap]
+====
+image::mimexpg1.svg[]
+
+* <<express:topology_schema>>; 1
+* <<express:Procedural_solid_model_mim.short_listing>>; 2
+* <<express:solid_shape_element_schema>>; 3
+* <<express:Topologically_bounded_surface_mim.short_listing>>; 4
+* <<express:Basic_geometric_topology_mim.short_listing>>; 5
+* <<express:geometric_model_schema>>; 6
+====
+*)

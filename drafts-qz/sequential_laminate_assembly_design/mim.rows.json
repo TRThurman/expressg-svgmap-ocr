@@ -1,0 +1,211 @@
+[
+ {
+  "module": "sequential_laminate_assembly_design",
+  "kind": "mim",
+  "svg": "mimexpg1.svg",
+  "num": "1",
+  "ocr": "Layered_interconnect_module_design_mim",
+  "ref": "Layered_interconnect_module_design_mim.short_listing",
+  "score": 100,
+  "method": "schema->primary",
+  "flag": "convention"
+ },
+ {
+  "module": "sequential_laminate_assembly_design",
+  "kind": "mim",
+  "svg": "mimexpg1.svg",
+  "num": "2",
+  "ocr": "Sequential laminate _assembly_design_mim",
+  "ref": "Sequential_laminate_assembly_design_mim.short_listing",
+  "score": 100,
+  "method": "schema->primary",
+  "flag": "convention"
+ },
+ {
+  "module": "sequential_laminate_assembly_design",
+  "kind": "mim",
+  "svg": "mimexpg2.svg",
+  "num": "1",
+  "ocr": "slad groupable item",
+  "ref": "Sequential_laminate_assembly_design_mim.slad_groupable_item",
+  "score": 100,
+  "method": "exact-name-local-clean",
+  "flag": ""
+ },
+ {
+  "module": "sequential_laminate_assembly_design",
+  "kind": "mim",
+  "svg": "mimexpg2.svg",
+  "num": "2",
+  "ocr": "(EX) slad_requirement_assigned_item",
+  "ref": "Sequential_laminate_assembly_design_mim.slad_requirement_assigned_item",
+  "score": 100,
+  "method": "exact-name-local-clean",
+  "flag": ""
+ },
+ {
+  "module": "sequential_laminate_assembly_design",
+  "kind": "mim",
+  "svg": "mimexpg2.svg",
+  "num": "3",
+  "ocr": "Requirement_assignment mim.requirement_assigned_item",
+  "ref": "Requirement_assignment_mim.requirement_assigned_item",
+  "score": 100,
+  "method": "qualified-verbatim",
+  "flag": ""
+ },
+ {
+  "module": "sequential_laminate_assembly_design",
+  "kind": "mim",
+  "svg": "mimexpg2.svg",
+  "num": "4",
+  "ocr": "Interconnect module_usage_view mim.interconnect_module_terminal",
+  "ref": "Interconnect_module_usage_view_mim.interconnect_module_terminal",
+  "score": 100,
+  "method": "qualified-verbatim",
+  "flag": ""
+ },
+ {
+  "module": "sequential_laminate_assembly_design",
+  "kind": "mim",
+  "svg": "mimexpg2.svg",
+  "num": "5",
+  "ocr": "structure_schema.assembly_component_usage product",
+  "ref": null,
+  "score": 0,
+  "method": "no-match",
+  "flag": "UNRESOLVED"
+ },
+ {
+  "module": "sequential_laminate_assembly_design",
+  "kind": "mim",
+  "svg": "mimexpg2.svg",
+  "num": "6",
+  "ocr": "group schema.group relationship",
+  "ref": "group_schema.group_relationship",
+  "score": 100,
+  "method": "qualified-verbatim",
+  "flag": ""
+ },
+ {
+  "module": "sequential_laminate_assembly_design",
+  "kind": "mim",
+  "svg": "mimexpg2.svg",
+  "num": "7",
+  "ocr": "product definition_schema.product definition",
+  "ref": "product_definition_schema.product_definition",
+  "score": 100,
+  "method": "qualified-verbatim",
+  "flag": ""
+ },
+ {
+  "module": "sequential_laminate_assembly_design",
+  "kind": "mim",
+  "svg": "mimexpg2.svg",
+  "num": "8",
+  "ocr": "structure_schema.assembly_component_usage product",
+  "ref": null,
+  "score": 0,
+  "method": "no-match",
+  "flag": "UNRESOLVED"
+ },
+ {
+  "module": "sequential_laminate_assembly_design",
+  "kind": "mim",
+  "svg": "mimexpg2.svg",
+  "num": "9",
+  "ocr": "material property_definition_schema.property_definition_relationship",
+  "ref": "material_property_definition_schema.property_definition_relationship",
+  "score": 100,
+  "method": "qualified-verbatim",
+  "flag": ""
+ },
+ {
+  "module": "sequential_laminate_assembly_design",
+  "kind": "mim",
+  "svg": "mimexpg2.svg",
+  "num": "10",
+  "ocr": "Group mim.groupable item",
+  "ref": "Group_mim.groupable_item",
+  "score": 100,
+  "method": "qualified-verbatim",
+  "flag": ""
+ },
+ {
+  "module": "sequential_laminate_assembly_design",
+  "kind": "mim",
+  "svg": "mimexpg2.svg",
+  "num": "11",
+  "ocr": "Assembly_ component mim.physical component",
+  "ref": "Assembly_component_mim.physical_component",
+  "score": 100,
+  "method": "qualified-verbatim",
+  "flag": ""
+ },
+ {
+  "module": "sequential_laminate_assembly_design",
+  "kind": "mim",
+  "svg": "mimexpg2.svg",
+  "num": "12",
+  "ocr": "product property_ definition _schema.shape aspect",
+  "ref": "product_property_definition_schema.shape_aspect",
+  "score": 100,
+  "method": "qualified-verbatim",
+  "flag": ""
+ },
+ {
+  "module": "sequential_laminate_assembly_design",
+  "kind": "mim",
+  "svg": "mimexpg2.svg",
+  "num": "13",
+  "ocr": "sequential_laminate_stackup_definition",
+  "ref": "Sequential_laminate_assembly_design_mim.sequential_laminate_stackup_definition",
+  "score": 100,
+  "method": "exact-name-local-clean",
+  "flag": ""
+ },
+ {
+  "module": "sequential_laminate_assembly_design",
+  "kind": "mim",
+  "svg": "mimexpg2.svg",
+  "num": "14",
+  "ocr": "interconnect module_stratum _based_terminal",
+  "ref": "Sequential_laminate_assembly_design_mim.interconnect_module_stratum_based_terminal",
+  "score": 100,
+  "method": "exact-name-local-clean",
+  "flag": ""
+ },
+ {
+  "module": "sequential_laminate_assembly_design",
+  "kind": "mim",
+  "svg": "mimexpg2.svg",
+  "num": "15",
+  "ocr": "sequential_laminate_stackup_component",
+  "ref": "Sequential_laminate_assembly_design_mim.sequential_laminate_stackup_component",
+  "score": 100,
+  "method": "exact-name-local-clean",
+  "flag": ""
+ },
+ {
+  "module": "sequential_laminate_assembly_design",
+  "kind": "mim",
+  "svg": "mimexpg2.svg",
+  "num": "16",
+  "ocr": "sequential_laminate_passage_based_fabrication_joint",
+  "ref": "Sequential_laminate_assembly_design_mim.sequential_laminate_passage_based_fabrication_joint",
+  "score": 100,
+  "method": "exact-name-local-clean",
+  "flag": ""
+ },
+ {
+  "module": "sequential_laminate_assembly_design",
+  "kind": "mim",
+  "svg": "mimexpg2.svg",
+  "num": "17",
+  "ocr": "derived_laminate_assignment",
+  "ref": "Sequential_laminate_assembly_design_mim.derived_laminate_assignment",
+  "score": 100,
+  "method": "exact-name-local-clean",
+  "flag": ""
+ }
+]

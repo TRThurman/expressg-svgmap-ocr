@@ -1,0 +1,123 @@
+(*"Reference_schema_for_sysml_mapping_arm.__expressg"
+[.svgmap]
+====
+image::armexpg1.svg[]
+
+* <<express:Ap239_product_life_cycle_support_arm.required_am_arms>>; 1
+* <<express:Reference_schema_for_sysml_mapping_arm.required_am_arms>>; 2
+* <<express:Ap242_managed_model_based_3d_engineering_arm.required_am_arms>>; 3
+====
+*)
+
+(*"Reference_schema_for_sysml_mapping_arm.__expressg"
+[.svgmap]
+====
+image::armexpg2.svg[]
+
+* <<express:Reference_schema_for_sysml_mapping_arm.assignment_object_proxy>>; 1
+* <<express:Reference_schema_for_sysml_mapping_arm.relationship_object_proxy>>; 2
+* <<express:Reference_schema_for_sysml_mapping_arm.association_object_proxy>>; 3
+* <<express:Kinematic_motion_representation_arm.Product_structure_link_motion_association>>; 4
+* <<express:Process_plan_arm.Process_operation_definition_relationship>>; 5
+* <<express:Draughting_element_arm.Draughting_callout_relationship>>; 6
+* <<express:UNRESOLVED>>; 7
+* <<express:General_design_connectivity_arm.Part_feature_fit_relationship>>; 8
+* <<express:Work_request_arm.Work_request_relationship>>; 9
+* <<express:Observation_arm.Observation_relationship>>; 10
+* <<express:Product_class_arm.Product_class_relationship>>; 11
+* <<express:Geometric_model_relationship_arm.Definitional_representation_relationship>>; 12
+* <<express:Process_plan_arm.Process_operation_resource_assignment>>; 13
+* <<express:Generic_material_aspects_arm.Material_property_association>>; 14
+* <<express:Shape_property_assignment_arm.Shape_element_relationship>>; 15
+* <<express:UNRESOLVED>>; 16
+* <<express:Part_shape_arm.Part_shape_element_relationship>>; 17
+* <<express:Mating_structure_arm.Mated_assembly_occurrence_relationship>>; 18
+* <<express:Independent_property_arm.Independent_property_relationship>>; 19
+* <<express:Configuration_item_arm.Product_configuration_relationship>>; 20
+* <<express:Associative_draughting_elements_arm.Draughting_model_item_association>>; 21
+* <<express:General_design_connectivity_arm.Assembly_shape_joint_item_relationship>>; 22
+* <<express:Geometric_tolerance_arm.Geometric_tolerance_relationship>>; 23
+* <<express:Process_plan_arm.Process_plan_relationship>>; 24
+* <<express:Activity_arm.Activity_relationship>>; 25
+* <<express:UNRESOLVED>>; 26
+* <<express:Effectivity_application_arm.Ineffectivity_assignment>>; 27
+* <<express:Process_plan_arm.Process_operation_occurrence_relationship>>; 28
+* <<express:Shape_feature_arm.Shape_feature_definition_occurrence_element_relationship>>; 29
+* <<express:Work_order_arm.Work_order_relationship>>; 30
+* <<express:Shape_feature_arm.Shape_feature_definition_element_relationship>>; 31
+* <<express:Document_structure_arm.File_relationship>>; 32
+* <<express:Effectivity_arm.Effectivity_relationship>>; 33
+* <<express:Change_management_arm.Frozen_assignment>>; 34
+* <<express:General_design_connectivity_arm.Assembly_shape_constraint_item_relationship>>; 35
+====
+*)
+
+(*"Reference_schema_for_sysml_mapping_arm.__expressg"
+[.svgmap]
+====
+image::armexpg3.svg[]
+
+* <<express:Reference_schema_for_sysml_mapping_arm.part400_identification_item>>; 1
+* <<express:Reference_schema_for_sysml_mapping_arm.part400_date_or_date_time_item>>; 2
+* <<express:Reference_schema_for_sysml_mapping_arm.part400_organization_or_person_in_organization_item>>; 3
+* <<express:Reference_schema_for_sysml_mapping_arm.part400_effectivity_item>>; 4
+* <<express:Reference_schema_for_sysml_mapping_arm.part400_string_select>>; 5
+* <<express:Reference_schema_for_sysml_mapping_arm.part400_activity_item>>; 6
+* <<express:Reference_schema_for_sysml_mapping_arm.part400_classification_item>>; 7
+* <<express:Reference_schema_for_sysml_mapping_arm.part400_description_item>>; 8
+* <<express:Reference_schema_for_sysml_mapping_arm.part400_observation_item>>; 9
+* <<express:Reference_schema_for_sysml_mapping_arm.part400_event_item>>; 10
+* <<express:Reference_schema_for_sysml_mapping_arm.part400_message_content_item>>; 11
+* <<express:Reference_schema_for_sysml_mapping_arm.part400_approval_item>>; 12
+* <<express:Reference_schema_for_sysml_mapping_arm.association_object_proxy>>; 13
+* <<express:Reference_schema_for_sysml_mapping_arm.relationship_object_proxy>>; 14
+* <<express:Reference_schema_for_sysml_mapping_arm.assignment_object_proxy>>; 15
+* <<express:Reference_schema_for_sysml_mapping_arm.relationship_object_proxy>>; 16
+* <<express:Reference_schema_for_sysml_mapping_arm.association_object_proxy>>; 17
+* <<express:Reference_schema_for_sysml_mapping_arm.assignment_object_proxy>>; 18
+* <<express:Reference_schema_for_sysml_mapping_arm.association_object_proxy>>; 19
+* <<express:Reference_schema_for_sysml_mapping_arm.assignment_object_proxy>>; 20
+* <<express:Reference_schema_for_sysml_mapping_arm.association_object_proxy>>; 21
+* <<express:Reference_schema_for_sysml_mapping_arm.assignment_object_proxy>>; 22
+* <<express:Reference_schema_for_sysml_mapping_arm.assignment_object_proxy>>; 23
+* <<express:Reference_schema_for_sysml_mapping_arm.association_object_proxy>>; 24
+* <<express:Reference_schema_for_sysml_mapping_arm.relationship_object_proxy>>; 25
+* <<express:Reference_schema_for_sysml_mapping_arm.association_object_proxy>>; 26
+* <<express:Reference_schema_for_sysml_mapping_arm.relationship_object_proxy>>; 27
+* <<express:Reference_schema_for_sysml_mapping_arm.association_object_proxy>>; 28
+* <<express:Reference_schema_for_sysml_mapping_arm.association_object_proxy>>; 29
+* <<express:Reference_schema_for_sysml_mapping_arm.assignment_object_proxy>>; 30
+* <<express:Reference_schema_for_sysml_mapping_arm.relationship_object_proxy>>; 31
+* <<express:Reference_schema_for_sysml_mapping_arm.assignment_object_proxy>>; 32
+* <<express:Reference_schema_for_sysml_mapping_arm.relationship_object_proxy>>; 33
+* <<express:Reference_schema_for_sysml_mapping_arm.relationship_object_proxy>>; 34
+* <<express:Reference_schema_for_sysml_mapping_arm.relationship_object_proxy>>; 35
+* <<express:Reference_schema_for_sysml_mapping_arm.association_object_proxy>>; 36
+* <<express:Reference_schema_for_sysml_mapping_arm.relationship_object_proxy>>; 37
+* <<express:Reference_schema_for_sysml_mapping_arm.assignment_object_proxy>>; 38
+* <<express:Reference_schema_for_sysml_mapping_arm.assignment_object_proxy>>; 39
+* <<express:Reference_schema_for_sysml_mapping_arm.association_object_proxy>>; 40
+* <<express:Reference_schema_for_sysml_mapping_arm.relationship_object_proxy>>; 41
+* <<express:Reference_schema_for_sysml_mapping_arm.association_object_proxy>>; 42
+* <<express:Reference_schema_for_sysml_mapping_arm.assignment_object_proxy>>; 43
+* <<express:Reference_schema_for_sysml_mapping_arm.relationship_object_proxy>>; 44
+* <<express:Reference_schema_for_sysml_mapping_arm.assignment_object_proxy>>; 45
+* <<express:Reference_schema_for_sysml_mapping_arm.assignment_object_proxy>>; 46
+* <<express:Reference_schema_for_sysml_mapping_arm.relationship_object_proxy>>; 47
+* <<express:Reference_schema_for_sysml_mapping_arm.association_object_proxy>>; 48
+* <<express:Date_time_assignment_arm.date_or_date_time_item>>; 49
+* <<express:Activity_arm.activity_item>>; 50
+* <<express:Classification_assignment_arm.classification_item>>; 51
+* <<express:Event_assignment_arm.event_item>>; 52
+* <<express:Observation_arm.observation_item>>; 53
+* <<express:Multi_linguism_arm.string_select>>; 54
+* <<express:Approval_arm.approval_item>>; 55
+* <<express:Message_arm.message_content_item>>; 56
+* <<express:Shape_property_assignment_arm.Item_identified_representation_usage>>; 57
+* <<express:Description_assignment_arm.description_item>>; 58
+* <<express:Shape_property_assignment_arm.Item_identified_representation_usage>>; 59
+* <<express:Identification_assignment_arm.identification_item>>; 60
+* <<express:Effectivity_application_arm.effectivity_item>>; 61
+* <<express:Person_organization_assignment_arm.organization_or_person_in_organization_item>>; 62
+====
+*)

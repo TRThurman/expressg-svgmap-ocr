@@ -1,0 +1,11 @@
+(*"Sketch_mim.__expressg"
+[.svgmap]
+====
+image::mimexpg1.svg[]
+
+* <<express:Geometric_constraints_mim.short_listing>>; 1
+* <<express:geometric_model_schema>>; 2
+* <<express:sketch_schema>>; 3
+* <<express:Solid_model_mim.short_listing>>; 4
+====
+*)

@@ -1,0 +1,99 @@
+(*"Resource_management_characterized_arm.__expressg"
+[.svgmap]
+====
+image::armexpg1.svg[]
+
+* <<express:Resource_management_characterized_arm.required_am_arms>>; 1
+* <<express:Resource_management_arm.required_am_arms>>; 2
+* <<express:Contract_arm.required_am_arms>>; 3
+* <<express:Date_time_assignment_arm.required_am_arms>>; 4
+* <<express:Document_assignment_arm.required_am_arms>>; 5
+* <<express:Identification_assignment_arm.required_am_arms>>; 6
+* <<express:Justification_arm.required_am_arms>>; 7
+* <<express:Person_organization_assignment_arm.required_am_arms>>; 8
+* <<express:Required_resource_characterized_arm.required_am_arms>>; 9
+* <<express:Condition_arm.required_am_arms>>; 10
+* <<express:Resource_property_assignment_arm.required_am_arms>>; 11
+* <<express:Process_property_assignment_arm.required_am_arms>>; 12
+* <<express:Attribute_classification_arm.required_am_arms>>; 13
+* <<express:Multi_linguism_arm.required_am_arms>>; 14
+* <<express:Approval_arm.required_am_arms>>; 15
+* <<express:State_observed_arm.required_am_arms>>; 16
+* <<express:State_definition_arm.required_am_arms>>; 17
+====
+*)
+
+(*"Resource_management_characterized_arm.__expressg"
+[.svgmap]
+====
+image::armexpg2.svg[]
+
+* <<express:Condition_arm.condition_item>>; 1
+* <<express:Contract_arm.contract_item>>; 2
+* <<express:Date_time_assignment_arm.date_or_date_time_item>>; 3
+* <<express:Resource_management_arm.Managed_resource>>; 4
+* <<express:Resource_management_arm.Resource_event>>; 5
+* <<express:Resource_management_arm.Resource_event_relationship>>; 6
+* <<express:Resource_management_arm.Managed_resource_relationship>>; 7
+* <<express:Resource_property_assignment_arm.characterized_resource_select>>; 8
+* <<express:Resource_management_characterized_arm.resource_management_characterized_resource_select>>; 9
+* <<express:Resource_management_characterized_arm.resource_management_condition_item>>; 10
+* <<express:Resource_management_characterized_arm.resource_management_contract_item>>; 11
+* <<express:Resource_management_characterized_arm.resource_management_date_or_date_time_item>>; 12
+====
+*)
+
+(*"Resource_management_characterized_arm.__expressg"
+[.svgmap]
+====
+image::armexpg3.svg[]
+
+* <<express:Approval_arm.approval_item>>; 1
+* <<express:Identification_assignment_arm.identification_item>>; 2
+* <<express:Justification_arm.justification_item>>; 3
+* <<express:Person_organization_assignment_arm.organization_or_person_in_organization_item>>; 4
+* <<express:Resource_management_arm.Managed_resource>>; 5
+* <<express:Resource_management_arm.Resource_event>>; 6
+* <<express:Resource_management_arm.Managed_resource_relationship>>; 7
+* <<express:Resource_management_characterized_arm.managed_resource_approval_item>>; 8
+* <<express:Resource_management_characterized_arm.resource_management_identification_item>>; 9
+* <<express:Resource_management_characterized_arm.resource_management_justification_item>>; 10
+* <<express:Resource_management_characterized_arm.resource_management_organization_or_person_in_organization_item>>; 11
+====
+*)
+
+(*"Resource_management_characterized_arm.__expressg"
+[.svgmap]
+====
+image::armexpg4.svg[]
+
+* <<express:Attribute_classification_arm.classified_attribute_select>>; 1
+* <<express:Document_assignment_arm.documented_element_select>>; 2
+* <<express:Multi_linguism_arm.string_select>>; 3
+* <<express:Process_property_assignment_arm.characterized_activity_definition>>; 4
+* <<express:Resource_management_arm.Managed_resource>>; 5
+* <<express:Resource_management_arm.Resource_event>>; 6
+* <<express:Resource_management_arm.Resource_event_relationship>>; 7
+* <<express:Resource_management_arm.Managed_resource_relationship>>; 8
+* <<express:Resource_management_arm.Resource_event_correspondence_relationship>>; 9
+* <<express:Resource_management_characterized_arm.resource_management_characterized_activity_definition>>; 10
+* <<express:Resource_management_characterized_arm.resource_management_classified_attribute_select>>; 11
+* <<express:Resource_management_characterized_arm.resource_management_documented_element_select>>; 12
+* <<express:Resource_management_characterized_arm.resource_management_string_select>>; 13
+====
+*)
+
+(*"Resource_management_characterized_arm.__expressg"
+[.svgmap]
+====
+image::armexpg5.svg[]
+
+* <<express:Resource_management_arm.Resource_event>>; 1
+* <<express:Resource_management_arm.Resource_event_relationship>>; 2
+* <<express:Resource_management_arm.Resource_event_correspondence_relationship>>; 3
+* <<express:State_definition_arm.state_definition_of_item>>; 4
+* <<express:State_observed_arm.state_of_item>>; 5
+* <<express:Resource_management_characterized_arm.resource_management_characterized_state_definition_of_item>>; 6
+* <<express:Resource_management_characterized_arm.resource_management_characterized_state_of_item>>; 7
+====
+*)

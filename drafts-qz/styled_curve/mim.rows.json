@@ -1,0 +1,123 @@
+[
+ {
+  "module": "styled_curve",
+  "kind": "mim",
+  "svg": "mimexpg1.svg",
+  "num": "1",
+  "ocr": "Colour mim",
+  "ref": "Colour_mim.short_listing",
+  "score": 100,
+  "method": "schema->primary",
+  "flag": "convention"
+ },
+ {
+  "module": "styled_curve",
+  "kind": "mim",
+  "svg": "mimexpg1.svg",
+  "num": "2",
+  "ocr": "extemal reference schema",
+  "ref": "external_reference_schema.message",
+  "score": 77.77777777777779,
+  "method": "fuzzy-local-concat",
+  "flag": "check"
+ },
+ {
+  "module": "styled_curve",
+  "kind": "mim",
+  "svg": "mimexpg1.svg",
+  "num": "3",
+  "ocr": "presentation_appearance_schema",
+  "ref": "presentation_appearance_schema",
+  "score": 100,
+  "method": "schema->primary",
+  "flag": "convention"
+ },
+ {
+  "module": "styled_curve",
+  "kind": "mim",
+  "svg": "mimexpg1.svg",
+  "num": "4",
+  "ocr": "Styled_curve mim",
+  "ref": "Styled_curve_mim.short_listing",
+  "score": 100,
+  "method": "schema->primary",
+  "flag": "convention"
+ },
+ {
+  "module": "styled_curve",
+  "kind": "mim",
+  "svg": "mimexpg1.svg",
+  "num": "5",
+  "ocr": "Elemental geometric_shape_mim",
+  "ref": "Elemental_geometric_shape_mim.short_listing",
+  "score": 100,
+  "method": "schema->primary",
+  "flag": "convention"
+ },
+ {
+  "module": "styled_curve",
+  "kind": "mim",
+  "svg": "mimexpg1.svg",
+  "num": "6",
+  "ocr": "representation schema",
+  "ref": "representation_schema",
+  "score": 100,
+  "method": "schema->primary",
+  "flag": "convention"
+ },
+ {
+  "module": "styled_curve",
+  "kind": "mim",
+  "svg": "mimexpg2.svg",
+  "num": "1",
+  "ocr": "presentation_appearance_schema.curve_stylefont",
+  "ref": "presentation_appearance_schema.curve_style_font",
+  "score": 100,
+  "method": "qualified-verbatim",
+  "flag": ""
+ },
+ {
+  "module": "styled_curve",
+  "kind": "mim",
+  "svg": "mimexpg2.svg",
+  "num": "2",
+  "ocr": "representation_schema.mapped_item",
+  "ref": "representation_schema.mapped_item",
+  "score": 100,
+  "method": "qualified-verbatim",
+  "flag": ""
+ },
+ {
+  "module": "styled_curve",
+  "kind": "mim",
+  "svg": "mimexpg2.svg",
+  "num": "3",
+  "ocr": "presentation_appearance schema.pre _defined_ curve font",
+  "ref": "presentation_appearance_schema.pre_defined_curve_font",
+  "score": 100,
+  "method": "qualified-verbatim",
+  "flag": ""
+ },
+ {
+  "module": "styled_curve",
+  "kind": "mim",
+  "svg": "mimexpg2.svg",
+  "num": "4",
+  "ocr": "solid_curve_font",
+  "ref": "Styled_curve_mim.solid_curve_font",
+  "score": 100,
+  "method": "exact-name-local-clean",
+  "flag": ""
+ },
+ {
+  "module": "styled_curve",
+  "kind": "mim",
+  "svg": "mimexpg2.svg",
+  "num": "5",
+  "ocr": "user defined_curve_font",
+  "ref": "Styled_curve_mim.user_defined_curve_font",
+  "score": 100,
+  "method": "exact-name-local-clean",
+  "flag": ""
+ }
+]

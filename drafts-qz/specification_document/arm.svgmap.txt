@@ -1,0 +1,44 @@
+(*"Specification_document_arm.__expressg"
+[.svgmap]
+====
+image::armexpg1.svg[]
+
+* <<express:Support_resource_arm.required_am_arms>>; 1
+* <<express:Specification_document_arm.required_am_arms>>; 2
+* <<express:Characteristic_arm.required_am_arms>>; 3
+* <<express:Configuration_item_arm.required_am_arms>>; 4
+* <<express:Tagged_text_representation_arm.required_am_arms>>; 5
+====
+*)
+
+(*"Specification_document_arm.__expressg"
+[.svgmap]
+====
+image::armexpg2.svg[]
+
+* <<express:Specification_document_arm.sd_documented_element_select>>; 1
+* <<express:Specification_document_arm.sd_organization_or_person_in_organization_item>>; 2
+* <<express:Document_assignment_arm.documented_element_select>>; 3
+* <<express:Person_organization_assignment_arm.Organization_or_person_in_organization_assignment>>; 4
+* <<express:Document_definition_arm.Document_definition>>; 5
+* <<express:Document_assignment_arm.Document_assignment>>; 6
+* <<express:Person_organization_assignment_arm.organization_or_person_in_organization_item>>; 7
+* <<express:Product_identification_arm.Product>>; 8
+* <<express:Configuration_item_arm.Product_configuration>>; 9
+* <<express:Tagged_text_representation_arm.string_representation_item_select>>; 10
+* <<express:Product_version_arm.Product_version>>; 11
+* <<express:Document_assignment_arm.Partial_document_assignment>>; 12
+* <<express:Product_view_definition_arm.Product_view_definition>>; 13
+* <<express:Specification_document_arm.Surface_finish_specification>>; 14
+* <<express:Specification_document_arm.Interface_specification_document_definition>>; 15
+* <<express:Specification_document_arm.Specification_definition>>; 16
+* <<express:Specification_document_arm.Test_specification>>; 17
+* <<express:Specification_document_arm.Language_reference_manual>>; 18
+* <<express:Specification_document_arm.Fabrication_technology_specification>>; 19
+* <<express:Specification_document_arm.Process_specification>>; 20
+* <<express:Specification_document_arm.Material_specification>>; 21
+* <<express:Specification_document_arm.Partial_document_with_structured_text_representation_assignment>>; 22
+* <<express:Specification_document_arm.Specification_allocation>>; 23
+* <<express:Specification_document_arm.Design_specification>>; 24
+====
+*)

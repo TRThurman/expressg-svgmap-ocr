@@ -1,0 +1,222 @@
+[
+ {
+  "module": "shape_appearance_layers",
+  "kind": "arm",
+  "svg": "armexpg1.svg",
+  "num": "1",
+  "ocr": "Shape_appearance_layers_am",
+  "ref": "Shape_appearance_layers_arm.required_am_arms",
+  "score": 92.0,
+  "method": "fuzzy-local-schema",
+  "flag": "check"
+ },
+ {
+  "module": "shape_appearance_layers",
+  "kind": "arm",
+  "svg": "armexpg1.svg",
+  "num": "2",
+  "ocr": "General_surface_appearance_am",
+  "ref": "General_surface_appearance_arm.required_am_arms",
+  "score": 92.85714285714286,
+  "method": "fuzzy-local-schema",
+  "flag": "check"
+ },
+ {
+  "module": "shape_appearance_layers",
+  "kind": "arm",
+  "svg": "armexpg1.svg",
+  "num": "3",
+  "ocr": "Fill_area_style_amm",
+  "ref": "Fill_area_style_arm.required_am_arms",
+  "score": 85.71428571428572,
+  "method": "fuzzy-local-schema",
+  "flag": "check"
+ },
+ {
+  "module": "shape_appearance_layers",
+  "kind": "arm",
+  "svg": "armexpg1.svg",
+  "num": "4",
+  "ocr": "Layer assignment_ amm",
+  "ref": "Layer_assignment_arm.required_am_arms",
+  "score": 89.47368421052632,
+  "method": "fuzzy-local-schema",
+  "flag": "check"
+ },
+ {
+  "module": "shape_appearance_layers",
+  "kind": "arm",
+  "svg": "armexpg1.svg",
+  "num": "5",
+  "ocr": "Appearance_assignment amm",
+  "ref": "Appearance_assignment_arm.required_am_arms",
+  "score": 91.66666666666666,
+  "method": "fuzzy-local-schema",
+  "flag": "check"
+ },
+ {
+  "module": "shape_appearance_layers",
+  "kind": "arm",
+  "svg": "armexpg2.svg",
+  "num": "1",
+  "ocr": "sal_oveniding_style_ cortext",
+  "ref": "Shape_appearance_layers_arm.sal_overriding_style_context",
+  "score": 84.61538461538461,
+  "method": "fuzzy-local-name",
+  "flag": "check"
+ },
+ {
+  "module": "shape_appearance_layers",
+  "kind": "arm",
+  "svg": "armexpg2.svg",
+  "num": "2",
+  "ocr": "appearance select isal",
+  "ref": "Appearance_assignment_arm.appearance_select",
+  "score": 86.48648648648648,
+  "method": "fuzzy-local-name",
+  "flag": "check"
+ },
+ {
+  "module": "shape_appearance_layers",
+  "kind": "arm",
+  "svg": "armexpg2.svg",
+  "num": "3",
+  "ocr": "isal_appearance context",
+  "ref": "Shape_appearance_layers_arm.sal_appearance_context",
+  "score": 93.02325581395348,
+  "method": "fuzzy-local-name",
+  "flag": "check"
+ },
+ {
+  "module": "shape_appearance_layers",
+  "kind": "arm",
+  "svg": "armexpg2.svg",
+  "num": "4",
+  "ocr": "Fill_area_style_amm.Tile_style",
+  "ref": "Fill_area_style_arm.Tile_style",
+  "score": 88.88888888888889,
+  "method": "fuzzy-local-concat",
+  "flag": "check"
+ },
+ {
+  "module": "shape_appearance_layers",
+  "kind": "arm",
+  "svg": "armexpg2.svg",
+  "num": "5",
+  "ocr": "Layer assignment amLayer",
+  "ref": "Layer_assignment_arm.Layer",
+  "score": 93.61702127659575,
+  "method": "fuzzy-local-concat",
+  "flag": "check"
+ },
+ {
+  "module": "shape_appearance_layers",
+  "kind": "arm",
+  "svg": "armexpg2.svg",
+  "num": "6",
+  "ocr": "Geometric_model_relationship_amm.Geometric_model_relationship",
+  "ref": null,
+  "score": 0,
+  "method": "no-match",
+  "flag": "UNRESOLVED"
+ },
+ {
+  "module": "shape_appearance_layers",
+  "kind": "arm",
+  "svg": "armexpg2.svg",
+  "num": "7",
+  "ocr": "Appearanceassignmentam.appearance select",
+  "ref": "Appearance_assignment_arm.appearance_select",
+  "score": 95.0,
+  "method": "fuzzy-local-concat",
+  "flag": "check"
+ },
+ {
+  "module": "shape_appearance_layers",
+  "kind": "arm",
+  "svg": "armexpg2.svg",
+  "num": "8",
+  "ocr": "Appearance assignment_am.appearance context",
+  "ref": "Appearance_assignment_arm.appearance_context",
+  "score": 95.1219512195122,
+  "method": "fuzzy-local-concat",
+  "flag": "check"
+ },
+ {
+  "module": "shape_appearance_layers",
+  "kind": "arm",
+  "svg": "armexpg2.svg",
+  "num": "9",
+  "ocr": "Fill_area_style_amm.Hatch_style",
+  "ref": "Fill_area_style_arm.Hatch_style",
+  "score": 89.28571428571429,
+  "method": "fuzzy-local-concat",
+  "flag": "check"
+ },
+ {
+  "module": "shape_appearance_layers",
+  "kind": "arm",
+  "svg": "armexpg2.svg",
+  "num": "10",
+  "ocr": "Layer assignment amLayer",
+  "ref": "Layer_assignment_arm.Layer",
+  "score": 93.61702127659575,
+  "method": "fuzzy-local-concat",
+  "flag": "check"
+ },
+ {
+  "module": "shape_appearance_layers",
+  "kind": "arm",
+  "svg": "armexpg2.svg",
+  "num": "11",
+  "ocr": "Appearance_assignmentam.ovemiding style context",
+  "ref": "Appearance_assignment_arm.overriding_style_context",
+  "score": 91.30434782608697,
+  "method": "fuzzy-local-concat",
+  "flag": "check"
+ },
+ {
+  "module": "shape_appearance_layers",
+  "kind": "arm",
+  "svg": "armexpg2.svg",
+  "num": "12",
+  "ocr": "Geometric_model_relationship_amm.Geometric_model relationship",
+  "ref": null,
+  "score": 0,
+  "method": "no-match",
+  "flag": "UNRESOLVED"
+ },
+ {
+  "module": "shape_appearance_layers",
+  "kind": "arm",
+  "svg": "armexpg2.svg",
+  "num": "13",
+  "ocr": "General surface_appearance_amSuface_appearance",
+  "ref": "General_surface_appearance_arm.Surface_appearance",
+  "score": 93.33333333333333,
+  "method": "fuzzy-local-concat",
+  "flag": "check"
+ },
+ {
+  "module": "shape_appearance_layers",
+  "kind": "arm",
+  "svg": "armexpg2.svg",
+  "num": "14",
+  "ocr": "Fill _area_style_amm.Solid_filarea_style",
+  "ref": "Fill_area_style_arm.Solid_fill_area_style",
+  "score": 87.67123287671232,
+  "method": "fuzzy-local-concat",
+  "flag": "check"
+ },
+ {
+  "module": "shape_appearance_layers",
+  "kind": "arm",
+  "svg": "armexpg2.svg",
+  "num": "15",
+  "ocr": "Group amm.Group",
+  "ref": null,
+  "score": 0,
+  "method": "no-match",
+  "flag": "UNRESOLVED"
+ }
+]

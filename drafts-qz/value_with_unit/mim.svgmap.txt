@@ -1,0 +1,10 @@
+(*"Value_with_unit_mim.__expressg"
+[.svgmap]
+====
+image::mimexpg1.svg[]
+
+* <<express:Maths_value_mim.short_listing>>; 1
+* <<express:measure_schema>>; 2
+* <<express:representation_schema>>; 3
+====
+*)

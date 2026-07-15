@@ -1,0 +1,24 @@
+(*"Software_arm.__expressg"
+[.svgmap]
+====
+image::armexpg1.svg[]
+
+* <<express:Document_definition_arm.required_am_arms>>; 1
+* <<express:Information_product_arm.required_am_arms>>; 2
+* <<express:Software_arm.required_am_arms>>; 3
+====
+*)
+
+(*"Software_arm.__expressg"
+[.svgmap]
+====
+image::armexpg2.svg[]
+
+* <<express:Information_product_arm.Information_version>>; 1
+* <<express:Information_product_arm.Information_definition>>; 2
+* <<express:Information_product_arm.Information_product>>; 3
+* <<express:Software_arm.Software_definition>>; 4
+* <<express:Software_arm.Software_version>>; 5
+* <<express:Software_arm.Software>>; 6
+====
+*)

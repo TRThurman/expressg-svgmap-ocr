@@ -1,0 +1,134 @@
+[
+ {
+  "module": "state_based_behaviour_representation",
+  "kind": "arm",
+  "svg": "armexpg1.svg",
+  "num": "1",
+  "ocr": "State_based_behaviour_representation_arm",
+  "ref": "State_based_behaviour_representation_arm.required_am_arms",
+  "score": 100,
+  "method": "schema->primary",
+  "flag": "convention"
+ },
+ {
+  "module": "state_based_behaviour_representation",
+  "kind": "arm",
+  "svg": "armexpg1.svg",
+  "num": "2",
+  "ocr": "Foundation_representation_arm",
+  "ref": "Foundation_representation_arm.required_am_arms",
+  "score": 100,
+  "method": "schema->primary",
+  "flag": "convention"
+ },
+ {
+  "module": "state_based_behaviour_representation",
+  "kind": "arm",
+  "svg": "armexpg1.svg",
+  "num": "3",
+  "ocr": "Foundation state definition_arm",
+  "ref": "Foundation_state_definition_arm.required_am_arms",
+  "score": 100,
+  "method": "schema->primary",
+  "flag": "convention"
+ },
+ {
+  "module": "state_based_behaviour_representation",
+  "kind": "arm",
+  "svg": "armexpg2.svg",
+  "num": "1",
+  "ocr": "State based behaviour element",
+  "ref": "State_based_behaviour_representation_arm.state_based_behaviour_element",
+  "score": 100,
+  "method": "exact-name-local-clean",
+  "flag": ""
+ },
+ {
+  "module": "state_based_behaviour_representation",
+  "kind": "arm",
+  "svg": "armexpg2.svg",
+  "num": "2",
+  "ocr": "State_based_behaviour_model",
+  "ref": "State_based_behaviour_representation_arm.State_based_behaviour_model",
+  "score": 100,
+  "method": "exact-name-local-clean",
+  "flag": ""
+ },
+ {
+  "module": "state_based_behaviour_representation",
+  "kind": "arm",
+  "svg": "armexpg2.svg",
+  "num": "3",
+  "ocr": "State_based_behaviour_representation_context",
+  "ref": "State_based_behaviour_representation_arm.State_based_behaviour_representation_context",
+  "score": 100,
+  "method": "exact-name-local-clean",
+  "flag": ""
+ },
+ {
+  "module": "state_based_behaviour_representation",
+  "kind": "arm",
+  "svg": "armexpg2.svg",
+  "num": "4",
+  "ocr": "State_based_behaviour_representation_item",
+  "ref": "State_based_behaviour_representation_arm.State_based_behaviour_representation_item",
+  "score": 100,
+  "method": "exact-name-local-clean",
+  "flag": ""
+ },
+ {
+  "module": "state_based_behaviour_representation",
+  "kind": "arm",
+  "svg": "armexpg2.svg",
+  "num": "5",
+  "ocr": "Foundation_representation_arm.Representation_context",
+  "ref": "Foundation_representation_arm.Representation_context",
+  "score": 100,
+  "method": "qualified-verbatim",
+  "flag": ""
+ },
+ {
+  "module": "state_based_behaviour_representation",
+  "kind": "arm",
+  "svg": "armexpg2.svg",
+  "num": "6",
+  "ocr": "Foundation_representation_arm.Representation_item",
+  "ref": "Foundation_representation_arm.Representation_item",
+  "score": 100,
+  "method": "qualified-verbatim",
+  "flag": ""
+ },
+ {
+  "module": "state_based_behaviour_representation",
+  "kind": "arm",
+  "svg": "armexpg2.svg",
+  "num": "7",
+  "ocr": "Foundation_representation_arm.Representation",
+  "ref": "Foundation_representation_arm.Representation",
+  "score": 100,
+  "method": "qualified-verbatim",
+  "flag": ""
+ },
+ {
+  "module": "state_based_behaviour_representation",
+  "kind": "arm",
+  "svg": "armexpg2.svg",
+  "num": "8",
+  "ocr": "Foundation state definition_arm.State definition",
+  "ref": "Foundation_state_definition_arm.State_definition",
+  "score": 100,
+  "method": "qualified-verbatim",
+  "flag": ""
+ },
+ {
+  "module": "state_based_behaviour_representation",
+  "kind": "arm",
+  "svg": "armexpg2.svg",
+  "num": "9",
+  "ocr": "Foundation state definition arm.State definition relationship",
+  "ref": "Foundation_state_definition_arm.State_definition_relationship",
+  "score": 100,
+  "method": "qualified-verbatim",
+  "flag": ""
+ }
+]

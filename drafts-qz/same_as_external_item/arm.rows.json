@@ -1,0 +1,57 @@
+[
+ {
+  "module": "same_as_external_item",
+  "kind": "arm",
+  "svg": "armexpg1.svg",
+  "num": "1",
+  "ocr": "Same_as_ extemal item_arm",
+  "ref": "Same_as_external_item_arm.required_am_arms",
+  "score": 84.44444444444444,
+  "method": "fuzzy-local-schema",
+  "flag": "check"
+ },
+ {
+  "module": "same_as_external_item",
+  "kind": "arm",
+  "svg": "armexpg1.svg",
+  "num": "2",
+  "ocr": "Extemal_source_arm",
+  "ref": "External_source_arm.required_am_arms",
+  "score": 85.71428571428572,
+  "method": "fuzzy-local-schema",
+  "flag": "check"
+ },
+ {
+  "module": "same_as_external_item",
+  "kind": "arm",
+  "svg": "armexpg2.svg",
+  "num": "1",
+  "ocr": "External_source_arm.Extemal source",
+  "ref": "External_source_arm.External_source",
+  "score": 88.88888888888889,
+  "method": "qualified-fuzzy",
+  "flag": "check"
+ },
+ {
+  "module": "same_as_external_item",
+  "kind": "arm",
+  "svg": "armexpg2.svg",
+  "num": "2",
+  "ocr": "(EX) *same_as_item",
+  "ref": "Same_as_external_item_arm.same_as_item",
+  "score": 100,
+  "method": "exact-name-local-clean",
+  "flag": ""
+ },
+ {
+  "module": "same_as_external_item",
+  "kind": "arm",
+  "svg": "armexpg2.svg",
+  "num": "3",
+  "ocr": "Same_as_external_item",
+  "ref": "Same_as_external_item_arm.Same_as_external_item",
+  "score": 100,
+  "method": "exact-name-local-clean",
+  "flag": ""
+ }
+]

@@ -1,0 +1,112 @@
+[
+ {
+  "module": "shape_property_assignment",
+  "kind": "mim",
+  "svg": "mimexpg1.svg",
+  "num": "1",
+  "ocr": "product_property_definition_schem a",
+  "ref": "product_property_definition_schema",
+  "score": 100,
+  "method": "schema->primary",
+  "flag": "convention"
+ },
+ {
+  "module": "shape_property_assignment",
+  "kind": "mim",
+  "svg": "mimexpg1.svg",
+  "num": "2",
+  "ocr": "Assembly_structure_mim",
+  "ref": "Assembly_structure_mim.short_listing",
+  "score": 100,
+  "method": "schema->primary",
+  "flag": "convention"
+ },
+ {
+  "module": "shape_property_assignment",
+  "kind": "mim",
+  "svg": "mimexpg1.svg",
+  "num": "3",
+  "ocr": "Geom etric_m odel_relationship_m im",
+  "ref": "Geometric_model_relationship_mim.short_listing",
+  "score": 100,
+  "method": "schema->primary",
+  "flag": "convention"
+ },
+ {
+  "module": "shape_property_assignment",
+  "kind": "mim",
+  "svg": "mimexpg1.svg",
+  "num": "4",
+  "ocr": "Extemal_ model mim",
+  "ref": "External_model_mim.short_listing",
+  "score": 84.84848484848484,
+  "method": "fuzzy-local-schema",
+  "flag": "check"
+ },
+ {
+  "module": "shape_property_assignment",
+  "kind": "mim",
+  "svg": "mimexpg1.svg",
+  "num": "5",
+  "ocr": "basic_attribute_schema",
+  "ref": "basic_attribute_schema",
+  "score": 100,
+  "method": "schema->primary",
+  "flag": "convention"
+ },
+ {
+  "module": "shape_property_assignment",
+  "kind": "mim",
+  "svg": "mimexpg1.svg",
+  "num": "6",
+  "ocr": "Product_view_defintion_relationship_m im",
+  "ref": "Product_view_definition_relationship_mim.short_listing",
+  "score": 93.33333333333333,
+  "method": "fuzzy-local-schema",
+  "flag": "check"
+ },
+ {
+  "module": "shape_property_assignment",
+  "kind": "mim",
+  "svg": "mimexpg1.svg",
+  "num": "7",
+  "ocr": "product_property_representation_schem a",
+  "ref": "product_property_representation_schema",
+  "score": 100,
+  "method": "schema->primary",
+  "flag": "convention"
+ },
+ {
+  "module": "shape_property_assignment",
+  "kind": "mim",
+  "svg": "mimexpg1.svg",
+  "num": "8",
+  "ocr": "Property_assignment_mim",
+  "ref": "Property_assignment_mim.short_listing",
+  "score": 100,
+  "method": "schema->primary",
+  "flag": "convention"
+ },
+ {
+  "module": "shape_property_assignment",
+  "kind": "mim",
+  "svg": "mimexpg1.svg",
+  "num": "9",
+  "ocr": "shape_dimension_schem a",
+  "ref": "shape_dimension_schema",
+  "score": 100,
+  "method": "schema->primary",
+  "flag": "convention"
+ },
+ {
+  "module": "shape_property_assignment",
+  "kind": "mim",
+  "svg": "mimexpg1.svg",
+  "num": "10",
+  "ocr": "shape_tolerance_schem a",
+  "ref": "shape_tolerance_schema",
+  "score": 100,
+  "method": "schema->primary",
+  "flag": "convention"
+ }
+]

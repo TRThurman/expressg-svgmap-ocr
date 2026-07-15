@@ -1,0 +1,46 @@
+[
+ {
+  "module": "tessellated_manifold_subsurface_shape_representation",
+  "kind": "arm",
+  "svg": "armexpg1.svg",
+  "num": "1",
+  "ocr": "Elemental_geometric_shape_arm",
+  "ref": "Elemental_geometric_shape_arm.required_am_arms",
+  "score": 100,
+  "method": "schema->primary",
+  "flag": "convention"
+ },
+ {
+  "module": "tessellated_manifold_subsurface_shape_representation",
+  "kind": "arm",
+  "svg": "armexpg1.svg",
+  "num": "2",
+  "ocr": "Tessellated_manifold_subsurface_shape_representation_arm",
+  "ref": "Tessellated_manifold_subsurface_shape_representation_arm.required_am_arms",
+  "score": 100,
+  "method": "schema->primary",
+  "flag": "convention"
+ },
+ {
+  "module": "tessellated_manifold_subsurface_shape_representation",
+  "kind": "arm",
+  "svg": "armexpg2.svg",
+  "num": "1",
+  "ocr": "Elemental_geometric_shape_arm.Geometric_model",
+  "ref": "Elemental_geometric_shape_arm.Geometric_model",
+  "score": 100,
+  "method": "qualified-verbatim",
+  "flag": ""
+ },
+ {
+  "module": "tessellated_manifold_subsurface_shape_representation",
+  "kind": "arm",
+  "svg": "armexpg2.svg",
+  "num": "2",
+  "ocr": "Tessellated_manifold_subsurface_shape_representation",
+  "ref": "Tessellated_manifold_subsurface_shape_representation_arm.Tessellated_manifold_subsurface_shape_representation",
+  "score": 100,
+  "method": "exact-name-local-clean",
+  "flag": ""
+ }
+]

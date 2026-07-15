@@ -1,0 +1,33 @@
+(*"System_modelling_mim.__expressg"
+[.svgmap]
+====
+image::mimexpg1.svg[]
+
+* <<express:System_modelling_mim.short_listing>>; 1
+* <<express:Decision_support_mim.short_listing>>; 2
+* <<express:Functional_breakdown_mim.short_listing>>; 3
+* <<express:Group_mim.short_listing>>; 4
+* <<express:System_behaviour_mim.short_listing>>; 5
+* <<express:System_structure_mim.short_listing>>; 6
+====
+*)
+
+(*"System_modelling_mim.__expressg"
+[.svgmap]
+====
+image::mimexpg2.svg[]
+
+* <<express:System_structure_mim.applied_location_assignment>>; 1
+* <<express:System_structure_mim.characterized_object>>; 2
+* <<express:System_modelling_mim.sysm_characterizable_applied_location_assignment>>; 3
+====
+*)
+
+(*"System_modelling_mim.__expressg"
+[.svgmap]
+====
+image::mimexpg3.svg[]
+
+* <<express:System_modelling_mim.short_listing>>; 36
+====
+*)

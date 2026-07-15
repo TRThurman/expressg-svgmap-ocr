@@ -1,0 +1,211 @@
+[
+ {
+  "module": "reference_data_library",
+  "kind": "arm",
+  "svg": "armexpg1.svg",
+  "num": "1",
+  "ocr": "Reference_data_library_arm",
+  "ref": "Reference_data_library_arm.required_am_arms",
+  "score": 100,
+  "method": "schema->primary",
+  "flag": "convention"
+ },
+ {
+  "module": "reference_data_library",
+  "kind": "arm",
+  "svg": "armexpg1.svg",
+  "num": "2",
+  "ocr": "Class_of_activity_library_arm",
+  "ref": "Class_of_activity_library_arm.required_am_arms",
+  "score": 100,
+  "method": "schema->primary",
+  "flag": "convention"
+ },
+ {
+  "module": "reference_data_library",
+  "kind": "arm",
+  "svg": "armexpg1.svg",
+  "num": "3",
+  "ocr": "Class_of_product_library_arm",
+  "ref": "Class_of_product_library_arm.required_am_arms",
+  "score": 100,
+  "method": "schema->primary",
+  "flag": "convention"
+ },
+ {
+  "module": "reference_data_library",
+  "kind": "arm",
+  "svg": "armexpg1.svg",
+  "num": "4",
+  "ocr": "Organization_type_arm",
+  "ref": "Organization_type_arm.required_am_arms",
+  "score": 100,
+  "method": "schema->primary",
+  "flag": "convention"
+ },
+ {
+  "module": "reference_data_library",
+  "kind": "arm",
+  "svg": "armexpg1.svg",
+  "num": "5",
+  "ocr": "Class_of_person_arm",
+  "ref": "Class_of_person_arm.required_am_arms",
+  "score": 100,
+  "method": "schema->primary",
+  "flag": "convention"
+ },
+ {
+  "module": "reference_data_library",
+  "kind": "arm",
+  "svg": "armexpg1.svg",
+  "num": "6",
+  "ocr": "Property_con dition_arm",
+  "ref": "Property_condition_arm.required_am_arms",
+  "score": 100,
+  "method": "schema->primary",
+  "flag": "convention"
+ },
+ {
+  "module": "reference_data_library",
+  "kind": "arm",
+  "svg": "armexpg1.svg",
+  "num": "7",
+  "ocr": "Property_identifi cation_arm",
+  "ref": "Property_identification_arm.required_am_arms",
+  "score": 100,
+  "method": "schema->primary",
+  "flag": "convention"
+ },
+ {
+  "module": "reference_data_library",
+  "kind": "arm",
+  "svg": "armexpg1.svg",
+  "num": "8",
+  "ocr": "Property_space_arm",
+  "ref": "Property_space_arm.required_am_arms",
+  "score": 100,
+  "method": "schema->primary",
+  "flag": "convention"
+ },
+ {
+  "module": "reference_data_library",
+  "kind": "arm",
+  "svg": "armexpg1.svg",
+  "num": "9",
+  "ocr": "Independ ent_property_definition_arm",
+  "ref": "Independent_property_definition_arm.required_am_arms",
+  "score": 100,
+  "method": "schema->primary",
+  "flag": "convention"
+ },
+ {
+  "module": "reference_data_library",
+  "kind": "arm",
+  "svg": "armexpg1.svg",
+  "num": "10",
+  "ocr": "Schematic_and_symbolization_arm",
+  "ref": "Schematic_and_symbolization_arm.required_am_arms",
+  "score": 100,
+  "method": "schema->primary",
+  "flag": "convention"
+ },
+ {
+  "module": "reference_data_library",
+  "kind": "arm",
+  "svg": "armexpg1.svg",
+  "num": "11",
+  "ocr": "External_iten_identification_assignm ent_arm",
+  "ref": "External_item_identification_assignment_arm.required_am_arms",
+  "score": 92.6829268292683,
+  "method": "fuzzy-local-schema",
+  "flag": "check"
+ },
+ {
+  "module": "reference_data_library",
+  "kind": "arm",
+  "svg": "armexpg2.svg",
+  "num": "1",
+  "ocr": "library_symbollized_class_select",
+  "ref": "Reference_data_library_arm.library_symbolized_class_select",
+  "score": 93.33333333333333,
+  "method": "fuzzy-local-name",
+  "flag": "check"
+ },
+ {
+  "module": "reference_data_library",
+  "kind": "arm",
+  "svg": "armexpg2.svg",
+  "num": "2",
+  "ocr": "library_symbolized_itemn _select",
+  "ref": "Reference_data_library_arm.library_symbolized_item_select",
+  "score": 93.10344827586206,
+  "method": "fuzzy-local-name",
+  "flag": "check"
+ },
+ {
+  "module": "reference_data_library",
+  "kind": "arm",
+  "svg": "armexpg2.svg",
+  "num": "3",
+  "ocr": "library_involved_class_select",
+  "ref": "Reference_data_library_arm.library_involved_class_select",
+  "score": 100,
+  "method": "exact-name-local-clean",
+  "flag": ""
+ },
+ {
+  "module": "reference_data_library",
+  "kind": "arm",
+  "svg": "armexpg2.svg",
+  "num": "4",
+  "ocr": "externally_identified_rdl_class_or_relationship",
+  "ref": "Reference_data_library_arm.externally_identified_rdl_class_or_relationship",
+  "score": 100,
+  "method": "exact-name-local-clean",
+  "flag": ""
+ },
+ {
+  "module": "reference_data_library",
+  "kind": "arm",
+  "svg": "armexpg2.svg",
+  "num": "5",
+  "ocr": "Symb olization_by_schematic_element_arm.symbolized_item_select",
+  "ref": "Symbolization_by_schematic_element_arm.symbolized_item_select",
+  "score": 100,
+  "method": "qualified-verbatim",
+  "flag": ""
+ },
+ {
+  "module": "reference_data_library",
+  "kind": "arm",
+  "svg": "armexpg2.svg",
+  "num": "6",
+  "ocr": "Class_of_involvement_in_activity_arminvolved_class_select",
+  "ref": "Class_of_involvement_in_activity_arm.involved_class_select",
+  "score": 100,
+  "method": "qualified-verbatim",
+  "flag": ""
+ },
+ {
+  "module": "reference_data_library",
+  "kind": "arm",
+  "svg": "armexpg2.svg",
+  "num": "7",
+  "ocr": "Symb olization_by_schematic_element_arm.symbolized_class_select",
+  "ref": "Symbolization_by_schematic_element_arm.symbolized_class_select",
+  "score": 100,
+  "method": "qualified-verbatim",
+  "flag": ""
+ },
+ {
+  "module": "reference_data_library",
+  "kind": "arm",
+  "svg": "armexpg2.svg",
+  "num": "8",
+  "ocr": "External_item_id entification_assignm ent_arm.external_identifi cation_item",
+  "ref": "External_item_identification_assignment_arm.external_identification_item",
+  "score": 100,
+  "method": "qualified-verbatim",
+  "flag": ""
+ }
+]

@@ -1,0 +1,57 @@
+[
+ {
+  "module": "requirement_view_definition_relationship",
+  "kind": "mim",
+  "svg": "mimexpg1.svg",
+  "num": "1",
+  "ocr": "Requirement_view_definition_relationship_mim",
+  "ref": "Requirement_view_definition_relationship_mim.short_listing",
+  "score": 100,
+  "method": "schema->primary",
+  "flag": "convention"
+ },
+ {
+  "module": "requirement_view_definition_relationship",
+  "kind": "mim",
+  "svg": "mimexpg1.svg",
+  "num": "2",
+  "ocr": "Product_view _definition_relationship mim",
+  "ref": "Product_view_definition_relationship_mim.short_listing",
+  "score": 100,
+  "method": "schema->primary",
+  "flag": "convention"
+ },
+ {
+  "module": "requirement_view_definition_relationship",
+  "kind": "mim",
+  "svg": "mimexpg1.svg",
+  "num": "3",
+  "ocr": "Requirement_view_definition_mim",
+  "ref": "Requirement_view_definition_mim.short_listing",
+  "score": 100,
+  "method": "schema->primary",
+  "flag": "convention"
+ },
+ {
+  "module": "requirement_view_definition_relationship",
+  "kind": "mim",
+  "svg": "mimexpg2.svg",
+  "num": "1",
+  "ocr": "product definition_schema.product_definition _relationship",
+  "ref": "product_definition_schema.product_definition_relationship",
+  "score": 100,
+  "method": "qualified-verbatim",
+  "flag": ""
+ },
+ {
+  "module": "requirement_view_definition_relationship",
+  "kind": "mim",
+  "svg": "mimexpg2.svg",
+  "num": "2",
+  "ocr": "requirement_view_efition_rlationsi",
+  "ref": "Requirement_view_definition_relationship_mim.requirement_view_definition_relationship",
+  "score": 87.32394366197182,
+  "method": "fuzzy-local-name",
+  "flag": "check"
+ }
+]

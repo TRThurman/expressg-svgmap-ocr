@@ -1,0 +1,36 @@
+(*"Scan_data_3d_shape_arm.__expressg"
+[.svgmap]
+====
+image::armexpg1.svg[]
+
+* <<express:Foundation_representation_arm.required_am_arms>>; 1
+* <<express:Scan_data_3d_shape_arm.required_am_arms>>; 2
+* <<express:Elemental_geometric_shape_arm.required_am_arms>>; 3
+====
+*)
+
+(*"Scan_data_3d_shape_arm.__expressg"
+[.svgmap]
+====
+image::armexpg2.svg[]
+
+* <<express:Scan_data_3d_shape_arm.point_cloud_set_or_superset>>; 1
+* <<express:UNRESOLVED>>; 2
+* <<express:Foundation_representation_arm.Representation_item>>; 3
+* <<express:Elemental_geometric_shape_arm.Geometric_model>>; 4
+* <<express:Elemental_geometric_shape_arm.Detailed_geometric_model_element>>; 5
+* <<express:UNRESOLVED>>; 6
+* <<express:Elemental_geometric_shape_arm.Axis_placement_3d>>; 7
+* <<express:Scan_data_3d_shape_arm.Point_cloud_dataset_with_colours>>; 8
+* <<express:Scan_data_3d_shape_arm.Scanned_data_item>>; 9
+* <<express:Scan_data_3d_shape_arm.Scan_data_shape_representation>>; 10
+* <<express:Scan_data_3d_shape_arm.Point_cloud_dataset>>; 11
+* <<express:Scan_data_3d_shape_arm.Scanner_property>>; 12
+* <<express:Scan_data_3d_shape_arm.Point_cloud_dataset_with_normals>>; 13
+* <<express:Scan_data_3d_shape_arm.Scan_3d_model>>; 14
+* <<express:Scan_data_3d_shape_arm.Triangulated_point_cloud_dataset>>; 15
+* <<express:Scan_data_3d_shape_arm.Scanner_basic_properties>>; 16
+* <<express:Scan_data_3d_shape_arm.Point_cloud_superdataset>>; 17
+* <<express:Scan_data_3d_shape_arm.Point_cloud_dataset_with_intensities>>; 18
+====
+*)

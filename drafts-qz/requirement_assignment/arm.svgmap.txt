@@ -1,0 +1,24 @@
+(*"Requirement_assignment_arm.__expressg"
+[.svgmap]
+====
+image::armexpg1.svg[]
+
+* <<express:Requirement_assignment_arm.required_am_arms>>; 1
+* <<express:Requirement_view_definition_arm.required_am_arms>>; 2
+====
+*)
+
+(*"Requirement_assignment_arm.__expressg"
+[.svgmap]
+====
+image::armexpg2.svg[]
+
+* <<express:Requirement_view_definition_arm.Requirement_view_definition>>; 1
+* <<express:Requirement_assignment_arm.requirement_assignment_item>>; 2
+* <<express:Requirement_assignment_arm.requirement_satisfaction_item>>; 3
+* <<express:Requirement_assignment_arm.requirement_source_item>>; 4
+* <<express:Requirement_assignment_arm.Requirement_assignment>>; 5
+* <<express:Requirement_assignment_arm.Requirement_satisfied_by>>; 6
+* <<express:Requirement_assignment_arm.Requirement_source>>; 7
+====
+*)

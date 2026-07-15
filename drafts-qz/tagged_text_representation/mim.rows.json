@@ -1,0 +1,189 @@
+[
+ {
+  "module": "tagged_text_representation",
+  "kind": "mim",
+  "svg": "mimexpg1.svg",
+  "num": "1",
+  "ocr": "Tagged_text_representation_mim",
+  "ref": "Tagged_text_representation_mim.short_listing",
+  "score": 100,
+  "method": "schema->primary",
+  "flag": "convention"
+ },
+ {
+  "module": "tagged_text_representation",
+  "kind": "mim",
+  "svg": "mimexpg1.svg",
+  "num": "2",
+  "ocr": "Foundation_representation_mim",
+  "ref": "Foundation_representation_mim.short_listing",
+  "score": 100,
+  "method": "schema->primary",
+  "flag": "convention"
+ },
+ {
+  "module": "tagged_text_representation",
+  "kind": "mim",
+  "svg": "mimexpg1.svg",
+  "num": "3",
+  "ocr": "representation schema",
+  "ref": "representation_schema",
+  "score": 100,
+  "method": "schema->primary",
+  "flag": "convention"
+ },
+ {
+  "module": "tagged_text_representation",
+  "kind": "mim",
+  "svg": "mimexpg2.svg",
+  "num": "1",
+  "ocr": "istring_representation item_select",
+  "ref": "Tagged_text_representation_mim.string_representation_item_select",
+  "score": 93.75,
+  "method": "fuzzy-local-name",
+  "flag": "check"
+ },
+ {
+  "module": "tagged_text_representation",
+  "kind": "mim",
+  "svg": "mimexpg2.svg",
+  "num": "2",
+  "ocr": "representation_schema mapped item",
+  "ref": "representation_schema.mapped_item",
+  "score": 100,
+  "method": "qualified-verbatim",
+  "flag": ""
+ },
+ {
+  "module": "tagged_text_representation",
+  "kind": "mim",
+  "svg": "mimexpg2.svg",
+  "num": "3",
+  "ocr": "representation_schema. compound_representation_item",
+  "ref": "representation_schema.compound_representation_item",
+  "score": 100,
+  "method": "qualified-verbatim",
+  "flag": ""
+ },
+ {
+  "module": "tagged_text_representation",
+  "kind": "mim",
+  "svg": "mimexpg2.svg",
+  "num": "4",
+  "ocr": "representation _schema.representation_context",
+  "ref": "representation_schema.representation_context",
+  "score": 100,
+  "method": "qualified-verbatim",
+  "flag": ""
+ },
+ {
+  "module": "tagged_text_representation",
+  "kind": "mim",
+  "svg": "mimexpg2.svg",
+  "num": "5",
+  "ocr": "qualified measure schema.descriptive_representation item",
+  "ref": "qualified_measure_schema.descriptive_representation_item",
+  "score": 100,
+  "method": "qualified-verbatim",
+  "flag": ""
+ },
+ {
+  "module": "tagged_text_representation",
+  "kind": "mim",
+  "svg": "mimexpg2.svg",
+  "num": "6",
+  "ocr": "qualified_measure_schema. descriptive representation item",
+  "ref": "qualified_measure_schema.descriptive_representation_item",
+  "score": 100,
+  "method": "qualified-verbatim",
+  "flag": ""
+ },
+ {
+  "module": "tagged_text_representation",
+  "kind": "mim",
+  "svg": "mimexpg2.svg",
+  "num": "7",
+  "ocr": "representation _schema.representation",
+  "ref": "representation_schema.representation",
+  "score": 100,
+  "method": "qualified-verbatim",
+  "flag": ""
+ },
+ {
+  "module": "tagged_text_representation",
+  "kind": "mim",
+  "svg": "mimexpg2.svg",
+  "num": "8",
+  "ocr": "tagged_text format",
+  "ref": "Tagged_text_representation_mim.tagged_text_format",
+  "score": 100,
+  "method": "exact-name-local-clean",
+  "flag": ""
+ },
+ {
+  "module": "tagged_text_representation",
+  "kind": "mim",
+  "svg": "mimexpg2.svg",
+  "num": "9",
+  "ocr": "structured_text_composition",
+  "ref": "Tagged_text_representation_mim.structured_text_composition",
+  "score": 100,
+  "method": "exact-name-local-clean",
+  "flag": ""
+ },
+ {
+  "module": "tagged_text_representation",
+  "kind": "mim",
+  "svg": "mimexpg2.svg",
+  "num": "10",
+  "ocr": "included text block",
+  "ref": "Tagged_text_representation_mim.included_text_block",
+  "score": 100,
+  "method": "exact-name-local-clean",
+  "flag": ""
+ },
+ {
+  "module": "tagged_text_representation",
+  "kind": "mim",
+  "svg": "mimexpg2.svg",
+  "num": "11",
+  "ocr": "tagged text_item",
+  "ref": "Tagged_text_representation_mim.tagged_text_item",
+  "score": 100,
+  "method": "exact-name-local-clean",
+  "flag": ""
+ },
+ {
+  "module": "tagged_text_representation",
+  "kind": "mim",
+  "svg": "mimexpg2.svg",
+  "num": "12",
+  "ocr": "unifom resource identifier",
+  "ref": "Tagged_text_representation_mim.uniform_resource_identifier",
+  "score": 94.11764705882352,
+  "method": "fuzzy-local-name",
+  "flag": "check"
+ },
+ {
+  "module": "tagged_text_representation",
+  "kind": "mim",
+  "svg": "mimexpg2.svg",
+  "num": "13",
+  "ocr": "structured_text_representation",
+  "ref": "Tagged_text_representation_mim.structured_text_representation",
+  "score": 100,
+  "method": "exact-name-local-clean",
+  "flag": ""
+ },
+ {
+  "module": "tagged_text_representation",
+  "kind": "mim",
+  "svg": "mimexpg2.svg",
+  "num": "14",
+  "ocr": "*ttr_descriptive_representation_item_subtypes",
+  "ref": "Tagged_text_representation_mim.ttr_descriptive_representation_item_subtypes",
+  "score": 100,
+  "method": "exact-name-local-clean",
+  "flag": ""
+ }
+]

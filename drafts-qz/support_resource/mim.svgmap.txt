@@ -1,0 +1,8 @@
+(*"Support_resource_mim.__expressg"
+[.svgmap]
+====
+image::mimexpg1.svg[]
+
+* <<express:support_resource_schema>>; 1
+====
+*)

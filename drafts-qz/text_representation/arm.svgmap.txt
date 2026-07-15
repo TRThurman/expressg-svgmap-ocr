@@ -1,0 +1,35 @@
+(*"Text_representation_arm.__expressg"
+[.svgmap]
+====
+image::armexpg1.svg[]
+
+* <<express:Text_appearance_arm.required_am_arms>>; 1
+* <<express:Text_representation_arm.required_am_arms>>; 2
+* <<express:Associative_text_arm.required_am_arms>>; 3
+====
+*)
+
+(*"Text_representation_arm.__expressg"
+[.svgmap]
+====
+image::armexpg2.svg[]
+
+* <<express:Text_representation_arm.tr_font_select>>; 1
+* <<express:Text_representation_arm.tr_text_or_composite_text>>; 2
+* <<express:Text_representation_arm.tr_composite_text_element_select>>; 3
+* <<express:Elemental_geometric_shape_arm.Detailed_geometric_model_element>>; 4
+* <<express:Support_resource_arm.label>>; 5
+* <<express:Elemental_geometric_shape_arm.Axis_placement>>; 6
+* <<express:Text_appearance_arm.composite_text_element_select>>; 7
+* <<express:Text_appearance_arm.font_select>>; 8
+* <<express:Associative_text_arm.text_or_composite_text>>; 9
+* <<express:Foundation_representation_arm.Representation>>; 10
+* <<express:Text_representation_arm.Character_glyph_symbol>>; 11
+* <<express:Text_representation_arm.Character_glyph_font_usage>>; 12
+* <<express:Text_representation_arm.Text_font_in_family>>; 13
+* <<express:Text_representation_arm.Text_font>>; 14
+* <<express:Text_representation_arm.Text_font_family>>; 15
+* <<express:Text_representation_arm.Annotation_text_character>>; 16
+* <<express:Text_representation_arm.label1>>; 17
+====
+*)

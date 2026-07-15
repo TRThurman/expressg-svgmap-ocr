@@ -1,0 +1,46 @@
+[
+ {
+  "module": "wireframe_2d",
+  "kind": "arm",
+  "svg": "armexpg1.svg",
+  "num": "1",
+  "ocr": "Wireframe_2d_ arm",
+  "ref": "Wireframe_2d_arm.required_am_arms",
+  "score": 100,
+  "method": "schema->primary",
+  "flag": "convention"
+ },
+ {
+  "module": "wireframe_2d",
+  "kind": "arm",
+  "svg": "armexpg1.svg",
+  "num": "2",
+  "ocr": "Elemental_geometric_shape_arm",
+  "ref": "Elemental_geometric_shape_arm.required_am_arms",
+  "score": 100,
+  "method": "schema->primary",
+  "flag": "convention"
+ },
+ {
+  "module": "wireframe_2d",
+  "kind": "arm",
+  "svg": "armexpg2.svg",
+  "num": "1",
+  "ocr": "Elemental_geometric_shape_ arm. Geometric model",
+  "ref": "Elemental_geometric_shape_arm.Geometric_model",
+  "score": 100,
+  "method": "qualified-verbatim",
+  "flag": ""
+ },
+ {
+  "module": "wireframe_2d",
+  "kind": "arm",
+  "svg": "armexpg2.svg",
+  "num": "2",
+  "ocr": "Geometrically_bounded 2d wireframe_shape_representation",
+  "ref": "Wireframe_2d_arm.Geometrically_bounded_2d_wireframe_shape_representation",
+  "score": 100,
+  "method": "exact-name-local-clean",
+  "flag": ""
+ }
+]

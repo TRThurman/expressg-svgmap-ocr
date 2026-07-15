@@ -1,0 +1,34 @@
+(*"Sequential_laminate_assembly_design_mim.__expressg"
+[.svgmap]
+====
+image::mimexpg1.svg[]
+
+* <<express:Layered_interconnect_module_design_mim.short_listing>>; 1
+* <<express:Sequential_laminate_assembly_design_mim.short_listing>>; 2
+====
+*)
+
+(*"Sequential_laminate_assembly_design_mim.__expressg"
+[.svgmap]
+====
+image::mimexpg2.svg[]
+
+* <<express:Sequential_laminate_assembly_design_mim.slad_groupable_item>>; 1
+* <<express:Sequential_laminate_assembly_design_mim.slad_requirement_assigned_item>>; 2
+* <<express:Requirement_assignment_mim.requirement_assigned_item>>; 3
+* <<express:Interconnect_module_usage_view_mim.interconnect_module_terminal>>; 4
+* <<express:UNRESOLVED>>; 5
+* <<express:group_schema.group_relationship>>; 6
+* <<express:product_definition_schema.product_definition>>; 7
+* <<express:UNRESOLVED>>; 8
+* <<express:material_property_definition_schema.property_definition_relationship>>; 9
+* <<express:Group_mim.groupable_item>>; 10
+* <<express:Assembly_component_mim.physical_component>>; 11
+* <<express:product_property_definition_schema.shape_aspect>>; 12
+* <<express:Sequential_laminate_assembly_design_mim.sequential_laminate_stackup_definition>>; 13
+* <<express:Sequential_laminate_assembly_design_mim.interconnect_module_stratum_based_terminal>>; 14
+* <<express:Sequential_laminate_assembly_design_mim.sequential_laminate_stackup_component>>; 15
+* <<express:Sequential_laminate_assembly_design_mim.sequential_laminate_passage_based_fabrication_joint>>; 16
+* <<express:Sequential_laminate_assembly_design_mim.derived_laminate_assignment>>; 17
+====
+*)

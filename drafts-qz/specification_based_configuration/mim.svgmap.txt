@@ -1,0 +1,30 @@
+(*"Specification_based_configuration_mim.__expressg"
+[.svgmap]
+====
+image::mimexpg1.svg[]
+
+* <<express:product_definition_schema>>; 1
+* <<express:Effectivity_application_mim.short_listing>>; 2
+* <<express:Specification_based_configuration_mim.short_listing>>; 3
+* <<express:management_resources_schema>>; 4
+* <<express:Product_class_mim.short_listing>>; 5
+====
+*)
+
+(*"Specification_based_configuration_mim.__expressg"
+[.svgmap]
+====
+image::mimexpg2.svg[]
+
+* <<express:Specification_based_configuration_mim.configured_effectivity_item>>; 1
+* <<express:Specification_based_configuration_mim.sbc_effectivity_item>>; 2
+* <<express:Specification_based_configuration_mim.configured_effectivity_context_item>>; 3
+* <<express:Effectivity_application_mim.effectivity_item>>; 4
+* <<express:product_definition_schema.product_definition>>; 5
+* <<express:product_concept_schema.product_concept_feature_association>>; 6
+* <<express:management_resources_schema.effectivity_assignment>>; 7
+* <<express:management_resources_schema.effectivity_context_assignment>>; 8
+* <<express:Specification_based_configuration_mim.configured_effectivity_context_assignment>>; 9
+* <<express:Specification_based_configuration_mim.configured_effectivity_assignment>>; 10
+====
+*)

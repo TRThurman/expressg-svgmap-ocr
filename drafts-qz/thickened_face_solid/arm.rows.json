@@ -1,0 +1,101 @@
+[
+ {
+  "module": "thickened_face_solid",
+  "kind": "arm",
+  "svg": "armexpg1.svg",
+  "num": "1",
+  "ocr": "Topologically_bounded_surface arm",
+  "ref": "Topologically_bounded_surface_arm.required_am_arms",
+  "score": 100,
+  "method": "schema->primary",
+  "flag": "convention"
+ },
+ {
+  "module": "thickened_face_solid",
+  "kind": "arm",
+  "svg": "armexpg1.svg",
+  "num": "2",
+  "ocr": "Thickened face_solid_arm",
+  "ref": "Thickened_face_solid_arm.required_am_arms",
+  "score": 100,
+  "method": "schema->primary",
+  "flag": "convention"
+ },
+ {
+  "module": "thickened_face_solid",
+  "kind": "arm",
+  "svg": "armexpg2.svg",
+  "num": "1",
+  "ocr": "Topologically_bounded_surface_arm.Advanced_face",
+  "ref": "Topologically_bounded_surface_arm.Advanced_face",
+  "score": 100,
+  "method": "qualified-verbatim",
+  "flag": ""
+ },
+ {
+  "module": "thickened_face_solid",
+  "kind": "arm",
+  "svg": "armexpg2.svg",
+  "num": "2",
+  "ocr": "Value _with_unit_arm.length_measure",
+  "ref": "Value_with_unit_arm.length_measure",
+  "score": 100,
+  "method": "qualified-verbatim",
+  "flag": ""
+ },
+ {
+  "module": "thickened_face_solid",
+  "kind": "arm",
+  "svg": "armexpg2.svg",
+  "num": "3",
+  "ocr": "Value_with unit arm.length_measure",
+  "ref": "Value_with_unit_arm.length_measure",
+  "score": 100,
+  "method": "qualified-verbatim",
+  "flag": ""
+ },
+ {
+  "module": "thickened_face_solid",
+  "kind": "arm",
+  "svg": "armexpg2.svg",
+  "num": "4",
+  "ocr": "Elemental _geometric_shape_arm. Detailed_geometric_model _element",
+  "ref": "Elemental_geometric_shape_arm.Detailed_geometric_model_element",
+  "score": 100,
+  "method": "qualified-verbatim",
+  "flag": ""
+ },
+ {
+  "module": "thickened_face_solid",
+  "kind": "arm",
+  "svg": "armexpg2.svg",
+  "num": "5",
+  "ocr": "Thickened face solid model element",
+  "ref": "Thickened_face_solid_arm.Thickened_face_solid_model_element",
+  "score": 100,
+  "method": "exact-name-local-clean",
+  "flag": ""
+ },
+ {
+  "module": "thickened_face_solid",
+  "kind": "arm",
+  "svg": "armexpg2.svg",
+  "num": "6",
+  "ocr": "Solid model element",
+  "ref": "Thickened_face_solid_arm.Solid_model_element",
+  "score": 100,
+  "method": "exact-name-local-clean",
+  "flag": ""
+ },
+ {
+  "module": "thickened_face_solid",
+  "kind": "arm",
+  "svg": "armexpg2.svg",
+  "num": "7",
+  "ocr": "*tbsa_detailed_geometric_model_element_subtypes",
+  "ref": "Thickened_face_solid_arm.tbsa_detailed_geometric_model_element_subtypes",
+  "score": 100,
+  "method": "exact-name-local-clean",
+  "flag": ""
+ }
+]

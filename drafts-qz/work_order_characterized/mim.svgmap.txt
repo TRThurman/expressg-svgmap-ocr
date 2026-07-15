@@ -1,0 +1,84 @@
+(*"Work_order_characterized_mim.__expressg"
+[.svgmap]
+====
+image::mimexpg1.svg[]
+
+* <<express:Work_order_characterized_mim.short_listing>>; 1
+* <<express:Work_order_mim.short_listing>>; 2
+* <<express:Ap239_management_resource_information_mim.short_listing>>; 3
+* <<express:Management_resource_information_mim.short_listing>>; 4
+* <<express:action_schema>>; 5
+* <<express:Document_assignment_mim.short_listing>>; 6
+====
+*)
+
+(*"Work_order_characterized_mim.__expressg"
+[.svgmap]
+====
+image::mimexpg2.svg[]
+
+* <<express:action_schema.action_directive>>; 1
+* <<express:action_schema.directed_action>>; 2
+* <<express:Ap239_management_resource_information_mim.ap239_mri_attribute_classification_item>>; 3
+* <<express:Ap239_management_resource_information_mim.ap239_mri_classification_item>>; 4
+* <<express:Document_assignment_mim.document_reference_item>>; 5
+* <<express:Work_order_characterized_mim.wordchar_ap239_mri_attribute_classification_item>>; 6
+* <<express:Work_order_characterized_mim.wordchar_ap239_mri_classification_item>>; 7
+* <<express:Work_order_characterized_mim.wordchar_document_reference_item>>; 8
+====
+*)
+
+(*"Work_order_characterized_mim.__expressg"
+[.svgmap]
+====
+image::mimexpg3.svg[]
+
+* <<express:action_schema.action_directive>>; 1
+* <<express:action_schema.directed_action>>; 2
+* <<express:Management_resource_information_mim.mri_approval_item>>; 3
+* <<express:Management_resource_information_mim.mri_identification_item>>; 4
+* <<express:Work_order_characterized_mim.wordchar_mri_approval_item>>; 5
+* <<express:Work_order_characterized_mim.wordchar_mri_identification_item>>; 6
+====
+*)
+
+(*"Work_order_characterized_mim.__expressg"
+[.svgmap]
+====
+image::mimexpg4.svg[]
+
+* <<express:action_schema.action_directive>>; 1
+* <<express:action_schema.directed_action>>; 2
+* <<express:Management_resource_information_mim.mri_date_and_time_item>>; 3
+* <<express:Management_resource_information_mim.mri_date_item>>; 4
+* <<express:Work_order_characterized_mim.wordchar_mri_date_and_time_item>>; 5
+* <<express:Work_order_characterized_mim.wordchar_mri_date_item>>; 6
+====
+*)
+
+(*"Work_order_characterized_mim.__expressg"
+[.svgmap]
+====
+image::mimexpg5.svg[]
+
+* <<express:action_schema.action_directive>>; 1
+* <<express:action_schema.directed_action>>; 2
+* <<express:Management_resource_information_mim.mri_organization_item>>; 3
+* <<express:Management_resource_information_mim.mri_person_and_organization_item>>; 4
+* <<express:Work_order_characterized_mim.wordchar_mri_organization_item>>; 5
+* <<express:Work_order_characterized_mim.wordchar_mri_person_and_organization_item>>; 6
+====
+*)
+
+(*"Work_order_characterized_mim.__expressg"
+[.svgmap]
+====
+image::mimexpg6.svg[]
+
+* <<express:action_schema.action_directive>>; 1
+* <<express:Management_resource_information_mim.mri_attribute_language_item>>; 2
+* <<express:Management_resource_information_mim.mri_multi_language_attribute_item>>; 3
+* <<express:Work_order_characterized_mim.wordchar_mri_attribute_language_item>>; 4
+* <<express:Work_order_characterized_mim.wordchar_mri_multi_language_attribute_item>>; 5
+====
+*)

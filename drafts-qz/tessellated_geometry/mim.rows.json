@@ -1,0 +1,112 @@
+[
+ {
+  "module": "tessellated_geometry",
+  "kind": "mim",
+  "svg": "mimexpg1.svg",
+  "num": "1",
+  "ocr": "Basic_geometric_topology_nim",
+  "ref": "Basic_geometric_topology_mim.short_listing",
+  "score": 90.56603773584906,
+  "method": "fuzzy-local-schema",
+  "flag": "check"
+ },
+ {
+  "module": "tessellated_geometry",
+  "kind": "mim",
+  "svg": "mimexpg1.svg",
+  "num": "2",
+  "ocr": "geometric_ model schema",
+  "ref": "geometric_model_schema",
+  "score": 100,
+  "method": "schema->primary",
+  "flag": "convention"
+ },
+ {
+  "module": "tessellated_geometry",
+  "kind": "mim",
+  "svg": "mimexpg1.svg",
+  "num": "3",
+  "ocr": "Draughting_element_nim",
+  "ref": "Draughting_element_mim.short_listing",
+  "score": 90.47619047619048,
+  "method": "fuzzy-local-schema",
+  "flag": "check"
+ },
+ {
+  "module": "tessellated_geometry",
+  "kind": "mim",
+  "svg": "mimexpg1.svg",
+  "num": "4",
+  "ocr": "representation schema",
+  "ref": "representation_schema",
+  "score": 100,
+  "method": "schema->primary",
+  "flag": "convention"
+ },
+ {
+  "module": "tessellated_geometry",
+  "kind": "mim",
+  "svg": "mimexpg1.svg",
+  "num": "5",
+  "ocr": "Elemental topology mm",
+  "ref": "Elemental_topology_mim.short_listing",
+  "score": 92.6829268292683,
+  "method": "fuzzy-local-schema",
+  "flag": "check"
+ },
+ {
+  "module": "tessellated_geometry",
+  "kind": "mim",
+  "svg": "mimexpg1.svg",
+  "num": "6",
+  "ocr": "Advanced boundary_representation_nim",
+  "ref": "Advanced_boundary_representation_mim.short_listing",
+  "score": 92.7536231884058,
+  "method": "fuzzy-local-schema",
+  "flag": "check"
+ },
+ {
+  "module": "tessellated_geometry",
+  "kind": "mim",
+  "svg": "mimexpg1.svg",
+  "num": "7",
+  "ocr": "draughting_element_schema",
+  "ref": "draughting_element_schema",
+  "score": 100,
+  "method": "schema->primary",
+  "flag": "convention"
+ },
+ {
+  "module": "tessellated_geometry",
+  "kind": "mim",
+  "svg": "mimexpg1.svg",
+  "num": "8",
+  "ocr": "Basic geometry_nim",
+  "ref": "Basic_geometry_mim.short_listing",
+  "score": 88.23529411764706,
+  "method": "fuzzy-local-schema",
+  "flag": "check"
+ },
+ {
+  "module": "tessellated_geometry",
+  "kind": "mim",
+  "svg": "mimexpg1.svg",
+  "num": "9",
+  "ocr": "Elemental_geometric_shape_nim",
+  "ref": "Elemental_geometric_shape_mim.short_listing",
+  "score": 90.9090909090909,
+  "method": "fuzzy-local-schema",
+  "flag": "check"
+ },
+ {
+  "module": "tessellated_geometry",
+  "kind": "mim",
+  "svg": "mimexpg1.svg",
+  "num": "10",
+  "ocr": "Basic curve mim",
+  "ref": "Basic_curve_mim.short_listing",
+  "score": 100,
+  "method": "schema->primary",
+  "flag": "convention"
+ }
+]

@@ -1,0 +1,178 @@
+[
+ {
+  "module": "single_part_representation",
+  "kind": "mim",
+  "svg": "mimexpg1.svg",
+  "num": "1",
+  "ocr": "Single_part_ representation_mim",
+  "ref": "Single_part_representation_mim.short_listing",
+  "score": 100,
+  "method": "schema->primary",
+  "flag": "convention"
+ },
+ {
+  "module": "single_part_representation",
+  "kind": "mim",
+  "svg": "mimexpg1.svg",
+  "num": "2",
+  "ocr": "Document_assignment _mim",
+  "ref": "Document_assignment_mim.short_listing",
+  "score": 100,
+  "method": "schema->primary",
+  "flag": "convention"
+ },
+ {
+  "module": "single_part_representation",
+  "kind": "mim",
+  "svg": "mimexpg1.svg",
+  "num": "3",
+  "ocr": "Extended_measure_representation_mim",
+  "ref": "Extended_measure_representation_mim.short_listing",
+  "score": 100,
+  "method": "schema->primary",
+  "flag": "convention"
+ },
+ {
+  "module": "single_part_representation",
+  "kind": "mim",
+  "svg": "mimexpg1.svg",
+  "num": "4",
+  "ocr": "Part view_definittion_mim",
+  "ref": "Part_view_definition_mim.short_listing",
+  "score": 91.30434782608697,
+  "method": "fuzzy-local-schema",
+  "flag": "check"
+ },
+ {
+  "module": "single_part_representation",
+  "kind": "mim",
+  "svg": "mimexpg1.svg",
+  "num": "5",
+  "ocr": "Person _organization assignment mim",
+  "ref": "Person_organization_assignment_mim.short_listing",
+  "score": 100,
+  "method": "schema->primary",
+  "flag": "convention"
+ },
+ {
+  "module": "single_part_representation",
+  "kind": "mim",
+  "svg": "mimexpg1.svg",
+  "num": "6",
+  "ocr": "Property assignment mim",
+  "ref": "Property_assignment_mim.short_listing",
+  "score": 100,
+  "method": "schema->primary",
+  "flag": "convention"
+ },
+ {
+  "module": "single_part_representation",
+  "kind": "mim",
+  "svg": "mimexpg1.svg",
+  "num": "7",
+  "ocr": "Shape_property_assignment mim",
+  "ref": "Shape_property_assignment_mim.short_listing",
+  "score": 100,
+  "method": "schema->primary",
+  "flag": "convention"
+ },
+ {
+  "module": "single_part_representation",
+  "kind": "mim",
+  "svg": "mimexpg2.svg",
+  "num": "1",
+  "ocr": "Document assignment_mim. product",
+  "ref": "Document_assignment_mim.Product",
+  "score": 100,
+  "method": "qualified-verbatim-global",
+  "flag": "check+unverified"
+ },
+ {
+  "module": "single_part_representation",
+  "kind": "mim",
+  "svg": "mimexpg2.svg",
+  "num": "2",
+  "ocr": "Document assignment mim. product definition",
+  "ref": "Document_assignment_mim.product_definition",
+  "score": 100,
+  "method": "qualified-verbatim-global",
+  "flag": "check+unverified"
+ },
+ {
+  "module": "single_part_representation",
+  "kind": "mim",
+  "svg": "mimexpg2.svg",
+  "num": "3",
+  "ocr": "Document assignment mim. product definition formation",
+  "ref": "Document_assignment_mim.product_definition_formation",
+  "score": 100,
+  "method": "qualified-verbatim-global",
+  "flag": "check+unverified"
+ },
+ {
+  "module": "single_part_representation",
+  "kind": "mim",
+  "svg": "mimexpg2.svg",
+  "num": "4",
+  "ocr": "Document assignment mim. document reference item",
+  "ref": "Document_assignment_mim.document_reference_item",
+  "score": 100,
+  "method": "qualified-verbatim",
+  "flag": ""
+ },
+ {
+  "module": "single_part_representation",
+  "kind": "mim",
+  "svg": "mimexpg2.svg",
+  "num": "5",
+  "ocr": "Person organization assignment mim. person and organization item",
+  "ref": "Person_organization_assignment_mim.person_and_organization_item",
+  "score": 100,
+  "method": "qualified-verbatim",
+  "flag": ""
+ },
+ {
+  "module": "single_part_representation",
+  "kind": "mim",
+  "svg": "mimexpg2.svg",
+  "num": "6",
+  "ocr": "Person_organization_asslgnment_mim. organization item",
+  "ref": "Person_organization_assignment_mim.organization_item",
+  "score": 93.87755102040816,
+  "method": "fuzzy-local-concat",
+  "flag": "check"
+ },
+ {
+  "module": "single_part_representation",
+  "kind": "mim",
+  "svg": "mimexpg2.svg",
+  "num": "7",
+  "ocr": "spr_document_reference_item",
+  "ref": "Single_part_representation_mim.spr_document_reference_item",
+  "score": 100,
+  "method": "exact-name-local-clean",
+  "flag": ""
+ },
+ {
+  "module": "single_part_representation",
+  "kind": "mim",
+  "svg": "mimexpg2.svg",
+  "num": "8",
+  "ocr": "(EX) *spr_organization_item",
+  "ref": "Single_part_representation_mim.spr_organization_item",
+  "score": 100,
+  "method": "exact-name-local-clean",
+  "flag": ""
+ },
+ {
+  "module": "single_part_representation",
+  "kind": "mim",
+  "svg": "mimexpg2.svg",
+  "num": "9",
+  "ocr": "(EX) *spr_person_and_organization_item",
+  "ref": "Single_part_representation_mim.spr_person_and_organization_item",
+  "score": 100,
+  "method": "exact-name-local-clean",
+  "flag": ""
+ }
+]

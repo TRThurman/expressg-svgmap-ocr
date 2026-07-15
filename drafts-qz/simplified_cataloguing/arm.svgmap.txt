@@ -1,0 +1,6 @@
+(*"Simplified_cataloguing_arm.__expressg"
+[.svgmap]
+====
+image::armexpg1.svg[]
+====
+*)

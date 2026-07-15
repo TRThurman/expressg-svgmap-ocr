@@ -1,0 +1,72 @@
+(*"Work_request_characterized_arm.__expressg"
+[.svgmap]
+====
+image::armexpg1.svg[]
+
+* <<express:Work_request_characterized_arm.required_am_arms>>; 1
+* <<express:Ap239_management_resource_information_arm.required_am_arms>>; 2
+* <<express:Work_request_arm.required_am_arms>>; 3
+* <<express:Management_resource_information_arm.required_am_arms>>; 4
+* <<express:Document_assignment_arm.required_am_arms>>; 5
+====
+*)
+
+(*"Work_request_characterized_arm.__expressg"
+[.svgmap]
+====
+image::armexpg2.svg[]
+
+* <<express:Ap239_management_resource_information_arm.ap239_mri_classification_item>>; 1
+* <<express:Ap239_management_resource_information_arm.ap239_mri_classified_attribute_select>>; 2
+* <<express:Work_request_arm.Work_request>>; 3
+* <<express:Work_request_arm.Work_request_status>>; 4
+* <<express:Work_request_arm.Affected_items_assignment>>; 5
+* <<express:Work_request_arm.Activity_method_assignment>>; 6
+* <<express:Work_request_characterized_arm.wreqchar_ap239_mri_classification_item>>; 7
+* <<express:Work_request_characterized_arm.wreqchar_ap239_mri_classified_attribute_select>>; 8
+====
+*)
+
+(*"Work_request_characterized_arm.__expressg"
+[.svgmap]
+====
+image::armexpg3.svg[]
+
+* <<express:Management_resource_information_arm.mri_approval_item>>; 1
+* <<express:Management_resource_information_arm.mri_identification_item>>; 2
+* <<express:Work_request_arm.Work_request>>; 3
+* <<express:Work_request_arm.Affected_items_assignment>>; 4
+* <<express:Work_request_arm.Activity_method_assignment>>; 5
+* <<express:Work_request_characterized_arm.wreqchar_mri_approval_item>>; 6
+* <<express:Work_request_characterized_arm.wreqchar_mri_identification_item>>; 7
+====
+*)
+
+(*"Work_request_characterized_arm.__expressg"
+[.svgmap]
+====
+image::armexpg4.svg[]
+
+* <<express:Management_resource_information_arm.mri_date_or_date_time_item>>; 1
+* <<express:Management_resource_information_arm.mri_organization_or_person_in_organization_item>>; 2
+* <<express:Work_request_arm.Work_request>>; 3
+* <<express:Work_request_arm.Affected_items_assignment>>; 4
+* <<express:Work_request_arm.Activity_method_assignment>>; 5
+* <<express:Work_request_characterized_arm.wreqchar_mri_date_or_date_time_item>>; 6
+* <<express:Work_request_characterized_arm.wreqchar_mri_organization_or_person_in_organization_item>>; 7
+====
+*)
+
+(*"Work_request_characterized_arm.__expressg"
+[.svgmap]
+====
+image::armexpg5.svg[]
+
+* <<express:Document_assignment_arm.documented_element_select>>; 1
+* <<express:Management_resource_information_arm.mri_string_select>>; 2
+* <<express:Work_request_arm.Work_request>>; 3
+* <<express:Work_request_arm.Activity_method_assignment>>; 4
+* <<express:Work_request_characterized_arm.wreqchar_documented_element_select>>; 5
+* <<express:Work_request_characterized_arm.wreqchar_mri_string_select>>; 6
+====
+*)

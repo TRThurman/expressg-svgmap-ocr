@@ -1,0 +1,344 @@
+(*"Triangulated_shape_data_quality_arm.__expressg"
+[.svgmap]
+====
+image::armexpg1.svg[]
+
+* <<express:Tessellated_geometry_arm.required_am_arms>>; 1
+* <<express:Support_resource_arm.required_am_arms>>; 2
+* <<express:Annotated_3d_model_data_quality_criteria_arm.required_am_arms>>; 3
+* <<express:Triangulated_shape_data_quality_arm.required_am_arms>>; 4
+* <<express:Annotated_3d_model_data_quality_inspection_result_arm.required_am_arms>>; 5
+====
+*)
+
+(*"Triangulated_shape_data_quality_arm.__expressg"
+[.svgmap]
+====
+image::armexpg2.svg[]
+
+* <<express:Triangulated_shape_data_quality_arm.tsdq_inspected_model_select>>; 1
+* <<express:Triangulated_shape_data_quality_arm.tsdq_measured_data_type_name>>; 2
+* <<express:Triangulated_shape_data_quality_arm.tsdq_inspected_element_type_name>>; 3
+* <<express:Triangulated_shape_data_quality_arm.A3m_erroneous_triangulated_shape_data>>; 4
+* <<express:Triangulated_shape_data_quality_arm.tsdq_type_name_for_location_of_extreme_value>>; 5
+* <<express:Triangulated_shape_data_quality_arm.A3m_inapt_triangulated_shape_data>>; 6
+* <<express:Annotated_3d_model_data_quality_inspection_result_arm.A3m_data_quality_inspection_result>>; 7
+* <<express:Annotated_3d_model_data_quality_inspection_result_arm.a3m_data_quality_inspected_model_select>>; 8
+* <<express:Elemental_geometric_shape_arm.Geometric_model>>; 9
+* <<express:Annotated_3d_model_data_quality_criteria_arm.a3m_data_quality_accuracy_type_name>>; 10
+* <<express:Annotated_3d_model_data_quality_criteria_arm.A3m_data_quality_criterion>>; 11
+* <<express:Triangulated_shape_data_quality_arm.A3m_triangulated_shape_data_quality_inspection_result>>; 12
+* <<express:Triangulated_shape_data_quality_arm.A3m_triangulated_shape_data_quality_criterion>>; 13
+====
+*)
+
+(*"Triangulated_shape_data_quality_arm.__expressg"
+[.svgmap]
+====
+image::armexpg3.svg[]
+
+* <<express:Triangulated_shape_data_quality_arm.tsdq_type_name_for_location_of_extreme_value>>; 1
+* <<express:Triangulated_shape_data_quality_arm.Non_manifold_at_triangle_vertex>>; 2
+* <<express:Triangulated_shape_data_quality_arm.Triangle_edge_in_free_edge_loop>>; 3
+* <<express:Triangulated_shape_data_quality_arm.tsdq_inspected_element_type_name>>; 4
+* <<express:Triangulated_shape_data_quality_arm.Non_manifold_at_triangle_edge>>; 5
+* <<express:Triangulated_shape_data_quality_arm.tsdq_measured_data_type_name>>; 6
+* <<express:Triangulated_shape_data_quality_arm.tsdq_measured_data_type_name>>; 7
+* <<express:Triangulated_shape_data_quality_arm.tsdq_inspected_element_type_name>>; 8
+* <<express:Triangulated_shape_data_quality_arm.tsdq_type_name_for_location_of_extreme_value>>; 9
+* <<express:Triangulated_shape_data_quality_arm.10>>; 10
+* <<express:Value_with_unit_arm.positive_length_measure>>; 11
+* <<express:Annotated_3d_model_data_quality_criteria_arm.A3m_data_quality_assessment_by_logical_test>>; 12
+* <<express:Annotated_3d_model_data_quality_criteria_arm.A3m_data_quality_assessment_by_logical_test>>; 13
+* <<express:Triangulated_shape_data_quality_arm.Inconsistent_normals_of_adjacent_triangles>>; 14
+* <<express:Triangulated_shape_data_quality_arm.A3m_erroneous_triangulated_shape_data>>; 15
+* <<express:Triangulated_shape_data_quality_arm.Inconsistent_normals_of_adjacent_faces>>; 16
+====
+*)
+
+(*"Triangulated_shape_data_quality_arm.__expressg"
+[.svgmap]
+====
+image::armexpg4.svg[]
+
+* <<express:Triangulated_shape_data_quality_arm.tsdq_type_name_for_location_of_extreme_value>>; 1
+* <<express:Triangulated_shape_data_quality_arm.tsdq_type_name_for_location_of_extreme_value>>; 2
+* <<express:Triangulated_shape_data_quality_arm.tsdq_inspected_element_type_name>>; 3
+* <<express:Triangulated_shape_data_quality_arm.tsdq_measured_data_type_name>>; 4
+* <<express:Triangulated_shape_data_quality_arm.tsdq_measured_data_type_name>>; 5
+* <<express:Triangulated_shape_data_quality_arm.tsdq_inspected_element_type_name>>; 6
+* <<express:Triangulated_shape_data_quality_arm.tsdq_measured_data_type_name>>; 7
+* <<express:Triangulated_shape_data_quality_arm.tsdq_type_name_for_location_of_extreme_value>>; 8
+* <<express:Triangulated_shape_data_quality_arm.tsdq_inspected_element_type_name>>; 9
+* <<express:Triangulated_shape_data_quality_arm.10>>; 10
+* <<express:Triangulated_shape_data_quality_arm.11>>; 11
+* <<express:Triangulated_shape_data_quality_arm.12>>; 12
+* <<express:Annotated_3d_model_data_quality_criteria_arm.A3m_data_quality_assessment_by_logical_test>>; 13
+* <<express:Value_with_unit_arm.positive_length_measure>>; 14
+* <<express:Annotated_3d_model_data_quality_criteria_arm.A3m_data_quality_assessment_by_logical_test>>; 15
+* <<express:Value_with_unit_arm.positive_length_measure>>; 16
+* <<express:Value_with_unit_arm.positive_length_measure>>; 17
+* <<express:Annotated_3d_model_data_quality_criteria_arm.A3m_data_quality_assessment_by_logical_test>>; 18
+* <<express:Triangulated_shape_data_quality_arm.Non_manifold_at_triangle_edge>>; 19
+* <<express:Triangulated_shape_data_quality_arm.Non_manifold_at_triangle_vertex>>; 20
+* <<express:Triangulated_shape_data_quality_arm.Triangle_edge_in_free_edge_loop>>; 21
+====
+*)
+
+(*"Triangulated_shape_data_quality_arm.__expressg"
+[.svgmap]
+====
+image::armexpg5.svg[]
+
+* <<express:Triangulated_shape_data_quality_arm.Small_triangulated_shell>>; 1
+* <<express:Triangulated_shape_data_quality_arm.Thin_slit_in_triangulated_shell_or_solid>>; 2
+* <<express:Triangulated_shape_data_quality_arm.Abrupt_normal_change_of_adjacent_triangles>>; 3
+* <<express:Triangulated_shape_data_quality_arm.Nearly_overlapping_triangles>>; 4
+* <<express:Triangulated_shape_data_quality_arm.Non_homogeneous_triangle_size>>; 5
+* <<express:Triangulated_shape_data_quality_arm.Thin_thickness_of_triangulated_shell_or_solid>>; 6
+* <<express:Triangulated_shape_data_quality_arm.Large_number_of_triangles>>; 7
+* <<express:Triangulated_shape_data_quality_arm.Short_height_triangle>>; 8
+* <<express:Triangulated_shape_data_quality_arm.Gap_in_triangulated_face>>; 9
+* <<express:Triangulated_shape_data_quality_arm.Gap_in_triangulated_shell_or_solid>>; 10
+* <<express:Triangulated_shape_data_quality_arm.Abrupt_normal_change_of_adjacent_faces>>; 11
+* <<express:Triangulated_shape_data_quality_arm.Self_intersecting_triangulated_face>>; 12
+* <<express:Triangulated_shape_data_quality_arm.Short_triangle_edge>>; 13
+* <<express:Triangulated_shape_data_quality_arm.Inconsistent_triangle_normal_and_normal_at_vertex>>; 14
+* <<express:Triangulated_shape_data_quality_arm.Sharp_triangle_vertex>>; 15
+* <<express:Triangulated_shape_data_quality_arm.Inner_void_in_triangulated_solid>>; 16
+* <<express:Triangulated_shape_data_quality_arm.Self_intersecting_triangulated_shell_or_solid>>; 17
+* <<express:Triangulated_shape_data_quality_arm.Large_aspect_ratio_triangle>>; 18
+* <<express:Triangulated_shape_data_quality_arm.19>>; 19
+* <<express:Triangulated_shape_data_quality_arm.A3m_inapt_triangulated_shape_data>>; 20
+====
+*)
+
+(*"Triangulated_shape_data_quality_arm.__expressg"
+[.svgmap]
+====
+image::armexpg6.svg[]
+
+* <<express:Triangulated_shape_data_quality_arm.tsdq_type_name_for_location_of_extreme_value>>; 1
+* <<express:Triangulated_shape_data_quality_arm.tsdq_measured_data_type_name>>; 2
+* <<express:Triangulated_shape_data_quality_arm.tsdq_measured_data_type_name>>; 3
+* <<express:Triangulated_shape_data_quality_arm.tsdq_inspected_element_type_name>>; 4
+* <<express:Triangulated_shape_data_quality_arm.tsdq_type_name_for_location_of_extreme_value>>; 5
+* <<express:Triangulated_shape_data_quality_arm.tsdq_inspected_element_type_name>>; 6
+* <<express:Triangulated_shape_data_quality_arm.tsdq_type_name_for_location_of_extreme_value>>; 7
+* <<express:Triangulated_shape_data_quality_arm.tsdq_inspected_element_type_name>>; 8
+* <<express:Triangulated_shape_data_quality_arm.tsdq_measured_data_type_name>>; 9
+* <<express:Triangulated_shape_data_quality_arm.10>>; 10
+* <<express:Triangulated_shape_data_quality_arm.11>>; 11
+* <<express:Triangulated_shape_data_quality_arm.12>>; 12
+* <<express:Annotated_3d_model_data_quality_criteria_arm.A3m_data_quality_assessment_by_numerical_test>>; 13
+* <<express:Value_with_unit_arm.positive_length_measure>>; 14
+* <<express:Annotated_3d_model_data_quality_criteria_arm.A3m_data_quality_assessment_by_numerical_test>>; 15
+* <<express:Annotated_3d_model_data_quality_criteria_arm.A3m_data_quality_assessment_by_numerical_test>>; 16
+* <<express:Triangulated_shape_data_quality_arm.Abrupt_normal_change_of_adjacent_faces>>; 17
+* <<express:Triangulated_shape_data_quality_arm.Inconsistent_triangle_normal_and_normal_at_vertex>>; 18
+* <<express:Triangulated_shape_data_quality_arm.Abrupt_normal_change_of_adjacent_triangles>>; 19
+====
+*)
+
+(*"Triangulated_shape_data_quality_arm.__expressg"
+[.svgmap]
+====
+image::armexpg7.svg[]
+
+* <<express:Triangulated_shape_data_quality_arm.tsdq_inspected_element_type_name>>; 1
+* <<express:Triangulated_shape_data_quality_arm.tsdq_measured_data_type_name>>; 2
+* <<express:Triangulated_shape_data_quality_arm.tsdq_inspected_element_type_name>>; 3
+* <<express:Triangulated_shape_data_quality_arm.tsdq_measured_data_type_name>>; 4
+* <<express:Triangulated_shape_data_quality_arm.tsdq_type_name_for_location_of_extreme_value>>; 5
+* <<express:Triangulated_shape_data_quality_arm.tsdq_inspected_element_type_name>>; 6
+* <<express:Triangulated_shape_data_quality_arm.tsdq_measured_data_type_name>>; 7
+* <<express:Triangulated_shape_data_quality_arm.tsdq_type_name_for_location_of_extreme_value>>; 8
+* <<express:Triangulated_shape_data_quality_arm.tsdq_type_name_for_location_of_extreme_value>>; 9
+* <<express:Triangulated_shape_data_quality_arm.10>>; 10
+* <<express:Triangulated_shape_data_quality_arm.11>>; 11
+* <<express:Triangulated_shape_data_quality_arm.12>>; 12
+* <<express:Annotated_3d_model_data_quality_criteria_arm.A3m_data_quality_assessment_by_logical_test>>; 13
+* <<express:Annotated_3d_model_data_quality_criteria_arm.A3m_data_quality_assessment_by_numerical_test>>; 14
+* <<express:Value_with_unit_arm.positive_length_measure>>; 15
+* <<express:Value_with_unit_arm.positive_length_measure>>; 16
+* <<express:Annotated_3d_model_data_quality_criteria_arm.A3m_data_quality_assessment_by_logical_test>>; 17
+* <<express:Value_with_unit_arm.positive_length_measure>>; 18
+* <<express:Triangulated_shape_data_quality_arm.Gap_in_triangulated_shell_or_solid>>; 19
+* <<express:Triangulated_shape_data_quality_arm.Gap_in_triangulated_face>>; 20
+* <<express:Triangulated_shape_data_quality_arm.Large_aspect_ratio_triangle>>; 21
+====
+*)
+
+(*"Triangulated_shape_data_quality_arm.__expressg"
+[.svgmap]
+====
+image::armexpg8.svg[]
+
+* <<express:Triangulated_shape_data_quality_arm.tsdq_measured_data_type_name>>; 1
+* <<express:Triangulated_shape_data_quality_arm.tsdq_measured_data_type_name>>; 2
+* <<express:Triangulated_shape_data_quality_arm.tsdq_type_name_for_location_of_extreme_value>>; 3
+* <<express:Triangulated_shape_data_quality_arm.tsdq_inspected_element_type_name>>; 4
+* <<express:Triangulated_shape_data_quality_arm.tsdq_measured_data_type_name>>; 5
+* <<express:Triangulated_shape_data_quality_arm.tsdq_inspected_element_type_name>>; 6
+* <<express:Triangulated_shape_data_quality_arm.tsdq_type_name_for_location_of_extreme_value>>; 7
+* <<express:Triangulated_shape_data_quality_arm.tsdq_inspected_element_type_name>>; 8
+* <<express:Triangulated_shape_data_quality_arm.tsdq_type_name_for_location_of_extreme_value>>; 9
+* <<express:Triangulated_shape_data_quality_arm.10>>; 10
+* <<express:Triangulated_shape_data_quality_arm.11>>; 11
+* <<express:Triangulated_shape_data_quality_arm.12>>; 12
+* <<express:Annotated_3d_model_data_quality_criteria_arm.A3m_data_quality_assessment_by_numerical_test>>; 13
+* <<express:Annotated_3d_model_data_quality_criteria_arm.A3m_data_quality_assessment_by_numerical_test>>; 14
+* <<express:Annotated_3d_model_data_quality_criteria_arm.A3m_data_quality_assessment_by_numerical_test>>; 15
+* <<express:Triangulated_shape_data_quality_arm.Non_homogeneous_triangle_size>>; 16
+* <<express:Triangulated_shape_data_quality_arm.Nearly_overlapping_triangles>>; 17
+* <<express:Triangulated_shape_data_quality_arm.Large_number_of_triangles>>; 18
+====
+*)
+
+(*"Triangulated_shape_data_quality_arm.__expressg"
+[.svgmap]
+====
+image::armexpg9.svg[]
+
+* <<express:Triangulated_shape_data_quality_arm.tsdq_measured_data_type_name>>; 1
+* <<express:Triangulated_shape_data_quality_arm.tsdq_measured_data_type_name>>; 2
+* <<express:Triangulated_shape_data_quality_arm.tsdq_inspected_element_type_name>>; 3
+* <<express:Triangulated_shape_data_quality_arm.tsdq_inspected_element_type_name>>; 4
+* <<express:Triangulated_shape_data_quality_arm.tsdq_type_name_for_location_of_extreme_value>>; 5
+* <<express:Triangulated_shape_data_quality_arm.tsdq_measured_data_type_name>>; 6
+* <<express:Triangulated_shape_data_quality_arm.tsdq_type_name_for_location_of_extreme_value>>; 7
+* <<express:Triangulated_shape_data_quality_arm.tsdq_inspected_element_type_name>>; 8
+* <<express:Triangulated_shape_data_quality_arm.tsdq_type_name_for_location_of_extreme_value>>; 9
+* <<express:Triangulated_shape_data_quality_arm.10>>; 10
+* <<express:Triangulated_shape_data_quality_arm.11>>; 11
+* <<express:Triangulated_shape_data_quality_arm.12>>; 12
+* <<express:Value_with_unit_arm.positive_length_measure>>; 13
+* <<express:Annotated_3d_model_data_quality_criteria_arm.A3m_data_quality_assessment_by_numerical_test>>; 14
+* <<express:Annotated_3d_model_data_quality_criteria_arm.A3m_data_quality_assessment_by_numerical_test>>; 15
+* <<express:Annotated_3d_model_data_quality_criteria_arm.A3m_data_quality_assessment_by_numerical_test>>; 16
+* <<express:Triangulated_shape_data_quality_arm.Sharp_triangle_vertex>>; 17
+* <<express:Triangulated_shape_data_quality_arm.Self_intersecting_triangulated_shell_or_solid>>; 18
+* <<express:Triangulated_shape_data_quality_arm.Self_intersecting_triangulated_face>>; 19
+====
+*)
+
+(*"Triangulated_shape_data_quality_arm.__expressg"
+[.svgmap]
+====
+image::armexpg10.svg[]
+
+* <<express:Triangulated_shape_data_quality_arm.tsdq_inspected_element_type_name>>; 1
+* <<express:Triangulated_shape_data_quality_arm.tsdq_inspected_element_type_name>>; 2
+* <<express:Triangulated_shape_data_quality_arm.tsdq_type_name_for_location_of_extreme_value>>; 3
+* <<express:Triangulated_shape_data_quality_arm.tsdq_type_name_for_location_of_extreme_value>>; 4
+* <<express:Triangulated_shape_data_quality_arm.tsdq_measured_data_type_name>>; 5
+* <<express:Triangulated_shape_data_quality_arm.tsdq_inspected_element_type_name>>; 6
+* <<express:Triangulated_shape_data_quality_arm.tsdq_measured_data_type_name>>; 7
+* <<express:Triangulated_shape_data_quality_arm.tsdq_measured_data_type_name>>; 8
+* <<express:Triangulated_shape_data_quality_arm.tsdq_type_name_for_location_of_extreme_value>>; 9
+* <<express:Triangulated_shape_data_quality_arm.10>>; 10
+* <<express:Triangulated_shape_data_quality_arm.11>>; 11
+* <<express:Triangulated_shape_data_quality_arm.12>>; 12
+* <<express:Annotated_3d_model_data_quality_criteria_arm.A3m_data_quality_assessment_by_numerical_test>>; 13
+* <<express:Annotated_3d_model_data_quality_criteria_arm.A3m_data_quality_assessment_by_numerical_test>>; 14
+* <<express:Annotated_3d_model_data_quality_criteria_arm.A3m_data_quality_assessment_by_numerical_test>>; 15
+* <<express:Triangulated_shape_data_quality_arm.Short_height_triangle>>; 16
+* <<express:Triangulated_shape_data_quality_arm.Short_triangle_edge>>; 17
+* <<express:Triangulated_shape_data_quality_arm.Small_triangulated_shell>>; 18
+====
+*)
+
+(*"Triangulated_shape_data_quality_arm.__expressg"
+[.svgmap]
+====
+image::armexpg11.svg[]
+
+* <<express:Triangulated_shape_data_quality_arm.tsdq_measured_data_type_name>>; 1
+* <<express:Triangulated_shape_data_quality_arm.tsdq_type_name_for_location_of_extreme_value>>; 2
+* <<express:Triangulated_shape_data_quality_arm.tsdq_type_name_for_location_of_extreme_value>>; 3
+* <<express:Triangulated_shape_data_quality_arm.tsdq_inspected_element_type_name>>; 4
+* <<express:Triangulated_shape_data_quality_arm.tsdq_measured_data_type_name>>; 5
+* <<express:Triangulated_shape_data_quality_arm.tsdq_type_name_for_location_of_extreme_value>>; 6
+* <<express:Triangulated_shape_data_quality_arm.tsdq_measured_data_type_name>>; 7
+* <<express:Triangulated_shape_data_quality_arm.tsdq_inspected_element_type_name>>; 8
+* <<express:Triangulated_shape_data_quality_arm.tsdq_inspected_element_type_name>>; 9
+* <<express:Triangulated_shape_data_quality_arm.10>>; 10
+* <<express:Triangulated_shape_data_quality_arm.11>>; 11
+* <<express:Triangulated_shape_data_quality_arm.12>>; 12
+* <<express:Annotated_3d_model_data_quality_criteria_arm.A3m_data_quality_assessment_by_logical_test>>; 13
+* <<express:Annotated_3d_model_data_quality_criteria_arm.A3m_data_quality_assessment_by_numerical_test>>; 14
+* <<express:Annotated_3d_model_data_quality_criteria_arm.A3m_data_quality_assessment_by_numerical_test>>; 15
+* <<express:Triangulated_shape_data_quality_arm.Inner_void_in_triangulated_solid>>; 16
+* <<express:Triangulated_shape_data_quality_arm.Thin_thickness_of_triangulated_shell_or_solid>>; 17
+* <<express:Triangulated_shape_data_quality_arm.Thin_slit_in_triangulated_shell_or_solid>>; 18
+====
+*)
+
+(*"Triangulated_shape_data_quality_arm.__expressg"
+[.svgmap]
+====
+image::armexpg12.svg[]
+
+* <<express:Triangulated_shape_data_quality_arm.tsdq_measured_value_select>>; 1
+* <<express:Value_with_unit_arm.ratio_measure>>; 2
+* <<express:Value_with_unit_arm.positive_length_measure>>; 3
+* <<express:Value_with_unit_arm.area_measure>>; 4
+* <<express:Annotated_3d_model_data_quality_criteria_arm.a3m_data_quality_measured_data_type_name>>; 5
+* <<express:Annotated_3d_model_data_quality_criteria_arm.a3m_data_quality_type_name_for_location_of_extreme_value>>; 6
+* <<express:Value_with_unit_arm.count_measure>>; 7
+* <<express:Value_with_unit_arm.positive_plane_angle_measure>>; 8
+* <<express:Annotated_3d_model_data_quality_criteria_arm.a3m_data_quality_inspected_element_type_name>>; 9
+* <<express:Annotated_3d_model_data_quality_inspection_result_arm.a3m_data_quality_measured_value_select>>; 10
+* <<express:Triangulated_shape_data_quality_arm.tsdq_type_name_for_location_of_extreme_value>>; 11
+* <<express:Triangulated_shape_data_quality_arm.tsdq_measured_data_type_name>>; 12
+* <<express:Triangulated_shape_data_quality_arm.tsdq_inspected_element_type_name>>; 13
+====
+*)
+
+(*"Triangulated_shape_data_quality_arm.__expressg"
+[.svgmap]
+====
+image::armexpg13.svg[]
+
+* <<express:Triangulated_shape_data_quality_arm.tsdq_location_of_extreme_value_select>>; 1
+* <<express:Triangulated_shape_data_quality_arm.tsdq_triangulated_location_of_extreme_value_select>>; 2
+* <<express:Triangulated_shape_data_quality_arm.tsdq_inspected_element_select>>; 3
+* <<express:Triangulated_shape_data_quality_arm.tsdq_triangulated_inspected_element_select>>; 4
+* <<express:Triangulated_shape_data_quality_arm.Representative_triangle>>; 5
+* <<express:Triangulated_shape_data_quality_arm.Adjacent_triangle_pair>>; 6
+* <<express:Triangulated_shape_data_quality_arm.Triangle_vertex>>; 7
+* <<express:Triangulated_shape_data_quality_arm.Adjacent_triangulated_face_pair>>; 8
+* <<express:Triangulated_shape_data_quality_arm.Triangle_vertex>>; 9
+* <<express:Triangulated_shape_data_quality_arm.Representative_triangle>>; 10
+* <<express:Triangulated_shape_data_quality_arm.Triangle_edge>>; 11
+* <<express:Triangulated_shape_data_quality_arm.Triangle_edge>>; 12
+* <<express:Tessellated_geometry_arm.Tessellated_shell>>; 13
+* <<express:Tessellated_geometry_arm.Tessellated_connecting_edge>>; 14
+* <<express:Tessellated_geometry_arm.Tessellated_solid>>; 15
+* <<express:Product_data_quality_inspection_result_arm.inspected_element_select>>; 16
+* <<express:Tessellated_geometry_arm.Triangulated_face>>; 17
+* <<express:Tessellated_geometry_arm.Triangulated_face>>; 18
+* <<express:Tessellated_geometry_arm.Tessellated_shell>>; 19
+* <<express:Annotated_3d_model_data_quality_inspection_result_arm.a3m_location_of_extreme_value_select>>; 20
+* <<express:Triangulated_shape_data_quality_arm.Tsdq_location_of_extreme_value>>; 21
+* <<express:Triangulated_shape_data_quality_arm.Tsdq_inspection_element>>; 22
+====
+*)
+
+(*"Triangulated_shape_data_quality_arm.__expressg"
+[.svgmap]
+====
+image::armexpg14.svg[]
+
+* <<express:Elemental_geometric_shape_arm.Detailed_geometric_model_element>>; 1
+* <<express:Tessellated_geometry_arm.Triangulated_face>>; 2
+* <<express:Tessellated_geometry_arm.Triangulated_face>>; 3
+* <<express:Elemental_geometric_shape_arm.Detailed_geometric_model_element>>; 4
+* <<express:Triangulated_shape_data_quality_arm.Adjacent_triangulated_face_pair>>; 5
+* <<express:Triangulated_shape_data_quality_arm.Triangulated_face_element>>; 6
+* <<express:Triangulated_shape_data_quality_arm.Adjacent_triangle_pair>>; 7
+* <<express:Triangulated_shape_data_quality_arm.Triangle_vertex>>; 8
+* <<express:Triangulated_shape_data_quality_arm.Triangle_edge>>; 9
+* <<express:Triangulated_shape_data_quality_arm.Representative_triangle>>; 10
+====
+*)

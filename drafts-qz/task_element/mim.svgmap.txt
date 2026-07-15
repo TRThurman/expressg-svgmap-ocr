@@ -1,0 +1,40 @@
+(*"Task_element_mim.__expressg"
+[.svgmap]
+====
+image::mimexpg1.svg[]
+
+* <<express:Task_element_mim.short_listing>>; 1
+* <<express:Activity_method_assignment_mim.short_listing>>; 2
+* <<express:Condition_mim.short_listing>>; 3
+* <<express:method_definition_schema>>; 4
+* <<express:measure_schema>>; 5
+* <<express:support_resource_schema>>; 6
+====
+*)
+
+(*"Task_element_mim.__expressg"
+[.svgmap]
+====
+image::mimexpg2.svg[]
+
+* <<express:Condition_mim.action_method>>; 1
+* <<express:Condition_mim.action_method_relationship>>; 2
+* <<express:Task_element_mim.end_task>>; 3
+* <<express:Task_element_mim.task_element_sequence>>; 4
+* <<express:UNRESOLVED>>; 5
+* <<express:measure_schema.count_measure>>; 6
+* <<express:method_definition_schema.action_method_to_select_from>>; 7
+* <<express:support_resource_schema.text>>; 8
+* <<express:Task_element_mim.concurrent_task_element>>; 9
+* <<express:Task_element_mim.decision_point>>; 10
+* <<express:Task_element_mim.end_task>>; 11
+* <<express:Task_element_mim.exit_loop>>; 12
+* <<express:Task_element_mim.looping_element>>; 13
+* <<express:Task_element_mim.start_task>>; 14
+* <<express:Task_element_mim.task_element>>; 15
+* <<express:Task_element_mim.task_element_relationship>>; 16
+* <<express:Task_element_mim.task_element_sequence>>; 17
+* <<express:Task_element_mim.task_step>>; 18
+* <<express:Task_element_mim.restrict_task_method_subtypes>>; 19
+====
+*)

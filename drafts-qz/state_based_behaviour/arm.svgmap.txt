@@ -1,0 +1,29 @@
+(*"State_based_behaviour_arm.__expressg"
+[.svgmap]
+====
+image::armexpg1.svg[]
+
+* <<express:State_based_behaviour_arm.required_am_arms>>; 1
+* <<express:Activity_method_assignment_arm.required_am_arms>>; 2
+* <<express:Behaviour_description_assignment_arm.required_am_arms>>; 3
+* <<express:Collection_identification_and_version_arm.required_am_arms>>; 4
+* <<express:Condition_arm.required_am_arms>>; 5
+* <<express:Description_assignment_arm.required_am_arms>>; 6
+* <<express:Expression_assignment_arm.required_am_arms>>; 7
+* <<express:External_state_based_behaviour_model_arm.required_am_arms>>; 8
+* <<express:General_model_parameter_arm.required_am_arms>>; 9
+* <<express:Identification_relationship_arm.required_am_arms>>; 10
+* <<express:Process_property_assignment_arm.required_am_arms>>; 11
+* <<express:Same_as_external_item_arm.required_am_arms>>; 12
+* <<express:Textual_expression_representation_arm.required_am_arms>>; 13
+====
+*)
+
+(*"State_based_behaviour_arm.__expressg"
+[.svgmap]
+====
+image::armexpg2.svg[]
+
+* <<express:State_based_behaviour_arm.required_am_arms>>; 19
+====
+*)

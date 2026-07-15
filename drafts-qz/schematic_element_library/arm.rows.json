@@ -1,0 +1,46 @@
+[
+ {
+  "module": "schematic_element_library",
+  "kind": "arm",
+  "svg": "armexpg1.svg",
+  "num": "1",
+  "ocr": "Schematic_element_library_arm",
+  "ref": "Schematic_element_library_arm.required_am_arms",
+  "score": 100,
+  "method": "schema->primary",
+  "flag": "convention"
+ },
+ {
+  "module": "schematic_element_library",
+  "kind": "arm",
+  "svg": "armexpg1.svg",
+  "num": "2",
+  "ocr": "Schematic_elemnent_arm",
+  "ref": "Schematic_element_arm.required_am_arms",
+  "score": 92.6829268292683,
+  "method": "fuzzy-local-schema",
+  "flag": "check"
+ },
+ {
+  "module": "schematic_element_library",
+  "kind": "arm",
+  "svg": "armexpg1.svg",
+  "num": "3",
+  "ocr": "Symb olization_by_schenatic_element_arm",
+  "ref": "Symbolization_by_schematic_element_arm.required_am_arms",
+  "score": 91.66666666666666,
+  "method": "fuzzy-local-schema",
+  "flag": "check"
+ },
+ {
+  "module": "schematic_element_library",
+  "kind": "arm",
+  "svg": "armexpg1.svg",
+  "num": "4",
+  "ocr": "Set_theory_arm",
+  "ref": "Set_theory_arm.required_am_arms",
+  "score": 100,
+  "method": "schema->primary",
+  "flag": "convention"
+ }
+]

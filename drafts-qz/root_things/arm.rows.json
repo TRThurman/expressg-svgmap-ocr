@@ -1,0 +1,200 @@
+[
+ {
+  "module": "root_things",
+  "kind": "arm",
+  "svg": "armexpg1.svg",
+  "num": "1",
+  "ocr": "Root things_arm",
+  "ref": "Root_things_arm.required_am_arms",
+  "score": 100,
+  "method": "schema->primary",
+  "flag": "convention"
+ },
+ {
+  "module": "root_things",
+  "kind": "arm",
+  "svg": "armexpg1.svg",
+  "num": "2",
+  "ocr": "Class_arm",
+  "ref": "Class_arm.required_am_arms",
+  "score": 100,
+  "method": "schema->primary",
+  "flag": "convention"
+ },
+ {
+  "module": "root_things",
+  "kind": "arm",
+  "svg": "armexpg1.svg",
+  "num": "3",
+  "ocr": "Data_creation_and_maintenance_activity_arm",
+  "ref": "Data_creation_and_maintenance_activity_arm.required_am_arms",
+  "score": 100,
+  "method": "schema->primary",
+  "flag": "convention"
+ },
+ {
+  "module": "root_things",
+  "kind": "arm",
+  "svg": "armexpg1.svg",
+  "num": "4",
+  "ocr": "Document and_version identification_arm",
+  "ref": "Document_and_version_identification_arm.required_am_arms",
+  "score": 100,
+  "method": "schema->primary",
+  "flag": "convention"
+ },
+ {
+  "module": "root_things",
+  "kind": "arm",
+  "svg": "armexpg1.svg",
+  "num": "5",
+  "ocr": "Group_arm",
+  "ref": "Group_arm.required_am_arms",
+  "score": 100,
+  "method": "schema->primary",
+  "flag": "convention"
+ },
+ {
+  "module": "root_things",
+  "kind": "arm",
+  "svg": "armexpg1.svg",
+  "num": "6",
+  "ocr": "Temporal_objects_arm",
+  "ref": "Temporal_objects_arm.required_am_arms",
+  "score": 100,
+  "method": "schema->primary",
+  "flag": "convention"
+ },
+ {
+  "module": "root_things",
+  "kind": "arm",
+  "svg": "armexpg2.svg",
+  "num": "1",
+  "ocr": "Class arm.Class",
+  "ref": "Class_arm.Class",
+  "score": 100,
+  "method": "qualified-verbatim",
+  "flag": ""
+ },
+ {
+  "module": "root_things",
+  "kind": "arm",
+  "svg": "armexpg2.svg",
+  "num": "2",
+  "ocr": "Document and_version_identification arm.Document_version",
+  "ref": "Document_and_version_identification_arm.Document_version",
+  "score": 100,
+  "method": "qualified-verbatim",
+  "flag": ""
+ },
+ {
+  "module": "root_things",
+  "kind": "arm",
+  "svg": "armexpg2.svg",
+  "num": "3",
+  "ocr": "Group_arm.Group",
+  "ref": "Group_arm.Group",
+  "score": 100,
+  "method": "qualified-verbatim",
+  "flag": ""
+ },
+ {
+  "module": "root_things",
+  "kind": "arm",
+  "svg": "armexpg2.svg",
+  "num": "4",
+  "ocr": "Group_arm.groupable_item",
+  "ref": "Group_arm.groupable_item",
+  "score": 100,
+  "method": "qualified-verbatim",
+  "flag": ""
+ },
+ {
+  "module": "root_things",
+  "kind": "arm",
+  "svg": "armexpg2.svg",
+  "num": "5",
+  "ocr": "Temporal_objects_arm.Temporal object_activity",
+  "ref": "Temporal_objects_arm.Temporal_object_activity",
+  "score": 100,
+  "method": "qualified-verbatim",
+  "flag": ""
+ },
+ {
+  "module": "root_things",
+  "kind": "arm",
+  "svg": "armexpg2.svg",
+  "num": "6",
+  "ocr": "global id",
+  "ref": "Root_things_arm.global_id",
+  "score": 100,
+  "method": "exact-name-local-clean",
+  "flag": ""
+ },
+ {
+  "module": "root_things",
+  "kind": "arm",
+  "svg": "armexpg2.svg",
+  "num": "7",
+  "ocr": "(EX) relationship ininformation object_select",
+  "ref": "Root_things_arm.relationship_in_information_object_select",
+  "score": 100,
+  "method": "exact-name-local-clean",
+  "flag": ""
+ },
+ {
+  "module": "root_things",
+  "kind": "arm",
+  "svg": "armexpg2.svg",
+  "num": "8",
+  "ocr": "Class_under root",
+  "ref": "Root_things_arm.Class_under_root",
+  "score": 100,
+  "method": "exact-name-local-clean",
+  "flag": ""
+ },
+ {
+  "module": "root_things",
+  "kind": "arm",
+  "svg": "armexpg2.svg",
+  "num": "9",
+  "ocr": "Information_ object",
+  "ref": "Root_things_arm.Information_object",
+  "score": 100,
+  "method": "exact-name-local-clean",
+  "flag": ""
+ },
+ {
+  "module": "root_things",
+  "kind": "arm",
+  "svg": "armexpg2.svg",
+  "num": "10",
+  "ocr": "information object as set of statements",
+  "ref": "Root_things_arm.Information_object_as_set_of_statements",
+  "score": 100,
+  "method": "exact-name-local-clean",
+  "flag": ""
+ },
+ {
+  "module": "root_things",
+  "kind": "arm",
+  "svg": "armexpg2.svg",
+  "num": "11",
+  "ocr": "(ABS) Root_object_or_relationship",
+  "ref": "Root_things_arm.Root_object_or_relationship",
+  "score": 100,
+  "method": "exact-name-local-clean",
+  "flag": ""
+ },
+ {
+  "module": "root_things",
+  "kind": "arm",
+  "svg": "armexpg2.svg",
+  "num": "12",
+  "ocr": "Root relationship",
+  "ref": "Root_things_arm.Root_relationship",
+  "score": 100,
+  "method": "exact-name-local-clean",
+  "flag": ""
+ }
+]

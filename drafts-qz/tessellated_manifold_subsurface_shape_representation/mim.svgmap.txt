@@ -1,0 +1,10 @@
+(*"Tessellated_manifold_subsurface_shape_representation_mim.__expressg"
+[.svgmap]
+====
+image::mimexpg1.svg[]
+
+* <<express:topology_schema>>; 1
+* <<express:Elemental_geometric_shape_mim.short_listing>>; 2
+* <<express:geometric_model_schema>>; 3
+====
+*)

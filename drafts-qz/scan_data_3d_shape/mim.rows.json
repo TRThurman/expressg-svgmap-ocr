@@ -1,0 +1,35 @@
+[
+ {
+  "module": "scan_data_3d_shape",
+  "kind": "mim",
+  "svg": "mimexpg1.svg",
+  "num": "1",
+  "ocr": "elemental_geometric_shape_mim",
+  "ref": "elemental_geometric_shape_mim.short_listing",
+  "score": 100,
+  "method": "schema->primary",
+  "flag": "convention+unverified"
+ },
+ {
+  "module": "scan_data_3d_shape",
+  "kind": "mim",
+  "svg": "mimexpg1.svg",
+  "num": "2",
+  "ocr": "representation_schema",
+  "ref": "representation_schema",
+  "score": 100,
+  "method": "schema->primary",
+  "flag": "convention"
+ },
+ {
+  "module": "scan_data_3d_shape",
+  "kind": "mim",
+  "svg": "mimexpg1.svg",
+  "num": "3",
+  "ocr": "scan_data_3d_shape_model_schema",
+  "ref": "scan_data_3d_shape_model_schema",
+  "score": 100,
+  "method": "schema->primary",
+  "flag": "convention"
+ }
+]

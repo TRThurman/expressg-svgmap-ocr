@@ -1,0 +1,156 @@
+[
+ {
+  "module": "system_identification_and_version",
+  "kind": "arm",
+  "svg": "armexpg1.svg",
+  "num": "1",
+  "ocr": "System_identification_and_version_arm",
+  "ref": "System_identification_and_version_arm.required_am_arms",
+  "score": 100,
+  "method": "schema->primary",
+  "flag": "convention"
+ },
+ {
+  "module": "system_identification_and_version",
+  "kind": "arm",
+  "svg": "armexpg1.svg",
+  "num": "2",
+  "ocr": "Product _identification_arm",
+  "ref": "Product_identification_arm.required_am_arms",
+  "score": 100,
+  "method": "schema->primary",
+  "flag": "convention"
+ },
+ {
+  "module": "system_identification_and_version",
+  "kind": "arm",
+  "svg": "armexpg1.svg",
+  "num": "3",
+  "ocr": "Product t_version_arm",
+  "ref": "Product_version_arm.required_am_arms",
+  "score": 91.89189189189189,
+  "method": "fuzzy-local-schema",
+  "flag": "check"
+ },
+ {
+  "module": "system_identification_and_version",
+  "kind": "arm",
+  "svg": "armexpg1.svg",
+  "num": "4",
+  "ocr": "Product_version_relationship_arm",
+  "ref": "Product_version_relationship_arm.required_am_arms",
+  "score": 100,
+  "method": "schema->primary",
+  "flag": "convention"
+ },
+ {
+  "module": "system_identification_and_version",
+  "kind": "arm",
+  "svg": "armexpg1.svg",
+  "num": "5",
+  "ocr": "Identification_assignment_arm",
+  "ref": "Identification_assignment_arm.required_am_arms",
+  "score": 100,
+  "method": "schema->primary",
+  "flag": "convention"
+ },
+ {
+  "module": "system_identification_and_version",
+  "kind": "arm",
+  "svg": "armexpg2.svg",
+  "num": "1",
+  "ocr": "Identification_assignment_arm.identification _item",
+  "ref": "Identification_assignment_arm.identification_item",
+  "score": 100,
+  "method": "qualified-verbatim",
+  "flag": ""
+ },
+ {
+  "module": "system_identification_and_version",
+  "kind": "arm",
+  "svg": "armexpg2.svg",
+  "num": "2",
+  "ocr": "Product identification arm.Product",
+  "ref": "Product_identification_arm.Product",
+  "score": 100,
+  "method": "qualified-verbatim",
+  "flag": ""
+ },
+ {
+  "module": "system_identification_and_version",
+  "kind": "arm",
+  "svg": "armexpg2.svg",
+  "num": "3",
+  "ocr": "Product_version arm.Product version",
+  "ref": "Product_version_arm.Product_version",
+  "score": 100,
+  "method": "qualified-verbatim",
+  "flag": ""
+ },
+ {
+  "module": "system_identification_and_version",
+  "kind": "arm",
+  "svg": "armexpg2.svg",
+  "num": "4",
+  "ocr": "Product_version_relationship_arm.Product_version_relationship",
+  "ref": "Product_version_relationship_arm.Product_version_relationship",
+  "score": 100,
+  "method": "qualified-verbatim",
+  "flag": ""
+ },
+ {
+  "module": "system_identification_and_version",
+  "kind": "arm",
+  "svg": "armexpg2.svg",
+  "num": "5",
+  "ocr": "(EX) *system_and_version_identification_item",
+  "ref": "System_identification_and_version_arm.system_and_version_identification_item",
+  "score": 100,
+  "method": "exact-name-local-clean",
+  "flag": ""
+ },
+ {
+  "module": "system_identification_and_version",
+  "kind": "arm",
+  "svg": "armexpg2.svg",
+  "num": "6",
+  "ocr": "System",
+  "ref": "System_identification_and_version_arm.System",
+  "score": 100,
+  "method": "exact-name-local-clean",
+  "flag": ""
+ },
+ {
+  "module": "system_identification_and_version",
+  "kind": "arm",
+  "svg": "armexpg2.svg",
+  "num": "7",
+  "ocr": "System_version",
+  "ref": "System_identification_and_version_arm.System_version",
+  "score": 100,
+  "method": "exact-name-local-clean",
+  "flag": ""
+ },
+ {
+  "module": "system_identification_and_version",
+  "kind": "arm",
+  "svg": "armexpg2.svg",
+  "num": "8",
+  "ocr": "System_version_relationship",
+  "ref": "System_identification_and_version_arm.System_version_relationship",
+  "score": 100,
+  "method": "exact-name-local-clean",
+  "flag": ""
+ },
+ {
+  "module": "system_identification_and_version",
+  "kind": "arm",
+  "svg": "armexpg2.svg",
+  "num": "9",
+  "ocr": "System_version_sequence",
+  "ref": "System_identification_and_version_arm.System_version_sequence",
+  "score": 100,
+  "method": "exact-name-local-clean",
+  "flag": ""
+ }
+]

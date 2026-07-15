@@ -1,0 +1,46 @@
+(*"Wiring_harness_assembly_design_mim.__expressg"
+[.svgmap]
+====
+image::mimexpg1.svg[]
+
+* <<express:Extruded_structure_cross_section_mim.short_listing>>; 1
+* <<express:representation_schema>>; 2
+* <<express:Wiring_harness_assembly_design_mim.short_listing>>; 3
+* <<express:Edge_based_topological_representation_with_length_constraint_mim.short_listing>>; 4
+* <<express:Wire_and_cable_design_connectivity_mim.short_listing>>; 5
+====
+*)
+
+(*"Wiring_harness_assembly_design_mim.__expressg"
+[.svgmap]
+====
+image::mimexpg2.svg[]
+
+* <<express:Wiring_harness_assembly_design_mim.topology_association_item_select>>; 1
+* <<express:Wiring_harness_assembly_design_mim.geometry_association_item_select>>; 2
+* <<express:UNRESOLVED>>; 3
+* <<express:product_property_representation_schema.shape_representation_relationship>>; 4
+* <<express:geometry_schema.curve>>; 5
+* <<express:representation_schema.item_defined_transformation>>; 6
+* <<express:topology_schema.vertex_point>>; 7
+* <<express:geometry_schema.cartesian_point>>; 8
+* <<express:geometry_schema.placement>>; 9
+* <<express:topology_schema.edge_curve>>; 10
+* <<express:representation_schema.item_defined_transformation>>; 11
+* <<express:topology_schema.edge>>; 12
+* <<express:representation_schema.set_item_defined_transformation>>; 13
+* <<express:product_property_representation_schema.context_dependent_shape_representation>>; 14
+* <<express:topology_schema.path>>; 15
+* <<express:representation_schema.representation_relationship_with_transformation>>; 16
+* <<express:topology_schema.vertex>>; 17
+* <<express:Wiring_harness_assembly_design_mim.harness_node>>; 18
+* <<express:Wiring_harness_assembly_design_mim.topology_to_geometry_item_association>>; 19
+* <<express:Wiring_harness_assembly_design_mim.topology_to_geometry_model_association>>; 20
+* <<express:Wiring_harness_assembly_design_mim.harness_segment>>; 21
+* <<express:Wiring_harness_assembly_design_mim.geometry_to_topology_model_association>>; 22
+* <<express:Wiring_harness_assembly_design_mim.geometry_to_topology_item_association>>; 23
+* <<express:Wiring_harness_assembly_design_mim.whad_item_defined_transformation_subtypes>>; 24
+* <<express:Wiring_harness_assembly_design_mim.whad_representation_relationship_with_transformation_subtypes>>; 25
+* <<express:Wiring_harness_assembly_design_mim.whad_shape_aspect_subtypes>>; 26
+====
+*)

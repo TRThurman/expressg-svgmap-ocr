@@ -1,0 +1,33 @@
+(*"Textual_expression_representation_arm.__expressg"
+[.svgmap]
+====
+image::armexpg1.svg[]
+
+* <<express:Foundation_representation_arm.using_representations>>; 1
+* <<express:UNRESOLVED>>; 2
+* <<express:Classification_assignment_arm.required_am_arms>>; 3
+====
+*)
+
+(*"Textual_expression_representation_arm.__expressg"
+[.svgmap]
+====
+image::armexpg2.svg[]
+
+* <<express:Foundation_representation_arm.Representation_item>>; 1
+* <<express:Foundation_representation_arm.Representation>>; 2
+* <<express:Foundation_representation_arm.String_representation_item>>; 3
+* <<express:Textual_expression_representation_arm.text_based_item_select>>; 4
+* <<express:Textual_expression_representation_arm.list_of_text_based_item>>; 5
+* <<express:Textual_expression_representation_arm.Text_based_representation>>; 6
+* <<express:Textual_expression_representation_arm.Included_text_based_representation>>; 7
+* <<express:Textual_expression_representation_arm.Textual_expression_composition>>; 8
+* <<express:Textual_expression_representation_arm.Textual_expression_representation_item>>; 9
+* <<express:Foundation_representation_arm.Representation_context>>; 10
+* <<express:Textual_expression_representation_arm.Text_based_representation_context>>; 11
+* <<express:Textual_expression_representation_arm.set_of_text_based_item>>; 12
+* <<express:Textual_expression_representation_arm.list_or_set_of_text_based_item>>; 13
+* <<express:Textual_expression_representation_arm.ter_classification_item>>; 14
+* <<express:Classification_assignment_arm.classification_item>>; 15
+====
+*)

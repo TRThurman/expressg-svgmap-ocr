@@ -1,0 +1,56 @@
+(*"Work_output_characterized_arm.__expressg"
+[.svgmap]
+====
+image::armexpg1.svg[]
+
+* <<express:Work_output_characterized_arm.required_am_arms>>; 1
+* <<express:Work_output_arm.required_am_arms>>; 2
+* <<express:Approval_arm.required_am_arms>>; 3
+* <<express:Certification_arm.required_am_arms>>; 4
+* <<express:Date_time_assignment_arm.required_am_arms>>; 5
+* <<express:Identification_assignment_arm.required_am_arms>>; 6
+* <<express:Attribute_classification_arm.required_am_arms>>; 7
+* <<express:Ap239_properties_arm.required_am_arms>>; 8
+* <<express:Person_organization_assignment_arm.required_am_arms>>; 9
+* <<express:Process_property_assignment_arm.required_am_arms>>; 10
+* <<express:Security_classification_arm.required_am_arms>>; 11
+* <<express:Multi_linguism_arm.required_am_arms>>; 12
+====
+*)
+
+(*"Work_output_characterized_arm.__expressg"
+[.svgmap]
+====
+image::armexpg2.svg[]
+
+* <<express:Approval_arm.approval_item>>; 1
+* <<express:Certification_arm.certification_item>>; 2
+* <<express:Person_organization_assignment_arm.organization_or_person_in_organization_item>>; 3
+* <<express:Process_property_assignment_arm.characterized_activity_definition>>; 4
+* <<express:Security_classification_arm.security_classification_item>>; 5
+* <<express:Work_output_arm.Work_output>>; 6
+* <<express:Work_output_characterized_arm.work_output_approval_item>>; 7
+* <<express:Work_output_characterized_arm.work_output_certification_item>>; 8
+* <<express:Work_output_characterized_arm.work_output_characterized_activity_definition>>; 9
+* <<express:Work_output_characterized_arm.work_output_organization_or_person_in_organization_item>>; 10
+* <<express:Work_output_characterized_arm.work_output_security_classification_item>>; 11
+====
+*)
+
+(*"Work_output_characterized_arm.__expressg"
+[.svgmap]
+====
+image::armexpg3.svg[]
+
+* <<express:Attribute_classification_arm.classified_attribute_select>>; 1
+* <<express:Date_time_assignment_arm.date_or_date_time_item>>; 2
+* <<express:Identification_assignment_arm.identification_item>>; 3
+* <<express:Multi_linguism_arm.string_select>>; 4
+* <<express:Work_output_arm.Work_output>>; 5
+* <<express:Work_output_arm.Work_output_relationship>>; 6
+* <<express:Work_output_characterized_arm.work_output_classified_attribute_select>>; 7
+* <<express:Work_output_characterized_arm.work_output_date_or_date_time_item>>; 8
+* <<express:Work_output_characterized_arm.work_output_identification_item>>; 9
+* <<express:Work_output_characterized_arm.work_output_string_select>>; 10
+====
+*)

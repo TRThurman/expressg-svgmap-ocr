@@ -1,0 +1,29 @@
+(*"Stratum_non_planar_shape_arm.__expressg"
+[.svgmap]
+====
+image::armexpg1.svg[]
+
+* <<express:Manifold_surface_arm.required_am_arms>>; 1
+* <<express:Stratum_non_planar_shape_arm.required_am_arms>>; 2
+* <<express:Layered_interconnect_module_design_arm.required_am_arms>>; 3
+====
+*)
+
+(*"Stratum_non_planar_shape_arm.__expressg"
+[.svgmap]
+====
+image::armexpg2.svg[]
+
+* <<express:Stratum_non_planar_shape_arm.snps_stratum_shape_model_select>>; 1
+* <<express:Stratum_non_planar_shape_arm.snps_sf_shape_select>>; 2
+* <<express:Manifold_surface_arm.Shell_based_surface_model>>; 3
+* <<express:Layered_interconnect_module_design_arm.Stratum_average_surface>>; 4
+* <<express:Layered_interconnect_module_design_arm.Stratum_surface>>; 5
+* <<express:Layered_interconnect_module_design_arm.limd_sf_shape_select>>; 6
+* <<express:Manifold_surface_arm.Manifold_surface_shape_representation>>; 7
+* <<express:Layered_interconnect_module_design_arm.limd_stratum_shape_model_select>>; 8
+* <<express:Stratum_non_planar_shape_arm.Topologically_constrained_manifold_surface_shape_representation>>; 9
+* <<express:Stratum_non_planar_shape_arm.Stratum_average_surface_shape_model>>; 10
+* <<express:Stratum_non_planar_shape_arm.Stratum_surface_shape_model>>; 11
+====
+*)

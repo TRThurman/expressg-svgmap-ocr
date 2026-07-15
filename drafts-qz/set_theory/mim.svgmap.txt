@@ -1,0 +1,26 @@
+(*"Set_theory_mim.__expressg"
+[.svgmap]
+====
+image::mimexpg1.svg[]
+
+* <<express:Set_theory_mim.short_listing>>; 1
+* <<express:set_theory_schema.union>>; 2
+* <<express:Class_mim.short_listing>>; 3
+====
+*)
+
+(*"Set_theory_mim.__expressg"
+[.svgmap]
+====
+image::mimexpg2.svg[]
+
+* <<express:set_theory_schema.complement>>; 1
+* <<express:set_theory_schema.intersection>>; 2
+* <<express:set_theory_schema.power_set>>; 3
+* <<express:set_theory_schema.proper_subset>>; 4
+* <<express:set_theory_schema.same_membership>>; 5
+* <<express:set_theory_schema.subset>>; 6
+* <<express:set_theory_schema.subset>>; 7
+* <<express:set_theory_schema.union>>; 8
+====
+*)

@@ -1,0 +1,167 @@
+[
+ {
+  "module": "schematic_and_symbolization",
+  "kind": "arm",
+  "svg": "armexpg1.svg",
+  "num": "1",
+  "ocr": "Schematic_and_symbolization_arm",
+  "ref": "Schematic_and_symbolization_arm.required_am_arms",
+  "score": 100,
+  "method": "schema->primary",
+  "flag": "convention"
+ },
+ {
+  "module": "schematic_and_symbolization",
+  "kind": "arm",
+  "svg": "armexpg1.svg",
+  "num": "2",
+  "ocr": "Schematic_element_library_arm",
+  "ref": "Schematic_element_library_arm.required_am_arms",
+  "score": 100,
+  "method": "schema->primary",
+  "flag": "convention"
+ },
+ {
+  "module": "schematic_and_symbolization",
+  "kind": "arm",
+  "svg": "armexpg1.svg",
+  "num": "3",
+  "ocr": "Sch ematic_drawing_arm",
+  "ref": "Schematic_drawing_arm.required_am_arms",
+  "score": 100,
+  "method": "schema->primary",
+  "flag": "convention"
+ },
+ {
+  "module": "schematic_and_symbolization",
+  "kind": "arm",
+  "svg": "armexpg1.svg",
+  "num": "4",
+  "ocr": "Symb olization_by_schematic_elenent_arm",
+  "ref": "Symbolization_by_schematic_element_arm.required_am_arms",
+  "score": 91.66666666666666,
+  "method": "fuzzy-local-schema",
+  "flag": "check"
+ },
+ {
+  "module": "schematic_and_symbolization",
+  "kind": "arm",
+  "svg": "armexpg1.svg",
+  "num": "5",
+  "ocr": "Document_and_versi on_identifi cation_arm",
+  "ref": "Document_and_version_identification_arm.required_am_arms",
+  "score": 100,
+  "method": "schema->primary",
+  "flag": "convention"
+ },
+ {
+  "module": "schematic_and_symbolization",
+  "kind": "arm",
+  "svg": "armexpg1.svg",
+  "num": "6",
+  "ocr": "External_iten_identification_assignm ent_arm",
+  "ref": "External_item_identification_assignment_arm.required_am_arms",
+  "score": 92.6829268292683,
+  "method": "fuzzy-local-schema",
+  "flag": "check"
+ },
+ {
+  "module": "schematic_and_symbolization",
+  "kind": "arm",
+  "svg": "armexpg1.svg",
+  "num": "7",
+  "ocr": "Cla ss_arm",
+  "ref": "Class_arm.required_am_arms",
+  "score": 100,
+  "method": "schema->primary",
+  "flag": "convention"
+ },
+ {
+  "module": "schematic_and_symbolization",
+  "kind": "arm",
+  "svg": "armexpg2.svg",
+  "num": "1",
+  "ocr": "Document and version id entification arm. Document version",
+  "ref": "Document_and_version_identification_arm.Document_version",
+  "score": 100,
+  "method": "qualified-verbatim",
+  "flag": ""
+ },
+ {
+  "module": "schematic_and_symbolization",
+  "kind": "arm",
+  "svg": "armexpg2.svg",
+  "num": "2",
+  "ocr": "Class arm. Class",
+  "ref": "Class_arm.Class",
+  "score": 100,
+  "method": "qualified-verbatim",
+  "flag": ""
+ },
+ {
+  "module": "schematic_and_symbolization",
+  "kind": "arm",
+  "svg": "armexpg2.svg",
+  "num": "3",
+  "ocr": "Drawing _revision_class_of_document",
+  "ref": "Schematic_and_symbolization_arm.Drawing_revision_class_of_document",
+  "score": 100,
+  "method": "exact-name-local-clean",
+  "flag": ""
+ },
+ {
+  "module": "schematic_and_symbolization",
+  "kind": "arm",
+  "svg": "armexpg2.svg",
+  "num": "4",
+  "ocr": "Drawing _sheet_revision_class_of_document",
+  "ref": "Schematic_and_symbolization_arm.Drawing_sheet_revision_class_of_document",
+  "score": 100,
+  "method": "exact-name-local-clean",
+  "flag": ""
+ },
+ {
+  "module": "schematic_and_symbolization",
+  "kind": "arm",
+  "svg": "armexpg2.svg",
+  "num": "5",
+  "ocr": "externally_identified_schematic_element",
+  "ref": "Schematic_and_symbolization_arm.externally_identified_schematic_element_definition",
+  "score": 83.72093023255813,
+  "method": "fuzzy-local-name",
+  "flag": "check"
+ },
+ {
+  "module": "schematic_and_symbolization",
+  "kind": "arm",
+  "svg": "armexpg2.svg",
+  "num": "6",
+  "ocr": "Schematic_drawing arm. Drawing sheet revision",
+  "ref": "Schematic_drawing_arm.Drawing_sheet_revision",
+  "score": 100,
+  "method": "qualified-verbatim",
+  "flag": ""
+ },
+ {
+  "module": "schematic_and_symbolization",
+  "kind": "arm",
+  "svg": "armexpg2.svg",
+  "num": "7",
+  "ocr": "Schematic_drawing arm. Drawing revision",
+  "ref": "Schematic_drawing_arm.Drawing_revision",
+  "score": 100,
+  "method": "qualified-verbatim",
+  "flag": ""
+ },
+ {
+  "module": "schematic_and_symbolization",
+  "kind": "arm",
+  "svg": "armexpg2.svg",
+  "num": "8",
+  "ocr": "Schematic elemnent arm. Implicit_schematic_element_ definition",
+  "ref": null,
+  "score": 0,
+  "method": "no-match",
+  "flag": "UNRESOLVED"
+ }
+]

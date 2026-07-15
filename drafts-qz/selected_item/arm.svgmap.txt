@@ -1,0 +1,24 @@
+(*"Selected_item_arm.__expressg"
+[.svgmap]
+====
+image::armexpg1.svg[]
+
+* <<express:Selected_item_arm.required_am_arms>>; 1
+* <<express:Classification_assignment_arm.required_am_arms>>; 2
+====
+*)
+
+(*"Selected_item_arm.__expressg"
+[.svgmap]
+====
+image::armexpg2.svg[]
+
+* <<express:Class_arm.Class>>; 1
+* <<express:Classification_assignment_arm.Classification_assignment>>; 2
+* <<express:Classification_assignment_arm.classification_item>>; 3
+* <<express:Selected_item_arm.selected_item_context_items>>; 4
+* <<express:Selected_item_arm.selected_item_select>>; 5
+* <<express:Selected_item_arm.Selected_item>>; 6
+* <<express:Selected_item_arm.Selected_item_assignment>>; 7
+====
+*)

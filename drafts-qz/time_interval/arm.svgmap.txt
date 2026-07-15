@@ -1,0 +1,23 @@
+(*"Time_interval_arm.__expressg"
+[.svgmap]
+====
+image::armexpg1.svg[]
+
+* <<express:Time_interval_arm.required_am_arms>>; 1
+* <<express:Event_arm.required_am_arms>>; 2
+* <<express:Value_with_unit_arm.required_am_arms>>; 3
+====
+*)
+
+(*"Time_interval_arm.__expressg"
+[.svgmap]
+====
+image::armexpg2.svg[]
+
+* <<express:Event_arm.date_or_event>>; 1
+* <<express:Value_with_unit_arm.Duration>>; 2
+* <<express:Time_interval_arm.Time_interval>>; 3
+* <<express:Time_interval_arm.Time_interval_relationship>>; 4
+* <<express:Time_interval_arm.Time_interval_with_bounds>>; 5
+====
+*)

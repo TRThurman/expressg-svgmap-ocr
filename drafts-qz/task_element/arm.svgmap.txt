@@ -1,0 +1,54 @@
+(*"Task_element_arm.__expressg"
+[.svgmap]
+====
+image::armexpg1.svg[]
+
+* <<express:Task_element_arm.required_am_arms>>; 1
+* <<express:Activity_method_assignment_arm.required_am_arms>>; 2
+* <<express:Condition_arm.required_am_arms>>; 3
+====
+*)
+
+(*"Task_element_arm.__expressg"
+[.svgmap]
+====
+image::armexpg2.svg[]
+
+* <<express:Activity_method_assignment_arm.Activity_method>>; 1
+* <<express:Condition_arm.Condition>>; 2
+* <<express:UNRESOLVED>>; 3
+* <<express:UNRESOLVED>>; 4
+* <<express:UNRESOLVED>>; 5
+* <<express:UNRESOLVED>>; 6
+* <<express:UNRESOLVED>>; 7
+* <<express:UNRESOLVED>>; 8
+* <<express:Task_element_arm.Concurrent_elements>>; 9
+* <<express:Task_element_arm.Decision_point>>; 10
+* <<express:Task_element_arm.End_task>>; 11
+* <<express:Task_element_arm.Exit_loop>>; 12
+* <<express:Task_element_arm.Looping_element>>; 13
+* <<express:Task_element_arm.Repeat_count>>; 14
+* <<express:Task_element_arm.Repeat_until>>; 15
+* <<express:Task_element_arm.Repeat_while>>; 16
+* <<express:Task_element_arm.Start_task>>; 17
+* <<express:Task_element_arm.Structured_task_element>>; 18
+* <<express:Task_element_arm.Task_element>>; 19
+* <<express:Task_element_arm.Task_element_sequence>>; 20
+* <<express:Task_element_arm.Task_step>>; 21
+====
+*)
+
+(*"Task_element_arm.__expressg"
+[.svgmap]
+====
+image::armexpg3.svg[]
+
+* <<express:Activity_method_assignment_arm.Applied_activity_method_assignment>>; 1
+* <<express:Activity_method_assignment_arm.activity_method_item>>; 2
+* <<express:Activity_method_assignment_arm.Activity_method_relationship>>; 3
+* <<express:Task_element_arm.task_item>>; 4
+* <<express:Task_element_arm.Task_element>>; 5
+* <<express:Task_element_arm.Task_element_assignment>>; 6
+* <<express:Task_element_arm.Task_element_relationship>>; 7
+====
+*)

@@ -1,0 +1,20 @@
+(*"Requirement_view_definition_relationship_mim.__expressg"
+[.svgmap]
+====
+image::mimexpg1.svg[]
+
+* <<express:Requirement_view_definition_relationship_mim.short_listing>>; 1
+* <<express:Product_view_definition_relationship_mim.short_listing>>; 2
+* <<express:Requirement_view_definition_mim.short_listing>>; 3
+====
+*)
+
+(*"Requirement_view_definition_relationship_mim.__expressg"
+[.svgmap]
+====
+image::mimexpg2.svg[]
+
+* <<express:product_definition_schema.product_definition_relationship>>; 1
+* <<express:Requirement_view_definition_relationship_mim.requirement_view_definition_relationship>>; 2
+====
+*)

@@ -1,0 +1,67 @@
+(*"Work_order_characterized_arm.__expressg"
+[.svgmap]
+====
+image::armexpg1.svg[]
+
+* <<express:Work_order_characterized_arm.required_am_arms>>; 1
+* <<express:Ap239_management_resource_information_arm.required_am_arms>>; 2
+* <<express:Work_order_arm.required_am_arms>>; 3
+* <<express:Management_resource_information_arm.required_am_arms>>; 4
+* <<express:Document_assignment_arm.required_am_arms>>; 5
+====
+*)
+
+(*"Work_order_characterized_arm.__expressg"
+[.svgmap]
+====
+image::armexpg2.svg[]
+
+* <<express:Ap239_management_resource_information_arm.ap239_mri_classification_item>>; 1
+* <<express:Ap239_management_resource_information_arm.ap239_mri_classified_attribute_select>>; 2
+* <<express:Document_assignment_arm.documented_element_select>>; 3
+* <<express:Work_order_arm.Work_order>>; 4
+* <<express:Work_order_arm.Directed_activity>>; 5
+* <<express:Work_order_characterized_arm.wordchar_ap239_mri_classification_item>>; 6
+* <<express:Work_order_characterized_arm.wordchar_ap239_mri_classified_attribute_select>>; 7
+* <<express:Work_order_characterized_arm.wordchar_documented_element_select>>; 8
+====
+*)
+
+(*"Work_order_characterized_arm.__expressg"
+[.svgmap]
+====
+image::armexpg3.svg[]
+
+* <<express:Management_resource_information_arm.mri_approval_item>>; 1
+* <<express:Management_resource_information_arm.mri_identification_item>>; 2
+* <<express:Work_order_arm.Work_order>>; 3
+* <<express:Work_order_arm.Directed_activity>>; 4
+* <<express:Work_order_characterized_arm.wordchar_mri_approval_item>>; 5
+* <<express:Work_order_characterized_arm.wordchar_mri_identification_item>>; 6
+====
+*)
+
+(*"Work_order_characterized_arm.__expressg"
+[.svgmap]
+====
+image::armexpg4.svg[]
+
+* <<express:Management_resource_information_arm.mri_date_or_date_time_item>>; 1
+* <<express:Management_resource_information_arm.mri_organization_or_person_in_organization_item>>; 2
+* <<express:Work_order_arm.Work_order>>; 3
+* <<express:Work_order_arm.Directed_activity>>; 4
+* <<express:Work_order_characterized_arm.wordchar_mri_date_or_date_time_item>>; 5
+* <<express:Work_order_characterized_arm.wordchar_mri_organization_or_person_in_organization_item>>; 6
+====
+*)
+
+(*"Work_order_characterized_arm.__expressg"
+[.svgmap]
+====
+image::armexpg5.svg[]
+
+* <<express:Management_resource_information_arm.mri_string_select>>; 1
+* <<express:Work_order_arm.Work_order>>; 2
+* <<express:Work_order_characterized_arm.wordchar_mri_string_select>>; 3
+====
+*)

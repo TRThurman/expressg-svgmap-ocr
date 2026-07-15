@@ -1,0 +1,26 @@
+(*"Styled_curve_mim.__expressg"
+[.svgmap]
+====
+image::mimexpg1.svg[]
+
+* <<express:Colour_mim.short_listing>>; 1
+* <<express:external_reference_schema.message>>; 2
+* <<express:presentation_appearance_schema>>; 3
+* <<express:Styled_curve_mim.short_listing>>; 4
+* <<express:Elemental_geometric_shape_mim.short_listing>>; 5
+* <<express:representation_schema>>; 6
+====
+*)
+
+(*"Styled_curve_mim.__expressg"
+[.svgmap]
+====
+image::mimexpg2.svg[]
+
+* <<express:presentation_appearance_schema.curve_style_font>>; 1
+* <<express:representation_schema.mapped_item>>; 2
+* <<express:presentation_appearance_schema.pre_defined_curve_font>>; 3
+* <<express:Styled_curve_mim.solid_curve_font>>; 4
+* <<express:Styled_curve_mim.user_defined_curve_font>>; 5
+====
+*)

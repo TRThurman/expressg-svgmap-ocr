@@ -1,0 +1,23 @@
+(*"Same_as_external_item_mim.__expressg"
+[.svgmap]
+====
+image::mimexpg1.svg[]
+
+* <<express:Same_as_external_item_mim.short_listing>>; 1
+* <<express:management_resources_schema>>; 2
+* <<express:External_source_mim.short_listing>>; 3
+====
+*)
+
+(*"Same_as_external_item_mim.__expressg"
+[.svgmap]
+====
+image::mimexpg2.svg[]
+
+* <<express:management_resources_schema.external_identification_assignment>>; 1
+* <<express:UNRESOLVED>>; 2
+* <<express:UNRESOLVED>>; 3
+* <<express:Same_as_external_item_mim.same_as_item>>; 4
+* <<express:Same_as_external_item_mim.same_as_external_item_assignment>>; 5
+====
+*)

@@ -1,0 +1,31 @@
+(*"System_breakdown_arm.__expressg"
+[.svgmap]
+====
+image::armexpg1.svg[]
+
+* <<express:System_breakdown_arm.required_am_arms>>; 1
+* <<express:Product_breakdown_arm.required_am_arms>>; 2
+====
+*)
+
+(*"System_breakdown_arm.__expressg"
+[.svgmap]
+====
+image::armexpg2.svg[]
+
+* <<express:Product_breakdown_arm.Breakdown>>; 1
+* <<express:Product_breakdown_arm.Breakdown_element>>; 2
+* <<express:Product_breakdown_arm.Breakdown_element_version>>; 3
+* <<express:Product_breakdown_arm.Breakdown_element_definition>>; 4
+* <<express:Product_breakdown_arm.Breakdown_context>>; 5
+* <<express:Product_breakdown_arm.Breakdown_element_usage>>; 6
+* <<express:Product_breakdown_arm.Breakdown_version>>; 7
+* <<express:System_breakdown_arm.System_breakdown>>; 8
+* <<express:System_breakdown_arm.System_breakdown_context>>; 9
+* <<express:System_breakdown_arm.System_breakdown_version>>; 10
+* <<express:System_breakdown_arm.System_element>>; 11
+* <<express:System_breakdown_arm.System_element_definition>>; 12
+* <<express:System_breakdown_arm.System_element_usage>>; 13
+* <<express:System_breakdown_arm.System_element_version>>; 14
+====
+*)

@@ -1,0 +1,41 @@
+(*"Requirement_decomposition_mim.__expressg"
+[.svgmap]
+====
+image::mimexpg1.svg[]
+
+* <<express:support_resource_schema>>; 1
+* <<express:Group_mim.short_listing>>; 2
+* <<express:Material_property_definition_schema>>; 3
+* <<express:Requirement_view_definition_relationship_mim.short_listing>>; 4
+* <<express:Production_rule_mim.short_listing>>; 5
+* <<express:Functional_specification_mim.short_listing>>; 6
+* <<express:Requirement_decomposition_mim.short_listing>>; 7
+* <<express:Conductivity_material_aspects_mim.short_listing>>; 8
+* <<express:Elemental_geometric_shape_mim.short_listing>>; 9
+====
+*)
+
+(*"Requirement_decomposition_mim.__expressg"
+[.svgmap]
+====
+image::mimexpg2.svg[]
+
+* <<express:Requirement_decomposition_mim.rd_groupable_item>>; 1
+* <<express:Requirement_decomposition_mim.rd_document_reference_item>>; 2
+* <<express:Requirement_decomposition_mim.rd_requirement_assigned_item>>; 3
+* <<express:Document_assignment_mim.document_reference_item>>; 4
+* <<express:group_schema.group_relationship>>; 5
+* <<express:group_schema.group>>; 6
+* <<express:Requirement_assignment_mim.requirement_assigned_item>>; 7
+* <<express:Group_mim.groupable_item>>; 8
+* <<express:product_definition_schema.product_definition_relationship>>; 9
+* <<express:group_schema.group>>; 10
+* <<express:Model_parameter_mim.model_parameter>>; 11
+* <<express:product_definition_schema.product_definition>>; 12
+* <<express:product_property_definition_schema.property_definition>>; 13
+* <<express:Requirement_decomposition_mim.operational_requirement_relationship>>; 14
+* <<express:Requirement_decomposition_mim.predefined_requirement_view_definition>>; 15
+* <<express:Requirement_decomposition_mim.material_electrical_conductivity_category>>; 16
+* <<express:Requirement_decomposition_mim.rd_model_parameter_subtypes>>; 17
+====
+*)

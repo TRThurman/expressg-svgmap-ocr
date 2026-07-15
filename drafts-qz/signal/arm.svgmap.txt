@@ -1,0 +1,25 @@
+(*"Signal_arm.__expressg"
+[.svgmap]
+====
+image::armexpg1.svg[]
+
+* <<express:Signal_arm.required_am_arms>>; 1
+* <<express:Characteristic_arm.required_am_arms>>; 2
+====
+*)
+
+(*"Signal_arm.__expressg"
+[.svgmap]
+====
+image::armexpg2.svg[]
+
+* <<express:Signal_arm.s_external_identification_item>>; 1
+* <<express:External_item_identification_assignment_arm.External_source_identification>>; 2
+* <<express:Characteristic_arm.Characteristic_data_table>>; 3
+* <<express:External_item_identification_assignment_arm.external_identification_item>>; 4
+* <<express:Signal_arm.Signal_property>>; 5
+* <<express:Signal_arm.Composite_signal_property>>; 6
+* <<express:Signal_arm.Composite_signal_property>>; 7
+* <<express:Signal_arm.Signal>>; 8
+====
+*)

@@ -1,0 +1,46 @@
+[
+ {
+  "module": "support_resource",
+  "kind": "arm",
+  "svg": "armexpg1.svg",
+  "num": "1",
+  "ocr": "Support_resource_arm",
+  "ref": "Support_resource_arm.required_am_arms",
+  "score": 100,
+  "method": "schema->primary",
+  "flag": "convention"
+ },
+ {
+  "module": "support_resource",
+  "kind": "arm",
+  "svg": "armexpg2.svg",
+  "num": "1",
+  "ocr": "'label",
+  "ref": "Support_resource_arm.label",
+  "score": 100,
+  "method": "exact-name-local-clean",
+  "flag": ""
+ },
+ {
+  "module": "support_resource",
+  "kind": "arm",
+  "svg": "armexpg2.svg",
+  "num": "2",
+  "ocr": "identifier",
+  "ref": "Support_resource_arm.identifier",
+  "score": 100,
+  "method": "exact-name-local-clean",
+  "flag": ""
+ },
+ {
+  "module": "support_resource",
+  "kind": "arm",
+  "svg": "armexpg2.svg",
+  "num": "3",
+  "ocr": "text",
+  "ref": "Support_resource_arm.text",
+  "score": 100,
+  "method": "exact-name-local-clean",
+  "flag": ""
+ }
+]

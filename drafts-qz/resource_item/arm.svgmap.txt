@@ -1,0 +1,28 @@
+(*"Resource_item_arm.__expressg"
+[.svgmap]
+====
+image::armexpg1.svg[]
+
+* <<express:Resource_item_arm.required_am_arms>>; 1
+* <<express:Value_with_unit_arm.required_am_arms>>; 2
+* <<express:Classification_assignment_arm.required_am_arms>>; 3
+====
+*)
+
+(*"Resource_item_arm.__expressg"
+[.svgmap]
+====
+image::armexpg2.svg[]
+
+* <<express:Classification_assignment_arm.classification_item>>; 1
+* <<express:Value_with_unit_arm.Value_with_unit>>; 2
+* <<express:Resource_item_arm.resource_assignment_item>>; 3
+* <<express:Resource_item_arm.resource_item_classification_item>>; 4
+* <<express:Resource_item_arm.resource_item_select>>; 5
+* <<express:Resource_item_arm.Resource_group_relationship>>; 6
+* <<express:Resource_item_arm.Resource_item>>; 7
+* <<express:Resource_item_arm.Resource_item_assignment>>; 8
+* <<express:Resource_item_arm.Resource_item_realization>>; 9
+* <<express:Resource_item_arm.Resource_item_relationship>>; 10
+====
+*)

@@ -1,0 +1,34 @@
+(*"Universally_unique_identification_assignment_arm.__expressg"
+[.svgmap]
+====
+image::armexpg1.svg[]
+
+* <<express:Foundation_representation_arm.required_am_arms>>; 1
+* <<express:Elemental_geometric_shape_arm.required_am_arms>>; 2
+* <<express:Universally_unique_identification_assignment_arm.required_am_arms>>; 3
+====
+*)
+
+(*"Universally_unique_identification_assignment_arm.__expressg"
+[.svgmap]
+====
+image::armexpg2.svg[]
+
+* <<express:Universally_unique_identification_assignment_arm.uuid_attribute_select>>; 1
+* <<express:Universally_unique_identification_assignment_arm.uuid_set_or_list_attribute_select>>; 2
+* <<express:Elemental_geometric_shape_arm.Geometric_model>>; 3
+* <<express:Elemental_geometric_shape_arm.Cartesian_point>>; 4
+* <<express:Universally_unique_identification_assignment_arm.uuid_relationship_role>>; 5
+* <<express:Universally_unique_identification_assignment_arm.Uuid_relationship>>; 6
+* <<express:Universally_unique_identification_assignment_arm.Uuid_provenance>>; 7
+* <<express:Universally_unique_identification_assignment_arm.Hash_based_v5_uuid_attribute>>; 8
+* <<express:Universally_unique_identification_assignment_arm.Uuid_attribute>>; 9
+* <<express:Universally_unique_identification_assignment_arm.V4_uuid_attribute>>; 10
+* <<express:Universally_unique_identification_assignment_arm.Uuid_context>>; 11
+* <<express:Universally_unique_identification_assignment_arm.Uuid_attribute>>; 12
+* <<express:Universally_unique_identification_assignment_arm.Uuid_attribute_with_approximate_location>>; 13
+* <<express:Universally_unique_identification_assignment_arm.uuid_set_item>>; 14
+* <<express:Universally_unique_identification_assignment_arm.uuid>>; 15
+* <<express:Universally_unique_identification_assignment_arm.uuid_list_item>>; 16
+====
+*)

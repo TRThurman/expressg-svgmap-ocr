@@ -1,0 +1,30 @@
+(*"Schematic_and_symbolization_mim.__expressg"
+[.svgmap]
+====
+image::mimexpg1.svg[]
+
+* <<express:Schematic_and_symbolization_mim.short_listing>>; 1
+* <<express:Schematic_element_library_mim.short_listing>>; 2
+* <<express:Schematic_drawing_mim.short_listing>>; 3
+* <<express:Symbolization_by_schematic_element_mim.short_listing>>; 4
+* <<express:Document_and_version_identification_mim.short_listing>>; 5
+* <<express:External_item_identification_assignment_mim.short_listing>>; 6
+* <<express:Class_mim.short_listing>>; 7
+====
+*)
+
+(*"Schematic_and_symbolization_mim.__expressg"
+[.svgmap]
+====
+image::mimexpg2.svg[]
+
+* <<express:Document_and_version_identification_mim.product_definition_formation>>; 1
+* <<express:Class_mim.Class>>; 2
+* <<express:Schematic_and_symbolization_mim.drawing_revision_class_of_document>>; 3
+* <<express:Schematic_and_symbolization_mim.drawing_sheet_revision_class_of_document>>; 4
+* <<express:Schematic_and_symbolization_mim.externally_identified_schematic_element_definition>>; 5
+* <<express:UNRESOLVED>>; 6
+* <<express:UNRESOLVED>>; 7
+* <<express:UNRESOLVED>>; 8
+====
+*)

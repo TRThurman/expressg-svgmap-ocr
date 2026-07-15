@@ -1,0 +1,10 @@
+(*"System_behaviour_mim.__expressg"
+[.svgmap]
+====
+image::mimexpg1.svg[]
+
+* <<express:System_behaviour_mim.short_listing>>; 1
+* <<express:Function_based_behaviour_mim.short_listing>>; 2
+* <<express:State_based_behaviour_mim.short_listing>>; 3
+====
+*)

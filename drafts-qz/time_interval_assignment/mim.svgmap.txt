@@ -1,0 +1,22 @@
+(*"Time_interval_assignment_mim.__expressg"
+[.svgmap]
+====
+image::mimexpg1.svg[]
+
+* <<express:Time_interval_assignment_mim.short_listing>>; 1
+* <<express:Time_interval_mim.short_listing>>; 2
+* <<express:date_time_schema>>; 3
+* <<express:management_resources_schema>>; 4
+====
+*)
+
+(*"Time_interval_assignment_mim.__expressg"
+[.svgmap]
+====
+image::mimexpg2.svg[]
+
+* <<express:management_resources_schema.time_interval_assignment>>; 1
+* <<express:Time_interval_assignment_mim.time_interval_item>>; 2
+* <<express:Time_interval_assignment_mim.applied_time_interval_assignment>>; 3
+====
+*)

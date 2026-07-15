@@ -1,0 +1,101 @@
+[
+ {
+  "module": "software",
+  "kind": "arm",
+  "svg": "armexpg1.svg",
+  "num": "1",
+  "ocr": "Document definition amm",
+  "ref": "Document_definition_arm.required_am_arms",
+  "score": 90.9090909090909,
+  "method": "fuzzy-local-schema",
+  "flag": "check"
+ },
+ {
+  "module": "software",
+  "kind": "arm",
+  "svg": "armexpg1.svg",
+  "num": "2",
+  "ocr": "Information _product_am",
+  "ref": "Information_product_arm.required_am_arms",
+  "score": 93.02325581395348,
+  "method": "fuzzy-local-schema",
+  "flag": "check"
+ },
+ {
+  "module": "software",
+  "kind": "arm",
+  "svg": "armexpg1.svg",
+  "num": "3",
+  "ocr": "Software amm",
+  "ref": "Software_arm.required_am_arms",
+  "score": 86.95652173913044,
+  "method": "fuzzy-local-schema",
+  "flag": "check"
+ },
+ {
+  "module": "software",
+  "kind": "arm",
+  "svg": "armexpg2.svg",
+  "num": "1",
+  "ocr": "Infommation_product_ amm Infommation version",
+  "ref": "Information_product_arm.Information_version",
+  "score": 88.88888888888889,
+  "method": "fuzzy-local-concat",
+  "flag": "check"
+ },
+ {
+  "module": "software",
+  "kind": "arm",
+  "svg": "armexpg2.svg",
+  "num": "2",
+  "ocr": "Infommation product amn Infommation_ defmition",
+  "ref": "Information_product_arm.Information_definition",
+  "score": 86.04651162790698,
+  "method": "fuzzy-local-concat",
+  "flag": "check"
+ },
+ {
+  "module": "software",
+  "kind": "arm",
+  "svg": "armexpg2.svg",
+  "num": "3",
+  "ocr": "Infommation product amm Infommation product",
+  "ref": "Information_product_arm.Information_product",
+  "score": 88.88888888888889,
+  "method": "fuzzy-local-concat",
+  "flag": "check"
+ },
+ {
+  "module": "software",
+  "kind": "arm",
+  "svg": "armexpg2.svg",
+  "num": "4",
+  "ocr": "Software definition",
+  "ref": "Software_arm.Software_definition",
+  "score": 100,
+  "method": "exact-name-local-clean",
+  "flag": ""
+ },
+ {
+  "module": "software",
+  "kind": "arm",
+  "svg": "armexpg2.svg",
+  "num": "5",
+  "ocr": "Software_version",
+  "ref": "Software_arm.Software_version",
+  "score": 100,
+  "method": "exact-name-local-clean",
+  "flag": ""
+ },
+ {
+  "module": "software",
+  "kind": "arm",
+  "svg": "armexpg2.svg",
+  "num": "6",
+  "ocr": "Software",
+  "ref": "Software_arm.Software",
+  "score": 100,
+  "method": "exact-name-local-clean",
+  "flag": ""
+ }
+]

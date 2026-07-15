@@ -1,0 +1,11 @@
+(*"Topologically_bounded_surface_mim.__expressg"
+[.svgmap]
+====
+image::mimexpg1.svg[]
+
+* <<express:topology_schema>>; 1
+* <<express:geometry_schema>>; 2
+* <<express:Basic_geometric_topology_mim.short_listing>>; 3
+* <<express:B_spline_geometry_mim.short_listing>>; 4
+====
+*)

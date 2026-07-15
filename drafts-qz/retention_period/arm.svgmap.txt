@@ -1,0 +1,26 @@
+(*"Retention_period_arm.__expressg"
+[.svgmap]
+====
+image::armexpg1.svg[]
+
+* <<express:Retention_period_arm.required_am_arms>>; 1
+* <<express:Time_interval_assignment_arm.required_am_arms>>; 2
+* <<express:Value_with_unit_arm.required_am_arms>>; 3
+* <<express:Activity_arm.required_am_arms>>; 4
+* <<express:Event_assignment_arm.required_am_arms>>; 5
+====
+*)
+
+(*"Retention_period_arm.__expressg"
+[.svgmap]
+====
+image::armexpg2.svg[]
+
+* <<express:Event_arm.date_or_event>>; 1
+* <<express:Event_arm.date_or_event>>; 2
+* <<express:Value_with_unit_arm.Duration>>; 3
+* <<express:Time_interval_assignment_arm.time_interval_item>>; 4
+* <<express:Retention_period_arm.period_or_date_or_event_select>>; 5
+* <<express:Retention_period_arm.Retention_period>>; 6
+====
+*)

@@ -1,0 +1,211 @@
+[
+ {
+  "module": "specification_control",
+  "kind": "mim",
+  "svg": "mimexpg1.svg",
+  "num": "1",
+  "ocr": "Specification_based_configuration_mim",
+  "ref": "Specification_based_configuration_mim.short_listing",
+  "score": 100,
+  "method": "schema->primary",
+  "flag": "convention"
+ },
+ {
+  "module": "specification_control",
+  "kind": "mim",
+  "svg": "mimexpg1.svg",
+  "num": "2",
+  "ocr": "Alternative_ solution mim",
+  "ref": "Alternative_solution_mim.short_listing",
+  "score": 100,
+  "method": "schema->primary",
+  "flag": "convention"
+ },
+ {
+  "module": "specification_control",
+  "kind": "mim",
+  "svg": "mimexpg1.svg",
+  "num": "3",
+  "ocr": "Product_placement mim",
+  "ref": "Product_placement_mim.short_listing",
+  "score": 100,
+  "method": "schema->primary",
+  "flag": "convention"
+ },
+ {
+  "module": "specification_control",
+  "kind": "mim",
+  "svg": "mimexpg1.svg",
+  "num": "4",
+  "ocr": "product definition schema",
+  "ref": "product_definition_schema",
+  "score": 100,
+  "method": "schema->primary",
+  "flag": "convention"
+ },
+ {
+  "module": "specification_control",
+  "kind": "mim",
+  "svg": "mimexpg1.svg",
+  "num": "5",
+  "ocr": "Specification_control mim",
+  "ref": "Specification_control_mim.short_listing",
+  "score": 100,
+  "method": "schema->primary",
+  "flag": "convention"
+ },
+ {
+  "module": "specification_control",
+  "kind": "mim",
+  "svg": "mimexpg1.svg",
+  "num": "6",
+  "ocr": "Part collection mim",
+  "ref": "Part_collection_mim.short_listing",
+  "score": 100,
+  "method": "schema->primary",
+  "flag": "convention"
+ },
+ {
+  "module": "specification_control",
+  "kind": "mim",
+  "svg": "mimexpg1.svg",
+  "num": "7",
+  "ocr": "Requirement _view_definition mim",
+  "ref": "Requirement_view_definition_mim.short_listing",
+  "score": 100,
+  "method": "schema->primary",
+  "flag": "convention"
+ },
+ {
+  "module": "specification_control",
+  "kind": "mim",
+  "svg": "mimexpg2.svg",
+  "num": "1",
+  "ocr": "instance usage context select",
+  "ref": "Specification_control_mim.instance_usage_context_select",
+  "score": 100,
+  "method": "exact-name-local-clean",
+  "flag": ""
+ },
+ {
+  "module": "specification_control",
+  "kind": "mim",
+  "svg": "mimexpg2.svg",
+  "num": "2",
+  "ocr": "iclass usage effectivity context item",
+  "ref": "Specification_control_mim.class_usage_effectivity_context_item",
+  "score": 92.7536231884058,
+  "method": "fuzzy-local-name",
+  "flag": "check"
+ },
+ {
+  "module": "specification_control",
+  "kind": "mim",
+  "svg": "mimexpg2.svg",
+  "num": "3",
+  "ocr": "ieffectivity_specification_for_replacement",
+  "ref": "Specification_control_mim.effectivity_specification_for_replacement",
+  "score": 95.0,
+  "method": "fuzzy-local-name",
+  "flag": "check"
+ },
+ {
+  "module": "specification_control",
+  "kind": "mim",
+  "svg": "mimexpg2.svg",
+  "num": "4",
+  "ocr": "application _context schema. product_definition _context",
+  "ref": "application_context_schema.product_definition_context",
+  "score": 100,
+  "method": "qualified-verbatim",
+  "flag": ""
+ },
+ {
+  "module": "specification_control",
+  "kind": "mim",
+  "svg": "mimexpg2.svg",
+  "num": "5",
+  "ocr": "management resources schema. effectivity_context _assignment",
+  "ref": "management_resources_schema.effectivity_context_assignment",
+  "score": 100,
+  "method": "qualified-verbatim",
+  "flag": ""
+ },
+ {
+  "module": "specification_control",
+  "kind": "mim",
+  "svg": "mimexpg2.svg",
+  "num": "6",
+  "ocr": "product definition schema.product definition",
+  "ref": "product_definition_schema.product_definition",
+  "score": 100,
+  "method": "qualified-verbatim",
+  "flag": ""
+ },
+ {
+  "module": "specification_control",
+  "kind": "mim",
+  "svg": "mimexpg2.svg",
+  "num": "7",
+  "ocr": "product structure_schema.product_definition_usage",
+  "ref": "product_structure_schema.product_definition_usage",
+  "score": 100,
+  "method": "qualified-verbatim",
+  "flag": ""
+ },
+ {
+  "module": "specification_control",
+  "kind": "mim",
+  "svg": "mimexpg2.svg",
+  "num": "8",
+  "ocr": "Effectivity_application_mim.effectivityitem",
+  "ref": "Effectivity_application_mim.effectivity_item",
+  "score": 100,
+  "method": "qualified-verbatim",
+  "flag": ""
+ },
+ {
+  "module": "specification_control",
+  "kind": "mim",
+  "svg": "mimexpg2.svg",
+  "num": "9",
+  "ocr": "product definition_ schema.product_ definition_substitute",
+  "ref": "product_definition_schema.product_definition_substitute",
+  "score": 100,
+  "method": "qualified-verbatim",
+  "flag": ""
+ },
+ {
+  "module": "specification_control",
+  "kind": "mim",
+  "svg": "mimexpg2.svg",
+  "num": "10",
+  "ocr": "product definition_schema.product_definition _relationship",
+  "ref": "product_definition_schema.product_definition_relationship",
+  "score": 100,
+  "method": "qualified-verbatim",
+  "flag": ""
+ },
+ {
+  "module": "specification_control",
+  "kind": "mim",
+  "svg": "mimexpg2.svg",
+  "num": "11",
+  "ocr": "instance_usage_context_assignment",
+  "ref": "Specification_control_mim.instance_usage_context_assignment",
+  "score": 100,
+  "method": "exact-name-local-clean",
+  "flag": ""
+ },
+ {
+  "module": "specification_control",
+  "kind": "mim",
+  "svg": "mimexpg2.svg",
+  "num": "12",
+  "ocr": "*class_usage_effectivity_context_asiment",
+  "ref": "Specification_control_mim.class_usage_effectivity_context_assignment",
+  "score": 90.9090909090909,
+  "method": "fuzzy-local-name",
+  "flag": "check"
+ }
+]

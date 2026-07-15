@@ -1,0 +1,65 @@
+(*"State_based_behaviour_mim.__expressg"
+[.svgmap]
+====
+image::mimexpg1.svg[]
+
+* <<express:State_based_behaviour_mim.short_listing>>; 1
+* <<express:Activity_method_assignment_mim.short_listing>>; 2
+* <<express:Behaviour_description_assignment_mim.short_listing>>; 3
+* <<express:Collection_identification_and_version_mim.short_listing>>; 4
+* <<express:Condition_mim.short_listing>>; 5
+* <<express:Description_assignment_mim.short_listing>>; 6
+* <<express:Expression_assignment_mim.short_listing>>; 7
+* <<express:External_state_based_behaviour_model_mim.short_listing>>; 8
+* <<express:General_model_parameter_mim.short_listing>>; 9
+* <<express:Identification_relationship_mim.short_listing>>; 10
+* <<express:Process_property_assignment_mim.short_listing>>; 11
+* <<express:Same_as_external_item_mim.short_listing>>; 12
+* <<express:state_type_schema>>; 13
+* <<express:Textual_expression_representation_mim.short_listing>>; 14
+====
+*)
+
+(*"State_based_behaviour_mim.__expressg"
+[.svgmap]
+====
+image::mimexpg2.svg[]
+
+* <<express:Collection_identification_and_version_mim.Product>>; 1
+* <<express:Collection_identification_and_version_mim.product_definition_formation>>; 2
+* <<express:Collection_identification_and_version_mim.product_definition_formation_relationship>>; 3
+* <<express:Condition_mim.applied_action_method_assignment>>; 4
+* <<express:Expression_assignment_mim.expression_assignment_item>>; 5
+* <<express:External_state_based_behaviour_model_mim.short_listing>>; 6
+* <<express:External_state_based_behaviour_model_mim.state_type_assignment>>; 7
+* <<express:External_state_based_behaviour_model_mim.characterized_object>>; 8
+* <<express:State_based_behaviour_mim.sbb_characterized_state_type_relationship>>; 9
+* <<express:General_model_parameter_mim.general_property_relationship>>; 10
+* <<express:General_model_parameter_mim.Property_definition_representation>>; 11
+* <<express:General_model_parameter_mim.Representation>>; 12
+* <<express:General_model_parameter_mim.RepresentationContext>>; 13
+* <<express:General_model_parameter_mim.RepresentationItem>>; 14
+* <<express:State_based_behaviour_mim.sbb_characterized_applied_action_method_assignment>>; 15
+* <<express:State_based_behaviour_mim.sbb_characterized_general_property_relationship>>; 16
+* <<express:State_based_behaviour_mim.sbb_characterized_generic_expression>>; 17
+* <<express:State_based_behaviour_mim.sbb_characterized_product>>; 18
+* <<express:State_based_behaviour_mim.sbb_characterized_product_definition_formation>>; 19
+* <<express:State_based_behaviour_mim.sbb_characterized_product_definition_formation_relationship>>; 20
+* <<express:State_based_behaviour_mim.sbb_characterized_property_definition_representation>>; 21
+* <<express:State_based_behaviour_mim.sbb_characterized_representation>>; 22
+* <<express:State_based_behaviour_mim.sbb_characterized_representation_context>>; 23
+* <<express:State_based_behaviour_mim.sbb_characterized_representation_item>>; 24
+* <<express:State_based_behaviour_mim.sbb_characterized_state_type>>; 25
+* <<express:State_based_behaviour_mim.sbb_characterized_state_type_assignment>>; 26
+* <<express:State_based_behaviour_mim.sbb_characterized_state_type_relationship>>; 27
+====
+*)
+
+(*"State_based_behaviour_mim.__expressg"
+[.svgmap]
+====
+image::mimexpg3.svg[]
+
+* <<express:State_based_behaviour_mim.short_listing>>; 16
+====
+*)

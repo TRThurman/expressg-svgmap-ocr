@@ -1,0 +1,21 @@
+(*"Time_interval_assignment_arm.__expressg"
+[.svgmap]
+====
+image::armexpg1.svg[]
+
+* <<express:Time_interval_assignment_arm.required_am_arms>>; 1
+* <<express:Time_interval_arm.required_am_arms>>; 2
+====
+*)
+
+(*"Time_interval_assignment_arm.__expressg"
+[.svgmap]
+====
+image::armexpg2.svg[]
+
+* <<express:Time_interval_arm.Time_interval>>; 1
+* <<express:Time_interval_assignment_arm.time_interval_item>>; 2
+* <<express:Time_interval_assignment_arm.Time_interval_assignment>>; 3
+* <<express:Time_interval_assignment_arm.Time_interval_role>>; 4
+====
+*)

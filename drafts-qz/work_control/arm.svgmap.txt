@@ -1,0 +1,32 @@
+(*"Work_control_arm.__expressg"
+[.svgmap]
+====
+image::armexpg1.svg[]
+
+* <<express:Work_control_arm.required_am_arms>>; 1
+* <<express:Work_order_arm.required_am_arms>>; 2
+* <<express:Temporal_objects_arm.required_am_arms>>; 3
+* <<express:Root_things_arm.required_am_arms>>; 4
+====
+*)
+
+(*"Work_control_arm.__expressg"
+[.svgmap]
+====
+image::armexpg2.svg[]
+
+* <<express:Root_things_arm.Information_object>>; 1
+* <<express:Temporal_objects_arm.Temporal_object_activity>>; 2
+* <<express:Work_order_arm.Work_order>>; 3
+* <<express:Work_order_arm.Directed_activity>>; 4
+* <<express:Work_control_arm.Approve_work_as_complete>>; 5
+* <<express:Work_control_arm.Control_document>>; 6
+* <<express:Work_control_arm.Disapprove_work>>; 7
+* <<express:Work_control_arm.Monitor_work>>; 8
+* <<express:Work_control_arm.Oder_an_end_to_work>>; 9
+* <<express:Work_control_arm.Perform_work_as_directed_by_work_order>>; 10
+* <<express:Work_control_arm.Prepare_work_order>>; 11
+* <<express:Work_control_arm.Specify_perform_and_monitor_work>>; 12
+* <<express:Work_control_arm.Work_order_document>>; 13
+====
+*)

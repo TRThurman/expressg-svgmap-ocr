@@ -1,0 +1,24 @@
+(*"Resource_property_assignment_arm.__expressg"
+[.svgmap]
+====
+image::armexpg1.svg[]
+
+* <<express:Resource_property_assignment_arm.required_am_arms>>; 1
+* <<express:Foundation_representation_arm.required_am_arms>>; 2
+* <<express:Independent_property_arm.required_am_arms>>; 3
+====
+*)
+
+(*"Resource_property_assignment_arm.__expressg"
+[.svgmap]
+====
+image::armexpg2.svg[]
+
+* <<express:Foundation_representation_arm.Representation>>; 1
+* <<express:Independent_property_arm.Independent_property>>; 2
+* <<express:Resource_property_assignment_arm.characterized_resource_select>>; 3
+* <<express:Resource_property_assignment_arm.Applied_independent_resource_property>>; 4
+* <<express:Resource_property_assignment_arm.Resource_property>>; 5
+* <<express:Resource_property_assignment_arm.Resource_property_representation>>; 6
+====
+*)

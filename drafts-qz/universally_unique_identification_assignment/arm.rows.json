@@ -1,0 +1,211 @@
+[
+ {
+  "module": "universally_unique_identification_assignment",
+  "kind": "arm",
+  "svg": "armexpg1.svg",
+  "num": "1",
+  "ocr": "Foundation_representation_arm",
+  "ref": "Foundation_representation_arm.required_am_arms",
+  "score": 100,
+  "method": "schema->primary",
+  "flag": "convention"
+ },
+ {
+  "module": "universally_unique_identification_assignment",
+  "kind": "arm",
+  "svg": "armexpg1.svg",
+  "num": "2",
+  "ocr": "Elemental_geometric_shape_arm",
+  "ref": "Elemental_geometric_shape_arm.required_am_arms",
+  "score": 100,
+  "method": "schema->primary",
+  "flag": "convention"
+ },
+ {
+  "module": "universally_unique_identification_assignment",
+  "kind": "arm",
+  "svg": "armexpg1.svg",
+  "num": "3",
+  "ocr": "Universally_unique_identification_assignment_arm",
+  "ref": "Universally_unique_identification_assignment_arm.required_am_arms",
+  "score": 100,
+  "method": "schema->primary",
+  "flag": "convention"
+ },
+ {
+  "module": "universally_unique_identification_assignment",
+  "kind": "arm",
+  "svg": "armexpg2.svg",
+  "num": "1",
+  "ocr": "*(EX)uuid_ attribute_select",
+  "ref": "Universally_unique_identification_assignment_arm.uuid_attribute_select",
+  "score": 100,
+  "method": "exact-name-local-clean",
+  "flag": ""
+ },
+ {
+  "module": "universally_unique_identification_assignment",
+  "kind": "arm",
+  "svg": "armexpg2.svg",
+  "num": "2",
+  "ocr": "iuuid_set_or_list_attribute_select",
+  "ref": "Universally_unique_identification_assignment_arm.uuid_set_or_list_attribute_select",
+  "score": 90.32258064516128,
+  "method": "fuzzy-local-name",
+  "flag": "check"
+ },
+ {
+  "module": "universally_unique_identification_assignment",
+  "kind": "arm",
+  "svg": "armexpg2.svg",
+  "num": "3",
+  "ocr": "Elemental_geometric_shape_arm.Geometric_model",
+  "ref": "Elemental_geometric_shape_arm.Geometric_model",
+  "score": 100,
+  "method": "qualified-verbatim",
+  "flag": ""
+ },
+ {
+  "module": "universally_unique_identification_assignment",
+  "kind": "arm",
+  "svg": "armexpg2.svg",
+  "num": "4",
+  "ocr": "Elemental_geometric_shape_arm.Cartesian_point",
+  "ref": "Elemental_geometric_shape_arm.Cartesian_point",
+  "score": 100,
+  "method": "qualified-verbatim",
+  "flag": ""
+ },
+ {
+  "module": "universally_unique_identification_assignment",
+  "kind": "arm",
+  "svg": "armexpg2.svg",
+  "num": "5",
+  "ocr": "uuid_relationship_rolei",
+  "ref": "Universally_unique_identification_assignment_arm.uuid_relationship_role",
+  "score": 93.02325581395348,
+  "method": "fuzzy-local-name",
+  "flag": "check"
+ },
+ {
+  "module": "universally_unique_identification_assignment",
+  "kind": "arm",
+  "svg": "armexpg2.svg",
+  "num": "6",
+  "ocr": "*Uuid relationship",
+  "ref": "Universally_unique_identification_assignment_arm.Uuid_relationship",
+  "score": 100,
+  "method": "exact-name-local-clean",
+  "flag": ""
+ },
+ {
+  "module": "universally_unique_identification_assignment",
+  "kind": "arm",
+  "svg": "armexpg2.svg",
+  "num": "7",
+  "ocr": "Uuid_provenance",
+  "ref": "Universally_unique_identification_assignment_arm.Uuid_provenance",
+  "score": 100,
+  "method": "exact-name-local-clean",
+  "flag": ""
+ },
+ {
+  "module": "universally_unique_identification_assignment",
+  "kind": "arm",
+  "svg": "armexpg2.svg",
+  "num": "8",
+  "ocr": "*Hash_based_v5_uuid_attribute",
+  "ref": "Universally_unique_identification_assignment_arm.Hash_based_v5_uuid_attribute",
+  "score": 100,
+  "method": "exact-name-local-clean",
+  "flag": ""
+ },
+ {
+  "module": "universally_unique_identification_assignment",
+  "kind": "arm",
+  "svg": "armexpg2.svg",
+  "num": "9",
+  "ocr": "(ABS) Uuid_attribute",
+  "ref": "Universally_unique_identification_assignment_arm.Uuid_attribute",
+  "score": 100,
+  "method": "exact-name-local-clean",
+  "flag": ""
+ },
+ {
+  "module": "universally_unique_identification_assignment",
+  "kind": "arm",
+  "svg": "armexpg2.svg",
+  "num": "10",
+  "ocr": "V4_uuid_attribute",
+  "ref": "Universally_unique_identification_assignment_arm.V4_uuid_attribute",
+  "score": 100,
+  "method": "exact-name-local-clean",
+  "flag": ""
+ },
+ {
+  "module": "universally_unique_identification_assignment",
+  "kind": "arm",
+  "svg": "armexpg2.svg",
+  "num": "11",
+  "ocr": "*Uuid context",
+  "ref": "Universally_unique_identification_assignment_arm.Uuid_context",
+  "score": 100,
+  "method": "exact-name-local-clean",
+  "flag": ""
+ },
+ {
+  "module": "universally_unique_identification_assignment",
+  "kind": "arm",
+  "svg": "armexpg2.svg",
+  "num": "12",
+  "ocr": "VS_uuid_attribute",
+  "ref": "Universally_unique_identification_assignment_arm.Uuid_attribute",
+  "score": 89.65517241379311,
+  "method": "fuzzy-local-name",
+  "flag": "check"
+ },
+ {
+  "module": "universally_unique_identification_assignment",
+  "kind": "arm",
+  "svg": "armexpg2.svg",
+  "num": "13",
+  "ocr": "*Uuid_attribute_with_approximate_location",
+  "ref": "Universally_unique_identification_assignment_arm.Uuid_attribute_with_approximate_location",
+  "score": 100,
+  "method": "exact-name-local-clean",
+  "flag": ""
+ },
+ {
+  "module": "universally_unique_identification_assignment",
+  "kind": "arm",
+  "svg": "armexpg2.svg",
+  "num": "14",
+  "ocr": "uuid_set_item",
+  "ref": "Universally_unique_identification_assignment_arm.uuid_set_item",
+  "score": 100,
+  "method": "exact-name-local-clean",
+  "flag": ""
+ },
+ {
+  "module": "universally_unique_identification_assignment",
+  "kind": "arm",
+  "svg": "armexpg2.svg",
+  "num": "15",
+  "ocr": "uuid",
+  "ref": "Universally_unique_identification_assignment_arm.uuid",
+  "score": 100,
+  "method": "exact-name-local-clean",
+  "flag": ""
+ },
+ {
+  "module": "universally_unique_identification_assignment",
+  "kind": "arm",
+  "svg": "armexpg2.svg",
+  "num": "16",
+  "ocr": "uuid_list_item",
+  "ref": "Universally_unique_identification_assignment_arm.uuid_list_item",
+  "score": 100,
+  "method": "exact-name-local-clean",
+  "flag": ""
+ }
+]

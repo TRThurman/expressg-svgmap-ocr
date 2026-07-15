@@ -1,0 +1,11 @@
+(*"Shape_appearance_layers_mim.__expressg"
+[.svgmap]
+====
+image::mimexpg1.svg[]
+
+* <<express:Appearance_assignment_mim.short_listing>>; 1
+* <<express:Fill_area_style_mim.short_listing>>; 2
+* <<express:General_surface_appearance_mim.short_listing>>; 3
+* <<express:Layer_assignment_mim.short_listing>>; 4
+====
+*)

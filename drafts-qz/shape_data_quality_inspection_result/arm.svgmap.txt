@@ -1,0 +1,146 @@
+(*"Shape_data_quality_inspection_result_arm.__expressg"
+[.svgmap]
+====
+image::armexpg1.svg[]
+
+* <<express:B_spline_geometry_arm.required_am_arms>>; 1
+* <<express:Basic_geometric_topology_arm.required_am_arms>>; 2
+* <<express:Advanced_boundary_representation_arm.required_am_arms>>; 3
+* <<express:Support_resource_arm.required_am_arms>>; 4
+* <<express:Foundation_representation_arm.required_am_arms>>; 5
+* <<express:Shape_data_quality_inspection_result_arm.required_am_arms>>; 6
+* <<express:Basic_curve_arm.required_am_arms>>; 7
+* <<express:Manifold_surface_arm.required_am_arms>>; 8
+* <<express:Composite_surface_arm.required_am_arms>>; 9
+* <<express:Product_data_quality_inspection_result_arm.required_am_arms>>; 10
+* <<express:Shape_data_quality_criteria_arm.required_am_arms>>; 11
+* <<express:Shape_property_assignment_arm.required_am_arms>>; 12
+====
+*)
+
+(*"Shape_data_quality_inspection_result_arm.__expressg"
+[.svgmap]
+====
+image::armexpg2.svg[]
+
+* <<express:Shape_data_quality_inspection_result_arm.location_of_extreme_value_select>>; 1
+* <<express:Shape_data_quality_inspection_result_arm.measured_value_select>>; 2
+* <<express:Shape_data_quality_inspection_result_arm.inspected_shape_element_select>>; 3
+* <<express:Product_data_quality_inspection_result_arm.Data_quality_inspection_criterion_report>>; 4
+* <<express:Product_data_quality_inspection_result_arm.Data_quality_inspection_instance_report>>; 5
+* <<express:Foundation_representation_arm.Representation_relationship>>; 6
+* <<express:Product_data_quality_inspection_result_arm.Data_quality_inspection_instance_report_item>>; 7
+* <<express:Elemental_geometric_shape_arm.Geometric_model>>; 8
+* <<express:Shape_data_quality_criteria_arm.Shape_measurement_accuracy>>; 9
+* <<express:Shape_data_quality_criteria_arm.Shape_data_quality_criterion>>; 10
+* <<express:Product_data_quality_inspection_result_arm.Data_quality_inspection_result>>; 11
+* <<express:Product_data_quality_inspection_result_arm.Data_quality_inspection_result_representation>>; 12
+* <<express:Shape_data_quality_inspection_result_arm.Instance_report_item_with_extreme_instances>>; 13
+* <<express:Shape_data_quality_inspection_result_arm.Extreme_instance>>; 14
+* <<express:Shape_data_quality_inspection_result_arm.Shape_data_quality_inspection_instance_report_item>>; 15
+* <<express:Shape_data_quality_inspection_result_arm.Shape_data_quality_inspected_shape_and_result_relationship>>; 16
+* <<express:Shape_data_quality_inspection_result_arm.Shape_data_quality_inspection_instance_report>>; 17
+* <<express:Shape_data_quality_inspection_result_arm.Shape_inspection_result_accuracy_association>>; 18
+* <<express:Shape_data_quality_inspection_result_arm.Shape_data_quality_inspection_result>>; 19
+* <<express:Shape_data_quality_inspection_result_arm.Shape_inspection_result_representation_with_accuracy>>; 20
+* <<express:Shape_data_quality_inspection_result_arm.Shape_data_quality_inspection_result_representation>>; 21
+* <<express:Shape_data_quality_inspection_result_arm.Shape_data_quality_inspection_criterion_report>>; 22
+====
+*)
+
+(*"Shape_data_quality_inspection_result_arm.__expressg"
+[.svgmap]
+====
+image::armexpg3.svg[]
+
+* <<express:Shape_data_quality_inspection_result_arm.b_spline_or_rectangular_composite_surface_select>>; 1
+* <<express:Shape_data_quality_inspection_result_arm.b_spline_or_composite_curve_select>>; 2
+* <<express:Shape_data_quality_inspection_result_arm.inspected_shape_element_select>>; 3
+* <<express:Shape_data_quality_inspection_result_arm.closed_or_open_shell_select>>; 4
+* <<express:Shape_data_quality_inspection_result_arm.measured_value_select>>; 5
+* <<express:Shape_data_quality_inspection_result_arm.6>>; 6
+* <<express:Shape_data_quality_inspection_result_arm.7>>; 7
+* <<express:Basic_geometric_topology_arm.Face_surface>>; 8
+* <<express:B_spline_geometry_arm.B_spline_surface>>; 9
+* <<express:Composite_surface_arm.Rectangular_composite_surface>>; 10
+* <<express:Value_with_unit_arm.length_measure>>; 11
+* <<express:Value_with_unit_arm.plane_angle_measure>>; 12
+* <<express:Advanced_boundary_representation_arm.Closed_shell>>; 13
+* <<express:Elemental_geometric_shape_arm.Axis_placement>>; 14
+* <<express:Basic_curve_arm.Composite_curve>>; 15
+* <<express:Basic_geometric_topology_arm.Edge_curve>>; 16
+* <<express:Advanced_boundary_representation_arm.Manifold_solid_brep>>; 17
+* <<express:Elemental_topology_arm.Connected_face_set>>; 18
+* <<express:Product_data_quality_inspection_result_arm.inspected_element_select>>; 19
+* <<express:Value_with_unit_arm.ratio_measure>>; 20
+* <<express:Elemental_geometric_shape_arm.Direction>>; 21
+* <<express:Basic_geometric_topology_arm.Vertex_point>>; 22
+* <<express:B_spline_geometry_arm.B_spline_curve>>; 23
+* <<express:Manifold_surface_arm.Open_shell>>; 24
+* <<express:Elemental_geometric_shape_arm.Point>>; 25
+* <<express:Basic_geometry_arm.Curve>>; 26
+* <<express:Elemental_topology_arm.Edge_loop>>; 27
+* <<express:Value_with_unit_arm.measure_value>>; 28
+* <<express:Basic_geometry_arm.Surface>>; 29
+* <<express:Shape_data_quality_inspection_result_arm.Plane_angle_and_length_pair>>; 30
+* <<express:Shape_data_quality_inspection_result_arm.Plane_angle_and_ratio_pair>>; 31
+* <<express:Shape_data_quality_inspection_result_arm.boolean_value>>; 32
+====
+*)
+
+(*"Shape_data_quality_inspection_result_arm.__expressg"
+[.svgmap]
+====
+image::armexpg4.svg[]
+
+* <<express:Shape_data_quality_inspection_result_arm.location_of_extreme_value_select>>; 1
+* <<express:Shape_data_quality_inspection_result_arm.Boundary_curve_of_b_spline_or_rectangular_composite_surface>>; 2
+* <<express:Shape_data_quality_inspection_result_arm.inspected_shape_element_select>>; 3
+* <<express:Shape_data_quality_inspection_result_arm.B_spline_surface_strip>>; 4
+* <<express:Shape_data_quality_inspection_result_arm.Point_on_edge_curve>>; 5
+* <<express:Shape_data_quality_inspection_result_arm.B_spline_surface_knot_locator>>; 6
+* <<express:Shape_data_quality_inspection_result_arm.Point_on_face_surface>>; 7
+* <<express:Shape_data_quality_inspection_result_arm.Rectangular_composite_surface_transition_locator>>; 8
+* <<express:Shape_data_quality_inspection_result_arm.9>>; 9
+* <<express:Basic_curve_arm.Composite_curve>>; 10
+* <<express:B_spline_geometry_arm.B_spline_surface>>; 11
+* <<express:B_spline_geometry_arm.B_spline_curve>>; 12
+* <<express:Elemental_topology_arm.Face_bound>>; 13
+* <<express:Elemental_topology_arm.Oriented_edge>>; 14
+* <<express:Shape_data_quality_inspection_result_arm.B_spline_curve_knot_locator>>; 15
+* <<express:Shape_data_quality_inspection_result_arm.B_spline_surface_patch>>; 16
+* <<express:Shape_data_quality_inspection_result_arm.B_spline_curve_segment>>; 17
+* <<express:Shape_data_quality_inspection_result_arm.Composite_curve_transition_locator>>; 18
+====
+*)
+
+(*"Shape_data_quality_inspection_result_arm.__expressg"
+[.svgmap]
+====
+image::armexpg5.svg[]
+
+* <<express:Shape_data_quality_inspection_result_arm.b_spline_or_rectangular_composite_surface_select>>; 1
+* <<express:UNRESOLVED>>; 2
+* <<express:UNRESOLVED>>; 3
+* <<express:UNRESOLVED>>; 4
+* <<express:Shape_data_quality_inspection_result_arm.5>>; 5
+* <<express:UNRESOLVED>>; 6
+* <<express:UNRESOLVED>>; 7
+* <<express:B_spline_geometry_arm.B_spline_surface>>; 8
+* <<express:Basic_geometric_topology_arm.Edge_curve>>; 9
+* <<express:Composite_surface_arm.Rectangular_composite_surface>>; 10
+* <<express:Basic_geometry_arm.Curve>>; 11
+* <<express:Basic_geometry_arm.Surface>>; 12
+* <<express:Basic_geometric_topology_arm.Face_surface>>; 13
+* <<express:Basic_geometry_arm.Point_on_surface>>; 14
+* <<express:Basic_geometry_arm.Point_on_curve>>; 15
+* <<express:Shape_data_quality_inspection_result_arm.surface_boundary_type>>; 16
+* <<express:Shape_data_quality_inspection_result_arm.u_or_v_parameter>>; 17
+* <<express:Shape_data_quality_inspection_result_arm.Rectangular_composite_surface_transition_locator>>; 18
+* <<express:Shape_data_quality_inspection_result_arm.Point_on_edge_curve>>; 19
+* <<express:Shape_data_quality_inspection_result_arm.Boundary_curve_of_b_spline_or_rectangular_composite_surface>>; 20
+* <<express:Shape_data_quality_inspection_result_arm.B_spline_surface_strip>>; 21
+* <<express:Shape_data_quality_inspection_result_arm.Point_on_face_surface>>; 22
+* <<express:Shape_data_quality_inspection_result_arm.B_spline_surface_knot_locator>>; 23
+====
+*)

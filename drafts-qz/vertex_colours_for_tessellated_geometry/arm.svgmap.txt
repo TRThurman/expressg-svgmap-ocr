@@ -1,0 +1,28 @@
+(*"Vertex_colours_for_tessellated_geometry_arm.__expressg"
+[.svgmap]
+====
+image::armexpg1.svg[]
+
+* <<express:Tessellated_geometry_arm.required_am_arms>>; 1
+* <<express:Appearance_assignment_arm.required_am_arms>>; 2
+* <<express:Vertex_colours_for_tessellated_geometry_arm.required_am_arms>>; 3
+====
+*)
+
+(*"Vertex_colours_for_tessellated_geometry_arm.__expressg"
+[.svgmap]
+====
+image::armexpg2.svg[]
+
+* <<express:Vertex_colours_for_tessellated_geometry_arm.tessellated_surface_item>>; 1
+* <<express:Tessellated_geometry_arm.Coordinates_list>>; 2
+* <<express:Appearance_assignment_arm.Styled_element>>; 3
+* <<express:Tessellated_geometry_arm.Tessellated_surface_set>>; 4
+* <<express:Tessellated_geometry_arm.Tessellated_shell>>; 5
+* <<express:Tessellated_geometry_arm.Tessellated_face>>; 6
+* <<express:Tessellated_geometry_arm.Tessellated_solid>>; 7
+* <<express:Vertex_colours_for_tessellated_geometry_arm.colour_type_enum>>; 8
+* <<express:Vertex_colours_for_tessellated_geometry_arm.Styled_tessellated_element_with_colours>>; 9
+* <<express:Vertex_colours_for_tessellated_geometry_arm.unsigned_8_bit_integer>>; 10
+====
+*)

@@ -1,0 +1,32 @@
+(*"Tagged_text_representation_arm.__expressg"
+[.svgmap]
+====
+image::armexpg1.svg[]
+
+* <<express:Tagged_text_representation_arm.required_am_arms>>; 1
+* <<express:Foundation_representation_arm.required_am_arms>>; 2
+====
+*)
+
+(*"Tagged_text_representation_arm.__expressg"
+[.svgmap]
+====
+image::armexpg2.svg[]
+
+* <<express:Tagged_text_representation_arm.string_representation_item_list_or_set>>; 1
+* <<express:Tagged_text_representation_arm.string_representation_item_select>>; 2
+* <<express:Foundation_representation_arm.Representation>>; 3
+* <<express:Foundation_representation_arm.Representation_item>>; 4
+* <<express:Foundation_representation_arm.String_representation_item>>; 5
+* <<express:Foundation_representation_arm.Representation_context>>; 6
+* <<express:Tagged_text_representation_arm.Structured_text_composition>>; 7
+* <<express:Tagged_text_representation_arm.Tagged_text_format>>; 8
+* <<express:Tagged_text_representation_arm.Included_text_block>>; 9
+* <<express:Tagged_text_representation_arm.Uniform_resource_identifier>>; 10
+* <<express:Tagged_text_representation_arm.Tagged_text_item>>; 11
+* <<express:Tagged_text_representation_arm.Structured_text_representation>>; 12
+* <<express:Tagged_text_representation_arm.string_representation_item_list>>; 13
+* <<express:Tagged_text_representation_arm.string_representation_item_set>>; 14
+* <<express:Foundation_representation_arm.String_representation_item>>; 15
+====
+*)

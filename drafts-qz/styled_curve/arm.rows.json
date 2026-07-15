@@ -1,0 +1,112 @@
+[
+ {
+  "module": "styled_curve",
+  "kind": "arm",
+  "svg": "armexpg1.svg",
+  "num": "1",
+  "ocr": "Styled curve amm",
+  "ref": "Styled_curve_arm.required_am_arms",
+  "score": 86.66666666666667,
+  "method": "fuzzy-local-schema",
+  "flag": "check"
+ },
+ {
+  "module": "styled_curve",
+  "kind": "arm",
+  "svg": "armexpg1.svg",
+  "num": "2",
+  "ocr": "Colour amm",
+  "ref": "Colour_arm.required_am_arms",
+  "score": 84.21052631578947,
+  "method": "fuzzy-local-schema",
+  "flag": "check"
+ },
+ {
+  "module": "styled_curve",
+  "kind": "arm",
+  "svg": "armexpg1.svg",
+  "num": "3",
+  "ocr": "Elemental_geometric_shape_anm",
+  "ref": "Elemental_geometric_shape_arm.required_am_arms",
+  "score": 90.9090909090909,
+  "method": "fuzzy-local-schema",
+  "flag": "check"
+ },
+ {
+  "module": "styled_curve",
+  "kind": "arm",
+  "svg": "armexpg2.svg",
+  "num": "1",
+  "ocr": "Elemental geometric shape am.Geometic_model",
+  "ref": "Elemental_geometric_shape_arm.Geometric_model",
+  "score": 92.6829268292683,
+  "method": "fuzzy-local-concat",
+  "flag": "check"
+ },
+ {
+  "module": "styled_curve",
+  "kind": "arm",
+  "svg": "armexpg2.svg",
+  "num": "2",
+  "ocr": "Curve font",
+  "ref": "Styled_curve_arm.Curve_font",
+  "score": 100,
+  "method": "exact-name-local-clean",
+  "flag": ""
+ },
+ {
+  "module": "styled_curve",
+  "kind": "arm",
+  "svg": "armexpg2.svg",
+  "num": "3",
+  "ocr": "Solid curve font",
+  "ref": "Styled_curve_arm.Solid_curve_font",
+  "score": 100,
+  "method": "exact-name-local-clean",
+  "flag": ""
+ },
+ {
+  "module": "styled_curve",
+  "kind": "arm",
+  "svg": "armexpg2.svg",
+  "num": "4",
+  "ocr": "Curve_font_pattem",
+  "ref": "Styled_curve_arm.Curve_font_pattern",
+  "score": 84.84848484848484,
+  "method": "fuzzy-local-name",
+  "flag": "check"
+ },
+ {
+  "module": "styled_curve",
+  "kind": "arm",
+  "svg": "armexpg2.svg",
+  "num": "5",
+  "ocr": "Extemally_defined_cuve font",
+  "ref": "Styled_curve_arm.Externally_defined_curve_font",
+  "score": 86.79245283018868,
+  "method": "fuzzy-local-name",
+  "flag": "check"
+ },
+ {
+  "module": "styled_curve",
+  "kind": "arm",
+  "svg": "armexpg2.svg",
+  "num": "6",
+  "ocr": "User defined_curve font",
+  "ref": "Styled_curve_arm.User_defined_curve_font",
+  "score": 100,
+  "method": "exact-name-local-clean",
+  "flag": ""
+ },
+ {
+  "module": "styled_curve",
+  "kind": "arm",
+  "svg": "armexpg2.svg",
+  "num": "7",
+  "ocr": "Predefined_ curve font",
+  "ref": "Styled_curve_arm.Predefined_curve_font",
+  "score": 100,
+  "method": "exact-name-local-clean",
+  "flag": ""
+ }
+]

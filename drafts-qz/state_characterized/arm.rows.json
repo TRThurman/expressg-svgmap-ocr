@@ -1,0 +1,167 @@
+[
+ {
+  "module": "state_characterized",
+  "kind": "arm",
+  "svg": "armexpg1.svg",
+  "num": "1",
+  "ocr": "State_characterized_arm",
+  "ref": "State_characterized_arm.required_am_arms",
+  "score": 100,
+  "method": "schema->primary",
+  "flag": "convention"
+ },
+ {
+  "module": "state_characterized",
+  "kind": "arm",
+  "svg": "armexpg1.svg",
+  "num": "2",
+  "ocr": "Condition characterized arm",
+  "ref": "Condition_characterized_arm.required_am_arms",
+  "score": 100,
+  "method": "schema->primary",
+  "flag": "convention"
+ },
+ {
+  "module": "state_characterized",
+  "kind": "arm",
+  "svg": "armexpg1.svg",
+  "num": "3",
+  "ocr": "Condition_evaluation_characterized arm",
+  "ref": "Condition_evaluation_characterized_arm.required_am_arms",
+  "score": 100,
+  "method": "schema->primary",
+  "flag": "convention"
+ },
+ {
+  "module": "state_characterized",
+  "kind": "arm",
+  "svg": "armexpg1.svg",
+  "num": "4",
+  "ocr": "Property_assignment_ _arm",
+  "ref": "Property_assignment_arm.required_am_arms",
+  "score": 100,
+  "method": "schema->primary",
+  "flag": "convention"
+ },
+ {
+  "module": "state_characterized",
+  "kind": "arm",
+  "svg": "armexpg1.svg",
+  "num": "5",
+  "ocr": "State_ observed _arm",
+  "ref": "State_observed_arm.required_am_arms",
+  "score": 100,
+  "method": "schema->primary",
+  "flag": "convention"
+ },
+ {
+  "module": "state_characterized",
+  "kind": "arm",
+  "svg": "armexpg2.svg",
+  "num": "1",
+  "ocr": "Special case: diagrams for modules containing EXPRESS-G only extensible select types extensions to not provided. are See: Clause 4.2 for ARM lists",
+  "ref": null,
+  "score": 0,
+  "method": "placeholder-diagram",
+  "flag": "degenerate"
+ },
+ {
+  "module": "state_characterized",
+  "kind": "arm",
+  "svg": "armexpg2.svg",
+  "num": "2",
+  "ocr": "Special case: diagrams for modules containing EXPRESS-G only extensible select types extensions to not provided. are See: Clause 4.2 for ARM lists",
+  "ref": null,
+  "score": 0,
+  "method": "placeholder-diagram",
+  "flag": "degenerate"
+ },
+ {
+  "module": "state_characterized",
+  "kind": "arm",
+  "svg": "armexpg2.svg",
+  "num": "3",
+  "ocr": "Special case: diagrams for modules containing EXPRESS-G only extensible select types extensions to not provided. are See: Clause 4.2 for ARM lists",
+  "ref": null,
+  "score": 0,
+  "method": "placeholder-diagram",
+  "flag": "degenerate"
+ },
+ {
+  "module": "state_characterized",
+  "kind": "arm",
+  "svg": "armexpg2.svg",
+  "num": "4",
+  "ocr": "Special case: diagrams for modules containing EXPRESS-G only extensible select types extensions to not provided. are See: Clause 4.2 for ARM lists",
+  "ref": null,
+  "score": 0,
+  "method": "placeholder-diagram",
+  "flag": "degenerate"
+ },
+ {
+  "module": "state_characterized",
+  "kind": "arm",
+  "svg": "armexpg2.svg",
+  "num": "5",
+  "ocr": "Special case: diagrams for modules containing EXPRESS-G only extensible select types extensions to not provided. are See: Clause 4.2 for ARM lists",
+  "ref": null,
+  "score": 0,
+  "method": "placeholder-diagram",
+  "flag": "degenerate"
+ },
+ {
+  "module": "state_characterized",
+  "kind": "arm",
+  "svg": "armexpg2.svg",
+  "num": "6",
+  "ocr": "Special case: diagrams for modules containing EXPRESS-G only extensible select types extensions to not provided. are See: Clause 4.2 for ARM lists",
+  "ref": null,
+  "score": 0,
+  "method": "placeholder-diagram",
+  "flag": "degenerate"
+ },
+ {
+  "module": "state_characterized",
+  "kind": "arm",
+  "svg": "armexpg2.svg",
+  "num": "7",
+  "ocr": "Special case: diagrams for modules containing EXPRESS-G only extensible select types extensions to not provided. are See: Clause 4.2 for ARM lists",
+  "ref": null,
+  "score": 0,
+  "method": "placeholder-diagram",
+  "flag": "degenerate"
+ },
+ {
+  "module": "state_characterized",
+  "kind": "arm",
+  "svg": "armexpg2.svg",
+  "num": "8",
+  "ocr": "Special case: diagrams for modules containing EXPRESS-G only extensible select types extensions to not provided. are See: Clause 4.2 for ARM lists",
+  "ref": null,
+  "score": 0,
+  "method": "placeholder-diagram",
+  "flag": "degenerate"
+ },
+ {
+  "module": "state_characterized",
+  "kind": "arm",
+  "svg": "armexpg2.svg",
+  "num": "9",
+  "ocr": "Special case: diagrams for modules containing EXPRESS-G only extensible select types extensions to not provided. are See: Clause 4.2 for ARM lists",
+  "ref": null,
+  "score": 0,
+  "method": "placeholder-diagram",
+  "flag": "degenerate"
+ },
+ {
+  "module": "state_characterized",
+  "kind": "arm",
+  "svg": "armexpg2.svg",
+  "num": "10",
+  "ocr": "Special case: diagrams for modules containing EXPRESS-G only extensible select types extensions to not provided. are See: Clause 4.2 for ARM lists",
+  "ref": null,
+  "score": 0,
+  "method": "placeholder-diagram",
+  "flag": "degenerate"
+ }
+]

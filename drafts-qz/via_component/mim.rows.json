@@ -1,0 +1,112 @@
+[
+ {
+  "module": "via_component",
+  "kind": "mim",
+  "svg": "mimexpg1.svg",
+  "num": "1",
+  "ocr": "Layered_interconnect_module_design_mim",
+  "ref": "Layered_interconnect_module_design_mim.short_listing",
+  "score": 100,
+  "method": "schema->primary",
+  "flag": "convention"
+ },
+ {
+  "module": "via_component",
+  "kind": "mim",
+  "svg": "mimexpg1.svg",
+  "num": "2",
+  "ocr": "Interconnect module_ connection_routing mim",
+  "ref": "Interconnect_module_connection_routing_mim.short_listing",
+  "score": 100,
+  "method": "schema->primary",
+  "flag": "convention"
+ },
+ {
+  "module": "via_component",
+  "kind": "mim",
+  "svg": "mimexpg1.svg",
+  "num": "3",
+  "ocr": "Via_component_mim",
+  "ref": "Via_component_mim.short_listing",
+  "score": 100,
+  "method": "schema->primary",
+  "flag": "convention"
+ },
+ {
+  "module": "via_component",
+  "kind": "mim",
+  "svg": "mimexpg2.svg",
+  "num": "1",
+  "ocr": "Layered_interconnect_module_design mimvia",
+  "ref": "Layered_interconnect_module_design_mim.via",
+  "score": 100,
+  "method": "qualified-verbatim",
+  "flag": ""
+ },
+ {
+  "module": "via_component",
+  "kind": "mim",
+  "svg": "mimexpg2.svg",
+  "num": "2",
+  "ocr": "non conductive_base bind_via",
+  "ref": "Via_component_mim.non_conductive_base_blind_via",
+  "score": 90.56603773584906,
+  "method": "fuzzy-local-name",
+  "flag": "check"
+ },
+ {
+  "module": "via_component",
+  "kind": "mim",
+  "svg": "mimexpg2.svg",
+  "num": "3",
+  "ocr": "(ABS) blind_ via",
+  "ref": "Via_component_mim.blind_via",
+  "score": 100,
+  "method": "exact-name-local-clean",
+  "flag": ""
+ },
+ {
+  "module": "via_component",
+  "kind": "mim",
+  "svg": "mimexpg2.svg",
+  "num": "4",
+  "ocr": "interfacial_connection",
+  "ref": "Via_component_mim.interfacial_connection",
+  "score": 100,
+  "method": "exact-name-local-clean",
+  "flag": ""
+ },
+ {
+  "module": "via_component",
+  "kind": "mim",
+  "svg": "mimexpg2.svg",
+  "num": "5",
+  "ocr": "buried via",
+  "ref": "Via_component_mim.buried_via",
+  "score": 100,
+  "method": "exact-name-local-clean",
+  "flag": ""
+ },
+ {
+  "module": "via_component",
+  "kind": "mim",
+  "svg": "mimexpg2.svg",
+  "num": "6",
+  "ocr": "plated_conductive_base_blind_via",
+  "ref": "Via_component_mim.plated_conductive_base_blind_via",
+  "score": 100,
+  "method": "exact-name-local-clean",
+  "flag": ""
+ },
+ {
+  "module": "via_component",
+  "kind": "mim",
+  "svg": "mimexpg2.svg",
+  "num": "7",
+  "ocr": "*via_subtypes",
+  "ref": "Via_component_mim.via_subtypes",
+  "score": 100,
+  "method": "exact-name-local-clean",
+  "flag": ""
+ }
+]

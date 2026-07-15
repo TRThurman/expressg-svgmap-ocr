@@ -1,0 +1,11 @@
+(*"Surface_visual_texture_mim.__expressg"
+[.svgmap]
+====
+image::mimexpg1.svg[]
+
+* <<express:Appearance_assignment_mim.short_listing>>; 1
+* <<express:presentation_appearance_schema>>; 2
+* <<express:Tessellated_geometry_mim.short_listing>>; 3
+* <<express:Support_resource_mim.short_listing>>; 4
+====
+*)

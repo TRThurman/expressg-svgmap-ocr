@@ -1,0 +1,34 @@
+(*"Textual_expression_representation_mim.__expressg"
+[.svgmap]
+====
+image::mimexpg1.svg[]
+
+* <<express:Textual_expression_representation_mim.short_listing>>; 1
+* <<express:representation_schema>>; 2
+* <<express:qualified_measure_schema>>; 3
+* <<express:Classification_assignment_mim.short_listing>>; 4
+* <<express:Foundation_representation_mim.short_listing>>; 5
+====
+*)
+
+(*"Textual_expression_representation_mim.__expressg"
+[.svgmap]
+====
+image::mimexpg2.svg[]
+
+* <<express:Classification_assignment_mim.classification_item>>; 1
+* <<express:qualified_measure_schema.descriptive_representation_item>>; 2
+* <<express:representation_schema.representation>>; 3
+* <<express:representation_schema.representation_item>>; 4
+* <<express:representation_schema.representation_context>>; 5
+* <<express:representation_schema.compound_representation_item>>; 6
+* <<express:UNRESOLVED>>; 7
+* <<express:Textual_expression_representation_mim.ter_classification_item>>; 8
+* <<express:Textual_expression_representation_mim.text_based_item_select>>; 9
+* <<express:Textual_expression_representation_mim.included_text_based_representation>>; 10
+* <<express:Textual_expression_representation_mim.text_based_representation>>; 11
+* <<express:Textual_expression_representation_mim.text_based_representation_context>>; 12
+* <<express:Textual_expression_representation_mim.textual_expression_composition>>; 13
+* <<express:Textual_expression_representation_mim.textual_expression_representation_item>>; 14
+====
+*)

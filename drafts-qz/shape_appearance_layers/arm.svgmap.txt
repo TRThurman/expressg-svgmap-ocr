@@ -1,0 +1,35 @@
+(*"Shape_appearance_layers_arm.__expressg"
+[.svgmap]
+====
+image::armexpg1.svg[]
+
+* <<express:Shape_appearance_layers_arm.required_am_arms>>; 1
+* <<express:General_surface_appearance_arm.required_am_arms>>; 2
+* <<express:Fill_area_style_arm.required_am_arms>>; 3
+* <<express:Layer_assignment_arm.required_am_arms>>; 4
+* <<express:Appearance_assignment_arm.required_am_arms>>; 5
+====
+*)
+
+(*"Shape_appearance_layers_arm.__expressg"
+[.svgmap]
+====
+image::armexpg2.svg[]
+
+* <<express:Shape_appearance_layers_arm.sal_overriding_style_context>>; 1
+* <<express:Appearance_assignment_arm.appearance_select>>; 2
+* <<express:Shape_appearance_layers_arm.sal_appearance_context>>; 3
+* <<express:Fill_area_style_arm.Tile_style>>; 4
+* <<express:Layer_assignment_arm.Layer>>; 5
+* <<express:UNRESOLVED>>; 6
+* <<express:Appearance_assignment_arm.appearance_select>>; 7
+* <<express:Appearance_assignment_arm.appearance_context>>; 8
+* <<express:Fill_area_style_arm.Hatch_style>>; 9
+* <<express:Layer_assignment_arm.Layer>>; 10
+* <<express:Appearance_assignment_arm.overriding_style_context>>; 11
+* <<express:UNRESOLVED>>; 12
+* <<express:General_surface_appearance_arm.Surface_appearance>>; 13
+* <<express:Fill_area_style_arm.Solid_fill_area_style>>; 14
+* <<express:UNRESOLVED>>; 15
+====
+*)

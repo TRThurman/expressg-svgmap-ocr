@@ -1,0 +1,35 @@
+(*"Surface_conditions_mim.__expressg"
+[.svgmap]
+====
+image::mimexpg1.svg[]
+
+* <<express:application_context_schema>>; 1
+* <<express:material_property_definition_schema.material_property>>; 2
+* <<express:Geometric_tolerance_mim.short_listing>>; 3
+* <<express:Value_with_unit_extension_mim.short_listing>>; 4
+* <<express:shape_tolerance_schema>>; 5
+* <<express:Surface_conditions_mim.short_listing>>; 6
+* <<express:Part_view_definition_mim.short_listing>>; 7
+* <<express:product_property_definition_schema.shape_aspect>>; 8
+* <<express:product_property_representation_schema>>; 9
+* <<express:Generic_material_aspects_mim.short_listing>>; 10
+====
+*)
+
+(*"Surface_conditions_mim.__expressg"
+[.svgmap]
+====
+image::mimexpg2.svg[]
+
+* <<express:Surface_conditions_mim.sc_gps_filtration_specification_target>>; 1
+* <<express:product_property_definition_schema.property_definition>>; 2
+* <<express:product_property_definition_schema.shape_aspect>>; 3
+* <<express:representation_schema.representation>>; 4
+* <<express:shape_tolerance_schema.gps_filtration_specification_target>>; 5
+* <<express:Surface_conditions_mim.hardness_representation>>; 6
+* <<express:Surface_conditions_mim.tactile_appearance_representation>>; 7
+* <<express:Surface_conditions_mim.visual_appearance_representation>>; 8
+* <<express:Surface_conditions_mim.contact_ratio_representation>>; 9
+* <<express:Surface_conditions_mim.surface_texture_representation>>; 10
+====
+*)

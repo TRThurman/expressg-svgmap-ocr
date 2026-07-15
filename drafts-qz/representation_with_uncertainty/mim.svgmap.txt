@@ -1,0 +1,12 @@
+(*"Representation_with_uncertainty_mim.__expressg"
+[.svgmap]
+====
+image::mimexpg1.svg[]
+
+* <<express:Representation_with_uncertainty_mim.short_listing>>; 1
+* <<express:Foundation_representation_mim.short_listing>>; 2
+* <<express:Value_with_unit_mim.short_listing>>; 3
+* <<express:qualified_measure_schema>>; 4
+* <<express:representation_schema>>; 5
+====
+*)

@@ -1,0 +1,36 @@
+(*"Schedule_arm.__expressg"
+[.svgmap]
+====
+image::armexpg1.svg[]
+
+* <<express:Schedule_arm.required_am_arms>>; 1
+* <<express:Activity_method_implementation_arm.required_am_arms>>; 2
+* <<express:Attribute_classification_arm.required_am_arms>>; 3
+* <<express:Collection_identification_and_version_arm.required_am_arms>>; 4
+* <<express:Condition_evaluation_arm.required_am_arms>>; 5
+* <<express:Document_assignment_arm.required_am_arms>>; 6
+* <<express:Effectivity_application_arm.required_am_arms>>; 7
+* <<express:Identification_relationship_arm.required_am_arms>>; 8
+* <<express:Information_rights_arm.required_am_arms>>; 9
+* <<express:Justification_arm.required_am_arms>>; 10
+* <<express:Observation_arm.required_am_arms>>; 11
+* <<express:Process_property_assignment_arm.required_am_arms>>; 12
+* <<express:Property_assignment_arm.required_am_arms>>; 13
+* <<express:Resource_as_realized_arm.required_am_arms>>; 14
+* <<express:Resource_property_assignment_arm.required_am_arms>>; 15
+* <<express:Same_as_external_item_arm.required_am_arms>>; 16
+* <<express:Scheme_arm.required_am_arms>>; 17
+* <<express:Task_specification_arm.required_am_arms>>; 18
+* <<express:Time_interval_assignment_arm.required_am_arms>>; 19
+* <<express:Work_output_arm.required_am_arms>>; 20
+====
+*)
+
+(*"Schedule_arm.__expressg"
+[.svgmap]
+====
+image::armexpg2.svg[]
+
+* <<express:Schedule_arm.required_am_arms>>; 37
+====
+*)

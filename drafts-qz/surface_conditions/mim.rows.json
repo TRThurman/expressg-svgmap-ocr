@@ -1,0 +1,222 @@
+[
+ {
+  "module": "surface_conditions",
+  "kind": "mim",
+  "svg": "mimexpg1.svg",
+  "num": "1",
+  "ocr": "application _context schema",
+  "ref": "application_context_schema",
+  "score": 100,
+  "method": "schema->primary",
+  "flag": "convention"
+ },
+ {
+  "module": "surface_conditions",
+  "kind": "mim",
+  "svg": "mimexpg1.svg",
+  "num": "2",
+  "ocr": "material_property_defmition_schema",
+  "ref": "material_property_definition_schema.material_property",
+  "score": 72.28915662650603,
+  "method": "fuzzy-local-concat",
+  "flag": "check"
+ },
+ {
+  "module": "surface_conditions",
+  "kind": "mim",
+  "svg": "mimexpg1.svg",
+  "num": "3",
+  "ocr": "Geometric  tolerance mim",
+  "ref": "Geometric_tolerance_mim.short_listing",
+  "score": 100,
+  "method": "schema->primary",
+  "flag": "convention"
+ },
+ {
+  "module": "surface_conditions",
+  "kind": "mim",
+  "svg": "mimexpg1.svg",
+  "num": "4",
+  "ocr": "Value with unit_extension mim",
+  "ref": "Value_with_unit_extension_mim.short_listing",
+  "score": 100,
+  "method": "schema->primary",
+  "flag": "convention"
+ },
+ {
+  "module": "surface_conditions",
+  "kind": "mim",
+  "svg": "mimexpg1.svg",
+  "num": "5",
+  "ocr": "shape_tolerance_schema",
+  "ref": "shape_tolerance_schema",
+  "score": 100,
+  "method": "schema->primary",
+  "flag": "convention"
+ },
+ {
+  "module": "surface_conditions",
+  "kind": "mim",
+  "svg": "mimexpg1.svg",
+  "num": "6",
+  "ocr": "Surface conditions mim",
+  "ref": "Surface_conditions_mim.short_listing",
+  "score": 100,
+  "method": "schema->primary",
+  "flag": "convention"
+ },
+ {
+  "module": "surface_conditions",
+  "kind": "mim",
+  "svg": "mimexpg1.svg",
+  "num": "7",
+  "ocr": "Part view defmition mim",
+  "ref": "Part_view_definition_mim.short_listing",
+  "score": 86.36363636363636,
+  "method": "fuzzy-local-schema",
+  "flag": "check"
+ },
+ {
+  "module": "surface_conditions",
+  "kind": "mim",
+  "svg": "mimexpg1.svg",
+  "num": "8",
+  "ocr": "product_property_defmition_schema",
+  "ref": "product_property_definition_schema.shape_aspect",
+  "score": 76.31578947368422,
+  "method": "fuzzy-local-concat",
+  "flag": "check"
+ },
+ {
+  "module": "surface_conditions",
+  "kind": "mim",
+  "svg": "mimexpg1.svg",
+  "num": "9",
+  "ocr": "product_property_representation_schema",
+  "ref": "product_property_representation_schema",
+  "score": 100,
+  "method": "schema->primary",
+  "flag": "convention"
+ },
+ {
+  "module": "surface_conditions",
+  "kind": "mim",
+  "svg": "mimexpg1.svg",
+  "num": "10",
+  "ocr": "Generic material_aspects_mim",
+  "ref": "Generic_material_aspects_mim.short_listing",
+  "score": 100,
+  "method": "schema->primary",
+  "flag": "convention"
+ },
+ {
+  "module": "surface_conditions",
+  "kind": "mim",
+  "svg": "mimexpg2.svg",
+  "num": "1",
+  "ocr": "isc_gps filtration_specification _target",
+  "ref": "Surface_conditions_mim.sc_gps_filtration_specification_target",
+  "score": 93.15068493150685,
+  "method": "fuzzy-local-name",
+  "flag": "check"
+ },
+ {
+  "module": "surface_conditions",
+  "kind": "mim",
+  "svg": "mimexpg2.svg",
+  "num": "2",
+  "ocr": "product property defmition schema property defmition",
+  "ref": "product_property_definition_schema.property_definition",
+  "score": 90.0,
+  "method": "fuzzy-local-concat",
+  "flag": "check"
+ },
+ {
+  "module": "surface_conditions",
+  "kind": "mim",
+  "svg": "mimexpg2.svg",
+  "num": "3",
+  "ocr": "product property defimition schemashape aspect",
+  "ref": "product_property_definition_schema.shape_aspect",
+  "score": 93.18181818181819,
+  "method": "fuzzy-local-concat",
+  "flag": "check"
+ },
+ {
+  "module": "surface_conditions",
+  "kind": "mim",
+  "svg": "mimexpg2.svg",
+  "num": "4",
+  "ocr": "representation schema.representation",
+  "ref": "representation_schema.representation",
+  "score": 100,
+  "method": "qualified-verbatim",
+  "flag": ""
+ },
+ {
+  "module": "surface_conditions",
+  "kind": "mim",
+  "svg": "mimexpg2.svg",
+  "num": "5",
+  "ocr": "shape_tolerance_schemagos filtration specification target",
+  "ref": "shape_tolerance_schema.gps_filtration_specification_target",
+  "score": 96.875,
+  "method": "qualified-fuzzy",
+  "flag": "check"
+ },
+ {
+  "module": "surface_conditions",
+  "kind": "mim",
+  "svg": "mimexpg2.svg",
+  "num": "6",
+  "ocr": "*hardness_representation",
+  "ref": "Surface_conditions_mim.hardness_representation",
+  "score": 100,
+  "method": "exact-name-local-clean",
+  "flag": ""
+ },
+ {
+  "module": "surface_conditions",
+  "kind": "mim",
+  "svg": "mimexpg2.svg",
+  "num": "7",
+  "ocr": "*tactile_appearance_represntion",
+  "ref": "Surface_conditions_mim.tactile_appearance_representation",
+  "score": 91.80327868852459,
+  "method": "fuzzy-local-name",
+  "flag": "check"
+ },
+ {
+  "module": "surface_conditions",
+  "kind": "mim",
+  "svg": "mimexpg2.svg",
+  "num": "8",
+  "ocr": "*visual_appearance_representation",
+  "ref": "Surface_conditions_mim.visual_appearance_representation",
+  "score": 100,
+  "method": "exact-name-local-clean",
+  "flag": ""
+ },
+ {
+  "module": "surface_conditions",
+  "kind": "mim",
+  "svg": "mimexpg2.svg",
+  "num": "9",
+  "ocr": "*contact_ratio_representation",
+  "ref": "Surface_conditions_mim.contact_ratio_representation",
+  "score": 100,
+  "method": "exact-name-local-clean",
+  "flag": ""
+ },
+ {
+  "module": "surface_conditions",
+  "kind": "mim",
+  "svg": "mimexpg2.svg",
+  "num": "10",
+  "ocr": "*surface texture_repreentation",
+  "ref": "Surface_conditions_mim.surface_texture_representation",
+  "score": 94.73684210526316,
+  "method": "fuzzy-local-name",
+  "flag": "check"
+ }
+]

@@ -1,0 +1,30 @@
+(*"Symbolization_by_schematic_element_mim.__expressg"
+[.svgmap]
+====
+image::mimexpg1.svg[]
+
+* <<express:Symbolization_by_schematic_element_mim.short_listing>>; 1
+* <<express:Class_mim.short_listing>>; 2
+* <<express:Schematic_element_mim.short_listing>>; 3
+* <<express:presentation_organization_schema.area_in_set>>; 4
+====
+*)
+
+(*"Symbolization_by_schematic_element_mim.__expressg"
+[.svgmap]
+====
+image::mimexpg2.svg[]
+
+* <<express:Schematic_element_mim.schematic_element>>; 1
+* <<express:Schematic_element_mim.schematic_element_definition>>; 2
+* <<express:Class_arm.Class>>; 3
+* <<express:Symbolization_by_schematic_element_mim.symbolization_by_schematic_element>>; 4
+* <<express:Symbolization_by_schematic_element_mim.symbolization_of_member_or_subclass_by_schematic_element>>; 5
+* <<express:Symbolization_by_schematic_element_mim.symbolized_item>>; 6
+* <<express:Symbolization_by_schematic_element_mim.symbolized_item_select>>; 7
+* <<express:Symbolization_by_schematic_element_mim.symbolized_class>>; 8
+* <<express:Symbolization_by_schematic_element_mim.symbolized_class_select>>; 9
+* <<express:presentation_organization_schema.presented_item_representation>>; 10
+* <<express:presentation_organization_schema.presented_item>>; 11
+====
+*)

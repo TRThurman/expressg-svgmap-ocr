@@ -1,0 +1,10 @@
+(*"Shell_based_wireframe_mim.__expressg"
+[.svgmap]
+====
+image::mimexpg1.svg[]
+
+* <<express:Shell_based_wireframe_mim.short_listing>>; 1
+* <<express:aic_shell_based_wireframe>>; 2
+* <<express:Elemental_geometric_shape_mim.short_listing>>; 3
+====
+*)

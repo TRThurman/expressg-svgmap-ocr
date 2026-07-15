@@ -1,0 +1,52 @@
+(*"Schedule_mim.__expressg"
+[.svgmap]
+====
+image::mimexpg1.svg[]
+
+* <<express:Schedule_mim.short_listing>>; 1
+* <<express:Activity_method_implementation_mim.short_listing>>; 2
+* <<express:Attribute_classification_mim.short_listing>>; 3
+* <<express:Collection_identification_and_version_mim.short_listing>>; 4
+* <<express:Condition_evaluation_mim.short_listing>>; 5
+* <<express:Document_assignment_mim.short_listing>>; 6
+* <<express:Effectivity_application_mim.short_listing>>; 7
+* <<express:Identification_relationship_mim.short_listing>>; 8
+* <<express:Information_rights_mim.short_listing>>; 9
+* <<express:Justification_mim.short_listing>>; 10
+* <<express:Observation_mim.short_listing>>; 11
+* <<express:Process_property_assignment_mim.short_listing>>; 12
+* <<express:Property_assignment_mim.short_listing>>; 13
+* <<express:Resource_as_realized_mim.short_listing>>; 14
+* <<express:Resource_property_assignment_mim.short_listing>>; 15
+* <<express:Same_as_external_item_mim.short_listing>>; 16
+* <<express:Scheme_mim.short_listing>>; 17
+* <<express:state_type_schema>>; 18
+* <<express:Task_specification_mim.short_listing>>; 19
+* <<express:Time_interval_assignment_mim.short_listing>>; 20
+* <<express:Work_output_mim.short_listing>>; 21
+* <<express:product_property_definition_schema>>; 22
+* <<express:date_time_schema>>; 23
+====
+*)
+
+(*"Schedule_mim.__expressg"
+[.svgmap]
+====
+image::mimexpg2.svg[]
+
+* <<express:Condition_evaluation_mim.applied_action_method_assignment>>; 1
+* <<express:Observation_mim.applied_action_assignment>>; 2
+* <<express:product_property_definition_schema.characterized_object>>; 3
+* <<express:Schedule_mim.ss_characterizable_applied_action_assignment>>; 4
+* <<express:Schedule_mim.ss_characterizable_applied_action_method_assignment>>; 5
+====
+*)
+
+(*"Schedule_mim.__expressg"
+[.svgmap]
+====
+image::mimexpg3.svg[]
+
+* <<express:Schedule_mim.short_listing>>; 32
+====
+*)

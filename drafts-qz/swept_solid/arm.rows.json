@@ -1,0 +1,123 @@
+[
+ {
+  "module": "swept_solid",
+  "kind": "arm",
+  "svg": "armexpg1.svg",
+  "num": "1",
+  "ocr": "Topologically_bounded_surface_arm",
+  "ref": "Topologically_bounded_surface_arm.required_am_arms",
+  "score": 100,
+  "method": "schema->primary",
+  "flag": "convention"
+ },
+ {
+  "module": "swept_solid",
+  "kind": "arm",
+  "svg": "armexpg1.svg",
+  "num": "2",
+  "ocr": "Swept_solid_arm",
+  "ref": "Swept_solid_arm.required_am_arms",
+  "score": 100,
+  "method": "schema->primary",
+  "flag": "convention"
+ },
+ {
+  "module": "swept_solid",
+  "kind": "arm",
+  "svg": "armexpg2.svg",
+  "num": "1",
+  "ocr": "Value_with_unit_armplane_angle measure",
+  "ref": "Value_with_unit_arm.plane_angle_measure",
+  "score": 100,
+  "method": "qualified-verbatim",
+  "flag": ""
+ },
+ {
+  "module": "swept_solid",
+  "kind": "arm",
+  "svg": "armexpg2.svg",
+  "num": "2",
+  "ocr": "Elemental geometric_shape_armDirection",
+  "ref": "Elemental_geometric_shape_arm.Direction",
+  "score": 100,
+  "method": "qualified-verbatim",
+  "flag": ""
+ },
+ {
+  "module": "swept_solid",
+  "kind": "arm",
+  "svg": "armexpg2.svg",
+  "num": "3",
+  "ocr": "geometric_shape_arm Axis1_placement Elemental",
+  "ref": null,
+  "score": 0,
+  "method": "no-match",
+  "flag": "UNRESOLVED"
+ },
+ {
+  "module": "swept_solid",
+  "kind": "arm",
+  "svg": "armexpg2.svg",
+  "num": "4",
+  "ocr": "Value_with_unit_armlength_measure",
+  "ref": "Value_with_unit_arm.length_measure",
+  "score": 100,
+  "method": "qualified-verbatim",
+  "flag": ""
+ },
+ {
+  "module": "swept_solid",
+  "kind": "arm",
+  "svg": "armexpg2.svg",
+  "num": "5",
+  "ocr": "Topologically_bounded_surface_arm Advanced face",
+  "ref": "Topologically_bounded_surface_arm.Advanced_face",
+  "score": 100,
+  "method": "qualified-verbatim",
+  "flag": ""
+ },
+ {
+  "module": "swept_solid",
+  "kind": "arm",
+  "svg": "armexpg2.svg",
+  "num": "6",
+  "ocr": "Elemental_geometric_shape_arm Detailed_geometric_model_element",
+  "ref": "Elemental_geometric_shape_arm.Detailed_geometric_model_element",
+  "score": 100,
+  "method": "qualified-verbatim",
+  "flag": ""
+ },
+ {
+  "module": "swept_solid",
+  "kind": "arm",
+  "svg": "armexpg2.svg",
+  "num": "7",
+  "ocr": "Swept_solid",
+  "ref": "Swept_solid_arm.Swept_solid",
+  "score": 100,
+  "method": "exact-name-local-clean",
+  "flag": ""
+ },
+ {
+  "module": "swept_solid",
+  "kind": "arm",
+  "svg": "armexpg2.svg",
+  "num": "8",
+  "ocr": "Extruded solid",
+  "ref": "Swept_solid_arm.Extruded_solid",
+  "score": 100,
+  "method": "exact-name-local-clean",
+  "flag": ""
+ },
+ {
+  "module": "swept_solid",
+  "kind": "arm",
+  "svg": "armexpg2.svg",
+  "num": "9",
+  "ocr": "Solid_of revolution",
+  "ref": "Swept_solid_arm.Solid_of_revolution",
+  "score": 100,
+  "method": "exact-name-local-clean",
+  "flag": ""
+ }
+]

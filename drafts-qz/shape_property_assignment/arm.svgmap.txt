@@ -1,0 +1,88 @@
+(*"Shape_property_assignment_arm.__expressg"
+[.svgmap]
+====
+image::armexpg1.svg[]
+
+* <<express:Shape_property_assignment_arm.required_am_arms>>; 1
+* <<express:Assembly_structure_arm.required_am_arms>>; 2
+* <<express:External_model_arm.required_am_arms>>; 3
+* <<express:Geometric_model_relationship_arm.required_am_arms>>; 4
+* <<express:Property_assignment_arm.required_am_arms>>; 5
+* <<express:Product_view_definition_relationship_arm.required_am_arms>>; 6
+====
+*)
+
+(*"Shape_property_assignment_arm.__expressg"
+[.svgmap]
+====
+image::armexpg2.svg[]
+
+* <<express:Foundation_representation_arm.Representation>>; 1
+* <<express:Elemental_geometric_shape_arm.Geometric_model>>; 2
+* <<express:Elemental_geometric_shape_arm.geometric_model_item>>; 3
+* <<express:Property_assignment_arm.Assigned_property>>; 4
+* <<express:Property_assignment_arm.Property_definition_representation>>; 5
+* <<express:Shape_property_assignment_arm.assigned_shape_property_select>>; 6
+* <<express:Shape_property_assignment_arm.chained_geometric_model_link>>; 7
+* <<express:Shape_property_assignment_arm.item_identified_representation_usage_definition>>; 8
+* <<express:Shape_property_assignment_arm.item_identified_representation_usage_select>>; 9
+* <<express:Shape_property_assignment_arm.shape_element_or_relationship_select>>; 10
+* <<express:Shape_property_assignment_arm.shape_model>>; 11
+* <<express:Shape_property_assignment_arm.shapeable_item>>; 12
+* <<express:Shape_property_assignment_arm.shapeable_item>>; 13
+* <<express:Shape_property_assignment_arm.Assigned_shape_property>>; 14
+* <<express:Shape_property_assignment_arm.Item_identified_representation_usage>>; 15
+* <<express:Shape_property_assignment_arm.Shape_dependent_property_representation>>; 16
+* <<express:Shape_property_assignment_arm.Shape_description_association>>; 17
+* <<express:Shape_property_assignment_arm.Shape_element>>; 18
+* <<express:Shape_property_assignment_arm.Shape_element_description_association>>; 19
+* <<express:Shape_property_assignment_arm.Shape_element_relationship>>; 20
+* <<express:Shape_property_assignment_arm.property_definition_representation_subtype>>; 21
+====
+*)
+
+(*"Shape_property_assignment_arm.__expressg"
+[.svgmap]
+====
+image::armexpg3.svg[]
+
+* <<express:Assembly_structure_arm.Product_occurrence_definition_relationship>>; 1
+* <<express:Product_view_definition_arm.Product_view_definition>>; 2
+* <<express:Elemental_geometric_shape_arm.Geometric_model>>; 3
+* <<express:Foundation_representation_arm.Representation_item>>; 4
+* <<express:External_model_arm.External_geometric_model>>; 5
+* <<express:Elemental_geometric_shape_arm.Geometric_placement_operation>>; 6
+* <<express:Elemental_geometric_shape_arm.Geometric_coordinate_space>>; 7
+* <<express:Geometric_model_relationship_arm.Geometric_model_relationship>>; 8
+* <<express:Product_view_definition_relationship_arm.View_definition_relationship>>; 9
+* <<express:Property_assignment_arm.Assigned_property>>; 10
+* <<express:Independent_property_arm.Independent_property>>; 11
+* <<express:Shape_property_assignment_arm.chained_geometric_model_link>>; 12
+* <<express:Shape_property_assignment_arm.item_identified_representation_usage_definition>>; 13
+* <<express:Shape_property_assignment_arm.item_identified_representation_usage_select>>; 14
+* <<express:Shape_property_assignment_arm.list_representation_items>>; 15
+* <<express:Shape_property_assignment_arm.set_representation_items>>; 16
+* <<express:Shape_property_assignment_arm.shape_element_or_relationship_select>>; 17
+* <<express:Shape_property_assignment_arm.shape_model>>; 18
+* <<express:Shape_property_assignment_arm.shapeable_item>>; 19
+* <<express:Shape_property_assignment_arm.Shape_element>>; 20
+* <<express:Shape_property_assignment_arm.Shape_element_relationship>>; 21
+====
+*)
+
+(*"Shape_property_assignment_arm.__expressg"
+[.svgmap]
+====
+image::armexpg4.svg[]
+
+* <<express:Assembly_structure_arm.Product_occurrence_definition_relationship>>; 1
+* <<express:Product_view_definition_arm.Product_view_definition>>; 2
+* <<express:Product_view_definition_relationship_arm.View_definition_relationship>>; 3
+* <<express:Property_assignment_arm.represented_definition>>; 4
+* <<express:Property_assignment_arm.property_assignment_select>>; 5
+* <<express:Shape_property_assignment_arm.assigned_shape_property_select>>; 6
+* <<express:Shape_property_assignment_arm.spa_represented_definition>>; 7
+* <<express:Shape_property_assignment_arm.Shape_element>>; 8
+* <<express:Shape_property_assignment_arm.Shape_element_relationship>>; 9
+====
+*)

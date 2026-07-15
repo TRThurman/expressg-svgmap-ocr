@@ -1,0 +1,178 @@
+[
+ {
+  "module": "thermal_network_definition",
+  "kind": "arm",
+  "svg": "armexpg1.svg",
+  "num": "1",
+  "ocr": "Non_feature_shape_element_arm",
+  "ref": "Non_feature_shape_element_arm.required_am_arms",
+  "score": 100,
+  "method": "schema->primary",
+  "flag": "convention"
+ },
+ {
+  "module": "thermal_network_definition",
+  "kind": "arm",
+  "svg": "armexpg1.svg",
+  "num": "2",
+  "ocr": "Foundation_representation_arm",
+  "ref": "Foundation_representation_arm.required_am_arms",
+  "score": 100,
+  "method": "schema->primary",
+  "flag": "convention"
+ },
+ {
+  "module": "thermal_network_definition",
+  "kind": "arm",
+  "svg": "armexpg1.svg",
+  "num": "3",
+  "ocr": "Component_feature_arm",
+  "ref": "Component_feature_arm.required_am_arms",
+  "score": 100,
+  "method": "schema->primary",
+  "flag": "convention"
+ },
+ {
+  "module": "thermal_network_definition",
+  "kind": "arm",
+  "svg": "armexpg1.svg",
+  "num": "4",
+  "ocr": "Thermal_network_definition_arm",
+  "ref": "Thermal_network_definition_arm.required_am_arms",
+  "score": 100,
+  "method": "schema->primary",
+  "flag": "convention"
+ },
+ {
+  "module": "thermal_network_definition",
+  "kind": "arm",
+  "svg": "armexpg1.svg",
+  "num": "5",
+  "ocr": "Network_functional_design_view_arm",
+  "ref": "Network_functional_design_view_arm.required_am_arms",
+  "score": 100,
+  "method": "schema->primary",
+  "flag": "convention"
+ },
+ {
+  "module": "thermal_network_definition",
+  "kind": "arm",
+  "svg": "armexpg1.svg",
+  "num": "6",
+  "ocr": "Support_resource_arm",
+  "ref": "Support_resource_arm.required_am_arms",
+  "score": 100,
+  "method": "schema->primary",
+  "flag": "convention"
+ },
+ {
+  "module": "thermal_network_definition",
+  "kind": "arm",
+  "svg": "armexpg2.svg",
+  "num": "1",
+  "ocr": "*(Extnd_location_select",
+  "ref": "Thermal_network_definition_arm.tnd_location_select",
+  "score": 89.47368421052632,
+  "method": "fuzzy-local-name",
+  "flag": "check"
+ },
+ {
+  "module": "thermal_network_definition",
+  "kind": "arm",
+  "svg": "armexpg2.svg",
+  "num": "2",
+  "ocr": "Network_functional_design_view_arm. Functional_unit_network_node_definition",
+  "ref": "Network_functional_design_view_arm.Functional_unit_network_node_definition",
+  "score": 100,
+  "method": "qualified-verbatim",
+  "flag": ""
+ },
+ {
+  "module": "thermal_network_definition",
+  "kind": "arm",
+  "svg": "armexpg2.svg",
+  "num": "3",
+  "ocr": "Network_functional_design_view_arm Functional_unit_network_definition",
+  "ref": "Network_functional_design_view_arm.Functional_unit_network_definition",
+  "score": 100,
+  "method": "qualified-verbatim",
+  "flag": ""
+ },
+ {
+  "module": "thermal_network_definition",
+  "kind": "arm",
+  "svg": "armexpg2.svg",
+  "num": "4",
+  "ocr": "Shape_property_assignment_arm. shape_model",
+  "ref": "Shape_property_assignment_arm.shape_model",
+  "score": 100,
+  "method": "qualified-verbatim",
+  "flag": ""
+ },
+ {
+  "module": "thermal_network_definition",
+  "kind": "arm",
+  "svg": "armexpg2.svg",
+  "num": "5",
+  "ocr": "Non_feature_shape_element_arm.Non_feature_shape_element",
+  "ref": "Non_feature_shape_element_arm.Non_feature_shape_element",
+  "score": 100,
+  "method": "qualified-verbatim",
+  "flag": ""
+ },
+ {
+  "module": "thermal_network_definition",
+  "kind": "arm",
+  "svg": "armexpg2.svg",
+  "num": "6",
+  "ocr": "Component_feature_arm.Component_feature",
+  "ref": "Component_feature_arm.Component_feature",
+  "score": 100,
+  "method": "qualified-verbatim",
+  "flag": ""
+ },
+ {
+  "module": "thermal_network_definition",
+  "kind": "arm",
+  "svg": "armexpg2.svg",
+  "num": "7",
+  "ocr": "Elemental_geometric_shape_arm.Cartesian_point",
+  "ref": "Elemental_geometric_shape_arm.Cartesian_point",
+  "score": 100,
+  "method": "qualified-verbatim",
+  "flag": ""
+ },
+ {
+  "module": "thermal_network_definition",
+  "kind": "arm",
+  "svg": "armexpg2.svg",
+  "num": "8",
+  "ocr": "Physical_unit_usage_view_arm.Part_feature",
+  "ref": "Physical_unit_usage_view_arm.Part_feature",
+  "score": 100,
+  "method": "qualified-verbatim",
+  "flag": ""
+ },
+ {
+  "module": "thermal_network_definition",
+  "kind": "arm",
+  "svg": "armexpg2.svg",
+  "num": "9",
+  "ocr": "*Thermal_functional_unit_network_node_deintion",
+  "ref": "Thermal_network_definition_arm.Thermal_functional_unit_network_node_definition",
+  "score": 91.95402298850574,
+  "method": "fuzzy-local-name",
+  "flag": "check"
+ },
+ {
+  "module": "thermal_network_definition",
+  "kind": "arm",
+  "svg": "armexpg2.svg",
+  "num": "10",
+  "ocr": "Thermal_network_definition",
+  "ref": "Thermal_network_definition_arm.Thermal_network_definition",
+  "score": 100,
+  "method": "exact-name-local-clean",
+  "flag": ""
+ }
+]

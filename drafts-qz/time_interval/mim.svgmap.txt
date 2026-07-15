@@ -1,0 +1,11 @@
+(*"Time_interval_mim.__expressg"
+[.svgmap]
+====
+image::mimexpg1.svg[]
+
+* <<express:Time_interval_mim.short_listing>>; 1
+* <<express:Event_mim.short_listing>>; 2
+* <<express:Value_with_unit_mim.short_listing>>; 3
+* <<express:date_time_schema>>; 4
+====
+*)

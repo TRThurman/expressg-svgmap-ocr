@@ -1,0 +1,123 @@
+[
+ {
+  "module": "set_theory",
+  "kind": "mim",
+  "svg": "mimexpg1.svg",
+  "num": "1",
+  "ocr": "Set_theory_mim",
+  "ref": "Set_theory_mim.short_listing",
+  "score": 100,
+  "method": "schema->primary",
+  "flag": "convention"
+ },
+ {
+  "module": "set_theory",
+  "kind": "mim",
+  "svg": "mimexpg1.svg",
+  "num": "2",
+  "ocr": "set_t theory_schema",
+  "ref": "set_theory_schema.union",
+  "score": 78.94736842105263,
+  "method": "fuzzy-local-concat",
+  "flag": "check"
+ },
+ {
+  "module": "set_theory",
+  "kind": "mim",
+  "svg": "mimexpg1.svg",
+  "num": "3",
+  "ocr": "Class_mim",
+  "ref": "Class_mim.short_listing",
+  "score": 100,
+  "method": "schema->primary",
+  "flag": "convention"
+ },
+ {
+  "module": "set_theory",
+  "kind": "mim",
+  "svg": "mimexpg2.svg",
+  "num": "1",
+  "ocr": "set_theory_schema.complement",
+  "ref": "set_theory_schema.complement",
+  "score": 100,
+  "method": "qualified-verbatim",
+  "flag": ""
+ },
+ {
+  "module": "set_theory",
+  "kind": "mim",
+  "svg": "mimexpg2.svg",
+  "num": "2",
+  "ocr": "set_theory_schema.intersection",
+  "ref": "set_theory_schema.intersection",
+  "score": 100,
+  "method": "qualified-verbatim",
+  "flag": ""
+ },
+ {
+  "module": "set_theory",
+  "kind": "mim",
+  "svg": "mimexpg2.svg",
+  "num": "3",
+  "ocr": "set _theory_schema.power_set",
+  "ref": "set_theory_schema.power_set",
+  "score": 100,
+  "method": "qualified-verbatim",
+  "flag": ""
+ },
+ {
+  "module": "set_theory",
+  "kind": "mim",
+  "svg": "mimexpg2.svg",
+  "num": "4",
+  "ocr": "set_theory_schema.proper_suset",
+  "ref": "set_theory_schema.proper_subset",
+  "score": 95.65217391304348,
+  "method": "qualified-fuzzy",
+  "flag": "check"
+ },
+ {
+  "module": "set_theory",
+  "kind": "mim",
+  "svg": "mimexpg2.svg",
+  "num": "5",
+  "ocr": "set _theory_schema.same_membership",
+  "ref": "set_theory_schema.same_membership",
+  "score": 100,
+  "method": "qualified-verbatim",
+  "flag": ""
+ },
+ {
+  "module": "set_theory",
+  "kind": "mim",
+  "svg": "mimexpg2.svg",
+  "num": "6",
+  "ocr": "set_theory_schema.subset",
+  "ref": "set_theory_schema.subset",
+  "score": 100,
+  "method": "qualified-verbatim",
+  "flag": ""
+ },
+ {
+  "module": "set_theory",
+  "kind": "mim",
+  "svg": "mimexpg2.svg",
+  "num": "7",
+  "ocr": "set _theory_schema.subset",
+  "ref": "set_theory_schema.subset",
+  "score": 100,
+  "method": "qualified-verbatim",
+  "flag": ""
+ },
+ {
+  "module": "set_theory",
+  "kind": "mim",
+  "svg": "mimexpg2.svg",
+  "num": "8",
+  "ocr": "set_theory_schema.union",
+  "ref": "set_theory_schema.union",
+  "score": 100,
+  "method": "qualified-verbatim",
+  "flag": ""
+ }
+]

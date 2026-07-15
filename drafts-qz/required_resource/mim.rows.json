@@ -1,0 +1,233 @@
+[
+ {
+  "module": "required_resource",
+  "kind": "mim",
+  "svg": "mimexpg1.svg",
+  "num": "1",
+  "ocr": "Required resource mim",
+  "ref": "Required_resource_mim.short_listing",
+  "score": 100,
+  "method": "schema->primary",
+  "flag": "convention"
+ },
+ {
+  "module": "required_resource",
+  "kind": "mim",
+  "svg": "mimexpg1.svg",
+  "num": "2",
+  "ocr": "Classification_assignment_mim",
+  "ref": "Classification_assignment_mim.short_listing",
+  "score": 100,
+  "method": "schema->primary",
+  "flag": "convention"
+ },
+ {
+  "module": "required_resource",
+  "kind": "mim",
+  "svg": "mimexpg1.svg",
+  "num": "3",
+  "ocr": "process_property_ schema",
+  "ref": "process_property_schema",
+  "score": 100,
+  "method": "schema->primary",
+  "flag": "convention"
+ },
+ {
+  "module": "required_resource",
+  "kind": "mim",
+  "svg": "mimexpg1.svg",
+  "num": "4",
+  "ocr": "action_schema",
+  "ref": "action_schema",
+  "score": 100,
+  "method": "schema->primary",
+  "flag": "convention"
+ },
+ {
+  "module": "required_resource",
+  "kind": "mim",
+  "svg": "mimexpg1.svg",
+  "num": "5",
+  "ocr": "management_resources _schema",
+  "ref": "management_resources_schema",
+  "score": 100,
+  "method": "schema->primary",
+  "flag": "convention"
+ },
+ {
+  "module": "required_resource",
+  "kind": "mim",
+  "svg": "mimexpg1.svg",
+  "num": "6",
+  "ocr": "Value_with_ _unit _mim",
+  "ref": "Value_with_unit_mim.short_listing",
+  "score": 100,
+  "method": "schema->primary",
+  "flag": "convention"
+ },
+ {
+  "module": "required_resource",
+  "kind": "mim",
+  "svg": "mimexpg1.svg",
+  "num": "7",
+  "ocr": "Activity_method_assignment _mim",
+  "ref": "Activity_method_assignment_mim.short_listing",
+  "score": 100,
+  "method": "schema->primary",
+  "flag": "convention"
+ },
+ {
+  "module": "required_resource",
+  "kind": "mim",
+  "svg": "mimexpg1.svg",
+  "num": "8",
+  "ocr": "Resource_ item_mim",
+  "ref": "Resource_item_mim.short_listing",
+  "score": 100,
+  "method": "schema->primary",
+  "flag": "convention"
+ },
+ {
+  "module": "required_resource",
+  "kind": "mim",
+  "svg": "mimexpg1.svg",
+  "num": "9",
+  "ocr": "Requirement _identification_and_ version _mim",
+  "ref": "Requirement_identification_and_version_mim.short_listing",
+  "score": 100,
+  "method": "schema->primary",
+  "flag": "convention"
+ },
+ {
+  "module": "required_resource",
+  "kind": "mim",
+  "svg": "mimexpg2.svg",
+  "num": "1",
+  "ocr": "action_schema.action_method",
+  "ref": "action_schema.action_method",
+  "score": 100,
+  "method": "qualified-verbatim",
+  "flag": ""
+ },
+ {
+  "module": "required_resource",
+  "kind": "mim",
+  "svg": "mimexpg2.svg",
+  "num": "2",
+  "ocr": "Classification assignment mim.classification item",
+  "ref": "Classification_assignment_mim.classification_item",
+  "score": 100,
+  "method": "qualified-verbatim",
+  "flag": ""
+ },
+ {
+  "module": "required_resource",
+  "kind": "mim",
+  "svg": "mimexpg2.svg",
+  "num": "3",
+  "ocr": "management_resources_schema.action_method_assignment",
+  "ref": "management_resources_schema.action_method_assignment",
+  "score": 100,
+  "method": "qualified-verbatim",
+  "flag": ""
+ },
+ {
+  "module": "required_resource",
+  "kind": "mim",
+  "svg": "mimexpg2.svg",
+  "num": "4",
+  "ocr": "management resources schema.action method role",
+  "ref": "management_resources_schema.action_method_role",
+  "score": 100,
+  "method": "qualified-verbatim",
+  "flag": ""
+ },
+ {
+  "module": "required_resource",
+  "kind": "mim",
+  "svg": "mimexpg2.svg",
+  "num": "5",
+  "ocr": "process_property_schema.action_resource_requirement",
+  "ref": "process_property_schema.action_resource_requirement",
+  "score": 100,
+  "method": "qualified-verbatim",
+  "flag": ""
+ },
+ {
+  "module": "required_resource",
+  "kind": "mim",
+  "svg": "mimexpg2.svg",
+  "num": "6",
+  "ocr": "process_property_ _schema.action_resource_ requirement _relationship",
+  "ref": "process_property_schema.action_resource_requirement_relationship",
+  "score": 100,
+  "method": "qualified-verbatim",
+  "flag": ""
+ },
+ {
+  "module": "required_resource",
+  "kind": "mim",
+  "svg": "mimexpg2.svg",
+  "num": "7",
+  "ocr": "process_property schema.characterized action definition",
+  "ref": "process_property_schema.characterized_action_definition",
+  "score": 100,
+  "method": "qualified-verbatim",
+  "flag": ""
+ },
+ {
+  "module": "required_resource",
+  "kind": "mim",
+  "svg": "mimexpg2.svg",
+  "num": "8",
+  "ocr": "process_property_schema.characterized_resource_definition",
+  "ref": "process_property_schema.characterized_resource_definition",
+  "score": 100,
+  "method": "qualified-verbatim",
+  "flag": ""
+ },
+ {
+  "module": "required_resource",
+  "kind": "mim",
+  "svg": "mimexpg2.svg",
+  "num": "9",
+  "ocr": "process_property_schema.requirement_for_action_resource",
+  "ref": "process_property_schema.requirement_for_action_resource",
+  "score": 100,
+  "method": "qualified-verbatim",
+  "flag": ""
+ },
+ {
+  "module": "required_resource",
+  "kind": "mim",
+  "svg": "mimexpg2.svg",
+  "num": "10",
+  "ocr": "process_property_schema.resource_property",
+  "ref": "process_property_schema.resource_property",
+  "score": 100,
+  "method": "qualified-verbatim",
+  "flag": ""
+ },
+ {
+  "module": "required_resource",
+  "kind": "mim",
+  "svg": "mimexpg2.svg",
+  "num": "11",
+  "ocr": "process_property_schema.resource_requirement_ _type",
+  "ref": "process_property_schema.resource_requirement_type",
+  "score": 100,
+  "method": "qualified-verbatim",
+  "flag": ""
+ },
+ {
+  "module": "required_resource",
+  "kind": "mim",
+  "svg": "mimexpg2.svg",
+  "num": "12",
+  "ocr": "required resource classification item",
+  "ref": "Required_resource_mim.required_resource_classification_item",
+  "score": 100,
+  "method": "exact-name-local-clean",
+  "flag": ""
+ }
+]

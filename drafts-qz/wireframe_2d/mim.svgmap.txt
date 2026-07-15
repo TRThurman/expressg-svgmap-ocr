@@ -1,0 +1,10 @@
+(*"Wireframe_2d_mim.__expressg"
+[.svgmap]
+====
+image::mimexpg1.svg[]
+
+* <<express:Wireframe_2d_mim.short_listing>>; 1
+* <<express:aic_geometrically_bounded_2d_wireframe.geometrically_bounded_2d_wireframe_representation>>; 2
+* <<express:Elemental_geometric_shape_mim.short_listing>>; 3
+====
+*)

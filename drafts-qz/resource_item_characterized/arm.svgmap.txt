@@ -1,0 +1,23 @@
+(*"Resource_item_characterized_arm.__expressg"
+[.svgmap]
+====
+image::armexpg1.svg[]
+
+* <<express:Resource_item_characterized_arm.required_am_arms>>; 1
+* <<express:Ap239_properties_arm.required_am_arms>>; 2
+* <<express:Condition_arm.required_am_arms>>; 3
+* <<express:Justification_arm.required_am_arms>>; 4
+* <<express:Process_property_assignment_arm.required_am_arms>>; 5
+* <<express:Resource_item_arm.required_am_arms>>; 6
+* <<express:Resource_property_assignment_arm.required_am_arms>>; 7
+====
+*)
+
+(*"Resource_item_characterized_arm.__expressg"
+[.svgmap]
+====
+image::armexpg2.svg[]
+
+* <<express:Resource_item_characterized_arm.required_am_arms>>; 17
+====
+*)

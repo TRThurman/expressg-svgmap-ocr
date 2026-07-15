@@ -1,0 +1,54 @@
+(*"Scheme_arm.__expressg"
+[.svgmap]
+====
+image::armexpg1.svg[]
+
+* <<express:Scheme_arm.required_am_arms>>; 1
+* <<express:Person_organization_assignment_arm.required_am_arms>>; 2
+* <<express:Time_interval_arm.required_am_arms>>; 3
+* <<express:Date_time_assignment_arm.required_am_arms>>; 4
+* <<express:Activity_method_arm.required_am_arms>>; 5
+* <<express:Activity_method_assignment_arm.required_am_arms>>; 6
+====
+*)
+
+(*"Scheme_arm.__expressg"
+[.svgmap]
+====
+image::armexpg2.svg[]
+
+* <<express:Activity_method_arm.Activity_method>>; 1
+* <<express:Activity_method_assignment_arm.Activity_method_relationship>>; 2
+* <<express:Date_time_assignment_arm.date_or_date_time_item>>; 3
+* <<express:Person_organization_assignment_arm.organization_or_person_in_organization_item>>; 4
+* <<express:Time_interval_arm.Time_interval>>; 5
+* <<express:Scheme_arm.scheme_date_or_date_time_item>>; 6
+* <<express:Scheme_arm.scheme_person_organization_select>>; 7
+* <<express:Scheme_arm.Scheme>>; 8
+* <<express:Scheme_arm.Scheme_entry>>; 9
+* <<express:Scheme_arm.Scheme_entry_relationship>>; 10
+* <<express:Scheme_arm.Scheme_relationship>>; 11
+* <<express:Scheme_arm.Scheme_version>>; 12
+* <<express:Scheme_arm.Scheme_version_relationship>>; 13
+* <<express:Scheme_arm.Sequencing_relationship>>; 14
+====
+*)
+
+(*"Scheme_arm.__expressg"
+[.svgmap]
+====
+image::armexpg3.svg[]
+
+* <<express:Activity_method_assignment_arm.Applied_activity_method_assignment>>; 1
+* <<express:Activity_method_assignment_arm.activity_method_item>>; 2
+* <<express:Scheme_arm.scheme_entry_item_select>>; 3
+* <<express:Scheme_arm.scheme_subject_select>>; 4
+* <<express:Scheme_arm.scheme_version_select>>; 5
+* <<express:Scheme_arm.Scheme>>; 6
+* <<express:Scheme_arm.Scheme_entry>>; 7
+* <<express:Scheme_arm.Scheme_entry_assignment>>; 8
+* <<express:Scheme_arm.Scheme_subject_assignment>>; 9
+* <<express:Scheme_arm.Scheme_version>>; 10
+* <<express:Scheme_arm.Scheme_version_assignment>>; 11
+====
+*)

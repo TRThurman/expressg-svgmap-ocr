@@ -1,0 +1,6 @@
+(*"Work_control_mim.__expressg"
+[.svgmap]
+====
+image::mimexpg1.svg[]
+====
+*)

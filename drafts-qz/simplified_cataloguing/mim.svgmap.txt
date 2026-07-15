@@ -1,0 +1,6 @@
+(*"Simplified_cataloguing_mim.__expressg"
+[.svgmap]
+====
+image::mimexpg1.svg[]
+====
+*)

@@ -1,0 +1,52 @@
+(*"Requirement_assignment_mim.__expressg"
+[.svgmap]
+====
+image::mimexpg1.svg[]
+
+* <<express:Requirement_assignment_mim.short_listing>>; 1
+* <<express:group_schema>>; 2
+* <<express:management_resources_schema>>; 3
+* <<express:product_definition_schema>>; 4
+* <<express:Requirement_view_definition_mim.short_listing>>; 5
+* <<express:product_property_definition_schema>>; 6
+====
+*)
+
+(*"Requirement_assignment_mim.__expressg"
+[.svgmap]
+====
+image::mimexpg2.svg[]
+
+* <<express:group_schema.group>>; 1
+* <<express:UNRESOLVED>>; 2
+* <<express:management_resources_schema.group_assignment>>; 3
+* <<express:management_resources_schema.group_assignment>>; 4
+* <<express:product_definition_schema.product_definition>>; 5
+* <<express:product_property_definition_schema.characterized_object>>; 6
+* <<express:Requirement_assignment_mim.requirement_assigned_item>>; 7
+* <<express:Requirement_assignment_mim.requirement_source_item>>; 8
+* <<express:Requirement_assignment_mim.assigned_requirement>>; 9
+* <<express:Requirement_assignment_mim.requirement_assigned_object>>; 10
+* <<express:Requirement_assignment_mim.requirement_assignment>>; 11
+* <<express:Requirement_assignment_mim.requirement_source>>; 12
+* <<express:Requirement_assignment_mim.source_for_requirement>>; 13
+* <<express:Requirement_assignment_mim.sourced_requirement>>; 14
+====
+*)
+
+(*"Requirement_assignment_mim.__expressg"
+[.svgmap]
+====
+image::mimexpg3.svg[]
+
+* <<express:group_schema.group>>; 1
+* <<express:management_resources_schema.group_assignment>>; 2
+* <<express:management_resources_schema.group_assignment>>; 3
+* <<express:product_definition_schema.product_definition>>; 4
+* <<express:Requirement_assignment_mim.requirement_assigned_item>>; 5
+* <<express:Requirement_assignment_mim.requirement_satisfaction_item>>; 6
+* <<express:Requirement_assignment_mim.satisfied_requirement>>; 7
+* <<express:Requirement_assignment_mim.satisfies_requirement>>; 8
+* <<express:Requirement_assignment_mim.satisfying_item>>; 9
+====
+*)

@@ -1,0 +1,145 @@
+[
+ {
+  "module": "test_requirement_allocation",
+  "kind": "arm",
+  "svg": "armexpg1.svg",
+  "num": "1",
+  "ocr": "Requirement_decomposition_arm",
+  "ref": "Requirement_decomposition_arm.required_am_arms",
+  "score": 100,
+  "method": "schema->primary",
+  "flag": "convention"
+ },
+ {
+  "module": "test_requirement_allocation",
+  "kind": "arm",
+  "svg": "armexpg1.svg",
+  "num": "2",
+  "ocr": "Test requirement_allocation_arm",
+  "ref": "Test_requirement_allocation_arm.required_am_arms",
+  "score": 100,
+  "method": "schema->primary",
+  "flag": "convention"
+ },
+ {
+  "module": "test_requirement_allocation",
+  "kind": "arm",
+  "svg": "armexpg1.svg",
+  "num": "3",
+  "ocr": "Functional_usage_view_arm",
+  "ref": "Functional_usage_view_arm.required_am_arms",
+  "score": 100,
+  "method": "schema->primary",
+  "flag": "convention"
+ },
+ {
+  "module": "test_requirement_allocation",
+  "kind": "arm",
+  "svg": "armexpg1.svg",
+  "num": "4",
+  "ocr": "Functional _assignment_to _part_arm",
+  "ref": "Functional_assignment_to_part_arm.required_am_arms",
+  "score": 100,
+  "method": "schema->primary",
+  "flag": "convention"
+ },
+ {
+  "module": "test_requirement_allocation",
+  "kind": "arm",
+  "svg": "armexpg2.svg",
+  "num": "1",
+  "ocr": "(EX)tra_requirement_assignment_item",
+  "ref": "Test_requirement_allocation_arm.tra_requirement_assignment_item",
+  "score": 100,
+  "method": "exact-name-local-clean",
+  "flag": ""
+ },
+ {
+  "module": "test_requirement_allocation",
+  "kind": "arm",
+  "svg": "armexpg2.svg",
+  "num": "2",
+  "ocr": "Functional assignment to_part arm.Functional usage view to part terminal assignment",
+  "ref": "Functional_assignment_to_part_arm.Functional_usage_view_to_part_terminal_assignment",
+  "score": 100,
+  "method": "qualified-verbatim",
+  "flag": ""
+ },
+ {
+  "module": "test_requirement_allocation",
+  "kind": "arm",
+  "svg": "armexpg2.svg",
+  "num": "3",
+  "ocr": "Product_version_arm.Product _version",
+  "ref": "Product_version_arm.Product_version",
+  "score": 100,
+  "method": "qualified-verbatim",
+  "flag": ""
+ },
+ {
+  "module": "test_requirement_allocation",
+  "kind": "arm",
+  "svg": "armexpg2.svg",
+  "num": "4",
+  "ocr": "Requirement_assignment_arm.requirement_assignment_item",
+  "ref": "Requirement_assignment_arm.requirement_assignment_item",
+  "score": 100,
+  "method": "qualified-verbatim",
+  "flag": ""
+ },
+ {
+  "module": "test_requirement_allocation",
+  "kind": "arm",
+  "svg": "armexpg2.svg",
+  "num": "5",
+  "ocr": "Product version arm.Product version",
+  "ref": "Product_version_arm.Product_version",
+  "score": 100,
+  "method": "qualified-verbatim",
+  "flag": ""
+ },
+ {
+  "module": "test_requirement_allocation",
+  "kind": "arm",
+  "svg": "armexpg2.svg",
+  "num": "6",
+  "ocr": "Requirement_decomposition_arm.Predefined _requirement view_definition",
+  "ref": "Requirement_decomposition_arm.Predefined_requirement_view_definition",
+  "score": 100,
+  "method": "qualified-verbatim",
+  "flag": ""
+ },
+ {
+  "module": "test_requirement_allocation",
+  "kind": "arm",
+  "svg": "armexpg2.svg",
+  "num": "7",
+  "ocr": "Analytical _model_arm.Analytical _model_port_assignment",
+  "ref": "Analytical_model_arm.Analytical_model_port_assignment",
+  "score": 100,
+  "method": "qualified-verbatim",
+  "flag": ""
+ },
+ {
+  "module": "test_requirement_allocation",
+  "kind": "arm",
+  "svg": "armexpg2.svg",
+  "num": "8",
+  "ocr": "Requirement_assignment_arm. Requirement assignment",
+  "ref": "Requirement_assignment_arm.Requirement_assignment",
+  "score": 100,
+  "method": "qualified-verbatim",
+  "flag": ""
+ },
+ {
+  "module": "test_requirement_allocation",
+  "kind": "arm",
+  "svg": "armexpg2.svg",
+  "num": "9",
+  "ocr": "*Test requirement allocation",
+  "ref": "Test_requirement_allocation_arm.Test_requirement_allocation",
+  "score": 100,
+  "method": "exact-name-local-clean",
+  "flag": ""
+ }
+]

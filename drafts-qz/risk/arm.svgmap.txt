@@ -1,0 +1,158 @@
+(*"Risk_arm.__expressg"
+[.svgmap]
+====
+image::armexpg1.svg[]
+
+* <<express:Risk_arm.required_am_arms>>; 1
+* <<express:Activity_arm.required_am_arms>>; 2
+* <<express:Risk_definition_arm.required_am_arms>>; 3
+====
+*)
+
+(*"Risk_arm.__expressg"
+[.svgmap]
+====
+image::armexpg2.svg[]
+
+* <<express:Activity_arm.Activity_relationship>>; 1
+* <<express:Activity_arm.Activity>>; 2
+* <<express:Risk_arm.risk_activity>>; 3
+* <<express:Risk_arm.Contained_acceptance>>; 4
+* <<express:Risk_arm.Contained_communication>>; 5
+* <<express:Risk_arm.Contained_treatments>>; 6
+* <<express:Risk_arm.Monitor>>; 7
+* <<express:Risk_arm.Risk_acceptance>>; 8
+* <<express:Risk_arm.Risk_activity_structure>>; 9
+* <<express:Risk_arm.Risk_assessment>>; 10
+* <<express:Risk_arm.Risk_communication>>; 11
+* <<express:Risk_arm.Risk_control>>; 12
+* <<express:Risk_arm.Risk_treatment>>; 13
+====
+*)
+
+(*"Risk_arm.__expressg"
+[.svgmap]
+====
+image::armexpg3.svg[]
+
+* <<express:Activity_arm.Activity>>; 1
+* <<express:Activity_arm.Activity>>; 2
+* <<express:Activity_arm.Applied_activity_assignment>>; 3
+* <<express:Activity_arm.Applied_activity_assignment>>; 4
+* <<express:Activity_arm.Applied_activity_assignment>>; 5
+* <<express:Risk_definition_arm.Risk_perception>>; 6
+* <<express:Risk_definition_arm.risk_perception_source_item>>; 7
+* <<express:Risk_arm.risk_estimation_select>>; 8
+* <<express:Risk_arm.Contained_analysis>>; 9
+* <<express:Risk_arm.Contained_estimation>>; 10
+* <<express:Risk_arm.Contained_identification>>; 11
+* <<express:Risk_arm.Risk_activity_structure>>; 12
+* <<express:Risk_arm.Risk_activity_structure>>; 13
+* <<express:Risk_arm.Risk_analysis>>; 14
+* <<express:Risk_arm.Risk_assessment>>; 15
+* <<express:Risk_arm.Risk_estimation>>; 16
+* <<express:Risk_arm.Risk_estimation_inputs>>; 17
+* <<express:Risk_arm.Risk_estimation_outputs>>; 18
+* <<express:Risk_arm.Risk_identification>>; 19
+* <<express:Risk_arm.Risk_identification_inputs>>; 20
+====
+*)
+
+(*"Risk_arm.__expressg"
+[.svgmap]
+====
+image::armexpg4.svg[]
+
+* <<express:Activity_arm.Activity>>; 1
+* <<express:Activity_arm.Applied_activity_assignment>>; 2
+* <<express:Activity_arm.Applied_activity_assignment>>; 3
+* <<express:Risk_definition_arm.Risk_perception>>; 4
+* <<express:Risk_arm.risk_criteria_select>>; 5
+* <<express:Risk_arm.Contained_evaluation>>; 6
+* <<express:Risk_arm.Risk_activity_structure>>; 7
+* <<express:Risk_arm.Risk_assessment>>; 8
+* <<express:Risk_arm.Risk_evaluation>>; 9
+* <<express:Risk_arm.Risk_evaluation_criteria>>; 10
+* <<express:Risk_arm.Risk_evaluation_inputs>>; 11
+====
+*)
+
+(*"Risk_arm.__expressg"
+[.svgmap]
+====
+image::armexpg5.svg[]
+
+* <<express:Activity_arm.Activity>>; 1
+* <<express:Activity_arm.Activity>>; 2
+* <<express:Activity_arm.Applied_activity_assignment>>; 3
+* <<express:Activity_arm.Applied_activity_assignment>>; 4
+* <<express:Activity_arm.Activity_method>>; 5
+* <<express:Risk_arm.risk_communication_select>>; 6
+* <<express:Risk_arm.risk_treatment_select>>; 7
+* <<express:Risk_arm.Risk_communicated_items>>; 8
+* <<express:Risk_arm.Risk_communication>>; 9
+* <<express:Risk_arm.Risk_measure>>; 10
+* <<express:Risk_arm.Risk_treatment>>; 11
+* <<express:Risk_arm.Risk_treatment_assignment>>; 12
+====
+*)
+
+(*"Risk_arm.__expressg"
+[.svgmap]
+====
+image::armexpg6.svg[]
+
+* <<express:Risk_definition_arm.Risk_consequence>>; 1
+* <<express:Risk_definition_arm.Risk_perception>>; 2
+* <<express:Risk_definition_arm.Risk_impact_assignment>>; 3
+* <<express:Risk_definition_arm.Assigned_property>>; 4
+* <<express:Risk_definition_arm.EventAssignment>>; 5
+* <<express:Risk_definition_arm.Risk_perception_relationship>>; 6
+* <<express:Risk_definition_arm.Risk_relationship>>; 7
+* <<express:Risk_arm.risk_activity>>; 8
+* <<express:Risk_arm.risk_estimation_select>>; 9
+* <<express:Risk_arm.risk_treatment_select>>; 10
+* <<express:Risk_arm.Risk_acceptance>>; 11
+* <<express:Risk_arm.Risk_analysis>>; 12
+* <<express:Risk_arm.Risk_assessment>>; 13
+* <<express:Risk_arm.Risk_communication>>; 14
+* <<express:Risk_arm.Risk_control>>; 15
+* <<express:Risk_arm.Risk_estimation>>; 16
+* <<express:Risk_arm.Risk_evaluation>>; 17
+* <<express:Risk_arm.Risk_identification>>; 18
+* <<express:Risk_arm.Risk_treatment>>; 19
+====
+*)
+
+(*"Risk_arm.__expressg"
+[.svgmap]
+====
+image::armexpg7.svg[]
+
+* <<express:Activity_arm.Activity>>; 1
+* <<express:Activity_arm.Activity_method>>; 2
+* <<express:Activity_arm.activity_item>>; 3
+* <<express:Risk_definition_arm.Risk_consequence>>; 4
+* <<express:Risk_definition_arm.Risk_perception>>; 5
+* <<express:Risk_definition_arm.Risk_perception>>; 6
+* <<express:Risk_definition_arm.risk_perception_source_item>>; 7
+* <<express:Risk_definition_arm.Risk_impact_assignment>>; 8
+* <<express:Risk_definition_arm.Assigned_property>>; 9
+* <<express:Risk_definition_arm.EventAssignment>>; 10
+* <<express:Risk_definition_arm.Risk_perception_relationship>>; 11
+* <<express:Risk_definition_arm.Risk_relationship>>; 12
+* <<express:Risk_definition_arm.Risk>>; 13
+* <<express:Risk_definition_arm.Risk_perception_context>>; 14
+* <<express:Risk_definition_arm.Risk_perception_source_assignment>>; 15
+* <<express:Risk_arm.r_risk_perception_source_item>>; 16
+* <<express:Risk_arm.risk_activity_item>>; 17
+* <<express:Risk_arm.risk_communication_select>>; 18
+* <<express:Risk_arm.risk_criteria_select>>; 19
+* <<express:Risk_arm.Risk_assessment>>; 20
+* <<express:Risk_arm.Risk_control>>; 21
+* <<express:Risk_arm.Risk_estimation>>; 22
+* <<express:Risk_arm.Risk_evaluation>>; 23
+* <<express:Risk_arm.Risk_identification>>; 24
+* <<express:Risk_arm.Risk_treatment>>; 25
+====
+*)

@@ -1,0 +1,90 @@
+(*"Work_request_characterized_mim.__expressg"
+[.svgmap]
+====
+image::mimexpg1.svg[]
+
+* <<express:Work_request_characterized_mim.short_listing>>; 1
+* <<express:Work_request_mim.short_listing>>; 2
+* <<express:Ap239_management_resource_information_mim.short_listing>>; 3
+* <<express:Management_resource_information_mim.short_listing>>; 4
+* <<express:action_schema>>; 5
+* <<express:Document_assignment_mim.short_listing>>; 6
+====
+*)
+
+(*"Work_request_characterized_mim.__expressg"
+[.svgmap]
+====
+image::mimexpg2.svg[]
+
+* <<express:action_schema.action_request_solution>>; 1
+* <<express:action_schema.action_request_status>>; 2
+* <<express:action_schema.versioned_action_request>>; 3
+* <<express:Ap239_management_resource_information_mim.ap239_mri_attribute_classification_item>>; 4
+* <<express:Ap239_management_resource_information_mim.ap239_mri_classification_item>>; 5
+* <<express:Work_request_mim.applied_action_request_assignment>>; 6
+* <<express:Work_request_characterized_mim.wreqchar_ap239_mri_attribute_classification_item>>; 7
+* <<express:Work_request_characterized_mim.wreqchar_ap239_mri_classification_item>>; 8
+====
+*)
+
+(*"Work_request_characterized_mim.__expressg"
+[.svgmap]
+====
+image::mimexpg3.svg[]
+
+* <<express:action_schema.action_request_solution>>; 1
+* <<express:action_schema.versioned_action_request>>; 2
+* <<express:Management_resource_information_mim.mri_approval_item>>; 3
+* <<express:Management_resource_information_mim.mri_identification_item>>; 4
+* <<express:Work_request_mim.applied_action_request_assignment>>; 5
+* <<express:Work_request_characterized_mim.wreqchar_mri_approval_item>>; 6
+* <<express:Work_request_characterized_mim.wreqchar_mri_identification_item>>; 7
+====
+*)
+
+(*"Work_request_characterized_mim.__expressg"
+[.svgmap]
+====
+image::mimexpg4.svg[]
+
+* <<express:action_schema.action_request_solution>>; 1
+* <<express:action_schema.versioned_action_request>>; 2
+* <<express:Management_resource_information_mim.mri_date_and_time_item>>; 3
+* <<express:Management_resource_information_mim.mri_date_item>>; 4
+* <<express:Work_request_mim.applied_action_request_assignment>>; 5
+* <<express:Work_request_characterized_mim.wreqchar_mri_date_and_time_item>>; 6
+* <<express:Work_request_characterized_mim.wreqchar_mri_date_item>>; 7
+====
+*)
+
+(*"Work_request_characterized_mim.__expressg"
+[.svgmap]
+====
+image::mimexpg5.svg[]
+
+* <<express:action_schema.action_request_solution>>; 1
+* <<express:action_schema.versioned_action_request>>; 2
+* <<express:Management_resource_information_mim.mri_organization_item>>; 3
+* <<express:Management_resource_information_mim.mri_person_and_organization_item>>; 4
+* <<express:Work_request_mim.applied_action_request_assignment>>; 5
+* <<express:Work_request_characterized_mim.wreqchar_mri_organization_item>>; 6
+* <<express:Work_request_characterized_mim.wreqchar_mri_person_and_organization_item>>; 7
+====
+*)
+
+(*"Work_request_characterized_mim.__expressg"
+[.svgmap]
+====
+image::mimexpg6.svg[]
+
+* <<express:action_schema.action_request_solution>>; 1
+* <<express:action_schema.versioned_action_request>>; 2
+* <<express:Document_assignment_mim.document_reference_item>>; 3
+* <<express:Management_resource_information_mim.mri_attribute_language_item>>; 4
+* <<express:Management_resource_information_mim.mri_multi_language_attribute_item>>; 5
+* <<express:Work_request_characterized_mim.wreqchar_document_reference_item>>; 6
+* <<express:Work_request_characterized_mim.wreqchar_mri_attribute_language_item>>; 7
+* <<express:Work_request_characterized_mim.wreqchar_mri_multi_language_attribute_item>>; 8
+====
+*)

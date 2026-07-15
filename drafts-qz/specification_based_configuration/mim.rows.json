@@ -1,0 +1,167 @@
+[
+ {
+  "module": "specification_based_configuration",
+  "kind": "mim",
+  "svg": "mimexpg1.svg",
+  "num": "1",
+  "ocr": "product definition schema",
+  "ref": "product_definition_schema",
+  "score": 100,
+  "method": "schema->primary",
+  "flag": "convention"
+ },
+ {
+  "module": "specification_based_configuration",
+  "kind": "mim",
+  "svg": "mimexpg1.svg",
+  "num": "2",
+  "ocr": "Effectivity_application_mim",
+  "ref": "Effectivity_application_mim.short_listing",
+  "score": 100,
+  "method": "schema->primary",
+  "flag": "convention"
+ },
+ {
+  "module": "specification_based_configuration",
+  "kind": "mim",
+  "svg": "mimexpg1.svg",
+  "num": "3",
+  "ocr": "Specification_based_configuration_mim",
+  "ref": "Specification_based_configuration_mim.short_listing",
+  "score": 100,
+  "method": "schema->primary",
+  "flag": "convention"
+ },
+ {
+  "module": "specification_based_configuration",
+  "kind": "mim",
+  "svg": "mimexpg1.svg",
+  "num": "4",
+  "ocr": "management_resources schema",
+  "ref": "management_resources_schema",
+  "score": 100,
+  "method": "schema->primary",
+  "flag": "convention"
+ },
+ {
+  "module": "specification_based_configuration",
+  "kind": "mim",
+  "svg": "mimexpg1.svg",
+  "num": "5",
+  "ocr": "Product class mim",
+  "ref": "Product_class_mim.short_listing",
+  "score": 100,
+  "method": "schema->primary",
+  "flag": "convention"
+ },
+ {
+  "module": "specification_based_configuration",
+  "kind": "mim",
+  "svg": "mimexpg2.svg",
+  "num": "1",
+  "ocr": "(EX) configured_effectivity_item",
+  "ref": "Specification_based_configuration_mim.configured_effectivity_item",
+  "score": 100,
+  "method": "exact-name-local-clean",
+  "flag": ""
+ },
+ {
+  "module": "specification_based_configuration",
+  "kind": "mim",
+  "svg": "mimexpg2.svg",
+  "num": "2",
+  "ocr": "(EX)sbc_effectivity_item",
+  "ref": "Specification_based_configuration_mim.sbc_effectivity_item",
+  "score": 100,
+  "method": "exact-name-local-clean",
+  "flag": ""
+ },
+ {
+  "module": "specification_based_configuration",
+  "kind": "mim",
+  "svg": "mimexpg2.svg",
+  "num": "3",
+  "ocr": "iconfigured _effectivity_context item",
+  "ref": "Specification_based_configuration_mim.configured_effectivity_context_item",
+  "score": 94.11764705882352,
+  "method": "fuzzy-local-name",
+  "flag": "check"
+ },
+ {
+  "module": "specification_based_configuration",
+  "kind": "mim",
+  "svg": "mimexpg2.svg",
+  "num": "4",
+  "ocr": "Effectivity_application_mim.effectivityitem",
+  "ref": "Effectivity_application_mim.effectivity_item",
+  "score": 100,
+  "method": "qualified-verbatim",
+  "flag": ""
+ },
+ {
+  "module": "specification_based_configuration",
+  "kind": "mim",
+  "svg": "mimexpg2.svg",
+  "num": "5",
+  "ocr": "product definition _schema.product definition",
+  "ref": "product_definition_schema.product_definition",
+  "score": 100,
+  "method": "qualified-verbatim",
+  "flag": ""
+ },
+ {
+  "module": "specification_based_configuration",
+  "kind": "mim",
+  "svg": "mimexpg2.svg",
+  "num": "6",
+  "ocr": "product_concept_schema.product_concept_feature_association",
+  "ref": "product_concept_schema.product_concept_feature_association",
+  "score": 100,
+  "method": "qualified-verbatim",
+  "flag": ""
+ },
+ {
+  "module": "specification_based_configuration",
+  "kind": "mim",
+  "svg": "mimexpg2.svg",
+  "num": "7",
+  "ocr": "management resources schema. effectivity_assignment",
+  "ref": "management_resources_schema.effectivity_assignment",
+  "score": 100,
+  "method": "qualified-verbatim",
+  "flag": ""
+ },
+ {
+  "module": "specification_based_configuration",
+  "kind": "mim",
+  "svg": "mimexpg2.svg",
+  "num": "8",
+  "ocr": "management resources schema. effectivity_ context assignment",
+  "ref": "management_resources_schema.effectivity_context_assignment",
+  "score": 100,
+  "method": "qualified-verbatim",
+  "flag": ""
+ },
+ {
+  "module": "specification_based_configuration",
+  "kind": "mim",
+  "svg": "mimexpg2.svg",
+  "num": "9",
+  "ocr": "configured_effectivity_context_assignment",
+  "ref": "Specification_based_configuration_mim.configured_effectivity_context_assignment",
+  "score": 100,
+  "method": "exact-name-local-clean",
+  "flag": ""
+ },
+ {
+  "module": "specification_based_configuration",
+  "kind": "mim",
+  "svg": "mimexpg2.svg",
+  "num": "10",
+  "ocr": "configured_effectivity_assignment",
+  "ref": "Specification_based_configuration_mim.configured_effectivity_assignment",
+  "score": 100,
+  "method": "exact-name-local-clean",
+  "flag": ""
+ }
+]

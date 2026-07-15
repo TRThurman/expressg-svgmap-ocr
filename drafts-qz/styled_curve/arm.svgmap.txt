@@ -1,0 +1,25 @@
+(*"Styled_curve_arm.__expressg"
+[.svgmap]
+====
+image::armexpg1.svg[]
+
+* <<express:Styled_curve_arm.required_am_arms>>; 1
+* <<express:Colour_arm.required_am_arms>>; 2
+* <<express:Elemental_geometric_shape_arm.required_am_arms>>; 3
+====
+*)
+
+(*"Styled_curve_arm.__expressg"
+[.svgmap]
+====
+image::armexpg2.svg[]
+
+* <<express:Elemental_geometric_shape_arm.Geometric_model>>; 1
+* <<express:Styled_curve_arm.Curve_font>>; 2
+* <<express:Styled_curve_arm.Solid_curve_font>>; 3
+* <<express:Styled_curve_arm.Curve_font_pattern>>; 4
+* <<express:Styled_curve_arm.Externally_defined_curve_font>>; 5
+* <<express:Styled_curve_arm.User_defined_curve_font>>; 6
+* <<express:Styled_curve_arm.Predefined_curve_font>>; 7
+====
+*)

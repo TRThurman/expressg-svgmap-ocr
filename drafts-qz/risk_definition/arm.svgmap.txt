@@ -1,0 +1,83 @@
+(*"Risk_definition_arm.__expressg"
+[.svgmap]
+====
+image::armexpg1.svg[]
+
+* <<express:Risk_definition_arm.required_am_arms>>; 1
+* <<express:Product_relationship_arm.required_am_arms>>; 2
+* <<express:Product_view_definition_relationship_arm.required_am_arms>>; 3
+* <<express:Property_assignment_arm.required_am_arms>>; 4
+* <<express:Activity_method_assignment_arm.required_am_arms>>; 5
+* <<express:Process_property_assignment_arm.required_am_arms>>; 6
+* <<express:Probability_distribution_arm.required_am_arms>>; 7
+====
+*)
+
+(*"Risk_definition_arm.__expressg"
+[.svgmap]
+====
+image::armexpg2.svg[]
+
+* <<express:Product_relationship_arm.Product_relationship>>; 1
+* <<express:Product_identification_arm.Product>>; 2
+* <<express:Product_view_definition_relationship_arm.View_definition_relationship>>; 3
+* <<express:Product_view_definition_arm.Initial_view_definition_context>>; 4
+* <<express:UNRESOLVED>>; 5
+* <<express:Product_view_definition_arm.Product_view_definition>>; 6
+* <<express:Risk_definition_arm.risk_impact_item>>; 7
+* <<express:Risk_definition_arm.risk_perception_source_item>>; 8
+* <<express:Risk_definition_arm.Causal_consequence>>; 9
+* <<express:Risk_definition_arm.Related_consequence>>; 10
+* <<express:Risk_definition_arm.Risk>>; 11
+* <<express:Risk_definition_arm.Risk_consequence>>; 12
+* <<express:Risk_definition_arm.Risk_impact_assignment>>; 13
+* <<express:Risk_definition_arm.Risk_perception>>; 14
+* <<express:Risk_definition_arm.Risk_perception_context>>; 15
+* <<express:Risk_definition_arm.Risk_perception_relationship>>; 16
+* <<express:Risk_definition_arm.Risk_perception_source_assignment>>; 17
+* <<express:Risk_definition_arm.Risk_relationship>>; 18
+* <<express:Risk_definition_arm.Risk_version>>; 19
+* <<express:Risk_definition_arm.Risk_version>>; 20
+* <<express:Risk_definition_arm.distinct_relationship>>; 21
+* <<express:Risk_definition_arm.distinct_views>>; 22
+====
+*)
+
+(*"Risk_definition_arm.__expressg"
+[.svgmap]
+====
+image::armexpg3.svg[]
+
+* <<express:Activity_method_assignment_arm.Applied_activity_method_assignment>>; 1
+* <<express:Probability_arm.Probability>>; 2
+* <<express:Measure_representation_arm.Property_value_representation>>; 3
+* <<express:Process_property_assignment_arm.Activity_property_representation>>; 4
+* <<express:Process_property_assignment_arm.Activity_property>>; 5
+* <<express:Activity_method_arm.Activity_method>>; 6
+* <<express:Property_assignment_arm.Assigned_property>>; 7
+* <<express:Property_assignment_arm.Property_representation>>; 8
+* <<express:Risk_definition_arm.Probability_representation>>; 9
+* <<express:Risk_definition_arm.Risk_attitude>>; 10
+* <<express:Risk_definition_arm.Risk_event>>; 11
+* <<express:Risk_definition_arm.Risk_event_probability>>; 12
+* <<express:Risk_definition_arm.Risk_level>>; 13
+* <<express:Risk_definition_arm.Risk_perception>>; 14
+====
+*)
+
+(*"Risk_definition_arm.__expressg"
+[.svgmap]
+====
+image::armexpg4.svg[]
+
+* <<express:Activity_method_assignment_arm.activity_method_item>>; 1
+* <<express:Product_identification_arm.Product>>; 2
+* <<express:Product_version_arm.Product_version>>; 3
+* <<express:Property_assignment_arm.property_assignment_select>>; 4
+* <<express:Risk_definition_arm.risk_activity_method_item>>; 5
+* <<express:Risk_definition_arm.risk_impact_item>>; 6
+* <<express:Risk_definition_arm.risk_perception_source_item>>; 7
+* <<express:Risk_definition_arm.risk_property_assignment_select>>; 8
+* <<express:Risk_definition_arm.Risk_perception>>; 9
+====
+*)

@@ -1,0 +1,200 @@
+[
+ {
+  "module": "textual_expression_representation",
+  "kind": "arm",
+  "svg": "armexpg1.svg",
+  "num": "1",
+  "ocr": "ession_representation arm",
+  "ref": "Foundation_representation_arm.using_representations",
+  "score": 77.27272727272727,
+  "method": "fuzzy-local-name",
+  "flag": "check"
+ },
+ {
+  "module": "textual_expression_representation",
+  "kind": "arm",
+  "svg": "armexpg1.svg",
+  "num": "2",
+  "ocr": "epresentation arm Classification a",
+  "ref": null,
+  "score": 0,
+  "method": "no-match",
+  "flag": "UNRESOLVED"
+ },
+ {
+  "module": "textual_expression_representation",
+  "kind": "arm",
+  "svg": "armexpg1.svg",
+  "num": "3",
+  "ocr": "Classification_assignment_arm",
+  "ref": "Classification_assignment_arm.required_am_arms",
+  "score": 100,
+  "method": "schema->primary",
+  "flag": "convention"
+ },
+ {
+  "module": "textual_expression_representation",
+  "kind": "arm",
+  "svg": "armexpg2.svg",
+  "num": "1",
+  "ocr": "Foundation_representation_arm.Representatlon_ _item",
+  "ref": "Foundation_representation_arm.Representation_item",
+  "score": 94.44444444444444,
+  "method": "qualified-fuzzy",
+  "flag": "check"
+ },
+ {
+  "module": "textual_expression_representation",
+  "kind": "arm",
+  "svg": "armexpg2.svg",
+  "num": "2",
+  "ocr": "Foundation_representation_arm.Representation",
+  "ref": "Foundation_representation_arm.Representation",
+  "score": 100,
+  "method": "qualified-verbatim",
+  "flag": ""
+ },
+ {
+  "module": "textual_expression_representation",
+  "kind": "arm",
+  "svg": "armexpg2.svg",
+  "num": "3",
+  "ocr": "Foundation_representation_arm.String_representation_item",
+  "ref": "Foundation_representation_arm.String_representation_item",
+  "score": 100,
+  "method": "qualified-verbatim",
+  "flag": ""
+ },
+ {
+  "module": "textual_expression_representation",
+  "kind": "arm",
+  "svg": "armexpg2.svg",
+  "num": "4",
+  "ocr": "text_based_item_select",
+  "ref": "Textual_expression_representation_arm.text_based_item_select",
+  "score": 100,
+  "method": "exact-name-local-clean",
+  "flag": ""
+ },
+ {
+  "module": "textual_expression_representation",
+  "kind": "arm",
+  "svg": "armexpg2.svg",
+  "num": "5",
+  "ocr": "list_of_text_based_item",
+  "ref": "Textual_expression_representation_arm.list_of_text_based_item",
+  "score": 100,
+  "method": "exact-name-local-clean",
+  "flag": ""
+ },
+ {
+  "module": "textual_expression_representation",
+  "kind": "arm",
+  "svg": "armexpg2.svg",
+  "num": "6",
+  "ocr": "Text based_ representation",
+  "ref": "Textual_expression_representation_arm.Text_based_representation",
+  "score": 100,
+  "method": "exact-name-local-clean",
+  "flag": ""
+ },
+ {
+  "module": "textual_expression_representation",
+  "kind": "arm",
+  "svg": "armexpg2.svg",
+  "num": "7",
+  "ocr": "Included_text_based_representation",
+  "ref": "Textual_expression_representation_arm.Included_text_based_representation",
+  "score": 100,
+  "method": "exact-name-local-clean",
+  "flag": ""
+ },
+ {
+  "module": "textual_expression_representation",
+  "kind": "arm",
+  "svg": "armexpg2.svg",
+  "num": "8",
+  "ocr": "content ssion_composition",
+  "ref": "Textual_expression_representation_arm.Textual_expression_composition",
+  "score": 71.69811320754718,
+  "method": "fuzzy-local-name",
+  "flag": "check"
+ },
+ {
+  "module": "textual_expression_representation",
+  "kind": "arm",
+  "svg": "armexpg2.svg",
+  "num": "9",
+  "ocr": "Textual_expression_representation_item",
+  "ref": "Textual_expression_representation_arm.Textual_expression_representation_item",
+  "score": 100,
+  "method": "exact-name-local-clean",
+  "flag": ""
+ },
+ {
+  "module": "textual_expression_representation",
+  "kind": "arm",
+  "svg": "armexpg2.svg",
+  "num": "10",
+  "ocr": "Foundation_representation_arm.Representation_context",
+  "ref": "Foundation_representation_arm.Representation_context",
+  "score": 100,
+  "method": "qualified-verbatim",
+  "flag": ""
+ },
+ {
+  "module": "textual_expression_representation",
+  "kind": "arm",
+  "svg": "armexpg2.svg",
+  "num": "11",
+  "ocr": "Text_based_representation_context",
+  "ref": "Textual_expression_representation_arm.Text_based_representation_context",
+  "score": 100,
+  "method": "exact-name-local-clean",
+  "flag": ""
+ },
+ {
+  "module": "textual_expression_representation",
+  "kind": "arm",
+  "svg": "armexpg2.svg",
+  "num": "12",
+  "ocr": "set of text based_item",
+  "ref": "Textual_expression_representation_arm.set_of_text_based_item",
+  "score": 100,
+  "method": "exact-name-local-clean",
+  "flag": ""
+ },
+ {
+  "module": "textual_expression_representation",
+  "kind": "arm",
+  "svg": "armexpg2.svg",
+  "num": "13",
+  "ocr": "list_or_set_of_text_based_item",
+  "ref": "Textual_expression_representation_arm.list_or_set_of_text_based_item",
+  "score": 100,
+  "method": "exact-name-local-clean",
+  "flag": ""
+ },
+ {
+  "module": "textual_expression_representation",
+  "kind": "arm",
+  "svg": "armexpg2.svg",
+  "num": "14",
+  "ocr": "ter_classification_item",
+  "ref": "Textual_expression_representation_arm.ter_classification_item",
+  "score": 100,
+  "method": "exact-name-local-clean",
+  "flag": ""
+ },
+ {
+  "module": "textual_expression_representation",
+  "kind": "arm",
+  "svg": "armexpg2.svg",
+  "num": "15",
+  "ocr": "Classification_assignment_ _arm.classification_item",
+  "ref": "Classification_assignment_arm.classification_item",
+  "score": 100,
+  "method": "qualified-verbatim",
+  "flag": ""
+ }
+]

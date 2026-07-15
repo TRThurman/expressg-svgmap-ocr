@@ -1,0 +1,35 @@
+(*"Scheme_mim.__expressg"
+[.svgmap]
+====
+image::mimexpg1.svg[]
+
+* <<express:Scheme_mim.short_listing>>; 1
+* <<express:action_schema>>; 2
+* <<express:Activity_method_assignment_mim.short_listing>>; 3
+* <<express:Activity_method_mim.short_listing>>; 4
+* <<express:Date_time_assignment_mim.short_listing>>; 5
+* <<express:Identification_assignment_mim.short_listing>>; 6
+* <<express:Person_organization_assignment_mim.short_listing>>; 7
+* <<express:Time_interval_assignment_mim.short_listing>>; 8
+* <<express:Time_interval_mim.short_listing>>; 9
+====
+*)
+
+(*"Scheme_mim.__expressg"
+[.svgmap]
+====
+image::mimexpg2.svg[]
+
+* <<express:action_schema.action_method>>; 1
+* <<express:action_schema.action_method_relationship>>; 2
+* <<express:Identification_assignment_mim.identification_item>>; 3
+* <<express:UNRESOLVED>>; 4
+* <<express:Person_organization_assignment_mim.person_and_organization_item>>; 5
+* <<express:Time_interval_assignment_mim.time_interval_item>>; 6
+* <<express:Time_interval_mim.date_and_time_item>>; 7
+* <<express:Scheme_mim.scheme_date_and_time_item>>; 8
+* <<express:Scheme_mim.scheme_identification_item>>; 9
+* <<express:Scheme_mim.scheme_person_and_organization_item>>; 10
+* <<express:Scheme_mim.scheme_time_interval_item>>; 11
+====
+*)

@@ -1,0 +1,6 @@
+(*"Temporal_objects_mim.__expressg"
+[.svgmap]
+====
+image::mimexpg1.svg[]
+====
+*)

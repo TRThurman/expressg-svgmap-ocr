@@ -1,0 +1,10 @@
+(*"Vertex_colours_for_tessellated_geometry_mim.__expressg"
+[.svgmap]
+====
+image::mimexpg1.svg[]
+
+* <<express:Tessellated_geometry_mim.short_listing>>; 1
+* <<express:Appearance_assignment_mim.short_listing>>; 2
+* <<express:presentation_appearance_schema>>; 3
+====
+*)

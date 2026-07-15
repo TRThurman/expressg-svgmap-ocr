@@ -1,0 +1,90 @@
+[
+ {
+  "module": "thermal_network_definition",
+  "kind": "mim",
+  "svg": "mimexpg1.svg",
+  "num": "1",
+  "ocr": "Component_feature mim",
+  "ref": "Component_feature_mim.short_listing",
+  "score": 100,
+  "method": "schema->primary",
+  "flag": "convention"
+ },
+ {
+  "module": "thermal_network_definition",
+  "kind": "mim",
+  "svg": "mimexpg1.svg",
+  "num": "2",
+  "ocr": "Network functional _design_view mim",
+  "ref": "Network_functional_design_view_mim.short_listing",
+  "score": 100,
+  "method": "schema->primary",
+  "flag": "convention"
+ },
+ {
+  "module": "thermal_network_definition",
+  "kind": "mim",
+  "svg": "mimexpg1.svg",
+  "num": "3",
+  "ocr": "Themmal_network_definitionmim",
+  "ref": "Thermal_network_definition_mim.short_listing",
+  "score": 91.22807017543859,
+  "method": "fuzzy-local-schema",
+  "flag": "check"
+ },
+ {
+  "module": "thermal_network_definition",
+  "kind": "mim",
+  "svg": "mimexpg1.svg",
+  "num": "4",
+  "ocr": "Non feature _shape_element mim",
+  "ref": "Non_feature_shape_element_mim.short_listing",
+  "score": 100,
+  "method": "schema->primary",
+  "flag": "convention"
+ },
+ {
+  "module": "thermal_network_definition",
+  "kind": "mim",
+  "svg": "mimexpg2.svg",
+  "num": "1",
+  "ocr": "Functional usage_ view_mim.functional uit",
+  "ref": "Functional_usage_view_mim.functional_unit",
+  "score": 96.2962962962963,
+  "method": "qualified-fuzzy",
+  "flag": "check"
+ },
+ {
+  "module": "thermal_network_definition",
+  "kind": "mim",
+  "svg": "mimexpg2.svg",
+  "num": "2",
+  "ocr": "Network functional design view mim.network node defnition",
+  "ref": "Network_functional_design_view_mim.network_node_definition",
+  "score": 97.5609756097561,
+  "method": "qualified-fuzzy",
+  "flag": "check"
+ },
+ {
+  "module": "thermal_network_definition",
+  "kind": "mim",
+  "svg": "mimexpg2.svg",
+  "num": "3",
+  "ocr": "thermal network",
+  "ref": "Thermal_network_definition_mim.thermal_network",
+  "score": 100,
+  "method": "exact-name-local-clean",
+  "flag": ""
+ },
+ {
+  "module": "thermal_network_definition",
+  "kind": "mim",
+  "svg": "mimexpg2.svg",
+  "num": "4",
+  "ocr": "themmal network node_definition",
+  "ref": "Thermal_network_definition_mim.thermal_network_node_definition",
+  "score": 91.52542372881356,
+  "method": "fuzzy-local-name",
+  "flag": "check"
+ }
+]

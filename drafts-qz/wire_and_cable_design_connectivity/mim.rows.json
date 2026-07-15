@@ -1,0 +1,46 @@
+[
+ {
+  "module": "wire_and_cable_design_connectivity",
+  "kind": "mim",
+  "svg": "mimexpg1.svg",
+  "num": "1",
+  "ocr": "Wire_and_cable_design_connectivity_nim",
+  "ref": "Wire_and_cable_design_connectivity_mim.short_listing",
+  "score": 90.14084507042254,
+  "method": "fuzzy-local-schema",
+  "flag": "check"
+ },
+ {
+  "module": "wire_and_cable_design_connectivity",
+  "kind": "mim",
+  "svg": "mimexpg1.svg",
+  "num": "2",
+  "ocr": "General_design _connectivity mim",
+  "ref": "General_design_connectivity_mim.short_listing",
+  "score": 100,
+  "method": "schema->primary",
+  "flag": "convention"
+ },
+ {
+  "module": "wire_and_cable_design_connectivity",
+  "kind": "mim",
+  "svg": "mimexpg2.svg",
+  "num": "1",
+  "ocr": "General design_connectivity_ nimteminal feature",
+  "ref": "General_design_connectivity_mim.terminal_feature",
+  "score": 92.13483146067416,
+  "method": "fuzzy-local-concat",
+  "flag": "check"
+ },
+ {
+  "module": "wire_and_cable_design_connectivity",
+  "kind": "mim",
+  "svg": "mimexpg2.svg",
+  "num": "2",
+  "ocr": "teminal_location_group",
+  "ref": "Wire_and_cable_design_connectivity_mim.terminal_location_group",
+  "score": 93.02325581395348,
+  "method": "fuzzy-local-name",
+  "flag": "check"
+ }
+]

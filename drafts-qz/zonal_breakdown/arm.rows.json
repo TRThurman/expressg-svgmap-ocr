@@ -1,0 +1,222 @@
+[
+ {
+  "module": "zonal_breakdown",
+  "kind": "arm",
+  "svg": "armexpg1.svg",
+  "num": "1",
+  "ocr": "Zonal breakdown_am",
+  "ref": "Zonal_breakdown_arm.required_am_arms",
+  "score": 91.42857142857143,
+  "method": "fuzzy-local-schema",
+  "flag": "check"
+ },
+ {
+  "module": "zonal_breakdown",
+  "kind": "arm",
+  "svg": "armexpg1.svg",
+  "num": "2",
+  "ocr": "Product_breakdown_arm",
+  "ref": "Product_breakdown_arm.required_am_arms",
+  "score": 100,
+  "method": "schema->primary",
+  "flag": "convention"
+ },
+ {
+  "module": "zonal_breakdown",
+  "kind": "arm",
+  "svg": "armexpg1.svg",
+  "num": "3",
+  "ocr": "Product view definition arm",
+  "ref": "Product_view_definition_arm.required_am_arms",
+  "score": 100,
+  "method": "schema->primary",
+  "flag": "convention"
+ },
+ {
+  "module": "zonal_breakdown",
+  "kind": "arm",
+  "svg": "armexpg2.svg",
+  "num": "1",
+  "ocr": "Product _breakdown_arm.Breakdown",
+  "ref": "Product_breakdown_arm.Breakdown",
+  "score": 100,
+  "method": "qualified-verbatim",
+  "flag": ""
+ },
+ {
+  "module": "zonal_breakdown",
+  "kind": "arm",
+  "svg": "armexpg2.svg",
+  "num": "2",
+  "ocr": "Product _breakdown_arm.Breakdown_element",
+  "ref": "Product_breakdown_arm.Breakdown_element",
+  "score": 100,
+  "method": "qualified-verbatim",
+  "flag": ""
+ },
+ {
+  "module": "zonal_breakdown",
+  "kind": "arm",
+  "svg": "armexpg2.svg",
+  "num": "3",
+  "ocr": "Product_breakdown_arm.Breakdown_element_ _version",
+  "ref": "Product_breakdown_arm.Breakdown_element_version",
+  "score": 100,
+  "method": "qualified-verbatim",
+  "flag": ""
+ },
+ {
+  "module": "zonal_breakdown",
+  "kind": "arm",
+  "svg": "armexpg2.svg",
+  "num": "4",
+  "ocr": "Product_ breakdown_arm.Breakdown_element definition",
+  "ref": "Product_breakdown_arm.Breakdown_element_definition",
+  "score": 100,
+  "method": "qualified-verbatim",
+  "flag": ""
+ },
+ {
+  "module": "zonal_breakdown",
+  "kind": "arm",
+  "svg": "armexpg2.svg",
+  "num": "5",
+  "ocr": "Product breakdown arm.Breakdown context",
+  "ref": "Product_breakdown_arm.Breakdown_context",
+  "score": 100,
+  "method": "qualified-verbatim",
+  "flag": ""
+ },
+ {
+  "module": "zonal_breakdown",
+  "kind": "arm",
+  "svg": "armexpg2.svg",
+  "num": "6",
+  "ocr": "Product breakdown_arm.Breakdown_ _element usage",
+  "ref": "Product_breakdown_arm.Breakdown_element_usage",
+  "score": 100,
+  "method": "qualified-verbatim",
+  "flag": ""
+ },
+ {
+  "module": "zonal_breakdown",
+  "kind": "arm",
+  "svg": "armexpg2.svg",
+  "num": "7",
+  "ocr": "Product_ _breakdown_arm.Breakdown_version",
+  "ref": "Product_breakdown_arm.Breakdown_version",
+  "score": 100,
+  "method": "qualified-verbatim",
+  "flag": ""
+ },
+ {
+  "module": "zonal_breakdown",
+  "kind": "arm",
+  "svg": "armexpg2.svg",
+  "num": "8",
+  "ocr": "Product_ _view_definition_arm.Product_view_definition",
+  "ref": "Product_view_definition_arm.Product_view_definition",
+  "score": 100,
+  "method": "qualified-verbatim",
+  "flag": ""
+ },
+ {
+  "module": "zonal_breakdown",
+  "kind": "arm",
+  "svg": "armexpg2.svg",
+  "num": "9",
+  "ocr": "(EX) in_zone item",
+  "ref": "Zonal_breakdown_arm.in_zone_item",
+  "score": 100,
+  "method": "exact-name-local-clean",
+  "flag": ""
+ },
+ {
+  "module": "zonal_breakdown",
+  "kind": "arm",
+  "svg": "armexpg2.svg",
+  "num": "10",
+  "ocr": "In_zone",
+  "ref": "Zonal_breakdown_arm.In_zone",
+  "score": 100,
+  "method": "exact-name-local-clean",
+  "flag": ""
+ },
+ {
+  "module": "zonal_breakdown",
+  "kind": "arm",
+  "svg": "armexpg2.svg",
+  "num": "11",
+  "ocr": "Zone_breakdown",
+  "ref": "Zonal_breakdown_arm.Zone_breakdown",
+  "score": 100,
+  "method": "exact-name-local-clean",
+  "flag": ""
+ },
+ {
+  "module": "zonal_breakdown",
+  "kind": "arm",
+  "svg": "armexpg2.svg",
+  "num": "12",
+  "ocr": "Zone breakdown_context",
+  "ref": "Zonal_breakdown_arm.Zone_breakdown_context",
+  "score": 100,
+  "method": "exact-name-local-clean",
+  "flag": ""
+ },
+ {
+  "module": "zonal_breakdown",
+  "kind": "arm",
+  "svg": "armexpg2.svg",
+  "num": "13",
+  "ocr": "Zone_breakdown_version",
+  "ref": "Zonal_breakdown_arm.Zone_breakdown_version",
+  "score": 100,
+  "method": "exact-name-local-clean",
+  "flag": ""
+ },
+ {
+  "module": "zonal_breakdown",
+  "kind": "arm",
+  "svg": "armexpg2.svg",
+  "num": "14",
+  "ocr": "Zone_element",
+  "ref": "Zonal_breakdown_arm.Zone_element",
+  "score": 100,
+  "method": "exact-name-local-clean",
+  "flag": ""
+ },
+ {
+  "module": "zonal_breakdown",
+  "kind": "arm",
+  "svg": "armexpg2.svg",
+  "num": "15",
+  "ocr": "Zone element definition",
+  "ref": "Zonal_breakdown_arm.Zone_element_definition",
+  "score": 100,
+  "method": "exact-name-local-clean",
+  "flag": ""
+ },
+ {
+  "module": "zonal_breakdown",
+  "kind": "arm",
+  "svg": "armexpg2.svg",
+  "num": "16",
+  "ocr": "Zone_element_usage",
+  "ref": "Zonal_breakdown_arm.Zone_element_usage",
+  "score": 100,
+  "method": "exact-name-local-clean",
+  "flag": ""
+ },
+ {
+  "module": "zonal_breakdown",
+  "kind": "arm",
+  "svg": "armexpg2.svg",
+  "num": "17",
+  "ocr": "Zone_element_version",
+  "ref": "Zonal_breakdown_arm.Zone_element_version",
+  "score": 100,
+  "method": "exact-name-local-clean",
+  "flag": ""
+ }
+]

@@ -1,0 +1,35 @@
+[
+ {
+  "module": "wireframe_2d",
+  "kind": "mim",
+  "svg": "mimexpg1.svg",
+  "num": "1",
+  "ocr": "Wireframe_2d_mim",
+  "ref": "Wireframe_2d_mim.short_listing",
+  "score": 100,
+  "method": "schema->primary",
+  "flag": "convention"
+ },
+ {
+  "module": "wireframe_2d",
+  "kind": "mim",
+  "svg": "mimexpg1.svg",
+  "num": "2",
+  "ocr": "aic_geometrically_bounded_2d_wirefr",
+  "ref": "aic_geometrically_bounded_2d_wireframe.geometrically_bounded_2d_wireframe_representation",
+  "score": 70.0,
+  "method": "fuzzy-local-name",
+  "flag": "check"
+ },
+ {
+  "module": "wireframe_2d",
+  "kind": "mim",
+  "svg": "mimexpg1.svg",
+  "num": "3",
+  "ocr": "Elemental _geometric_shape_mim",
+  "ref": "Elemental_geometric_shape_mim.short_listing",
+  "score": 100,
+  "method": "schema->primary",
+  "flag": "convention"
+ }
+]

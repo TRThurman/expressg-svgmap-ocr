@@ -1,0 +1,46 @@
+[
+ {
+  "module": "schematic_element_library",
+  "kind": "mim",
+  "svg": "mimexpg1.svg",
+  "num": "1",
+  "ocr": "schernatic_element_library_mim",
+  "ref": "Schematic_element_library_mim.short_listing",
+  "score": 89.28571428571429,
+  "method": "fuzzy-local-schema",
+  "flag": "check"
+ },
+ {
+  "module": "schematic_element_library",
+  "kind": "mim",
+  "svg": "mimexpg1.svg",
+  "num": "2",
+  "ocr": "schenatic_elenent_mim",
+  "ref": "Schematic_element_mim.short_listing",
+  "score": 85.0,
+  "method": "fuzzy-local-schema",
+  "flag": "check"
+ },
+ {
+  "module": "schematic_element_library",
+  "kind": "mim",
+  "svg": "mimexpg1.svg",
+  "num": "3",
+  "ocr": "symbolization_by_schematic_elenent_mim",
+  "ref": "Symbolization_by_schematic_element_mim.short_listing",
+  "score": 91.66666666666666,
+  "method": "fuzzy-local-schema",
+  "flag": "check"
+ },
+ {
+  "module": "schematic_element_library",
+  "kind": "mim",
+  "svg": "mimexpg1.svg",
+  "num": "4",
+  "ocr": "set theory_mim",
+  "ref": "Set_theory_mim.short_listing",
+  "score": 100,
+  "method": "schema->primary",
+  "flag": "convention"
+ }
+]

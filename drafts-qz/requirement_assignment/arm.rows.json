@@ -1,0 +1,101 @@
+[
+ {
+  "module": "requirement_assignment",
+  "kind": "arm",
+  "svg": "armexpg1.svg",
+  "num": "1",
+  "ocr": "Requirement_assignment_arm",
+  "ref": "Requirement_assignment_arm.required_am_arms",
+  "score": 100,
+  "method": "schema->primary",
+  "flag": "convention"
+ },
+ {
+  "module": "requirement_assignment",
+  "kind": "arm",
+  "svg": "armexpg1.svg",
+  "num": "2",
+  "ocr": "Requirement view definition_arm",
+  "ref": "Requirement_view_definition_arm.required_am_arms",
+  "score": 100,
+  "method": "schema->primary",
+  "flag": "convention"
+ },
+ {
+  "module": "requirement_assignment",
+  "kind": "arm",
+  "svg": "armexpg2.svg",
+  "num": "1",
+  "ocr": "Requirement_view definition_arm. Requirement_ _view_definition",
+  "ref": "Requirement_view_definition_arm.Requirement_view_definition",
+  "score": 100,
+  "method": "qualified-verbatim",
+  "flag": ""
+ },
+ {
+  "module": "requirement_assignment",
+  "kind": "arm",
+  "svg": "armexpg2.svg",
+  "num": "2",
+  "ocr": "(EX) *requirement_assignment_item",
+  "ref": "Requirement_assignment_arm.requirement_assignment_item",
+  "score": 100,
+  "method": "exact-name-local-clean",
+  "flag": ""
+ },
+ {
+  "module": "requirement_assignment",
+  "kind": "arm",
+  "svg": "armexpg2.svg",
+  "num": "3",
+  "ocr": "(EX) requirement_satisfaction_item",
+  "ref": "Requirement_assignment_arm.requirement_satisfaction_item",
+  "score": 100,
+  "method": "exact-name-local-clean",
+  "flag": ""
+ },
+ {
+  "module": "requirement_assignment",
+  "kind": "arm",
+  "svg": "armexpg2.svg",
+  "num": "4",
+  "ocr": "(EX) requirement_source_item",
+  "ref": "Requirement_assignment_arm.requirement_source_item",
+  "score": 100,
+  "method": "exact-name-local-clean",
+  "flag": ""
+ },
+ {
+  "module": "requirement_assignment",
+  "kind": "arm",
+  "svg": "armexpg2.svg",
+  "num": "5",
+  "ocr": "Requirement_assignment",
+  "ref": "Requirement_assignment_arm.Requirement_assignment",
+  "score": 100,
+  "method": "exact-name-local-clean",
+  "flag": ""
+ },
+ {
+  "module": "requirement_assignment",
+  "kind": "arm",
+  "svg": "armexpg2.svg",
+  "num": "6",
+  "ocr": "Requirement_satisfied_by",
+  "ref": "Requirement_assignment_arm.Requirement_satisfied_by",
+  "score": 100,
+  "method": "exact-name-local-clean",
+  "flag": ""
+ },
+ {
+  "module": "requirement_assignment",
+  "kind": "arm",
+  "svg": "armexpg2.svg",
+  "num": "7",
+  "ocr": "Requirement_source",
+  "ref": "Requirement_assignment_arm.Requirement_source",
+  "score": 100,
+  "method": "exact-name-local-clean",
+  "flag": ""
+ }
+]

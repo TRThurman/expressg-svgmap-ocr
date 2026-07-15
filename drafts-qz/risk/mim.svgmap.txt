@@ -1,0 +1,96 @@
+(*"Risk_mim.__expressg"
+[.svgmap]
+====
+image::mimexpg1.svg[]
+
+* <<express:Risk_mim.short_listing>>; 1
+* <<express:Activity_mim.short_listing>>; 2
+* <<express:Risk_definition_mim.short_listing>>; 3
+====
+*)
+
+(*"Risk_mim.__expressg"
+[.svgmap]
+====
+image::mimexpg2.svg[]
+
+* <<express:Activity_mim.applied_action_assignment>>; 1
+* <<express:Activity_mim.applied_action_assignment>>; 2
+* <<express:Risk_definition_mim.risk_communication>>; 3
+* <<express:Risk_definition_mim.risk_perception>>; 4
+* <<express:Risk_definition_mim.risk_estimation>>; 5
+* <<express:Risk_mim.risk_communication_select>>; 6
+* <<express:Risk_mim.risk_estimation_select>>; 7
+* <<express:Risk_mim.risk_communicated_items>>; 8
+* <<express:Risk_mim.risk_estimation_inputs>>; 9
+* <<express:Risk_mim.risk_estimation_outputs>>; 10
+====
+*)
+
+(*"Risk_mim.__expressg"
+[.svgmap]
+====
+image::mimexpg3.svg[]
+
+* <<express:Activity_mim.applied_action_assignment>>; 1
+* <<express:Activity_mim.applied_action_assignment>>; 2
+* <<express:Risk_definition_mim.risk_perception>>; 3
+* <<express:Risk_definition_mim.risk_evaluation>>; 4
+* <<express:Risk_definition_mim.risk_identification>>; 5
+* <<express:Risk_definition_mim.risk_perception_source_item>>; 6
+* <<express:Risk_definition_mim.risk_treatment>>; 7
+* <<express:Risk_mim.risk_criteria_select>>; 8
+* <<express:Risk_mim.risk_treatment_select>>; 9
+* <<express:Risk_mim.risk_evaluation_criteria>>; 10
+* <<express:Risk_mim.risk_evaluation_inputs>>; 11
+* <<express:Risk_mim.risk_identification_inputs>>; 12
+* <<express:Risk_mim.risk_treatment_assignment>>; 13
+====
+*)
+
+(*"Risk_mim.__expressg"
+[.svgmap]
+====
+image::mimexpg4.svg[]
+
+* <<express:Risk_definition_mim.risk_perception>>; 1
+* <<express:Risk_definition_mim.applied_event_occurrence_assignment>>; 2
+* <<express:Risk_definition_mim.risk_impact_assignment>>; 3
+* <<express:Risk_definition_mim.PropertyDefinition>>; 4
+* <<express:Risk_definition_mim.risk_consequence>>; 5
+* <<express:Risk_definition_mim.risk_perception_relationship>>; 6
+* <<express:Risk_definition_mim.risk_relationship>>; 7
+* <<express:Risk_mim.risk_estimation_select>>; 8
+* <<express:Risk_mim.risk_treatment_select>>; 9
+====
+*)
+
+(*"Risk_mim.__expressg"
+[.svgmap]
+====
+image::mimexpg5.svg[]
+
+* <<express:Activity_mim.action_items>>; 1
+* <<express:Risk_definition_mim.risk_perception>>; 2
+* <<express:Risk_definition_mim.risk_perception>>; 3
+* <<express:Risk_definition_mim.risk_estimation>>; 4
+* <<express:Risk_definition_mim.risk_evaluation>>; 5
+* <<express:Risk_definition_mim.risk_identification>>; 6
+* <<express:Risk_definition_mim.risk_perception_source_item>>; 7
+* <<express:Risk_definition_mim.risk_treatment>>; 8
+* <<express:Risk_definition_mim.applied_event_occurrence_assignment>>; 9
+* <<express:Risk_definition_mim.risk_impact_assignment>>; 10
+* <<express:Risk_definition_mim.PropertyDefinition>>; 11
+* <<express:Risk_definition_mim.risk_consequence>>; 12
+* <<express:Risk_definition_mim.risk_perception_relationship>>; 13
+* <<express:Risk_definition_mim.risk_relationship>>; 14
+* <<express:Risk_definition_mim.risk>>; 15
+* <<express:Risk_definition_mim.risk_assessment>>; 16
+* <<express:Risk_definition_mim.risk_control>>; 17
+* <<express:Risk_definition_mim.risk_perception_context>>; 18
+* <<express:Risk_definition_mim.risk_perception_source_assignment>>; 19
+* <<express:Risk_mim.risk_action_items>>; 20
+* <<express:Risk_mim.risk_communication_select>>; 21
+* <<express:Risk_mim.risk_criteria_select>>; 22
+====
+*)

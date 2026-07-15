@@ -1,0 +1,29 @@
+(*"State_observed_mim.__expressg"
+[.svgmap]
+====
+image::mimexpg1.svg[]
+
+* <<express:state_observed_schema>>; 1
+* <<express:State_definition_mim.short_listing>>; 2
+* <<express:Classification_assignment_mim.short_listing>>; 3
+* <<express:management_resources_schema>>; 4
+* <<express:Foundation_state_definition_mim.short_listing>>; 5
+* <<express:State_observed_mim.short_listing>>; 6
+====
+*)
+
+(*"State_observed_mim.__expressg"
+[.svgmap]
+====
+image::mimexpg2.svg[]
+
+* <<express:State_observed_mim.state_observed_classification_item>>; 1
+* <<express:State_observed_mim.state_observed_of_item>>; 2
+* <<express:state_observed_schema.state_observed>>; 3
+* <<express:state_observed_schema.state_observed_assignment>>; 4
+* <<express:Classification_assignment_mim.classification_item>>; 5
+* <<express:state_observed_schema.state_observed_relationship>>; 6
+* <<express:State_observed_mim.applied_state_observed_assignment>>; 7
+* <<express:State_observed_mim.state_predicted>>; 8
+====
+*)

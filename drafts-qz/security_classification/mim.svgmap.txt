@@ -1,0 +1,21 @@
+(*"Security_classification_mim.__expressg"
+[.svgmap]
+====
+image::mimexpg1.svg[]
+
+* <<express:Security_classification_mim.short_listing>>; 1
+* <<express:security_classification_schema>>; 2
+* <<express:management_resources_schema>>; 3
+====
+*)
+
+(*"Security_classification_mim.__expressg"
+[.svgmap]
+====
+image::mimexpg2.svg[]
+
+* <<express:management_resources_schema.security_classification_assignment>>; 1
+* <<express:Security_classification_mim.applied_security_classification_assignment>>; 2
+* <<express:management_resources_schema.classification_assignment>>; 3
+====
+*)

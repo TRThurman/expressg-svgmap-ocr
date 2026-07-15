@@ -1,0 +1,27 @@
+(*"Requirement_management_mim.__expressg"
+[.svgmap]
+====
+image::mimexpg1.svg[]
+
+* <<express:Requirement_management_mim.short_listing>>; 1
+* <<express:Classification_assignment_mim.short_listing>>; 2
+* <<express:Collection_identification_and_version_mim.short_listing>>; 3
+* <<express:Document_assignment_mim.short_listing>>; 4
+* <<express:Document_properties_mim.short_listing>>; 5
+* <<express:Effectivity_application_mim.short_listing>>; 6
+* <<express:Identification_relationship_mim.short_listing>>; 7
+* <<express:Information_rights_mim.short_listing>>; 8
+* <<express:Property_as_definition_mim.short_listing>>; 9
+* <<express:Requirement_assignment_mim.short_listing>>; 10
+* <<express:Requirement_view_definition_relationship_mim.short_listing>>; 11
+* <<express:date_time_schema>>; 12
+* <<express:systems_engineering_representation_schema>>; 13
+====
+*)
+
+(*"Requirement_management_mim.__expressg"
+[.svgmap]
+====
+image::mimexpg2.svg[]
+====
+*)

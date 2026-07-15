@@ -1,0 +1,156 @@
+[
+ {
+  "module": "stratum_non_planar_shape",
+  "kind": "arm",
+  "svg": "armexpg1.svg",
+  "num": "1",
+  "ocr": "Manifold_ surface arm",
+  "ref": "Manifold_surface_arm.required_am_arms",
+  "score": 100,
+  "method": "schema->primary",
+  "flag": "convention"
+ },
+ {
+  "module": "stratum_non_planar_shape",
+  "kind": "arm",
+  "svg": "armexpg1.svg",
+  "num": "2",
+  "ocr": "Stratum non _planar_shape_arm",
+  "ref": "Stratum_non_planar_shape_arm.required_am_arms",
+  "score": 100,
+  "method": "schema->primary",
+  "flag": "convention"
+ },
+ {
+  "module": "stratum_non_planar_shape",
+  "kind": "arm",
+  "svg": "armexpg1.svg",
+  "num": "3",
+  "ocr": "Layered_interconnect_module_design_arm",
+  "ref": "Layered_interconnect_module_design_arm.required_am_arms",
+  "score": 100,
+  "method": "schema->primary",
+  "flag": "convention"
+ },
+ {
+  "module": "stratum_non_planar_shape",
+  "kind": "arm",
+  "svg": "armexpg2.svg",
+  "num": "1",
+  "ocr": "(EX snps _stratum_shape model_select",
+  "ref": "Stratum_non_planar_shape_arm.snps_stratum_shape_model_select",
+  "score": 90.0,
+  "method": "fuzzy-local-name",
+  "flag": "check"
+ },
+ {
+  "module": "stratum_non_planar_shape",
+  "kind": "arm",
+  "svg": "armexpg2.svg",
+  "num": "2",
+  "ocr": "*(EX) snps_sf_shape_select",
+  "ref": "Stratum_non_planar_shape_arm.snps_sf_shape_select",
+  "score": 100,
+  "method": "exact-name-local-clean",
+  "flag": ""
+ },
+ {
+  "module": "stratum_non_planar_shape",
+  "kind": "arm",
+  "svg": "armexpg2.svg",
+  "num": "3",
+  "ocr": "Manifold surface arm.Shell based surface model",
+  "ref": "Manifold_surface_arm.Shell_based_surface_model",
+  "score": 100,
+  "method": "qualified-verbatim",
+  "flag": ""
+ },
+ {
+  "module": "stratum_non_planar_shape",
+  "kind": "arm",
+  "svg": "armexpg2.svg",
+  "num": "4",
+  "ocr": "Layered interconnect module design arm.Stratum average surface",
+  "ref": "Layered_interconnect_module_design_arm.Stratum_average_surface",
+  "score": 100,
+  "method": "qualified-verbatim",
+  "flag": ""
+ },
+ {
+  "module": "stratum_non_planar_shape",
+  "kind": "arm",
+  "svg": "armexpg2.svg",
+  "num": "5",
+  "ocr": "Layered _interconnect module design_arm. Stratum surface",
+  "ref": "Layered_interconnect_module_design_arm.Stratum_surface",
+  "score": 100,
+  "method": "qualified-verbatim",
+  "flag": ""
+ },
+ {
+  "module": "stratum_non_planar_shape",
+  "kind": "arm",
+  "svg": "armexpg2.svg",
+  "num": "6",
+  "ocr": "Layered _interconnect module design arm limd_ sf shape select",
+  "ref": "Layered_interconnect_module_design_arm.limd_sf_shape_select",
+  "score": 100,
+  "method": "qualified-verbatim",
+  "flag": ""
+ },
+ {
+  "module": "stratum_non_planar_shape",
+  "kind": "arm",
+  "svg": "armexpg2.svg",
+  "num": "7",
+  "ocr": "Manifold_surface_arm.Manifold_surface_shape_representation",
+  "ref": "Manifold_surface_arm.Manifold_surface_shape_representation",
+  "score": 100,
+  "method": "qualified-verbatim",
+  "flag": ""
+ },
+ {
+  "module": "stratum_non_planar_shape",
+  "kind": "arm",
+  "svg": "armexpg2.svg",
+  "num": "8",
+  "ocr": "Layered interconnect module_ design _arm limd _stratum _shape model select",
+  "ref": "Layered_interconnect_module_design_arm.limd_stratum_shape_model_select",
+  "score": 100,
+  "method": "qualified-verbatim",
+  "flag": ""
+ },
+ {
+  "module": "stratum_non_planar_shape",
+  "kind": "arm",
+  "svg": "armexpg2.svg",
+  "num": "9",
+  "ocr": "Topologically_constrained_maifold_suface_shape_reprion",
+  "ref": "Stratum_non_planar_shape_arm.Topologically_constrained_manifold_surface_shape_representation",
+  "score": 87.5,
+  "method": "fuzzy-local-name",
+  "flag": "check"
+ },
+ {
+  "module": "stratum_non_planar_shape",
+  "kind": "arm",
+  "svg": "armexpg2.svg",
+  "num": "10",
+  "ocr": "*Stratum_average_surface_shape_model",
+  "ref": "Stratum_non_planar_shape_arm.Stratum_average_surface_shape_model",
+  "score": 100,
+  "method": "exact-name-local-clean",
+  "flag": ""
+ },
+ {
+  "module": "stratum_non_planar_shape",
+  "kind": "arm",
+  "svg": "armexpg2.svg",
+  "num": "11",
+  "ocr": "*Stratum_surface_shape_model",
+  "ref": "Stratum_non_planar_shape_arm.Stratum_surface_shape_model",
+  "score": 100,
+  "method": "exact-name-local-clean",
+  "flag": ""
+ }
+]

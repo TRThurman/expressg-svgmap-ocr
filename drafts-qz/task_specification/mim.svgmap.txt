@@ -1,0 +1,69 @@
+(*"Task_specification_mim.__expressg"
+[.svgmap]
+====
+image::mimexpg1.svg[]
+
+* <<express:Task_specification_mim.short_listing>>; 1
+* <<express:action_schema>>; 2
+* <<express:Activity_method_assignment_mim.short_listing>>; 3
+* <<express:Activity_method_mim.short_listing>>; 4
+* <<express:Classification_assignment_mim.short_listing>>; 5
+* <<express:Condition_mim.short_listing>>; 6
+* <<express:Group_mim.short_listing>>; 7
+* <<express:State_definition_mim.short_listing>>; 8
+* <<express:State_observed_mim.short_listing>>; 9
+* <<express:state_observed_schema>>; 10
+* <<express:state_type_schema>>; 11
+* <<express:Task_element_mim.short_listing>>; 12
+====
+*)
+
+(*"Task_specification_mim.__expressg"
+[.svgmap]
+====
+image::mimexpg2.svg[]
+
+* <<express:action_schema.action_method_relationship>>; 1
+* <<express:action_schema.action_method>>; 2
+* <<express:UNRESOLVED>>; 3
+* <<express:UNRESOLVED>>; 4
+* <<express:UNRESOLVED>>; 5
+* <<express:UNRESOLVED>>; 6
+* <<express:UNRESOLVED>>; 7
+* <<express:UNRESOLVED>>; 8
+* <<express:Task_element_mim.concurrent_task_element>>; 9
+* <<express:Task_element_mim.task_element>>; 10
+* <<express:Task_element_mim.task_step>>; 11
+* <<express:Task_specification_mim.advisory_task_step>>; 12
+* <<express:Task_specification_mim.simultaneous_task_element>>; 13
+* <<express:Task_specification_mim.task_invocation>>; 14
+* <<express:Task_specification_mim.task_method>>; 15
+* <<express:Task_specification_mim.task_method_relationship>>; 16
+* <<express:Task_specification_mim.task_method_version>>; 17
+* <<express:Task_specification_mim.task_method_version_relationship>>; 18
+* <<express:Task_specification_mim.task_objective>>; 19
+* <<express:Task_specification_mim.restrict_action_method_relationship_subtypes>>; 20
+* <<express:Task_specification_mim.restrict_task_action_method_subtypes>>; 21
+====
+*)
+
+(*"Task_specification_mim.__expressg"
+[.svgmap]
+====
+image::mimexpg3.svg[]
+
+* <<express:action_schema.action_method_relationship>>; 1
+* <<express:action_schema.action_method>>; 2
+* <<express:Group_mim.groupable_item>>; 3
+* <<express:State_observed_mim.applied_state_observed_assignment>>; 4
+* <<express:State_observed_mim.applied_state_type_assignment>>; 5
+* <<express:state_observed_schema.state_observed>>; 6
+* <<express:state_type_schema.state_type>>; 7
+* <<express:Task_element_mim.applied_action_method_assignment>>; 8
+* <<express:Task_element_mim.classification_item>>; 9
+* <<express:Task_element_mim.action_method_items>>; 10
+* <<express:Task_specification_mim.task_classification_item>>; 11
+* <<express:Task_specification_mim.task_specification_groupable_item>>; 12
+* <<express:Task_specification_mim.task_state_items>>; 13
+====
+*)

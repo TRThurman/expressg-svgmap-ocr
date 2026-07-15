@@ -1,0 +1,222 @@
+[
+ {
+  "module": "scheme",
+  "kind": "mim",
+  "svg": "mimexpg1.svg",
+  "num": "1",
+  "ocr": "Scheme mim",
+  "ref": "Scheme_mim.short_listing",
+  "score": 100,
+  "method": "schema->primary",
+  "flag": "convention"
+ },
+ {
+  "module": "scheme",
+  "kind": "mim",
+  "svg": "mimexpg1.svg",
+  "num": "2",
+  "ocr": "action schema",
+  "ref": "action_schema",
+  "score": 100,
+  "method": "schema->primary",
+  "flag": "convention"
+ },
+ {
+  "module": "scheme",
+  "kind": "mim",
+  "svg": "mimexpg1.svg",
+  "num": "3",
+  "ocr": "Activity_method_assignment mim",
+  "ref": "Activity_method_assignment_mim.short_listing",
+  "score": 100,
+  "method": "schema->primary",
+  "flag": "convention"
+ },
+ {
+  "module": "scheme",
+  "kind": "mim",
+  "svg": "mimexpg1.svg",
+  "num": "4",
+  "ocr": "Activity_ method mim",
+  "ref": "Activity_method_mim.short_listing",
+  "score": 100,
+  "method": "schema->primary",
+  "flag": "convention"
+ },
+ {
+  "module": "scheme",
+  "kind": "mim",
+  "svg": "mimexpg1.svg",
+  "num": "5",
+  "ocr": "Date_time_assignment_r _mim",
+  "ref": "Date_time_assignment_mim.short_listing",
+  "score": 91.30434782608697,
+  "method": "fuzzy-local-schema",
+  "flag": "check"
+ },
+ {
+  "module": "scheme",
+  "kind": "mim",
+  "svg": "mimexpg1.svg",
+  "num": "6",
+  "ocr": "Identification_assignment_mim",
+  "ref": "Identification_assignment_mim.short_listing",
+  "score": 100,
+  "method": "schema->primary",
+  "flag": "convention"
+ },
+ {
+  "module": "scheme",
+  "kind": "mim",
+  "svg": "mimexpg1.svg",
+  "num": "7",
+  "ocr": "Person_organization_assignment_ mim",
+  "ref": "Person_organization_assignment_mim.short_listing",
+  "score": 100,
+  "method": "schema->primary",
+  "flag": "convention"
+ },
+ {
+  "module": "scheme",
+  "kind": "mim",
+  "svg": "mimexpg1.svg",
+  "num": "8",
+  "ocr": "Time interval assignment mim",
+  "ref": "Time_interval_assignment_mim.short_listing",
+  "score": 100,
+  "method": "schema->primary",
+  "flag": "convention"
+ },
+ {
+  "module": "scheme",
+  "kind": "mim",
+  "svg": "mimexpg1.svg",
+  "num": "9",
+  "ocr": "Time interval mim",
+  "ref": "Time_interval_mim.short_listing",
+  "score": 100,
+  "method": "schema->primary",
+  "flag": "convention"
+ },
+ {
+  "module": "scheme",
+  "kind": "mim",
+  "svg": "mimexpg2.svg",
+  "num": "1",
+  "ocr": "action schema. action method",
+  "ref": "action_schema.action_method",
+  "score": 100,
+  "method": "qualified-verbatim",
+  "flag": ""
+ },
+ {
+  "module": "scheme",
+  "kind": "mim",
+  "svg": "mimexpg2.svg",
+  "num": "2",
+  "ocr": "action schema. action method relationship",
+  "ref": "action_schema.action_method_relationship",
+  "score": 100,
+  "method": "qualified-verbatim",
+  "flag": ""
+ },
+ {
+  "module": "scheme",
+  "kind": "mim",
+  "svg": "mimexpg2.svg",
+  "num": "3",
+  "ocr": "Identification assignment mim. identification item",
+  "ref": "Identification_assignment_mim.identification_item",
+  "score": 100,
+  "method": "qualified-verbatim",
+  "flag": ""
+ },
+ {
+  "module": "scheme",
+  "kind": "mim",
+  "svg": "mimexpg2.svg",
+  "num": "4",
+  "ocr": "",
+  "ref": null,
+  "score": 0,
+  "method": "empty",
+  "flag": "UNRESOLVED"
+ },
+ {
+  "module": "scheme",
+  "kind": "mim",
+  "svg": "mimexpg2.svg",
+  "num": "5",
+  "ocr": "Person organization_assignment mim. person and organization item",
+  "ref": "Person_organization_assignment_mim.person_and_organization_item",
+  "score": 100,
+  "method": "qualified-verbatim",
+  "flag": ""
+ },
+ {
+  "module": "scheme",
+  "kind": "mim",
+  "svg": "mimexpg2.svg",
+  "num": "6",
+  "ocr": "Time_interval_ assignment mim. time_interval_item",
+  "ref": "Time_interval_assignment_mim.time_interval_item",
+  "score": 100,
+  "method": "qualified-verbatim",
+  "flag": ""
+ },
+ {
+  "module": "scheme",
+  "kind": "mim",
+  "svg": "mimexpg2.svg",
+  "num": "7",
+  "ocr": "Time interval mim. date and time item",
+  "ref": "Time_interval_mim.date_and_time_item",
+  "score": 100,
+  "method": "qualified-verbatim",
+  "flag": ""
+ },
+ {
+  "module": "scheme",
+  "kind": "mim",
+  "svg": "mimexpg2.svg",
+  "num": "8",
+  "ocr": "(EX) scheme_date_and_time_item",
+  "ref": "Scheme_mim.scheme_date_and_time_item",
+  "score": 100,
+  "method": "exact-name-local-clean",
+  "flag": ""
+ },
+ {
+  "module": "scheme",
+  "kind": "mim",
+  "svg": "mimexpg2.svg",
+  "num": "9",
+  "ocr": "(EX) scheme_identification_item",
+  "ref": "Scheme_mim.scheme_identification_item",
+  "score": 100,
+  "method": "exact-name-local-clean",
+  "flag": ""
+ },
+ {
+  "module": "scheme",
+  "kind": "mim",
+  "svg": "mimexpg2.svg",
+  "num": "10",
+  "ocr": "(EX) *scheme_person_and_organization_item",
+  "ref": "Scheme_mim.scheme_person_and_organization_item",
+  "score": 100,
+  "method": "exact-name-local-clean",
+  "flag": ""
+ },
+ {
+  "module": "scheme",
+  "kind": "mim",
+  "svg": "mimexpg2.svg",
+  "num": "11",
+  "ocr": "(EX) scheme_time_interval_item",
+  "ref": "Scheme_mim.scheme_time_interval_item",
+  "score": 100,
+  "method": "exact-name-local-clean",
+  "flag": ""
+ }
+]

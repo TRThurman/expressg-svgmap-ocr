@@ -1,0 +1,57 @@
+[
+ {
+  "module": "topologically_bounded_surface",
+  "kind": "arm",
+  "svg": "armexpg1.svg",
+  "num": "1",
+  "ocr": "B spline geometry arm",
+  "ref": "B_spline_geometry_arm.required_am_arms",
+  "score": 100,
+  "method": "schema->primary",
+  "flag": "convention"
+ },
+ {
+  "module": "topologically_bounded_surface",
+  "kind": "arm",
+  "svg": "armexpg1.svg",
+  "num": "2",
+  "ocr": "Topologically_bounded_surface arm",
+  "ref": "Topologically_bounded_surface_arm.required_am_arms",
+  "score": 100,
+  "method": "schema->primary",
+  "flag": "convention"
+ },
+ {
+  "module": "topologically_bounded_surface",
+  "kind": "arm",
+  "svg": "armexpg1.svg",
+  "num": "3",
+  "ocr": "Basic_geometric_topology_ arm",
+  "ref": "Basic_geometric_topology_arm.required_am_arms",
+  "score": 100,
+  "method": "schema->primary",
+  "flag": "convention"
+ },
+ {
+  "module": "topologically_bounded_surface",
+  "kind": "arm",
+  "svg": "armexpg2.svg",
+  "num": "1",
+  "ocr": "Basic geometric _topology arm.Face surface",
+  "ref": "Basic_geometric_topology_arm.Face_surface",
+  "score": 100,
+  "method": "qualified-verbatim",
+  "flag": ""
+ },
+ {
+  "module": "topologically_bounded_surface",
+  "kind": "arm",
+  "svg": "armexpg2.svg",
+  "num": "2",
+  "ocr": "Advanced_face",
+  "ref": "Topologically_bounded_surface_arm.Advanced_face",
+  "score": 100,
+  "method": "exact-name-local-clean",
+  "flag": ""
+ }
+]

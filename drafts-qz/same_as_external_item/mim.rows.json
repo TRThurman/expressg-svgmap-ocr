@@ -1,0 +1,90 @@
+[
+ {
+  "module": "same_as_external_item",
+  "kind": "mim",
+  "svg": "mimexpg1.svg",
+  "num": "1",
+  "ocr": "Same_as_external_item_mim",
+  "ref": "Same_as_external_item_mim.short_listing",
+  "score": 100,
+  "method": "schema->primary",
+  "flag": "convention"
+ },
+ {
+  "module": "same_as_external_item",
+  "kind": "mim",
+  "svg": "mimexpg1.svg",
+  "num": "2",
+  "ocr": "management_resources schema",
+  "ref": "management_resources_schema",
+  "score": 100,
+  "method": "schema->primary",
+  "flag": "convention"
+ },
+ {
+  "module": "same_as_external_item",
+  "kind": "mim",
+  "svg": "mimexpg1.svg",
+  "num": "3",
+  "ocr": "External source mim",
+  "ref": "External_source_mim.short_listing",
+  "score": 100,
+  "method": "schema->primary",
+  "flag": "convention"
+ },
+ {
+  "module": "same_as_external_item",
+  "kind": "mim",
+  "svg": "mimexpg2.svg",
+  "num": "1",
+  "ocr": "management_resources_schema.external identification _assignment",
+  "ref": "management_resources_schema.external_identification_assignment",
+  "score": 100,
+  "method": "qualified-verbatim",
+  "flag": ""
+ },
+ {
+  "module": "same_as_external_item",
+  "kind": "mim",
+  "svg": "mimexpg2.svg",
+  "num": "2",
+  "ocr": "",
+  "ref": null,
+  "score": 0,
+  "method": "empty",
+  "flag": "UNRESOLVED+dup-geom"
+ },
+ {
+  "module": "same_as_external_item",
+  "kind": "mim",
+  "svg": "mimexpg2.svg",
+  "num": "3",
+  "ocr": "",
+  "ref": null,
+  "score": 0,
+  "method": "empty",
+  "flag": "UNRESOLVED+dup-geom"
+ },
+ {
+  "module": "same_as_external_item",
+  "kind": "mim",
+  "svg": "mimexpg2.svg",
+  "num": "4",
+  "ocr": "(EX) *same_as_item",
+  "ref": "Same_as_external_item_mim.same_as_item",
+  "score": 100,
+  "method": "exact-name-local-clean",
+  "flag": ""
+ },
+ {
+  "module": "same_as_external_item",
+  "kind": "mim",
+  "svg": "mimexpg2.svg",
+  "num": "5",
+  "ocr": "same_as_external_item_assignment",
+  "ref": "Same_as_external_item_mim.same_as_external_item_assignment",
+  "score": 100,
+  "method": "exact-name-local-clean",
+  "flag": ""
+ }
+]

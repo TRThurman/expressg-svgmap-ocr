@@ -1,0 +1,11 @@
+(*"Software_mim.__expressg"
+[.svgmap]
+====
+image::mimexpg1.svg[]
+
+* <<express:Information_product_mim.short_listing>>; 1
+* <<express:Document_definition_mim.short_listing>>; 2
+* <<express:product_definition_schema>>; 3
+* <<express:Product_identification_mim.short_listing>>; 4
+====
+*)

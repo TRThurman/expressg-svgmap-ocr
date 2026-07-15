@@ -1,0 +1,76 @@
+(*"Risk_management_mim.__expressg"
+[.svgmap]
+====
+image::mimexpg1.svg[]
+
+* <<express:UNRESOLVED>>; 1
+* <<express:Approval_mim.short_listing>>; 2
+* <<express:Collection_identification_and_version_mim.short_listing>>; 3
+* <<express:Condition_mim.short_listing>>; 4
+* <<express:date_time_schema>>; 5
+* <<express:Document_assignment_mim.short_listing>>; 6
+* <<express:Identification_relationship_mim.short_listing>>; 7
+* <<express:Justification_mim.short_listing>>; 8
+* <<express:Person_organization_assignment_mim.short_listing>>; 9
+* <<express:Resource_item_mim.short_listing>>; 10
+* <<express:Risk_definition_mim.short_listing>>; 11
+* <<express:state_type_schema>>; 12
+====
+*)
+
+(*"Risk_management_mim.__expressg"
+[.svgmap]
+====
+image::mimexpg2.svg[]
+
+* <<express:person_organization_schema.address>>; 1
+* <<express:person_organization_schema.person>>; 2
+* <<express:person_organization_schema.person_and_organization>>; 3
+* <<express:Activity_method_assignment_mim.applied_action_method_assignment>>; 4
+* <<express:Document_assignment_mim.applied_document_reference>>; 5
+* <<express:Document_assignment_mim.applied_document_usage_constraint_assignment>>; 6
+* <<express:product_property_definition_schema.characterized_object>>; 7
+* <<express:Person_organization_assignment_mim.applied_organization_assignment>>; 8
+* <<express:Person_organization_assignment_mim.applied_person_and_organization_assignment>>; 9
+* <<express:Activity_mim.applied_action_assignment>>; 10
+* <<express:risk_schema.risk_impact_assignment>>; 11
+* <<express:Risk_management_mim.rm_characterizable_address>>; 12
+* <<express:Risk_management_mim.rm_characterizable_applied_action_assignment>>; 13
+* <<express:Risk_management_mim.rm_characterizable_applied_action_method_assignment>>; 14
+* <<express:Risk_management_mim.rm_characterizable_applied_document_reference>>; 15
+* <<express:Risk_management_mim.rm_characterizable_applied_document_usage_constraint_assignment>>; 16
+* <<express:Risk_management_mim.rm_characterizable_applied_organization_assignment>>; 17
+* <<express:Risk_management_mim.rm_characterizable_applied_person_and_organization_assignment>>; 18
+* <<express:Risk_management_mim.rm_characterizable_person>>; 19
+* <<express:Risk_management_mim.rm_characterizable_person_and_organization>>; 20
+* <<express:Risk_management_mim.rm_characterizable_risk_impact_assignment>>; 21
+====
+*)
+
+(*"Risk_management_mim.__expressg"
+[.svgmap]
+====
+image::mimexpg3.svg[]
+
+* <<express:product_property_definition_schema.characterized_object>>; 1
+* <<express:state_observed_schema.state_observed>>; 2
+* <<express:state_observed_schema.state_observed_assignment>>; 3
+* <<express:state_observed_schema.state_observed_relationship>>; 4
+* <<express:state_type_schema.state_type>>; 5
+* <<express:state_type_schema.state_type_assignment>>; 6
+* <<express:state_type_schema.state_type_relationship>>; 7
+* <<express:Risk_management_mim.rm_characterizable_state_observed>>; 8
+* <<express:Risk_management_mim.rm_characterizable_state_observed_assignment>>; 9
+* <<express:Risk_management_mim.rm_characterizable_state_observed_relationship>>; 10
+* <<express:Risk_management_mim.rm_characterizable_state_type>>; 11
+* <<express:Risk_management_mim.rm_characterizable_state_type_assignment>>; 12
+* <<express:Risk_management_mim.rm_characterizable_state_type_relationship>>; 13
+====
+*)
+
+(*"Risk_management_mim.__expressg"
+[.svgmap]
+====
+image::mimexpg4.svg[]
+====
+*)

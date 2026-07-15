@@ -1,0 +1,30 @@
+(*"Schematic_and_symbolization_arm.__expressg"
+[.svgmap]
+====
+image::armexpg1.svg[]
+
+* <<express:Schematic_and_symbolization_arm.required_am_arms>>; 1
+* <<express:Schematic_element_library_arm.required_am_arms>>; 2
+* <<express:Schematic_drawing_arm.required_am_arms>>; 3
+* <<express:Symbolization_by_schematic_element_arm.required_am_arms>>; 4
+* <<express:Document_and_version_identification_arm.required_am_arms>>; 5
+* <<express:External_item_identification_assignment_arm.required_am_arms>>; 6
+* <<express:Class_arm.required_am_arms>>; 7
+====
+*)
+
+(*"Schematic_and_symbolization_arm.__expressg"
+[.svgmap]
+====
+image::armexpg2.svg[]
+
+* <<express:Document_and_version_identification_arm.Document_version>>; 1
+* <<express:Class_arm.Class>>; 2
+* <<express:Schematic_and_symbolization_arm.Drawing_revision_class_of_document>>; 3
+* <<express:Schematic_and_symbolization_arm.Drawing_sheet_revision_class_of_document>>; 4
+* <<express:Schematic_and_symbolization_arm.externally_identified_schematic_element_definition>>; 5
+* <<express:Schematic_drawing_arm.Drawing_sheet_revision>>; 6
+* <<express:Schematic_drawing_arm.Drawing_revision>>; 7
+* <<express:UNRESOLVED>>; 8
+====
+*)

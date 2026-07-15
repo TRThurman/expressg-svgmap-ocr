@@ -1,0 +1,20 @@
+(*"Shape_composition_mim.__expressg"
+[.svgmap]
+====
+image::mimexpg1.svg[]
+
+* <<express:Shape_aspect_definition_schema>>; 1
+* <<express:Shape_property_assignment_mim.short_listing>>; 2
+* <<express:Shape_dimension_schema>>; 3
+====
+*)
+
+(*"Shape_composition_mim.__expressg"
+[.svgmap]
+====
+image::mimexpg2.svg[]
+
+* <<express:shape_aspect_definition_schema.composite_shape_aspect>>; 1
+* <<express:UNRESOLVED>>; 2
+====
+*)

@@ -1,0 +1,68 @@
+[
+ {
+  "module": "shape_composition",
+  "kind": "arm",
+  "svg": "armexpg1.svg",
+  "num": "1",
+  "ocr": "Shape property_assignment_arm",
+  "ref": "Shape_property_assignment_arm.required_am_arms",
+  "score": 100,
+  "method": "schema->primary",
+  "flag": "convention"
+ },
+ {
+  "module": "shape_composition",
+  "kind": "arm",
+  "svg": "armexpg1.svg",
+  "num": "2",
+  "ocr": "Shape_composition_arm",
+  "ref": "Shape_composition_arm.required_am_arms",
+  "score": 100,
+  "method": "schema->primary",
+  "flag": "convention"
+ },
+ {
+  "module": "shape_composition",
+  "kind": "arm",
+  "svg": "armexpg2.svg",
+  "num": "1",
+  "ocr": "Shape property_assignment arm.Shape _element",
+  "ref": "Shape_property_assignment_arm.Shape_element",
+  "score": 100,
+  "method": "qualified-verbatim",
+  "flag": ""
+ },
+ {
+  "module": "shape_composition",
+  "kind": "arm",
+  "svg": "armexpg2.svg",
+  "num": "2",
+  "ocr": "(ABS) Composite_shape_element",
+  "ref": "Shape_composition_arm.Composite_shape_element",
+  "score": 100,
+  "method": "exact-name-local-clean",
+  "flag": ""
+ },
+ {
+  "module": "shape_composition",
+  "kind": "arm",
+  "svg": "armexpg2.svg",
+  "num": "3",
+  "ocr": "Composite_unit_shape_element",
+  "ref": "Shape_composition_arm.Composite_unit_shape_element",
+  "score": 100,
+  "method": "exact-name-local-clean",
+  "flag": ""
+ },
+ {
+  "module": "shape_composition",
+  "kind": "arm",
+  "svg": "armexpg2.svg",
+  "num": "4",
+  "ocr": "Composite_group_shape_element",
+  "ref": "Shape_composition_arm.Composite_group_shape_element",
+  "score": 100,
+  "method": "exact-name-local-clean",
+  "flag": ""
+ }
+]

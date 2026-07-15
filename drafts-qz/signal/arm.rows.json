@@ -1,0 +1,112 @@
+[
+ {
+  "module": "signal",
+  "kind": "arm",
+  "svg": "armexpg1.svg",
+  "num": "1",
+  "ocr": "Signal arm",
+  "ref": "Signal_arm.required_am_arms",
+  "score": 100,
+  "method": "schema->primary",
+  "flag": "convention"
+ },
+ {
+  "module": "signal",
+  "kind": "arm",
+  "svg": "armexpg1.svg",
+  "num": "2",
+  "ocr": "Characteristic_arm",
+  "ref": "Characteristic_arm.required_am_arms",
+  "score": 100,
+  "method": "schema->primary",
+  "flag": "convention"
+ },
+ {
+  "module": "signal",
+  "kind": "arm",
+  "svg": "armexpg2.svg",
+  "num": "1",
+  "ocr": "(EX s_external_identification_item",
+  "ref": "Signal_arm.s_external_identification_item",
+  "score": 91.52542372881356,
+  "method": "fuzzy-local-name",
+  "flag": "check"
+ },
+ {
+  "module": "signal",
+  "kind": "arm",
+  "svg": "armexpg2.svg",
+  "num": "2",
+  "ocr": "External_item_identification_assignment_arm.Extemal_source_identification",
+  "ref": "External_item_identification_assignment_arm.External_source_identification",
+  "score": 94.54545454545455,
+  "method": "qualified-fuzzy",
+  "flag": "check"
+ },
+ {
+  "module": "signal",
+  "kind": "arm",
+  "svg": "armexpg2.svg",
+  "num": "3",
+  "ocr": "Characteristic arm. Characteristic data table",
+  "ref": "Characteristic_arm.Characteristic_data_table",
+  "score": 100,
+  "method": "qualified-verbatim",
+  "flag": ""
+ },
+ {
+  "module": "signal",
+  "kind": "arm",
+  "svg": "armexpg2.svg",
+  "num": "4",
+  "ocr": "External_item_identification_assignment_arm.external_identification_item",
+  "ref": "External_item_identification_assignment_arm.external_identification_item",
+  "score": 100,
+  "method": "qualified-verbatim",
+  "flag": ""
+ },
+ {
+  "module": "signal",
+  "kind": "arm",
+  "svg": "armexpg2.svg",
+  "num": "5",
+  "ocr": "Signal_property",
+  "ref": "Signal_arm.Signal_property",
+  "score": 100,
+  "method": "exact-name-local-clean",
+  "flag": ""
+ },
+ {
+  "module": "signal",
+  "kind": "arm",
+  "svg": "armexpg2.svg",
+  "num": "6",
+  "ocr": "Composite_signal_property",
+  "ref": "Signal_arm.Composite_signal_property",
+  "score": 100,
+  "method": "exact-name-local-clean",
+  "flag": ""
+ },
+ {
+  "module": "signal",
+  "kind": "arm",
+  "svg": "armexpg2.svg",
+  "num": "7",
+  "ocr": "Composite_sigal_proprtyrlto",
+  "ref": "Signal_arm.Composite_signal_property",
+  "score": 84.0,
+  "method": "fuzzy-local-name",
+  "flag": "check"
+ },
+ {
+  "module": "signal",
+  "kind": "arm",
+  "svg": "armexpg2.svg",
+  "num": "8",
+  "ocr": "Signal",
+  "ref": "Signal_arm.Signal",
+  "score": 100,
+  "method": "exact-name-local-clean",
+  "flag": ""
+ }
+]

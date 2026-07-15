@@ -1,0 +1,37 @@
+(*"Text_appearance_arm.__expressg"
+[.svgmap]
+====
+image::armexpg1.svg[]
+
+* <<express:Text_appearance_arm.required_am_arms>>; 1
+* <<express:Basic_geometry_arm.required_am_arms>>; 2
+====
+*)
+
+(*"Text_appearance_arm.__expressg"
+[.svgmap]
+====
+image::armexpg2.svg[]
+
+* <<express:Text_appearance_arm.font_select>>; 1
+* <<express:Text_appearance_arm.composite_text_element_select>>; 2
+* <<express:Elemental_geometric_shape_arm.Detailed_geometric_model_element>>; 3
+* <<express:Basic_geometry_arm.Curve>>; 4
+* <<express:Elemental_geometric_shape_arm.Axis_placement>>; 5
+* <<express:Value_with_unit_arm.length_measure>>; 6
+* <<express:Elemental_geometric_shape_arm.Axis_placement>>; 7
+* <<express:Text_appearance_arm.text_path>>; 8
+* <<express:Text_appearance_arm.text_alignment>>; 9
+* <<express:Text_appearance_arm.text_delineation>>; 10
+* <<express:Text_appearance_arm.Externally_defined_text_font>>; 11
+* <<express:Text_appearance_arm.Composite_presentable_text>>; 12
+* <<express:Text_appearance_arm.Text_literal_with_extent>>; 13
+* <<express:Text_appearance_arm.Text_literal_with_blanking_box>>; 14
+* <<express:Text_appearance_arm.Defined_character_glyph>>; 15
+* <<express:Text_appearance_arm.Draughting_pre_defined_text_font>>; 16
+* <<express:Text_appearance_arm.Text_literal_with_associated_curves>>; 17
+* <<express:Text_appearance_arm.Text_literal_with_delineation>>; 18
+* <<express:Text_appearance_arm.Text_literal>>; 19
+* <<express:Text_appearance_arm.ta_detailed_geometric_model_element_subtypes>>; 20
+====
+*)

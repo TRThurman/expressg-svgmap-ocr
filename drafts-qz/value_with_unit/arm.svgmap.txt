@@ -1,0 +1,52 @@
+(*"Value_with_unit_arm.__expressg"
+[.svgmap]
+====
+image::armexpg1.svg[]
+
+* <<express:Maths_value_arm.required_am_arms>>; 1
+* <<express:Value_with_unit_arm.required_am_arms>>; 2
+====
+*)
+
+(*"Value_with_unit_arm.__expressg"
+[.svgmap]
+====
+image::armexpg2.svg[]
+
+* <<express:Value_with_unit_arm.volume_measure>>; 1
+* <<express:Maths_value_arm.maths_value>>; 2
+* <<express:Value_with_unit_arm.Ratio_unit>>; 3
+* <<express:Value_with_unit_arm.Thermodynamic_temperature_unit>>; 4
+* <<express:Value_with_unit_arm.Mass_unit>>; 5
+* <<express:Value_with_unit_arm.Solid_angle_unit>>; 6
+* <<express:Value_with_unit_arm.Electric_current_unit>>; 7
+* <<express:Value_with_unit_arm.Length_unit>>; 8
+* <<express:Value_with_unit_arm.Plane_angle_unit>>; 9
+* <<express:Value_with_unit_arm.Maths_value_with_unit>>; 10
+* <<express:Value_with_unit_arm.Amount_of_substance_unit>>; 11
+* <<express:Value_with_unit_arm.Time_unit>>; 12
+* <<express:Value_with_unit_arm.Uncertainty_with_unit>>; 13
+* <<express:Value_with_unit_arm.Conversion_based_unit>>; 14
+* <<express:Value_with_unit_arm.Unit>>; 15
+* <<express:Value_with_unit_arm.Context_dependent_unit>>; 16
+* <<express:Value_with_unit_arm.Luminous_intensity_unit>>; 17
+* <<express:Value_with_unit_arm.Volume_unit>>; 18
+* <<express:Value_with_unit_arm.Duration>>; 19
+* <<express:Value_with_unit_arm.Area_unit>>; 20
+* <<express:Value_with_unit_arm.Derived_unit_element>>; 21
+* <<express:Value_with_unit_arm.Derived_unit>>; 22
+* <<express:Value_with_unit_arm.Value_with_unit>>; 23
+* <<express:Value_with_unit_arm.positive_length_measure>>; 24
+* <<express:Value_with_unit_arm.plane_angle_measure>>; 25
+* <<express:Value_with_unit_arm.non_negative_length_measure>>; 26
+* <<express:Value_with_unit_arm.length_measure>>; 27
+* <<express:Value_with_unit_arm.ratio_measure>>; 28
+* <<express:Value_with_unit_arm.any_number_value>>; 29
+* <<express:Value_with_unit_arm.positive_plane_angle_measure>>; 30
+* <<express:Value_with_unit_arm.area_measure>>; 31
+* <<express:Value_with_unit_arm.non_negative_plane_angle_measure>>; 32
+* <<express:Value_with_unit_arm.any_string_value>>; 33
+* <<express:Value_with_unit_arm.volume_measure>>; 34
+* <<express:Value_with_unit_arm.count_measure>>; 35
+====
+*)

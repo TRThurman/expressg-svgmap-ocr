@@ -1,0 +1,211 @@
+[
+ {
+  "module": "verification_and_validation",
+  "kind": "mim",
+  "svg": "mimexpg1.svg",
+  "num": "1",
+  "ocr": "Verification_and_ validation_mim",
+  "ref": "Verification_and_validation_mim.short_listing",
+  "score": 100,
+  "method": "schema->primary",
+  "flag": "convention"
+ },
+ {
+  "module": "verification_and_validation",
+  "kind": "mim",
+  "svg": "mimexpg1.svg",
+  "num": "2",
+  "ocr": "Requirement_assignment mim",
+  "ref": "Requirement_assignment_mim.short_listing",
+  "score": 100,
+  "method": "schema->primary",
+  "flag": "convention"
+ },
+ {
+  "module": "verification_and_validation",
+  "kind": "mim",
+  "svg": "mimexpg1.svg",
+  "num": "3",
+  "ocr": "Group_ mim",
+  "ref": "Group_mim.short_listing",
+  "score": 100,
+  "method": "schema->primary",
+  "flag": "convention"
+ },
+ {
+  "module": "verification_and_validation",
+  "kind": "mim",
+  "svg": "mimexpg1.svg",
+  "num": "4",
+  "ocr": "State_ observed mim",
+  "ref": "State_observed_mim.short_listing",
+  "score": 100,
+  "method": "schema->primary",
+  "flag": "convention"
+ },
+ {
+  "module": "verification_and_validation",
+  "kind": "mim",
+  "svg": "mimexpg2.svg",
+  "num": "1",
+  "ocr": "Group_mim. group",
+  "ref": "Group_mim.Group",
+  "score": 100,
+  "method": "qualified-verbatim-global",
+  "flag": "check+unverified"
+ },
+ {
+  "module": "verification_and_validation",
+  "kind": "mim",
+  "svg": "mimexpg2.svg",
+  "num": "2",
+  "ocr": "Group_mim. group",
+  "ref": "Group_mim.Group",
+  "score": 100,
+  "method": "qualified-verbatim-global",
+  "flag": "check+unverified"
+ },
+ {
+  "module": "verification_and_validation",
+  "kind": "mim",
+  "svg": "mimexpg2.svg",
+  "num": "3",
+  "ocr": "Group mim. group_ assignment",
+  "ref": "Group_mim.group_assignment",
+  "score": 100,
+  "method": "qualified-verbatim-global",
+  "flag": "check+unverified"
+ },
+ {
+  "module": "verification_and_validation",
+  "kind": "mim",
+  "svg": "mimexpg2.svg",
+  "num": "4",
+  "ocr": "Group mim. group_relationship",
+  "ref": "Group_mim.Group_relationship",
+  "score": 100,
+  "method": "qualified-verbatim-global",
+  "flag": "check+unverified"
+ },
+ {
+  "module": "verification_and_validation",
+  "kind": "mim",
+  "svg": "mimexpg2.svg",
+  "num": "5",
+  "ocr": "Group_ mim. groupable item",
+  "ref": "Group_mim.groupable_item",
+  "score": 100,
+  "method": "qualified-verbatim",
+  "flag": ""
+ },
+ {
+  "module": "verification_and_validation",
+  "kind": "mim",
+  "svg": "mimexpg2.svg",
+  "num": "6",
+  "ocr": "Requirement assignment_ mim. product definition formation",
+  "ref": "Requirement_assignment_mim.product_definition_formation",
+  "score": 100,
+  "method": "qualified-verbatim-global",
+  "flag": "check+unverified"
+ },
+ {
+  "module": "verification_and_validation",
+  "kind": "mim",
+  "svg": "mimexpg2.svg",
+  "num": "7",
+  "ocr": "State_observed_mim. group",
+  "ref": "State_observed_mim.Group",
+  "score": 100,
+  "method": "qualified-verbatim-global",
+  "flag": "check+unverified"
+ },
+ {
+  "module": "verification_and_validation",
+  "kind": "mim",
+  "svg": "mimexpg2.svg",
+  "num": "8",
+  "ocr": "State observed mim. state observed of item",
+  "ref": "State_observed_mim.state_observed_of_item",
+  "score": 100,
+  "method": "qualified-verbatim",
+  "flag": ""
+ },
+ {
+  "module": "verification_and_validation",
+  "kind": "mim",
+  "svg": "mimexpg2.svg",
+  "num": "9",
+  "ocr": "(EX) evidence item",
+  "ref": "Verification_and_validation_mim.evidence_item",
+  "score": 100,
+  "method": "exact-name-local-clean",
+  "flag": ""
+ },
+ {
+  "module": "verification_and_validation",
+  "kind": "mim",
+  "svg": "mimexpg2.svg",
+  "num": "10",
+  "ocr": "v_and_v_state_observed",
+  "ref": "Verification_and_validation_mim.v_and_v_state_observed",
+  "score": 100,
+  "method": "exact-name-local-clean",
+  "flag": ""
+ },
+ {
+  "module": "verification_and_validation",
+  "kind": "mim",
+  "svg": "mimexpg2.svg",
+  "num": "11",
+  "ocr": "(EX) *validation groupable_item",
+  "ref": "Verification_and_validation_mim.validation_groupable_item",
+  "score": 100,
+  "method": "exact-name-local-clean",
+  "flag": ""
+ },
+ {
+  "module": "verification_and_validation",
+  "kind": "mim",
+  "svg": "mimexpg2.svg",
+  "num": "12",
+  "ocr": "evidence",
+  "ref": "Verification_and_validation_mim.evidence",
+  "score": 100,
+  "method": "exact-name-local-clean",
+  "flag": ""
+ },
+ {
+  "module": "verification_and_validation",
+  "kind": "mim",
+  "svg": "mimexpg2.svg",
+  "num": "13",
+  "ocr": "validation",
+  "ref": "Verification_and_validation_mim.validation",
+  "score": 100,
+  "method": "exact-name-local-clean",
+  "flag": ""
+ },
+ {
+  "module": "verification_and_validation",
+  "kind": "mim",
+  "svg": "mimexpg2.svg",
+  "num": "14",
+  "ocr": "verification",
+  "ref": "Verification_and_validation_mim.verification",
+  "score": 100,
+  "method": "exact-name-local-clean",
+  "flag": ""
+ },
+ {
+  "module": "verification_and_validation",
+  "kind": "mim",
+  "svg": "mimexpg2.svg",
+  "num": "15",
+  "ocr": "verification relationship",
+  "ref": "Verification_and_validation_mim.verification_relationship",
+  "score": 100,
+  "method": "exact-name-local-clean",
+  "flag": ""
+ }
+]

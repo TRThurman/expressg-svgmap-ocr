@@ -1,0 +1,25 @@
+(*"Set_theory_arm.__expressg"
+[.svgmap]
+====
+image::armexpg1.svg[]
+
+* <<express:Set_theory_arm.required_am_arms>>; 1
+* <<express:Class_arm.required_am_arms>>; 2
+====
+*)
+
+(*"Set_theory_arm.__expressg"
+[.svgmap]
+====
+image::armexpg2.svg[]
+
+* <<express:Class_arm.Class>>; 1
+* <<express:Set_theory_arm.Complement>>; 2
+* <<express:Set_theory_arm.Intersection>>; 3
+* <<express:Set_theory_arm.Power_set>>; 4
+* <<express:Set_theory_arm.Proper_subset>>; 5
+* <<express:Set_theory_arm.Same_membership>>; 6
+* <<express:Set_theory_arm.Subset>>; 7
+* <<express:Set_theory_arm.Union>>; 8
+====
+*)

@@ -1,0 +1,25 @@
+(*"Via_component_arm.__expressg"
+[.svgmap]
+====
+image::armexpg1.svg[]
+
+* <<express:Interconnect_module_connection_routing_arm.required_am_arms>>; 1
+* <<express:Via_component_arm.required_am_arms>>; 2
+* <<express:Layered_interconnect_module_design_arm.required_am_arms>>; 3
+====
+*)
+
+(*"Via_component_arm.__expressg"
+[.svgmap]
+====
+image::armexpg2.svg[]
+
+* <<express:Layered_interconnect_module_design_arm.Via>>; 1
+* <<express:Via_component_arm.Non_conductive_base_blind_via>>; 2
+* <<express:Via_component_arm.Blind_via>>; 3
+* <<express:Via_component_arm.Interfacial_connection>>; 4
+* <<express:Via_component_arm.Plated_conductive_base_blind_via>>; 5
+* <<express:Via_component_arm.Buried_via>>; 6
+* <<express:Via_component_arm.via_subtypes>>; 7
+====
+*)

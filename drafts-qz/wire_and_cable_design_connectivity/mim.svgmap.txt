@@ -1,0 +1,19 @@
+(*"Wire_and_cable_design_connectivity_mim.__expressg"
+[.svgmap]
+====
+image::mimexpg1.svg[]
+
+* <<express:Wire_and_cable_design_connectivity_mim.short_listing>>; 1
+* <<express:General_design_connectivity_mim.short_listing>>; 2
+====
+*)
+
+(*"Wire_and_cable_design_connectivity_mim.__expressg"
+[.svgmap]
+====
+image::mimexpg2.svg[]
+
+* <<express:General_design_connectivity_mim.terminal_feature>>; 1
+* <<express:Wire_and_cable_design_connectivity_mim.terminal_location_group>>; 2
+====
+*)

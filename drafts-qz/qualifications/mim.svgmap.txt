@@ -1,0 +1,39 @@
+(*"Qualifications_mim.__expressg"
+[.svgmap]
+====
+image::mimexpg1.svg[]
+
+* <<express:Qualifications_mim.short_listing>>; 1
+* <<express:qualifications_schema>>; 2
+* <<express:management_resources_schema>>; 3
+* <<express:person_organization_schema>>; 4
+* <<express:Person_organization_assignment_mim.short_listing>>; 5
+* <<express:Certification_mim.short_listing>>; 6
+* <<express:Date_time_assignment_mim.short_listing>>; 7
+* <<express:Classification_assignment_mim.short_listing>>; 8
+* <<express:Person_organization_mim.short_listing>>; 9
+====
+*)
+
+(*"Qualifications_mim.__expressg"
+[.svgmap]
+====
+image::mimexpg2.svg[]
+
+* <<express:Certification_mim.certification_item>>; 1
+* <<express:Classification_assignment_mim.classification_item>>; 2
+* <<express:Date_time_assignment_mim.date_item>>; 3
+* <<express:Date_time_assignment_mim.date_and_time_item>>; 4
+* <<express:management_resources_schema.qualification_type_assignment>>; 5
+* <<express:Person_organization_assignment_mim.person_and_organization_item>>; 6
+* <<express:person_organization_schema.person>>; 7
+* <<express:qualifications_schema.qualification_type>>; 8
+* <<express:Qualifications_mim.person_organization_item>>; 9
+* <<express:Qualifications_mim.qualification_type_certification_item>>; 10
+* <<express:Qualifications_mim.qualification_type_classification_item>>; 11
+* <<express:Qualifications_mim.qualification_type_date_and_time_item>>; 12
+* <<express:Qualifications_mim.qualification_type_date_item>>; 13
+* <<express:Qualifications_mim.qualification_type_person_and_organization_item>>; 14
+* <<express:Qualifications_mim.applied_qualification_type_assignment>>; 15
+====
+*)

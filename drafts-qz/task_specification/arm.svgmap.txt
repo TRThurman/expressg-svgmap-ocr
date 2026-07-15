@@ -1,0 +1,96 @@
+(*"Task_specification_arm.__expressg"
+[.svgmap]
+====
+image::armexpg1.svg[]
+
+* <<express:Task_specification_arm.required_am_arms>>; 1
+* <<express:State_observed_arm.required_am_arms>>; 2
+* <<express:Task_element_arm.required_am_arms>>; 3
+====
+*)
+
+(*"Task_specification_arm.__expressg"
+[.svgmap]
+====
+image::armexpg2.svg[]
+
+* <<express:UNRESOLVED>>; 1
+* <<express:UNRESOLVED>>; 2
+* <<express:UNRESOLVED>>; 3
+* <<express:UNRESOLVED>>; 4
+* <<express:UNRESOLVED>>; 5
+* <<express:UNRESOLVED>>; 6
+* <<express:UNRESOLVED>>; 7
+* <<express:UNRESOLVED>>; 8
+* <<express:UNRESOLVED>>; 9
+* <<express:UNRESOLVED>>; 10
+* <<express:UNRESOLVED>>; 11
+* <<express:State_observed_arm.Applied_state_assignment>>; 12
+* <<express:State_observed_arm.State>>; 13
+* <<express:State_observed_arm.State_definition>>; 14
+* <<express:State_observed_arm.Applied_state_definition_assignment>>; 15
+* <<express:State_observed_arm.Activity_method>>; 16
+* <<express:UNRESOLVED>>; 17
+* <<express:UNRESOLVED>>; 18
+* <<express:UNRESOLVED>>; 19
+* <<express:UNRESOLVED>>; 20
+* <<express:Task_element_arm.Concurrent_elements>>; 21
+* <<express:Task_element_arm.Task_element>>; 22
+* <<express:Task_element_arm.Task_step>>; 23
+* <<express:Task_specification_arm.method_or_method_version>>; 24
+* <<express:Task_specification_arm.state_or_state_definition_select>>; 25
+* <<express:Task_specification_arm.Advisory_note>>; 26
+* <<express:Task_specification_arm.Advisory_task_step>>; 27
+* <<express:Task_specification_arm.Simultaneous_elements>>; 28
+* <<express:Task_specification_arm.Task_element_levels>>; 29
+* <<express:Task_specification_arm.Task_element_state_relationship>>; 30
+* <<express:Task_specification_arm.Task_invocation>>; 31
+* <<express:Task_specification_arm.Task_method>>; 32
+* <<express:Task_specification_arm.Task_method_state_relationship>>; 33
+* <<express:Task_specification_arm.Task_method_version>>; 34
+* <<express:Task_specification_arm.Task_objective>>; 35
+* <<express:Task_specification_arm.Task_objective_state_relationship>>; 36
+* <<express:Task_specification_arm.restrict_activity_method_subtypes>>; 37
+* <<express:Task_specification_arm.restrict_task_element_subtypes>>; 38
+====
+*)
+
+(*"Task_specification_arm.__expressg"
+[.svgmap]
+====
+image::armexpg3.svg[]
+
+* <<express:Task_element_arm.Task_element>>; 1
+* <<express:Task_element_arm.task_item>>; 2
+* <<express:Task_element_arm.Applied_activity_method_assignment>>; 3
+* <<express:Task_element_arm.Activity_method_relationship>>; 4
+* <<express:Task_element_arm.Task_element_relationship>>; 5
+* <<express:Task_specification_arm.constraint_context>>; 6
+* <<express:Task_specification_arm.Element_constraint>>; 7
+* <<express:Task_specification_arm.Task_method>>; 8
+* <<express:Task_specification_arm.Task_method_assignment>>; 9
+* <<express:Task_specification_arm.Task_method_relationship>>; 10
+* <<express:Task_specification_arm.Task_method_version>>; 11
+* <<express:Task_specification_arm.Task_method_version_assignment>>; 12
+* <<express:Task_specification_arm.Task_method_version_relationship>>; 13
+* <<express:Task_specification_arm.restrict_activity_method_relationship>>; 14
+====
+*)
+
+(*"Task_specification_arm.__expressg"
+[.svgmap]
+====
+image::armexpg4.svg[]
+
+* <<express:State_observed_arm.Activity_method>>; 1
+* <<express:Task_element_arm.Applied_activity_method_assignment>>; 2
+* <<express:Task_element_arm.Activity_method_relationship>>; 3
+* <<express:Task_element_arm.classification_item>>; 4
+* <<express:Task_specification_arm.task_classification_item>>; 5
+* <<express:Task_specification_arm.Task_element_state_relationship>>; 6
+* <<express:Task_specification_arm.Task_method>>; 7
+* <<express:Task_specification_arm.Task_method_state_relationship>>; 8
+* <<express:Task_specification_arm.Task_objective>>; 9
+* <<express:Task_specification_arm.Task_objective_state_relationship>>; 10
+====
+*)

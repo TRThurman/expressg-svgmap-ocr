@@ -1,0 +1,27 @@
+(*"State_based_behaviour_representation_arm.__expressg"
+[.svgmap]
+====
+image::armexpg1.svg[]
+
+* <<express:State_based_behaviour_representation_arm.required_am_arms>>; 1
+* <<express:Foundation_representation_arm.required_am_arms>>; 2
+* <<express:Foundation_state_definition_arm.required_am_arms>>; 3
+====
+*)
+
+(*"State_based_behaviour_representation_arm.__expressg"
+[.svgmap]
+====
+image::armexpg2.svg[]
+
+* <<express:State_based_behaviour_representation_arm.state_based_behaviour_element>>; 1
+* <<express:State_based_behaviour_representation_arm.State_based_behaviour_model>>; 2
+* <<express:State_based_behaviour_representation_arm.State_based_behaviour_representation_context>>; 3
+* <<express:State_based_behaviour_representation_arm.State_based_behaviour_representation_item>>; 4
+* <<express:Foundation_representation_arm.Representation_context>>; 5
+* <<express:Foundation_representation_arm.Representation_item>>; 6
+* <<express:Foundation_representation_arm.Representation>>; 7
+* <<express:Foundation_state_definition_arm.State_definition>>; 8
+* <<express:Foundation_state_definition_arm.State_definition_relationship>>; 9
+====
+*)

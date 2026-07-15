@@ -1,0 +1,21 @@
+(*"System_breakdown_mim.__expressg"
+[.svgmap]
+====
+image::mimexpg1.svg[]
+
+* <<express:System_breakdown_mim.short_listing>>; 1
+* <<express:Product_breakdown_mim.short_listing>>; 2
+====
+*)
+
+(*"System_breakdown_mim.__expressg"
+[.svgmap]
+====
+image::mimexpg2.svg[]
+
+* <<express:Product_breakdown_mim.breakdown_context>>; 1
+* <<express:Product_breakdown_mim.breakdown_element_usage>>; 2
+* <<express:System_breakdown_mim.system_breakdown_context>>; 3
+* <<express:System_breakdown_mim.system_element_usage>>; 4
+====
+*)

@@ -1,0 +1,27 @@
+(*"Requirement_identification_and_version_arm.__expressg"
+[.svgmap]
+====
+image::armexpg1.svg[]
+
+* <<express:Requirement_identification_and_version_arm.required_am_arms>>; 1
+* <<express:Identification_assignment_arm.required_am_arms>>; 2
+* <<express:Product_version_relationship_arm.required_am_arms>>; 3
+====
+*)
+
+(*"Requirement_identification_and_version_arm.__expressg"
+[.svgmap]
+====
+image::armexpg2.svg[]
+
+* <<express:Identification_assignment_arm.identification_item>>; 1
+* <<express:Product_version_relationship_arm.Product>>; 2
+* <<express:Product_version_relationship_arm.Product_version>>; 3
+* <<express:Product_version_relationship_arm.Product_version_relationship>>; 4
+* <<express:UNRESOLVED>>; 5
+* <<express:Requirement_identification_and_version_arm.requirement_identification_and_version_identification_item>>; 6
+* <<express:Requirement_identification_and_version_arm.Requirement>>; 7
+* <<express:Requirement_identification_and_version_arm.Requirement_version>>; 8
+* <<express:Requirement_identification_and_version_arm.Requirement_version_relationship>>; 9
+====
+*)

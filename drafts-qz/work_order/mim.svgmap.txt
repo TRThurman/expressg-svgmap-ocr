@@ -1,0 +1,22 @@
+(*"Work_order_mim.__expressg"
+[.svgmap]
+====
+image::mimexpg1.svg[]
+
+* <<express:Work_order_mim.short_listing>>; 1
+* <<express:Work_request_mim.short_listing>>; 2
+* <<express:Activity_mim.short_listing>>; 3
+* <<express:action_schema>>; 4
+====
+*)
+
+(*"Work_order_mim.__expressg"
+[.svgmap]
+====
+image::mimexpg2.svg[]
+
+* <<express:action_schema.directed_action_assignment>>; 1
+* <<express:Work_request_mim.action_request_item>>; 2
+* <<express:Work_order_mim.applied_directed_action_assignment>>; 3
+====
+*)

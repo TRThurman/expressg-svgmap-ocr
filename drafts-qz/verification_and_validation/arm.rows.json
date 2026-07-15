@@ -1,0 +1,156 @@
+[
+ {
+  "module": "verification_and_validation",
+  "kind": "arm",
+  "svg": "armexpg1.svg",
+  "num": "1",
+  "ocr": "Verification and validation arm",
+  "ref": "Verification_and_validation_arm.required_am_arms",
+  "score": 100,
+  "method": "schema->primary",
+  "flag": "convention"
+ },
+ {
+  "module": "verification_and_validation",
+  "kind": "arm",
+  "svg": "armexpg1.svg",
+  "num": "2",
+  "ocr": "Requirement assignment arm",
+  "ref": "Requirement_assignment_arm.required_am_arms",
+  "score": 100,
+  "method": "schema->primary",
+  "flag": "convention"
+ },
+ {
+  "module": "verification_and_validation",
+  "kind": "arm",
+  "svg": "armexpg1.svg",
+  "num": "3",
+  "ocr": "State observed arm",
+  "ref": "State_observed_arm.required_am_arms",
+  "score": 100,
+  "method": "schema->primary",
+  "flag": "convention"
+ },
+ {
+  "module": "verification_and_validation",
+  "kind": "arm",
+  "svg": "armexpg2.svg",
+  "num": "1",
+  "ocr": "Requirement assignment arm. Requirement _satisfied by",
+  "ref": "Requirement_assignment_arm.Requirement_satisfied_by",
+  "score": 100,
+  "method": "qualified-verbatim",
+  "flag": ""
+ },
+ {
+  "module": "verification_and_validation",
+  "kind": "arm",
+  "svg": "armexpg2.svg",
+  "num": "2",
+  "ocr": "Requirement assignment arm. Product version",
+  "ref": "Requirement_assignment_arm.Product_version",
+  "score": 100,
+  "method": "qualified-verbatim",
+  "flag": ""
+ },
+ {
+  "module": "verification_and_validation",
+  "kind": "arm",
+  "svg": "armexpg2.svg",
+  "num": "3",
+  "ocr": "State_observed_arm. state_of_ item",
+  "ref": "State_observed_arm.state_of_item",
+  "score": 100,
+  "method": "qualified-verbatim",
+  "flag": ""
+ },
+ {
+  "module": "verification_and_validation",
+  "kind": "arm",
+  "svg": "armexpg2.svg",
+  "num": "4",
+  "ocr": "(EX) evidence item",
+  "ref": "Verification_and_validation_arm.evidence_item",
+  "score": 100,
+  "method": "exact-name-local-clean",
+  "flag": ""
+ },
+ {
+  "module": "verification_and_validation",
+  "kind": "arm",
+  "svg": "armexpg2.svg",
+  "num": "5",
+  "ocr": "evidence_support_item",
+  "ref": "Verification_and_validation_arm.evidence_support_item",
+  "score": 100,
+  "method": "exact-name-local-clean",
+  "flag": ""
+ },
+ {
+  "module": "verification_and_validation",
+  "kind": "arm",
+  "svg": "armexpg2.svg",
+  "num": "6",
+  "ocr": "v_and_v_state",
+  "ref": "Verification_and_validation_arm.v_and_v_state",
+  "score": 100,
+  "method": "exact-name-local-clean",
+  "flag": ""
+ },
+ {
+  "module": "verification_and_validation",
+  "kind": "arm",
+  "svg": "armexpg2.svg",
+  "num": "7",
+  "ocr": "(EX) \"validation item",
+  "ref": "Verification_and_validation_arm.validation_item",
+  "score": 100,
+  "method": "exact-name-local-clean",
+  "flag": ""
+ },
+ {
+  "module": "verification_and_validation",
+  "kind": "arm",
+  "svg": "armexpg2.svg",
+  "num": "8",
+  "ocr": "Evidence",
+  "ref": "Verification_and_validation_arm.Evidence",
+  "score": 100,
+  "method": "exact-name-local-clean",
+  "flag": ""
+ },
+ {
+  "module": "verification_and_validation",
+  "kind": "arm",
+  "svg": "armexpg2.svg",
+  "num": "9",
+  "ocr": "Validation",
+  "ref": "Verification_and_validation_arm.Validation",
+  "score": 100,
+  "method": "exact-name-local-clean",
+  "flag": ""
+ },
+ {
+  "module": "verification_and_validation",
+  "kind": "arm",
+  "svg": "armexpg2.svg",
+  "num": "10",
+  "ocr": "Verification",
+  "ref": "Verification_and_validation_arm.Verification",
+  "score": 100,
+  "method": "exact-name-local-clean",
+  "flag": ""
+ },
+ {
+  "module": "verification_and_validation",
+  "kind": "arm",
+  "svg": "armexpg2.svg",
+  "num": "11",
+  "ocr": "Verification_relationship",
+  "ref": "Verification_and_validation_arm.Verification_relationship",
+  "score": 100,
+  "method": "exact-name-local-clean",
+  "flag": ""
+ }
+]

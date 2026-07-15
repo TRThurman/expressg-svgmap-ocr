@@ -1,0 +1,33 @@
+(*"Type_of_person_arm.__expressg"
+[.svgmap]
+====
+image::armexpg1.svg[]
+
+* <<express:Type_of_person_arm.required_am_arms>>; 1
+* <<express:Qualifications_arm.required_am_arms>>; 2
+* <<express:Experience_arm.required_am_arms>>; 3
+* <<express:Property_assignment_arm.required_am_arms>>; 4
+* <<express:Classification_assignment_arm.required_am_arms>>; 5
+====
+*)
+
+(*"Type_of_person_arm.__expressg"
+[.svgmap]
+====
+image::armexpg2.svg[]
+
+* <<express:Classification_assignment_arm.classification_item>>; 1
+* <<express:Experience_arm.Experience_type>>; 2
+* <<express:Property_assignment_arm.property_assignment_select>>; 3
+* <<express:Qualifications_arm.Qualification_type>>; 4
+* <<express:Type_of_person_arm.defined_attributes>>; 5
+* <<express:Type_of_person_arm.type_of_person_classified_select>>; 6
+* <<express:Type_of_person_arm.type_of_person_item_select>>; 7
+* <<express:Type_of_person_arm.type_of_person_property_assignment_select>>; 8
+* <<express:Type_of_person_arm.Type_of_person>>; 9
+* <<express:Type_of_person_arm.Type_of_person_assignment>>; 10
+* <<express:Type_of_person_arm.Type_of_person_definition>>; 11
+* <<express:Type_of_person_arm.Type_of_person_definition_relationship>>; 12
+* <<express:Type_of_person_arm.Type_of_person_definition_required_attributes_relationship>>; 13
+====
+*)

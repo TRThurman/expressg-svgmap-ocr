@@ -1,0 +1,101 @@
+[
+ {
+  "module": "resource_property_assignment",
+  "kind": "arm",
+  "svg": "armexpg1.svg",
+  "num": "1",
+  "ocr": "Resource_property_assignment _arm",
+  "ref": "Resource_property_assignment_arm.required_am_arms",
+  "score": 100,
+  "method": "schema->primary",
+  "flag": "convention"
+ },
+ {
+  "module": "resource_property_assignment",
+  "kind": "arm",
+  "svg": "armexpg1.svg",
+  "num": "2",
+  "ocr": "Foundation_representation_arm",
+  "ref": "Foundation_representation_arm.required_am_arms",
+  "score": 100,
+  "method": "schema->primary",
+  "flag": "convention"
+ },
+ {
+  "module": "resource_property_assignment",
+  "kind": "arm",
+  "svg": "armexpg1.svg",
+  "num": "3",
+  "ocr": "Independent_property_arm",
+  "ref": "Independent_property_arm.required_am_arms",
+  "score": 100,
+  "method": "schema->primary",
+  "flag": "convention"
+ },
+ {
+  "module": "resource_property_assignment",
+  "kind": "arm",
+  "svg": "armexpg2.svg",
+  "num": "1",
+  "ocr": "Foundation_representation_arm.Representation",
+  "ref": "Foundation_representation_arm.Representation",
+  "score": 100,
+  "method": "qualified-verbatim",
+  "flag": ""
+ },
+ {
+  "module": "resource_property_assignment",
+  "kind": "arm",
+  "svg": "armexpg2.svg",
+  "num": "2",
+  "ocr": "Independent_property_arm.Independent_property",
+  "ref": "Independent_property_arm.Independent_property",
+  "score": 100,
+  "method": "qualified-verbatim",
+  "flag": ""
+ },
+ {
+  "module": "resource_property_assignment",
+  "kind": "arm",
+  "svg": "armexpg2.svg",
+  "num": "3",
+  "ocr": "(EX) *characterized_resource_select",
+  "ref": "Resource_property_assignment_arm.characterized_resource_select",
+  "score": 100,
+  "method": "exact-name-local-clean",
+  "flag": ""
+ },
+ {
+  "module": "resource_property_assignment",
+  "kind": "arm",
+  "svg": "armexpg2.svg",
+  "num": "4",
+  "ocr": "Applied independent_resource_property",
+  "ref": "Resource_property_assignment_arm.Applied_independent_resource_property",
+  "score": 100,
+  "method": "exact-name-local-clean",
+  "flag": ""
+ },
+ {
+  "module": "resource_property_assignment",
+  "kind": "arm",
+  "svg": "armexpg2.svg",
+  "num": "5",
+  "ocr": "Resource_property",
+  "ref": "Resource_property_assignment_arm.Resource_property",
+  "score": 100,
+  "method": "exact-name-local-clean",
+  "flag": ""
+ },
+ {
+  "module": "resource_property_assignment",
+  "kind": "arm",
+  "svg": "armexpg2.svg",
+  "num": "6",
+  "ocr": "Resource_property_representation",
+  "ref": "Resource_property_assignment_arm.Resource_property_representation",
+  "score": 100,
+  "method": "exact-name-local-clean",
+  "flag": ""
+ }
+]

@@ -1,0 +1,23 @@
+(*"Shape_parameters_arm.__expressg"
+[.svgmap]
+====
+image::armexpg1.svg[]
+
+* <<express:Shape_parameters_arm.required_am_arms>>; 1
+* <<express:External_item_identification_assignment_arm.required_am_arms>>; 2
+====
+*)
+
+(*"Shape_parameters_arm.__expressg"
+[.svgmap]
+====
+image::armexpg2.svg[]
+
+* <<express:Shape_parameters_arm.physical_unit_shape_model_select>>; 1
+* <<express:Shape_parameters_arm.material_condition_property_names>>; 2
+* <<express:Shape_parameters_arm.predefined_keepout_purpose>>; 3
+* <<express:Shape_parameters_arm.application_environment>>; 4
+* <<express:Shape_parameters_arm.material_condition>>; 5
+* <<express:Shape_parameters_arm.keepout_product_design_object_category>>; 6
+====
+*)

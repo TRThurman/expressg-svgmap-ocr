@@ -1,0 +1,26 @@
+(*"Stock_material_mim.__expressg"
+[.svgmap]
+====
+image::mimexpg1.svg[]
+
+* <<express:Elemental_geometric_shape_mim.short_listing>>; 1
+* <<express:Specification_document_mim.short_listing>>; 2
+* <<express:Part_view_definition_mim.short_listing>>; 3
+* <<express:Stock_material_mim.short_listing>>; 4
+* <<express:Generic_material_aspects_mim.short_listing>>; 5
+* <<express:Approval_mim.short_listing>>; 6
+* <<express:product_definition_schema>>; 7
+* <<express:product_structure_schema>>; 8
+====
+*)
+
+(*"Stock_material_mim.__expressg"
+[.svgmap]
+====
+image::mimexpg2.svg[]
+
+* <<express:Stock_material_mim.sm_approval_item>>; 1
+* <<express:product_definition_schema.product_definition>>; 2
+* <<express:Approval_mim.approval_item>>; 3
+====
+*)

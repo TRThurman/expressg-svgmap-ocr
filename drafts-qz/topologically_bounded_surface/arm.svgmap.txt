@@ -1,0 +1,20 @@
+(*"Topologically_bounded_surface_arm.__expressg"
+[.svgmap]
+====
+image::armexpg1.svg[]
+
+* <<express:B_spline_geometry_arm.required_am_arms>>; 1
+* <<express:Topologically_bounded_surface_arm.required_am_arms>>; 2
+* <<express:Basic_geometric_topology_arm.required_am_arms>>; 3
+====
+*)
+
+(*"Topologically_bounded_surface_arm.__expressg"
+[.svgmap]
+====
+image::armexpg2.svg[]
+
+* <<express:Basic_geometric_topology_arm.Face_surface>>; 1
+* <<express:Topologically_bounded_surface_arm.Advanced_face>>; 2
+====
+*)

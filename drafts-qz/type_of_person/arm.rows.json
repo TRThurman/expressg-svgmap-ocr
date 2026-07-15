@@ -1,0 +1,200 @@
+[
+ {
+  "module": "type_of_person",
+  "kind": "arm",
+  "svg": "armexpg1.svg",
+  "num": "1",
+  "ocr": "Type_of_person_arm",
+  "ref": "Type_of_person_arm.required_am_arms",
+  "score": 100,
+  "method": "schema->primary",
+  "flag": "convention"
+ },
+ {
+  "module": "type_of_person",
+  "kind": "arm",
+  "svg": "armexpg1.svg",
+  "num": "2",
+  "ocr": "Qualifications_arm",
+  "ref": "Qualifications_arm.required_am_arms",
+  "score": 100,
+  "method": "schema->primary",
+  "flag": "convention"
+ },
+ {
+  "module": "type_of_person",
+  "kind": "arm",
+  "svg": "armexpg1.svg",
+  "num": "3",
+  "ocr": "Experience_arm",
+  "ref": "Experience_arm.required_am_arms",
+  "score": 100,
+  "method": "schema->primary",
+  "flag": "convention"
+ },
+ {
+  "module": "type_of_person",
+  "kind": "arm",
+  "svg": "armexpg1.svg",
+  "num": "4",
+  "ocr": "Property_assignment_arm",
+  "ref": "Property_assignment_arm.required_am_arms",
+  "score": 100,
+  "method": "schema->primary",
+  "flag": "convention"
+ },
+ {
+  "module": "type_of_person",
+  "kind": "arm",
+  "svg": "armexpg1.svg",
+  "num": "5",
+  "ocr": "Classification_assignment_arm",
+  "ref": "Classification_assignment_arm.required_am_arms",
+  "score": 100,
+  "method": "schema->primary",
+  "flag": "convention"
+ },
+ {
+  "module": "type_of_person",
+  "kind": "arm",
+  "svg": "armexpg2.svg",
+  "num": "1",
+  "ocr": "Classification_assignment_arm.classification item",
+  "ref": "Classification_assignment_arm.classification_item",
+  "score": 100,
+  "method": "qualified-verbatim",
+  "flag": ""
+ },
+ {
+  "module": "type_of_person",
+  "kind": "arm",
+  "svg": "armexpg2.svg",
+  "num": "2",
+  "ocr": "Experlence_arm.Experience_ _type",
+  "ref": "Experience_arm.Experience_type",
+  "score": 92.85714285714286,
+  "method": "fuzzy-local-concat",
+  "flag": "check"
+ },
+ {
+  "module": "type_of_person",
+  "kind": "arm",
+  "svg": "armexpg2.svg",
+  "num": "3",
+  "ocr": "Property_assignment_arm.property_assignment_ _select",
+  "ref": "Property_assignment_arm.property_assignment_select",
+  "score": 100,
+  "method": "qualified-verbatim",
+  "flag": ""
+ },
+ {
+  "module": "type_of_person",
+  "kind": "arm",
+  "svg": "armexpg2.svg",
+  "num": "4",
+  "ocr": "Qualifications arm.Qualiffication _type",
+  "ref": "Qualifications_arm.Qualification_type",
+  "score": 97.14285714285714,
+  "method": "qualified-fuzzy",
+  "flag": "check"
+ },
+ {
+  "module": "type_of_person",
+  "kind": "arm",
+  "svg": "armexpg2.svg",
+  "num": "5",
+  "ocr": "(EX) *defined attributes",
+  "ref": "Type_of_person_arm.defined_attributes",
+  "score": 100,
+  "method": "exact-name-local-clean",
+  "flag": ""
+ },
+ {
+  "module": "type_of_person",
+  "kind": "arm",
+  "svg": "armexpg2.svg",
+  "num": "6",
+  "ocr": "(EX) *type_of_person_classified_select",
+  "ref": "Type_of_person_arm.type_of_person_classified_select",
+  "score": 100,
+  "method": "exact-name-local-clean",
+  "flag": ""
+ },
+ {
+  "module": "type_of_person",
+  "kind": "arm",
+  "svg": "armexpg2.svg",
+  "num": "7",
+  "ocr": "(EX) *type_of_person_item_select",
+  "ref": "Type_of_person_arm.type_of_person_item_select",
+  "score": 100,
+  "method": "exact-name-local-clean",
+  "flag": ""
+ },
+ {
+  "module": "type_of_person",
+  "kind": "arm",
+  "svg": "armexpg2.svg",
+  "num": "8",
+  "ocr": "(EX) *type_of_person_property_assignment_select",
+  "ref": "Type_of_person_arm.type_of_person_property_assignment_select",
+  "score": 100,
+  "method": "exact-name-local-clean",
+  "flag": ""
+ },
+ {
+  "module": "type_of_person",
+  "kind": "arm",
+  "svg": "armexpg2.svg",
+  "num": "9",
+  "ocr": "Type_of_person",
+  "ref": "Type_of_person_arm.Type_of_person",
+  "score": 100,
+  "method": "exact-name-local-clean",
+  "flag": ""
+ },
+ {
+  "module": "type_of_person",
+  "kind": "arm",
+  "svg": "armexpg2.svg",
+  "num": "10",
+  "ocr": "Type_of_person_assignment",
+  "ref": "Type_of_person_arm.Type_of_person_assignment",
+  "score": 100,
+  "method": "exact-name-local-clean",
+  "flag": ""
+ },
+ {
+  "module": "type_of_person",
+  "kind": "arm",
+  "svg": "armexpg2.svg",
+  "num": "11",
+  "ocr": "Type_of_person_definition",
+  "ref": "Type_of_person_arm.Type_of_person_definition",
+  "score": 100,
+  "method": "exact-name-local-clean",
+  "flag": ""
+ },
+ {
+  "module": "type_of_person",
+  "kind": "arm",
+  "svg": "armexpg2.svg",
+  "num": "12",
+  "ocr": "Type_of_person_definition_relationship",
+  "ref": "Type_of_person_arm.Type_of_person_definition_relationship",
+  "score": 100,
+  "method": "exact-name-local-clean",
+  "flag": ""
+ },
+ {
+  "module": "type_of_person",
+  "kind": "arm",
+  "svg": "armexpg2.svg",
+  "num": "13",
+  "ocr": "Type_of_person_definition_required_attributes_relationship",
+  "ref": "Type_of_person_arm.Type_of_person_definition_required_attributes_relationship",
+  "score": 100,
+  "method": "exact-name-local-clean",
+  "flag": ""
+ }
+]

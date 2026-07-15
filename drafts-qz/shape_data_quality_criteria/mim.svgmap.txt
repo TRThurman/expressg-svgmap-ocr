@@ -1,0 +1,12 @@
+(*"Shape_data_quality_criteria_mim.__expressg"
+[.svgmap]
+====
+image::mimexpg1.svg[]
+
+* <<express:Shape_data_quality_criteria_schema>>; 1
+* <<express:Qualified_measure_mim.short_listing>>; 2
+* <<express:Product_data_quality_criteria_mim.short_listing>>; 3
+* <<express:Shape_data_quality_inspection_result_mim.short_listing>>; 4
+* <<express:representation_schema>>; 5
+====
+*)

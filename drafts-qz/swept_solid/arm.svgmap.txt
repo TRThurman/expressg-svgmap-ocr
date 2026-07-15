@@ -1,0 +1,26 @@
+(*"Swept_solid_arm.__expressg"
+[.svgmap]
+====
+image::armexpg1.svg[]
+
+* <<express:Topologically_bounded_surface_arm.required_am_arms>>; 1
+* <<express:Swept_solid_arm.required_am_arms>>; 2
+====
+*)
+
+(*"Swept_solid_arm.__expressg"
+[.svgmap]
+====
+image::armexpg2.svg[]
+
+* <<express:Value_with_unit_arm.plane_angle_measure>>; 1
+* <<express:Elemental_geometric_shape_arm.Direction>>; 2
+* <<express:UNRESOLVED>>; 3
+* <<express:Value_with_unit_arm.length_measure>>; 4
+* <<express:Topologically_bounded_surface_arm.Advanced_face>>; 5
+* <<express:Elemental_geometric_shape_arm.Detailed_geometric_model_element>>; 6
+* <<express:Swept_solid_arm.Swept_solid>>; 7
+* <<express:Swept_solid_arm.Extruded_solid>>; 8
+* <<express:Swept_solid_arm.Solid_of_revolution>>; 9
+====
+*)

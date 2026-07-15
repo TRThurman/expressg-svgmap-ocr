@@ -1,0 +1,48 @@
+(*"Reference_data_library_arm.__expressg"
+[.svgmap]
+====
+image::armexpg1.svg[]
+
+* <<express:Reference_data_library_arm.required_am_arms>>; 1
+* <<express:Class_of_activity_library_arm.required_am_arms>>; 2
+* <<express:Class_of_product_library_arm.required_am_arms>>; 3
+* <<express:Organization_type_arm.required_am_arms>>; 4
+* <<express:Class_of_person_arm.required_am_arms>>; 5
+* <<express:Property_condition_arm.required_am_arms>>; 6
+* <<express:Property_identification_arm.required_am_arms>>; 7
+* <<express:Property_space_arm.required_am_arms>>; 8
+* <<express:Independent_property_definition_arm.required_am_arms>>; 9
+* <<express:Schematic_and_symbolization_arm.required_am_arms>>; 10
+* <<express:External_item_identification_assignment_arm.required_am_arms>>; 11
+====
+*)
+
+(*"Reference_data_library_arm.__expressg"
+[.svgmap]
+====
+image::armexpg2.svg[]
+
+* <<express:Reference_data_library_arm.library_symbolized_class_select>>; 1
+* <<express:Reference_data_library_arm.library_symbolized_item_select>>; 2
+* <<express:Reference_data_library_arm.library_involved_class_select>>; 3
+* <<express:Reference_data_library_arm.externally_identified_rdl_class_or_relationship>>; 4
+* <<express:Symbolization_by_schematic_element_arm.symbolized_item_select>>; 5
+* <<express:Class_of_involvement_in_activity_arm.involved_class_select>>; 6
+* <<express:Symbolization_by_schematic_element_arm.symbolized_class_select>>; 7
+* <<express:External_item_identification_assignment_arm.external_identification_item>>; 8
+====
+*)
+
+(*"Reference_data_library_arm.__expressg"
+[.svgmap]
+====
+image::armexpg3.svg[]
+====
+*)
+
+(*"Reference_data_library_arm.__expressg"
+[.svgmap]
+====
+image::armexpg4.svg[]
+====
+*)

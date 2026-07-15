@@ -1,0 +1,22 @@
+(*"System_modelling_arm.__expressg"
+[.svgmap]
+====
+image::armexpg1.svg[]
+
+* <<express:System_modelling_arm.required_am_arms>>; 1
+* <<express:Decision_support_arm.required_am_arms>>; 2
+* <<express:Functional_breakdown_arm.required_am_arms>>; 3
+* <<express:Group_arm.required_am_arms>>; 4
+* <<express:System_behaviour_arm.required_am_arms>>; 5
+* <<express:System_structure_arm.required_am_arms>>; 6
+====
+*)
+
+(*"System_modelling_arm.__expressg"
+[.svgmap]
+====
+image::armexpg2.svg[]
+
+* <<express:System_modelling_arm.required_am_arms>>; 42
+====
+*)

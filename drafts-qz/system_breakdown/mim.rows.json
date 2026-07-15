@@ -1,0 +1,68 @@
+[
+ {
+  "module": "system_breakdown",
+  "kind": "mim",
+  "svg": "mimexpg1.svg",
+  "num": "1",
+  "ocr": "System_ breakdown mim",
+  "ref": "System_breakdown_mim.short_listing",
+  "score": 100,
+  "method": "schema->primary",
+  "flag": "convention"
+ },
+ {
+  "module": "system_breakdown",
+  "kind": "mim",
+  "svg": "mimexpg1.svg",
+  "num": "2",
+  "ocr": "Product_breakdown_mim",
+  "ref": "Product_breakdown_mim.short_listing",
+  "score": 100,
+  "method": "schema->primary",
+  "flag": "convention"
+ },
+ {
+  "module": "system_breakdown",
+  "kind": "mim",
+  "svg": "mimexpg2.svg",
+  "num": "1",
+  "ocr": "Product breakdown_mim.breakdown_context",
+  "ref": "Product_breakdown_mim.breakdown_context",
+  "score": 100,
+  "method": "qualified-verbatim",
+  "flag": ""
+ },
+ {
+  "module": "system_breakdown",
+  "kind": "mim",
+  "svg": "mimexpg2.svg",
+  "num": "2",
+  "ocr": "Product breakdown mim.breakdown element usage",
+  "ref": "Product_breakdown_mim.breakdown_element_usage",
+  "score": 100,
+  "method": "qualified-verbatim",
+  "flag": ""
+ },
+ {
+  "module": "system_breakdown",
+  "kind": "mim",
+  "svg": "mimexpg2.svg",
+  "num": "3",
+  "ocr": "system_breakdown_context",
+  "ref": "System_breakdown_mim.system_breakdown_context",
+  "score": 100,
+  "method": "exact-name-local-clean",
+  "flag": ""
+ },
+ {
+  "module": "system_breakdown",
+  "kind": "mim",
+  "svg": "mimexpg2.svg",
+  "num": "4",
+  "ocr": "system_element_usage",
+  "ref": "System_breakdown_mim.system_element_usage",
+  "score": 100,
+  "method": "exact-name-local-clean",
+  "flag": ""
+ }
+]

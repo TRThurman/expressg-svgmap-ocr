@@ -1,0 +1,167 @@
+[
+ {
+  "module": "resource_as_realized_characterized",
+  "kind": "arm",
+  "svg": "armexpg1.svg",
+  "num": "1",
+  "ocr": "Resource_as_realized_characterized_arm",
+  "ref": "Resource_as_realized_characterized_arm.required_am_arms",
+  "score": 100,
+  "method": "schema->primary",
+  "flag": "convention"
+ },
+ {
+  "module": "resource_as_realized_characterized",
+  "kind": "arm",
+  "svg": "armexpg1.svg",
+  "num": "2",
+  "ocr": "Resource as realized _arm",
+  "ref": "Resource_as_realized_arm.required_am_arms",
+  "score": 100,
+  "method": "schema->primary",
+  "flag": "convention"
+ },
+ {
+  "module": "resource_as_realized_characterized",
+  "kind": "arm",
+  "svg": "armexpg1.svg",
+  "num": "3",
+  "ocr": "Resource_management characterized arm",
+  "ref": "Resource_management_characterized_arm.required_am_arms",
+  "score": 100,
+  "method": "schema->primary",
+  "flag": "convention"
+ },
+ {
+  "module": "resource_as_realized_characterized",
+  "kind": "arm",
+  "svg": "armexpg2.svg",
+  "num": "1",
+  "ocr": "Special case: diagrams for modules containing EXPRESS-G only extensible select types extensions to not provided. are See: Clause 4.2 for ARM lists",
+  "ref": null,
+  "score": 0,
+  "method": "placeholder-diagram",
+  "flag": "degenerate"
+ },
+ {
+  "module": "resource_as_realized_characterized",
+  "kind": "arm",
+  "svg": "armexpg2.svg",
+  "num": "2",
+  "ocr": "Special case: diagrams for modules containing EXPRESS-G only extensible select types extensions to not provided. are See: Clause 4.2 for ARM lists",
+  "ref": null,
+  "score": 0,
+  "method": "placeholder-diagram",
+  "flag": "degenerate"
+ },
+ {
+  "module": "resource_as_realized_characterized",
+  "kind": "arm",
+  "svg": "armexpg2.svg",
+  "num": "3",
+  "ocr": "Special case: diagrams for modules containing EXPRESS-G only extensible select types extensions to not provided. are See: Clause 4.2 for ARM lists",
+  "ref": null,
+  "score": 0,
+  "method": "placeholder-diagram",
+  "flag": "degenerate"
+ },
+ {
+  "module": "resource_as_realized_characterized",
+  "kind": "arm",
+  "svg": "armexpg2.svg",
+  "num": "4",
+  "ocr": "Special case: diagrams for modules containing EXPRESS-G only extensible select types extensions to not provided. are See: Clause 4.2 for ARM lists",
+  "ref": null,
+  "score": 0,
+  "method": "placeholder-diagram",
+  "flag": "degenerate"
+ },
+ {
+  "module": "resource_as_realized_characterized",
+  "kind": "arm",
+  "svg": "armexpg2.svg",
+  "num": "5",
+  "ocr": "Special case: diagrams for modules containing EXPRESS-G only extensible select types extensions to not provided. are See: Clause 4.2 for ARM lists",
+  "ref": null,
+  "score": 0,
+  "method": "placeholder-diagram",
+  "flag": "degenerate"
+ },
+ {
+  "module": "resource_as_realized_characterized",
+  "kind": "arm",
+  "svg": "armexpg2.svg",
+  "num": "6",
+  "ocr": "Special case: diagrams for modules containing EXPRESS-G only extensible select types extensions to not provided. are See: Clause 4.2 for ARM lists",
+  "ref": null,
+  "score": 0,
+  "method": "placeholder-diagram",
+  "flag": "degenerate"
+ },
+ {
+  "module": "resource_as_realized_characterized",
+  "kind": "arm",
+  "svg": "armexpg2.svg",
+  "num": "7",
+  "ocr": "Special case: diagrams for modules containing EXPRESS-G only extensible select types extensions to not provided. are See: Clause 4.2 for ARM lists",
+  "ref": null,
+  "score": 0,
+  "method": "placeholder-diagram",
+  "flag": "degenerate"
+ },
+ {
+  "module": "resource_as_realized_characterized",
+  "kind": "arm",
+  "svg": "armexpg2.svg",
+  "num": "8",
+  "ocr": "Special case: diagrams for modules containing EXPRESS-G only extensible select types extensions to not provided. are See: Clause 4.2 for ARM lists",
+  "ref": null,
+  "score": 0,
+  "method": "placeholder-diagram",
+  "flag": "degenerate"
+ },
+ {
+  "module": "resource_as_realized_characterized",
+  "kind": "arm",
+  "svg": "armexpg2.svg",
+  "num": "9",
+  "ocr": "Special case: diagrams for modules containing EXPRESS-G only extensible select types extensions to not provided. are See: Clause 4.2 for ARM lists",
+  "ref": null,
+  "score": 0,
+  "method": "placeholder-diagram",
+  "flag": "degenerate"
+ },
+ {
+  "module": "resource_as_realized_characterized",
+  "kind": "arm",
+  "svg": "armexpg2.svg",
+  "num": "10",
+  "ocr": "Special case: diagrams for modules containing EXPRESS-G only extensible select types extensions to not provided. are See: Clause 4.2 for ARM lists",
+  "ref": null,
+  "score": 0,
+  "method": "placeholder-diagram",
+  "flag": "degenerate"
+ },
+ {
+  "module": "resource_as_realized_characterized",
+  "kind": "arm",
+  "svg": "armexpg2.svg",
+  "num": "11",
+  "ocr": "Special case: diagrams for modules containing EXPRESS-G only extensible select types extensions to not provided. are See: Clause 4.2 for ARM lists",
+  "ref": null,
+  "score": 0,
+  "method": "placeholder-diagram",
+  "flag": "degenerate"
+ },
+ {
+  "module": "resource_as_realized_characterized",
+  "kind": "arm",
+  "svg": "armexpg2.svg",
+  "num": "12",
+  "ocr": "Special case: diagrams for modules containing EXPRESS-G only extensible select types extensions to not provided. are See: Clause 4.2 for ARM lists",
+  "ref": null,
+  "score": 0,
+  "method": "placeholder-diagram",
+  "flag": "degenerate"
+ }
+]

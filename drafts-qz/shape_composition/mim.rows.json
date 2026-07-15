@@ -1,0 +1,57 @@
+[
+ {
+  "module": "shape_composition",
+  "kind": "mim",
+  "svg": "mimexpg1.svg",
+  "num": "1",
+  "ocr": "shape_aspect_definition_schema",
+  "ref": "Shape_aspect_definition_schema",
+  "score": 100,
+  "method": "schema->primary",
+  "flag": "convention+unverified"
+ },
+ {
+  "module": "shape_composition",
+  "kind": "mim",
+  "svg": "mimexpg1.svg",
+  "num": "2",
+  "ocr": "Shape_property_assignment_mim",
+  "ref": "Shape_property_assignment_mim.short_listing",
+  "score": 100,
+  "method": "schema->primary",
+  "flag": "convention"
+ },
+ {
+  "module": "shape_composition",
+  "kind": "mim",
+  "svg": "mimexpg1.svg",
+  "num": "3",
+  "ocr": "shape_dimension_schema",
+  "ref": "Shape_dimension_schema",
+  "score": 100,
+  "method": "schema->primary",
+  "flag": "convention+unverified"
+ },
+ {
+  "module": "shape_composition",
+  "kind": "mim",
+  "svg": "mimexpg2.svg",
+  "num": "1",
+  "ocr": "shape aspect definition_ schema.composite_ shape aspect",
+  "ref": "shape_aspect_definition_schema.composite_shape_aspect",
+  "score": 100,
+  "method": "qualified-verbatim",
+  "flag": ""
+ },
+ {
+  "module": "shape_composition",
+  "kind": "mim",
+  "svg": "mimexpg2.svg",
+  "num": "2",
+  "ocr": "composite_unit_shape_aspect",
+  "ref": null,
+  "score": 0,
+  "method": "no-match",
+  "flag": "UNRESOLVED"
+ }
+]

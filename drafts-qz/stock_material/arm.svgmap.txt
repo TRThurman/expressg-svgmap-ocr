@@ -1,0 +1,37 @@
+(*"Stock_material_arm.__expressg"
+[.svgmap]
+====
+image::armexpg1.svg[]
+
+* <<express:Part_view_definition_arm.required_am_arms>>; 1
+* <<express:Elemental_geometric_shape_arm.required_am_arms>>; 2
+* <<express:Stock_material_arm.required_am_arms>>; 3
+* <<express:Approval_arm.required_am_arms>>; 4
+* <<express:Generic_material_aspects_arm.required_am_arms>>; 5
+* <<express:Specification_document_arm.required_am_arms>>; 6
+====
+*)
+
+(*"Stock_material_arm.__expressg"
+[.svgmap]
+====
+image::armexpg2.svg[]
+
+* <<express:Stock_material_arm.ply_stock_material>>; 1
+* <<express:Stock_material_arm.sma_approval_item>>; 2
+* <<express:Specification_document_arm.Material_specification>>; 3
+* <<express:Part_view_definition_arm.Part_view_definition>>; 4
+* <<express:Generic_material_aspects_arm.Material_property_value_representation>>; 5
+* <<express:Elemental_geometric_shape_arm.Direction>>; 6
+* <<express:Approval_arm.approval_item>>; 7
+* <<express:Stock_material_arm.Braided_assembly>>; 8
+* <<express:Stock_material_arm.Filament_assembly>>; 9
+* <<express:Stock_material_arm.Discontinuous_fiber_assembly>>; 10
+* <<express:Stock_material_arm.Material_direction>>; 11
+* <<express:Stock_material_arm.Woven_assembly>>; 12
+* <<express:Stock_material_arm.Stock_core>>; 13
+* <<express:Stock_material_arm.Isotropic_material>>; 14
+* <<express:Stock_material_arm.Stock_material>>; 15
+* <<express:Stock_material_arm.Anisotropic_material>>; 16
+====
+*)

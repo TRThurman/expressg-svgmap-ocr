@@ -1,0 +1,75 @@
+(*"Required_resource_characterized_arm.__expressg"
+[.svgmap]
+====
+image::armexpg1.svg[]
+
+* <<express:Required_resource_characterized_arm.required_am_arms>>; 1
+* <<express:Required_resource_arm.required_am_arms>>; 2
+* <<express:Approval_arm.required_am_arms>>; 3
+* <<express:Date_time_assignment_arm.required_am_arms>>; 4
+* <<express:Identification_assignment_arm.required_am_arms>>; 5
+* <<express:Justification_arm.required_am_arms>>; 6
+* <<express:Person_organization_assignment_arm.required_am_arms>>; 7
+* <<express:Resource_item_characterized_arm.required_am_arms>>; 8
+* <<express:Requirement_assignment_arm.required_am_arms>>; 9
+* <<express:Resource_property_assignment_arm.required_am_arms>>; 10
+* <<express:Condition_arm.required_am_arms>>; 11
+* <<express:Process_property_assignment_arm.required_am_arms>>; 12
+* <<express:Attribute_classification_arm.required_am_arms>>; 13
+* <<express:Multi_linguism_arm.required_am_arms>>; 14
+====
+*)
+
+(*"Required_resource_characterized_arm.__expressg"
+[.svgmap]
+====
+image::armexpg2.svg[]
+
+* <<express:Approval_arm.approval_item>>; 1
+* <<express:Date_time_assignment_arm.date_or_date_time_item>>; 2
+* <<express:Identification_assignment_arm.identification_item>>; 3
+* <<express:Required_resource_arm.Required_resource>>; 4
+* <<express:Required_resource_arm.Required_resource_relationship>>; 5
+* <<express:Resource_property_assignment_arm.characterized_resource_select>>; 6
+* <<express:Required_resource_characterized_arm.required_resource_approval_item>>; 7
+* <<express:Required_resource_characterized_arm.required_resource_characterized_resource_select>>; 8
+* <<express:Required_resource_characterized_arm.required_resource_date_or_date_time_item>>; 9
+* <<express:Required_resource_characterized_arm.required_resource_identification_item>>; 10
+====
+*)
+
+(*"Required_resource_characterized_arm.__expressg"
+[.svgmap]
+====
+image::armexpg3.svg[]
+
+* <<express:Condition_arm.condition_item>>; 1
+* <<express:Justification_arm.justification_item>>; 2
+* <<express:Process_property_assignment_arm.characterized_activity_definition>>; 3
+* <<express:Required_resource_arm.Required_resource>>; 4
+* <<express:Required_resource_arm.Required_resource_relationship>>; 5
+* <<express:Required_resource_arm.Required_resource_assignment>>; 6
+* <<express:Required_resource_arm.Required_resource_by_requirement>>; 7
+* <<express:Requirement_assignment_arm.requirement_assignment_item>>; 8
+* <<express:Required_resource_characterized_arm.required_resource_characterized_activity_definition>>; 9
+* <<express:Required_resource_characterized_arm.required_resource_condition_item>>; 10
+* <<express:Required_resource_characterized_arm.required_resource_justification_item>>; 11
+* <<express:Required_resource_characterized_arm.required_resource_requirement_assignment_item>>; 12
+====
+*)
+
+(*"Required_resource_characterized_arm.__expressg"
+[.svgmap]
+====
+image::armexpg4.svg[]
+
+* <<express:Attribute_classification_arm.classified_attribute_select>>; 1
+* <<express:Multi_linguism_arm.string_select>>; 2
+* <<express:Person_organization_assignment_arm.organization_or_person_in_organization_item>>; 3
+* <<express:Required_resource_arm.Required_resource>>; 4
+* <<express:Required_resource_arm.Required_resource_relationship>>; 5
+* <<express:Required_resource_characterized_arm.required_resource_classified_attribute_select>>; 6
+* <<express:Required_resource_characterized_arm.required_resource_organization_or_person_in_organization_item>>; 7
+* <<express:Required_resource_characterized_arm.required_resource_string_select>>; 8
+====
+*)

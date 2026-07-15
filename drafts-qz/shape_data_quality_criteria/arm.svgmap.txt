@@ -1,0 +1,309 @@
+(*"Shape_data_quality_criteria_arm.__expressg"
+[.svgmap]
+====
+image::armexpg1.svg[]
+
+* <<express:Shape_data_quality_criteria_arm.required_am_arms>>; 1
+* <<express:Support_resource_arm.required_am_arms>>; 2
+* <<express:Shape_data_quality_inspection_result_arm.required_am_arms>>; 3
+* <<express:Qualified_measure_arm.required_am_arms>>; 4
+* <<express:Product_data_quality_criteria_arm.required_am_arms>>; 5
+====
+*)
+
+(*"Shape_data_quality_criteria_arm.__expressg"
+[.svgmap]
+====
+image::armexpg2.svg[]
+
+* <<express:Shape_data_quality_criteria_arm.shape_data_quality_assessment_specification_select>>; 1
+* <<express:Shape_data_quality_criteria_arm.shape_data_quality_value_limit_type_select>>; 2
+* <<express:Shape_data_quality_criteria_arm.Shape_data_quality_criterion>>; 3
+* <<express:Shape_data_quality_criteria_arm.4>>; 4
+* <<express:Product_data_quality_criteria_arm.Summary_report_request>>; 5
+* <<express:Support_resource_arm.text>>; 6
+* <<express:Product_data_quality_criteria_arm.Data_quality_criteria_representation>>; 7
+* <<express:Measure_representation_arm.Numerical_item_with_unit>>; 8
+* <<express:Product_data_quality_criteria_arm.Data_quality_assessment_specification>>; 9
+* <<express:Measure_representation_arm.Measure_item>>; 10
+* <<express:Qualified_measure_arm.Qualified_representation_item>>; 11
+* <<express:Qualified_measure_arm.Pre_defined_type_qualifier>>; 12
+* <<express:Shape_data_quality_criteria_arm.Shape_criteria_representation_with_accuracy>>; 13
+* <<express:Shape_data_quality_criteria_arm.Shape_measurement_accuracy>>; 14
+* <<express:Shape_data_quality_criteria_arm.Shape_data_quality_assessment_by_numerical_test>>; 15
+* <<express:Shape_data_quality_criteria_arm.Shape_data_quality_criteria_representation>>; 16
+* <<express:Shape_data_quality_criteria_arm.Shape_data_quality_lower_value_limit>>; 17
+* <<express:Shape_data_quality_criteria_arm.Shape_data_quality_value_range>>; 18
+* <<express:Shape_data_quality_criteria_arm.Shape_data_quality_assessment_by_logical_test>>; 19
+* <<express:Shape_data_quality_criteria_arm.Shape_summary_request_with_representative_value>>; 20
+* <<express:Shape_data_quality_criteria_arm.Shape_data_quality_criterion_and_accuracy_association>>; 21
+* <<express:Shape_data_quality_criteria_arm.Shape_data_quality_value_limit>>; 22
+* <<express:Shape_data_quality_criteria_arm.Shape_data_quality_upper_value_limit>>; 23
+====
+*)
+
+(*"Shape_data_quality_criteria_arm.__expressg"
+[.svgmap]
+====
+image::armexpg3.svg[]
+
+* <<express:Shape_data_quality_criteria_arm.Erroneous_geometry>>; 1
+* <<express:Shape_data_quality_criteria_arm.Inapt_geometry>>; 2
+* <<express:Shape_data_quality_criteria_arm.Shape_data_quality_assessment_by_numerical_test>>; 3
+* <<express:Shape_data_quality_criteria_arm.Inapt_topology_and_geometry_relationship>>; 4
+* <<express:Shape_data_quality_criteria_arm.Shape_data_quality_assessment_by_logical_test>>; 5
+* <<express:Shape_data_quality_criteria_arm.Erroneous_topology_and_geometry_relationship>>; 6
+* <<express:Shape_data_quality_criteria_arm.shape_data_quality_assessment_specification_select>>; 7
+* <<express:Shape_data_quality_criteria_arm.Shape_data_quality_assessment_by_logical_test>>; 8
+* <<express:Shape_data_quality_criteria_arm.Erroneous_manifold_solid_brep>>; 9
+* <<express:Shape_data_quality_criteria_arm.Inapt_manifold_solid_brep>>; 10
+* <<express:Shape_data_quality_criteria_arm.11>>; 11
+* <<express:Product_data_quality_criteria_arm.Data_quality_measurement_requirement>>; 12
+* <<express:Product_data_quality_criteria_arm.Data_quality_criterion>>; 13
+* <<express:Shape_data_quality_criteria_arm.Erroneous_topology>>; 14
+* <<express:Shape_data_quality_criteria_arm.Erroneous_data>>; 15
+* <<express:Shape_data_quality_criteria_arm.Non_manifold_at_vertex>>; 16
+* <<express:Shape_data_quality_criteria_arm.Shape_data_quality_criterion>>; 17
+* <<express:Shape_data_quality_criteria_arm.Open_edge_loop>>; 18
+* <<express:Shape_data_quality_criteria_arm.Inapt_data>>; 19
+* <<express:Shape_data_quality_criteria_arm.Disconnected_face_set>>; 20
+* <<express:Shape_data_quality_criteria_arm.Inconsistent_adjacent_face_normals>>; 21
+* <<express:Shape_data_quality_criteria_arm.Free_edge>>; 22
+* <<express:Shape_data_quality_criteria_arm.Non_manifold_at_edge>>; 23
+* <<express:Shape_data_quality_criteria_arm.Over_used_vertex>>; 24
+* <<express:Shape_data_quality_criteria_arm.Inapt_topology>>; 25
+* <<express:Shape_data_quality_criteria_arm.Open_closed_shell>>; 26
+====
+*)
+
+(*"Shape_data_quality_criteria_arm.__expressg"
+[.svgmap]
+====
+image::armexpg4.svg[]
+
+* <<express:Shape_data_quality_criteria_arm.Shape_data_quality_assessment_by_logical_test>>; 1
+* <<express:Shape_data_quality_criteria_arm.Shape_data_quality_assessment_by_logical_test>>; 2
+* <<express:Shape_data_quality_criteria_arm.Shape_data_quality_assessment_by_logical_test>>; 3
+* <<express:Shape_data_quality_criteria_arm.4>>; 4
+* <<express:Shape_data_quality_criteria_arm.5>>; 5
+* <<express:Shape_data_quality_criteria_arm.6>>; 6
+* <<express:Value_with_unit_arm.length_measure>>; 7
+* <<express:Value_with_unit_arm.length_measure>>; 8
+* <<express:Value_with_unit_arm.length_measure>>; 9
+* <<express:Value_with_unit_arm.plane_angle_measure>>; 10
+* <<express:Value_with_unit_arm.ratio_measure>>; 11
+* <<express:Value_with_unit_arm.length_measure>>; 12
+* <<express:Shape_data_quality_criteria_arm.Erroneous_topology_and_geometry_relationship>>; 13
+* <<express:Shape_data_quality_criteria_arm.Wrongly_oriented_void>>; 14
+* <<express:Shape_data_quality_criteria_arm.Intersecting_loops_in_face>>; 15
+* <<express:Shape_data_quality_criteria_arm.Erroneous_manifold_solid_brep>>; 16
+* <<express:Shape_data_quality_criteria_arm.Inconsistent_surface_transition_code>>; 17
+* <<express:Shape_data_quality_criteria_arm.Inconsistent_edge_and_curve_directions>>; 18
+* <<express:Shape_data_quality_criteria_arm.Inconsistent_curve_transition_code>>; 19
+* <<express:Shape_data_quality_criteria_arm.Intersecting_shells_in_solid>>; 20
+* <<express:Shape_data_quality_criteria_arm.Wrongly_placed_loop>>; 21
+* <<express:Shape_data_quality_criteria_arm.Wrongly_placed_void>>; 22
+* <<express:Shape_data_quality_criteria_arm.Inconsistent_face_and_closed_shell_normals>>; 23
+* <<express:Shape_data_quality_criteria_arm.Erroneous_b_spline_surface_definition>>; 24
+* <<express:Shape_data_quality_criteria_arm.Erroneous_b_spline_curve_definition>>; 25
+* <<express:Shape_data_quality_criteria_arm.Erroneous_geometry>>; 26
+* <<express:Shape_data_quality_criteria_arm.Solid_with_wrong_number_of_voids>>; 27
+* <<express:Shape_data_quality_criteria_arm.Inconsistent_face_and_surface_normals>>; 28
+====
+*)
+
+(*"Shape_data_quality_criteria_arm.__expressg"
+[.svgmap]
+====
+image::armexpg5.svg[]
+
+* <<express:Shape_data_quality_criteria_arm.Shape_data_quality_assessment_by_numerical_test>>; 1
+* <<express:Shape_data_quality_criteria_arm.Shape_data_quality_assessment_by_logical_test>>; 2
+* <<express:Shape_data_quality_criteria_arm.Geometry_with_local_near_degeneracy>>; 3
+* <<express:Shape_data_quality_criteria_arm.Shape_data_quality_assessment_by_logical_test>>; 4
+* <<express:Shape_data_quality_criteria_arm.Multiply_defined_geometry>>; 5
+* <<express:Shape_data_quality_criteria_arm.Overcomplex_geometry>>; 6
+* <<express:Shape_data_quality_criteria_arm.Discontinuous_geometry>>; 7
+* <<express:Shape_data_quality_criteria_arm.Shape_data_quality_assessment_by_numerical_test>>; 8
+* <<express:Shape_data_quality_criteria_arm.Nearly_degenerate_geometry>>; 9
+* <<express:Shape_data_quality_criteria_arm.10>>; 10
+* <<express:Value_with_unit_arm.length_measure>>; 11
+* <<express:Value_with_unit_arm.length_measure>>; 12
+* <<express:Value_with_unit_arm.length_measure>>; 13
+* <<express:Shape_data_quality_criteria_arm.Self_intersecting_surface>>; 14
+* <<express:Shape_data_quality_criteria_arm.Zero_surface_normal>>; 15
+* <<express:Shape_data_quality_criteria_arm.Partly_overlapping_curves>>; 16
+* <<express:Shape_data_quality_criteria_arm.Abrupt_change_of_surface_normal>>; 17
+* <<express:Shape_data_quality_criteria_arm.Overlapping_geometry>>; 18
+* <<express:Shape_data_quality_criteria_arm.Self_intersecting_curve>>; 19
+* <<express:Shape_data_quality_criteria_arm.Self_intersecting_geometry>>; 20
+* <<express:Shape_data_quality_criteria_arm.Inapt_geometry>>; 21
+* <<express:Shape_data_quality_criteria_arm.Partly_overlapping_surfaces>>; 22
+* <<express:Shape_data_quality_criteria_arm.Geometry_with_local_irregularity>>; 23
+* <<express:Shape_data_quality_criteria_arm.Extreme_patch_width_variation>>; 24
+====
+*)
+
+(*"Shape_data_quality_criteria_arm.__expressg"
+[.svgmap]
+====
+image::armexpg6.svg[]
+
+* <<express:Shape_data_quality_criteria_arm.Shape_data_quality_assessment_by_numerical_test>>; 1
+* <<express:Shape_data_quality_criteria_arm.Shape_data_quality_assessment_by_numerical_test>>; 2
+* <<express:Shape_data_quality_criteria_arm.Shape_data_quality_assessment_by_numerical_test>>; 3
+* <<express:Shape_data_quality_criteria_arm.Shape_data_quality_assessment_by_logical_test>>; 4
+* <<express:Shape_data_quality_criteria_arm.Shape_data_quality_assessment_by_numerical_test>>; 5
+* <<express:Shape_data_quality_criteria_arm.Shape_data_quality_assessment_by_numerical_test>>; 6
+* <<express:Shape_data_quality_criteria_arm.Shape_data_quality_assessment_by_numerical_test>>; 7
+* <<express:Shape_data_quality_criteria_arm.Shape_data_quality_assessment_by_logical_test>>; 8
+* <<express:Shape_data_quality_criteria_arm.Shape_data_quality_assessment_by_numerical_test>>; 9
+* <<express:Shape_data_quality_criteria_arm.Shape_data_quality_assessment_by_numerical_test>>; 10
+* <<express:Shape_data_quality_criteria_arm.Shape_data_quality_assessment_by_numerical_test>>; 11
+* <<express:Shape_data_quality_criteria_arm.12>>; 12
+* <<express:Shape_data_quality_criteria_arm.13>>; 13
+* <<express:Shape_data_quality_criteria_arm.14>>; 14
+* <<express:Value_with_unit_arm.length_measure>>; 15
+* <<express:Value_with_unit_arm.length_measure>>; 16
+* <<express:Value_with_unit_arm.length_measure>>; 17
+* <<express:Shape_data_quality_criteria_arm.Indistinct_surface_knots>>; 18
+* <<express:Shape_data_quality_criteria_arm.Short_length_curve>>; 19
+* <<express:Shape_data_quality_criteria_arm.G1_discontinuous_surface>>; 20
+* <<express:Shape_data_quality_criteria_arm.G2_discontinuous_curve>>; 21
+* <<express:Shape_data_quality_criteria_arm.Geometry_with_local_near_degeneracy>>; 22
+* <<express:Shape_data_quality_criteria_arm.Discontinuous_geometry>>; 23
+* <<express:Shape_data_quality_criteria_arm.Small_area_surface_patch>>; 24
+* <<express:Shape_data_quality_criteria_arm.Indistinct_curve_knots>>; 25
+* <<express:Shape_data_quality_criteria_arm.Entirely_narrow_surface>>; 26
+* <<express:Shape_data_quality_criteria_arm.Short_length_curve_segment>>; 27
+* <<express:Shape_data_quality_criteria_arm.G1_discontinuous_curve>>; 28
+* <<express:Shape_data_quality_criteria_arm.Nearly_degenerate_surface_patch>>; 29
+* <<express:Shape_data_quality_criteria_arm.Narrow_surface_patch>>; 30
+* <<express:Shape_data_quality_criteria_arm.Small_area_surface>>; 31
+* <<express:Shape_data_quality_criteria_arm.Surface_with_small_curvature_radius>>; 32
+* <<express:Shape_data_quality_criteria_arm.Curve_with_small_curvature_radius>>; 33
+* <<express:Shape_data_quality_criteria_arm.Nearly_degenerate_geometry>>; 34
+* <<express:Shape_data_quality_criteria_arm.G2_discontinuous_surface>>; 35
+* <<express:Shape_data_quality_criteria_arm.Nearly_degenerate_surface_boundary>>; 36
+====
+*)
+
+(*"Shape_data_quality_criteria_arm.__expressg"
+[.svgmap]
+====
+image::armexpg7.svg[]
+
+* <<express:Shape_data_quality_criteria_arm.Shape_data_quality_assessment_by_numerical_test>>; 1
+* <<express:Shape_data_quality_criteria_arm.Shape_data_quality_assessment_by_numerical_test>>; 2
+* <<express:Shape_data_quality_criteria_arm.Shape_data_quality_assessment_by_numerical_test>>; 3
+* <<express:UNRESOLVED>>; 4
+* <<express:Shape_data_quality_criteria_arm.5>>; 5
+* <<express:Value_with_unit_arm.length_measure>>; 6
+* <<express:Value_with_unit_arm.length_measure>>; 7
+* <<express:Shape_data_quality_criteria_arm.Multiply_defined_surfaces>>; 8
+* <<express:Shape_data_quality_criteria_arm.High_degree_axi_symmetric_surface>>; 9
+* <<express:Shape_data_quality_criteria_arm.Multiply_defined_cartesian_points>>; 10
+* <<express:Shape_data_quality_criteria_arm.Curve_with_excessive_segments>>; 11
+* <<express:Shape_data_quality_criteria_arm.Multiply_defined_geometry>>; 12
+* <<express:Shape_data_quality_criteria_arm.Surface_with_excessive_patches_in_one_direction>>; 13
+* <<express:Shape_data_quality_criteria_arm.High_degree_linear_curve>>; 14
+* <<express:Shape_data_quality_criteria_arm.High_degree_conic>>; 15
+* <<express:Shape_data_quality_criteria_arm.Excessively_high_degree_surface>>; 16
+* <<express:Shape_data_quality_criteria_arm.Multiply_defined_curves>>; 17
+* <<express:Shape_data_quality_criteria_arm.High_degree_planar_surface>>; 18
+* <<express:Shape_data_quality_criteria_arm.Overcomplex_geometry>>; 19
+* <<express:Shape_data_quality_criteria_arm.Multiply_defined_directions>>; 20
+* <<express:Shape_data_quality_criteria_arm.Multiply_defined_placements>>; 21
+* <<express:Shape_data_quality_criteria_arm.Excessively_high_degree_curve>>; 22
+====
+*)
+
+(*"Shape_data_quality_criteria_arm.__expressg"
+[.svgmap]
+====
+image::armexpg8.svg[]
+
+* <<express:Shape_data_quality_criteria_arm.Topology_related_to_multiply_defined_geometry>>; 1
+* <<express:Shape_data_quality_criteria_arm.Shape_data_quality_assessment_by_numerical_test>>; 2
+* <<express:Shape_data_quality_criteria_arm.Topology_related_to_self_intersecting_geometry>>; 3
+* <<express:Shape_data_quality_criteria_arm.Shape_data_quality_assessment_by_numerical_test>>; 4
+* <<express:Shape_data_quality_criteria_arm.Geometric_gap_in_topology>>; 5
+* <<express:Shape_data_quality_criteria_arm.Topology_related_to_nearly_degenerate_geometry>>; 6
+* <<express:Shape_data_quality_criteria_arm.Shape_data_quality_assessment_by_numerical_test>>; 7
+* <<express:Shape_data_quality_criteria_arm.Shape_data_quality_assessment_by_numerical_test>>; 8
+* <<express:Shape_data_quality_criteria_arm.9>>; 9
+* <<express:Value_with_unit_arm.length_measure>>; 10
+* <<express:Value_with_unit_arm.length_measure>>; 11
+* <<express:Shape_data_quality_criteria_arm.Face_surface_with_excessive_patches_in_one_direction>>; 12
+* <<express:Shape_data_quality_criteria_arm.Partly_overlapping_edges>>; 13
+* <<express:Shape_data_quality_criteria_arm.Unused_patches>>; 14
+* <<express:Shape_data_quality_criteria_arm.Edge_with_excessive_segments>>; 15
+* <<express:Shape_data_quality_criteria_arm.Non_smooth_geometry_transition_across_edge>>; 16
+* <<express:Shape_data_quality_criteria_arm.Steep_angle_between_adjacent_faces>>; 17
+* <<express:Shape_data_quality_criteria_arm.G1_discontinuity_between_adjacent_faces>>; 18
+* <<express:Shape_data_quality_criteria_arm.Overcomplex_topology_and_geometry_relationship>>; 19
+* <<express:Shape_data_quality_criteria_arm.Steep_angle_between_adjacent_edges>>; 20
+* <<express:Shape_data_quality_criteria_arm.Steep_geometry_transition_across_edge>>; 21
+* <<express:Shape_data_quality_criteria_arm.Topology_related_to_overlapping_geometry>>; 22
+* <<express:Shape_data_quality_criteria_arm.Partly_overlapping_faces>>; 23
+* <<express:Shape_data_quality_criteria_arm.G2_discontinuity_between_adjacent_faces>>; 24
+* <<express:Shape_data_quality_criteria_arm.Inapt_topology_and_geometry_relationship>>; 25
+====
+*)
+
+(*"Shape_data_quality_criteria_arm.__expressg"
+[.svgmap]
+====
+image::armexpg9.svg[]
+
+* <<express:Shape_data_quality_criteria_arm.Shape_data_quality_assessment_by_numerical_test>>; 1
+* <<express:Shape_data_quality_criteria_arm.Shape_data_quality_assessment_by_logical_test>>; 2
+* <<express:Shape_data_quality_criteria_arm.Shape_data_quality_assessment_by_logical_test>>; 3
+* <<express:Shape_data_quality_criteria_arm.Shape_data_quality_assessment_by_numerical_test>>; 4
+* <<express:Shape_data_quality_criteria_arm.Shape_data_quality_assessment_by_numerical_test>>; 5
+* <<express:Shape_data_quality_criteria_arm.6>>; 6
+* <<express:Shape_data_quality_criteria_arm.7>>; 7
+* <<express:Shape_data_quality_criteria_arm.8>>; 8
+* <<express:Shape_data_quality_criteria_arm.9>>; 9
+* <<express:Value_with_unit_arm.length_measure>>; 10
+* <<express:Value_with_unit_arm.length_measure>>; 11
+* <<express:Value_with_unit_arm.length_measure>>; 12
+* <<express:Shape_data_quality_criteria_arm.Entirely_narrow_face>>; 13
+* <<express:Shape_data_quality_criteria_arm.Multiply_defined_edges>>; 14
+* <<express:Shape_data_quality_criteria_arm.Small_area_face>>; 15
+* <<express:Shape_data_quality_criteria_arm.Gap_between_adjacent_edges_in_loop>>; 16
+* <<express:Shape_data_quality_criteria_arm.Geometric_gap_in_topology>>; 17
+* <<express:Shape_data_quality_criteria_arm.Multiply_defined_vertices>>; 18
+* <<express:Shape_data_quality_criteria_arm.Multiply_defined_faces>>; 19
+* <<express:Shape_data_quality_criteria_arm.Gap_between_vertex_and_base_surface>>; 20
+* <<express:Shape_data_quality_criteria_arm.Short_length_edge>>; 21
+* <<express:Shape_data_quality_criteria_arm.Gap_between_vertex_and_edge>>; 22
+* <<express:Shape_data_quality_criteria_arm.Self_intersecting_shell>>; 23
+* <<express:Shape_data_quality_criteria_arm.Gap_between_pcurves_related_to_an_edge>>; 24
+* <<express:Shape_data_quality_criteria_arm.Topology_related_to_self_intersecting_geometry>>; 25
+* <<express:Shape_data_quality_criteria_arm.Intersecting_connected_face_sets>>; 26
+* <<express:Shape_data_quality_criteria_arm.Self_intersecting_loop>>; 27
+* <<express:Shape_data_quality_criteria_arm.Gap_between_faces_related_to_an_edge>>; 28
+* <<express:Shape_data_quality_criteria_arm.Topology_related_to_multiply_defined_geometry>>; 29
+* <<express:Shape_data_quality_criteria_arm.Gap_between_edge_and_base_surface>>; 30
+* <<express:Shape_data_quality_criteria_arm.Topology_related_to_nearly_degenerate_geometry>>; 31
+====
+*)
+
+(*"Shape_data_quality_criteria_arm.__expressg"
+[.svgmap]
+====
+image::armexpg10.svg[]
+
+* <<express:Shape_data_quality_criteria_arm.Shape_data_quality_assessment_by_logical_test>>; 1
+* <<express:Shape_data_quality_criteria_arm.Shape_data_quality_assessment_by_numerical_test>>; 2
+* <<express:Shape_data_quality_criteria_arm.3>>; 3
+* <<express:Value_with_unit_arm.length_measure>>; 4
+* <<express:Shape_data_quality_criteria_arm.Small_volume_solid>>; 5
+* <<express:Shape_data_quality_criteria_arm.Partly_overlapping_solids>>; 6
+* <<express:Shape_data_quality_criteria_arm.Entirely_narrow_solid>>; 7
+* <<express:Shape_data_quality_criteria_arm.Multiply_defined_solids>>; 8
+* <<express:Shape_data_quality_criteria_arm.Solid_with_excessive_number_of_voids>>; 9
+* <<express:Shape_data_quality_criteria_arm.Inapt_manifold_solid_brep>>; 10
+====
+*)

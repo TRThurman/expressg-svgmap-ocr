@@ -1,0 +1,24 @@
+(*"Representation_with_uncertainty_arm.__expressg"
+[.svgmap]
+====
+image::armexpg1.svg[]
+
+* <<express:Representation_with_uncertainty_arm.required_am_arms>>; 1
+* <<express:Value_with_unit_arm.required_am_arms>>; 2
+* <<express:Foundation_representation_arm.required_am_arms>>; 3
+====
+*)
+
+(*"Representation_with_uncertainty_arm.__expressg"
+[.svgmap]
+====
+image::armexpg2.svg[]
+
+* <<express:Foundation_representation_arm.Representation>>; 1
+* <<express:Foundation_representation_arm.Representation_item>>; 2
+* <<express:Value_with_unit_arm.Uncertainty_with_unit>>; 3
+* <<express:Representation_with_uncertainty_arm.Representation_item_with_uncertainty>>; 4
+* <<express:Representation_with_uncertainty_arm.Representation_with_uncertainty>>; 5
+* <<express:Representation_with_uncertainty_arm.Uncertainty_value>>; 6
+====
+*)

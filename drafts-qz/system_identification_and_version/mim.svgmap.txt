@@ -1,0 +1,27 @@
+(*"System_identification_and_version_mim.__expressg"
+[.svgmap]
+====
+image::mimexpg1.svg[]
+
+* <<express:System_identification_and_version_mim.short_listing>>; 1
+* <<express:Identification_assignment_mim.short_listing>>; 2
+* <<express:Product_version_relationship_mim.short_listing>>; 3
+* <<express:product_definition_schema>>; 4
+* <<express:Product_version_mim.short_listing>>; 5
+* <<express:Product_identification_mim.short_listing>>; 6
+====
+*)
+
+(*"System_identification_and_version_mim.__expressg"
+[.svgmap]
+====
+image::mimexpg2.svg[]
+
+* <<express:Identification_assignment_mim.identification_item>>; 1
+* <<express:UNRESOLVED>>; 2
+* <<express:UNRESOLVED>>; 3
+* <<express:product_definition_schema.product>>; 4
+* <<express:product_definition_schema.product_definition_formation>>; 5
+* <<express:System_identification_and_version_mim.system_identification_item>>; 6
+====
+*)

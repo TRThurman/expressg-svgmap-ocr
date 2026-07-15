@@ -1,0 +1,211 @@
+[
+ {
+  "module": "single_part_representation",
+  "kind": "arm",
+  "svg": "armexpg1.svg",
+  "num": "1",
+  "ocr": "Single_part_representation_arm",
+  "ref": "Single_part_representation_arm.required_am_arms",
+  "score": 100,
+  "method": "schema->primary",
+  "flag": "convention"
+ },
+ {
+  "module": "single_part_representation",
+  "kind": "arm",
+  "svg": "armexpg1.svg",
+  "num": "2",
+  "ocr": "Document_assignment_arm",
+  "ref": "Document_assignment_arm.required_am_arms",
+  "score": 100,
+  "method": "schema->primary",
+  "flag": "convention"
+ },
+ {
+  "module": "single_part_representation",
+  "kind": "arm",
+  "svg": "armexpg1.svg",
+  "num": "3",
+  "ocr": "Extended_measure_representation_arm",
+  "ref": "Extended_measure_representation_arm.required_am_arms",
+  "score": 100,
+  "method": "schema->primary",
+  "flag": "convention"
+ },
+ {
+  "module": "single_part_representation",
+  "kind": "arm",
+  "svg": "armexpg1.svg",
+  "num": "4",
+  "ocr": "Part view definition_arm",
+  "ref": "Part_view_definition_arm.required_am_arms",
+  "score": 100,
+  "method": "schema->primary",
+  "flag": "convention"
+ },
+ {
+  "module": "single_part_representation",
+  "kind": "arm",
+  "svg": "armexpg1.svg",
+  "num": "5",
+  "ocr": "Person_organization_assignment arm",
+  "ref": "Person_organization_assignment_arm.required_am_arms",
+  "score": 100,
+  "method": "schema->primary",
+  "flag": "convention"
+ },
+ {
+  "module": "single_part_representation",
+  "kind": "arm",
+  "svg": "armexpg1.svg",
+  "num": "6",
+  "ocr": "Property_assignment_arm",
+  "ref": "Property_assignment_arm.required_am_arms",
+  "score": 100,
+  "method": "schema->primary",
+  "flag": "convention"
+ },
+ {
+  "module": "single_part_representation",
+  "kind": "arm",
+  "svg": "armexpg1.svg",
+  "num": "7",
+  "ocr": "Shape_property_assignment_ _arm",
+  "ref": "Shape_property_assignment_arm.required_am_arms",
+  "score": 100,
+  "method": "schema->primary",
+  "flag": "convention"
+ },
+ {
+  "module": "single_part_representation",
+  "kind": "arm",
+  "svg": "armexpg2.svg",
+  "num": "1",
+  "ocr": "Document assignment arm. documented element select",
+  "ref": "Document_assignment_arm.documented_element_select",
+  "score": 100,
+  "method": "qualified-verbatim",
+  "flag": ""
+ },
+ {
+  "module": "single_part_representation",
+  "kind": "arm",
+  "svg": "armexpg2.svg",
+  "num": "2",
+  "ocr": "Document_assignment_arm. Document",
+  "ref": "Document_assignment_arm.Document",
+  "score": 100,
+  "method": "qualified-verbatim",
+  "flag": ""
+ },
+ {
+  "module": "single_part_representation",
+  "kind": "arm",
+  "svg": "armexpg2.svg",
+  "num": "3",
+  "ocr": "Document_assignment_arm. Document version",
+  "ref": "Document_assignment_arm.Document_version",
+  "score": 100,
+  "method": "qualified-verbatim",
+  "flag": ""
+ },
+ {
+  "module": "single_part_representation",
+  "kind": "arm",
+  "svg": "armexpg2.svg",
+  "num": "4",
+  "ocr": "Document_assignment_arm. Document definition",
+  "ref": "Document_assignment_arm.Document_definition",
+  "score": 100,
+  "method": "qualified-verbatim",
+  "flag": ""
+ },
+ {
+  "module": "single_part_representation",
+  "kind": "arm",
+  "svg": "armexpg2.svg",
+  "num": "5",
+  "ocr": "Part_view_definition_arm. Part",
+  "ref": "Part_view_definition_arm.Part",
+  "score": 100,
+  "method": "qualified-verbatim",
+  "flag": ""
+ },
+ {
+  "module": "single_part_representation",
+  "kind": "arm",
+  "svg": "armexpg2.svg",
+  "num": "6",
+  "ocr": "Part view definition arm. Part view definition",
+  "ref": "Part_view_definition_arm.Part_view_definition",
+  "score": 100,
+  "method": "qualified-verbatim",
+  "flag": ""
+ },
+ {
+  "module": "single_part_representation",
+  "kind": "arm",
+  "svg": "armexpg2.svg",
+  "num": "7",
+  "ocr": "Part view definition _arm. Part version",
+  "ref": "Part_view_definition_arm.Part_version",
+  "score": 100,
+  "method": "qualified-verbatim",
+  "flag": ""
+ },
+ {
+  "module": "single_part_representation",
+  "kind": "arm",
+  "svg": "armexpg2.svg",
+  "num": "8",
+  "ocr": "Person_organization_assignment_ arm. organization_or_person_in_organization item",
+  "ref": "Person_organization_assignment_arm.organization_or_person_in_organization_item",
+  "score": 100,
+  "method": "qualified-verbatim",
+  "flag": ""
+ },
+ {
+  "module": "single_part_representation",
+  "kind": "arm",
+  "svg": "armexpg2.svg",
+  "num": "9",
+  "ocr": "Property_assignment arm. property_assignment _select",
+  "ref": "Property_assignment_arm.property_assignment_select",
+  "score": 100,
+  "method": "qualified-verbatim",
+  "flag": ""
+ },
+ {
+  "module": "single_part_representation",
+  "kind": "arm",
+  "svg": "armexpg2.svg",
+  "num": "10",
+  "ocr": "spr_documented element select",
+  "ref": "Single_part_representation_arm.spr_documented_element_select",
+  "score": 100,
+  "method": "exact-name-local-clean",
+  "flag": ""
+ },
+ {
+  "module": "single_part_representation",
+  "kind": "arm",
+  "svg": "armexpg2.svg",
+  "num": "11",
+  "ocr": "(EX) *spr_organization_or_person_in_organizationitm",
+  "ref": "Single_part_representation_arm.spr_organization_or_person_in_organization_item",
+  "score": 91.95402298850574,
+  "method": "fuzzy-local-name",
+  "flag": "check"
+ },
+ {
+  "module": "single_part_representation",
+  "kind": "arm",
+  "svg": "armexpg2.svg",
+  "num": "12",
+  "ocr": "spr_product_property_ assignment",
+  "ref": "Single_part_representation_arm.spr_product_property_assignment",
+  "score": 100,
+  "method": "exact-name-local-clean",
+  "flag": ""
+ }
+]

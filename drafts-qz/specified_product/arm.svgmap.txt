@@ -1,0 +1,29 @@
+(*"Specified_product_arm.__expressg"
+[.svgmap]
+====
+image::armexpg1.svg[]
+
+* <<express:Characterizable_object_arm.required_am_arms>>; 1
+* <<express:Product_class_arm.required_am_arms>>; 2
+* <<express:Configuration_item_arm.required_am_arms>>; 3
+* <<express:Specified_product_arm.required_am_arms>>; 4
+====
+*)
+
+(*"Specified_product_arm.__expressg"
+[.svgmap]
+====
+image::armexpg2.svg[]
+
+* <<express:Product_class_arm.Specification>>; 1
+* <<express:Configuration_item_arm.Product_configuration>>; 2
+* <<express:Product_class_arm.Product_class>>; 3
+* <<express:Product_version_arm.Product_version>>; 4
+* <<express:Configuration_item_arm.Item_design_association>>; 5
+* <<express:Support_resource_arm.label>>; 6
+* <<express:Characterizable_object_arm.Characterizable_object>>; 7
+* <<express:Product_view_definition_arm.product_shape_type_enumeration>>; 8
+* <<express:Specified_product_arm.Specification_based_product_version>>; 9
+* <<express:Specified_product_arm.Product_specification>>; 10
+====
+*)

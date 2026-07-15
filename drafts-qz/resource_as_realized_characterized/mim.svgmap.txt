@@ -1,0 +1,86 @@
+(*"Resource_as_realized_characterized_mim.__expressg"
+[.svgmap]
+====
+image::mimexpg1.svg[]
+
+* <<express:Resource_as_realized_characterized_mim.short_listing>>; 1
+* <<express:Approval_mim.short_listing>>; 2
+* <<express:action_schema>>; 3
+* <<express:Date_time_assignment_mim.short_listing>>; 4
+* <<express:Identification_assignment_mim.short_listing>>; 5
+* <<express:Justification_mim.short_listing>>; 6
+* <<express:Resource_as_realized_mim.short_listing>>; 7
+* <<express:Resource_management_characterized_mim.short_listing>>; 8
+* <<express:Resource_property_assignment_mim.short_listing>>; 9
+* <<express:Attribute_classification_mim.short_listing>>; 10
+* <<express:Multi_linguism_mim.short_listing>>; 11
+* <<express:Process_property_assignment_mim.short_listing>>; 12
+* <<express:Person_organization_assignment_mim.short_listing>>; 13
+* <<express:State_observed_mim.short_listing>>; 14
+* <<express:State_definition_mim.short_listing>>; 15
+====
+*)
+
+(*"Resource_as_realized_characterized_mim.__expressg"
+[.svgmap]
+====
+image::mimexpg2.svg[]
+
+* <<express:action_schema.action_resource>>; 1
+* <<express:Approval_mim.approval_item>>; 2
+* <<express:Identification_assignment_mim.identification_item>>; 3
+* <<express:Justification_mim.justification_item>>; 4
+* <<express:Person_organization_assignment_mim.organization_item>>; 5
+* <<express:Person_organization_assignment_mim.person_and_organization_item>>; 6
+* <<express:Resource_as_realized_characterized_mim.resource_as_realized_approval_item>>; 7
+* <<express:Resource_as_realized_characterized_mim.resource_as_realized_identification_item>>; 8
+* <<express:Resource_as_realized_characterized_mim.resource_as_realized_justification_item>>; 9
+* <<express:Resource_as_realized_characterized_mim.resource_as_realized_organization_item>>; 10
+* <<express:Resource_as_realized_characterized_mim.resource_as_realized_person_and_organization_item>>; 11
+====
+*)
+
+(*"Resource_as_realized_characterized_mim.__expressg"
+[.svgmap]
+====
+image::mimexpg3.svg[]
+
+* <<express:action_schema.action_resource>>; 1
+* <<express:action_schema.action_resource_relationship>>; 2
+* <<express:Attribute_classification_mim.attribute_classification_item>>; 3
+* <<express:Date_time_assignment_mim.date_item>>; 4
+* <<express:Date_time_assignment_mim.date_and_time_item>>; 5
+* <<express:Resource_as_realized_characterized_mim.resource_as_realized_attribute_classification_item>>; 6
+* <<express:Resource_as_realized_characterized_mim.resource_as_realized_date_and_time_item>>; 7
+* <<express:Resource_as_realized_characterized_mim.resource_as_realized_date_item>>; 8
+====
+*)
+
+(*"Resource_as_realized_characterized_mim.__expressg"
+[.svgmap]
+====
+image::mimexpg4.svg[]
+
+* <<express:action_schema.action_resource>>; 1
+* <<express:action_schema.action_resource_relationship>>; 2
+* <<express:Multi_linguism_mim.attribute_language_item>>; 3
+* <<express:Multi_linguism_mim.multi_language_attribute_item>>; 4
+* <<express:Resource_as_realized_characterized_mim.resource_as_realized_attribute_language_item>>; 5
+* <<express:Resource_as_realized_characterized_mim.resource_as_realized_multi_language_attribute_item>>; 6
+====
+*)
+
+(*"Resource_as_realized_characterized_mim.__expressg"
+[.svgmap]
+====
+image::mimexpg5.svg[]
+
+* <<express:action_schema.action_method>>; 1
+* <<express:action_schema.action_resource>>; 2
+* <<express:action_schema.action_resource_relationship>>; 3
+* <<express:State_definition_mim.state_type_of_item>>; 4
+* <<express:State_observed_mim.state_observed_of_item>>; 5
+* <<express:Resource_as_realized_characterized_mim.resource_as_realized_state_observed_of_item>>; 6
+* <<express:Resource_as_realized_characterized_mim.resource_as_realized_state_type_of_item>>; 7
+====
+*)

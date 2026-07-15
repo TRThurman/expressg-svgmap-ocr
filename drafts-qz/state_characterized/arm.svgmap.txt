@@ -1,0 +1,21 @@
+(*"State_characterized_arm.__expressg"
+[.svgmap]
+====
+image::armexpg1.svg[]
+
+* <<express:State_characterized_arm.required_am_arms>>; 1
+* <<express:Condition_characterized_arm.required_am_arms>>; 2
+* <<express:Condition_evaluation_characterized_arm.required_am_arms>>; 3
+* <<express:Property_assignment_arm.required_am_arms>>; 4
+* <<express:State_observed_arm.required_am_arms>>; 5
+====
+*)
+
+(*"State_characterized_arm.__expressg"
+[.svgmap]
+====
+image::armexpg2.svg[]
+
+* <<express:State_characterized_arm.required_am_arms>>; 10
+====
+*)

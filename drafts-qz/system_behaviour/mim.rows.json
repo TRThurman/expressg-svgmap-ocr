@@ -1,0 +1,35 @@
+[
+ {
+  "module": "system_behaviour",
+  "kind": "mim",
+  "svg": "mimexpg1.svg",
+  "num": "1",
+  "ocr": "System behaviour_mi m",
+  "ref": "System_behaviour_mim.short_listing",
+  "score": 100,
+  "method": "schema->primary",
+  "flag": "convention"
+ },
+ {
+  "module": "system_behaviour",
+  "kind": "mim",
+  "svg": "mimexpg1.svg",
+  "num": "2",
+  "ocr": "Function based behav our mim",
+  "ref": "Function_based_behaviour_mim.short_listing",
+  "score": 92.3076923076923,
+  "method": "fuzzy-local-schema",
+  "flag": "check"
+ },
+ {
+  "module": "system_behaviour",
+  "kind": "mim",
+  "svg": "mimexpg1.svg",
+  "num": "3",
+  "ocr": "State based behaviour mim",
+  "ref": "State_based_behaviour_mim.short_listing",
+  "score": 100,
+  "method": "schema->primary",
+  "flag": "convention"
+ }
+]

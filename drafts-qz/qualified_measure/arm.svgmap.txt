@@ -1,0 +1,40 @@
+(*"Qualified_measure_arm.__expressg"
+[.svgmap]
+====
+image::armexpg1.svg[]
+
+* <<express:Maths_value_arm.required_am_arms>>; 1
+* <<express:Measure_representation_arm.required_am_arms>>; 2
+* <<express:Qualified_measure_arm.required_am_arms>>; 3
+====
+*)
+
+(*"Qualified_measure_arm.__expressg"
+[.svgmap]
+====
+image::armexpg2.svg[]
+
+* <<express:Qualified_measure_arm.value_qualifier>>; 1
+* <<express:Foundation_representation_arm.Representation>>; 2
+* <<express:Value_with_unit_arm.Maths_value_with_unit>>; 3
+* <<express:Foundation_representation_arm.Representation_item>>; 4
+* <<express:Value_with_unit_arm.Value_with_unit>>; 5
+* <<express:Value_with_unit_arm.Uncertainty_with_unit>>; 6
+* <<express:Maths_value_arm.maths_value>>; 7
+* <<express:Measure_representation_arm.Numerical_item_with_unit>>; 8
+* <<express:Qualified_measure_arm.Standard_uncertainty>>; 9
+* <<express:Qualified_measure_arm.Qualitative_uncertainty>>; 10
+* <<express:Qualified_measure_arm.Value_format_type_qualifier>>; 11
+* <<express:Qualified_measure_arm.Expanded_uncertainty>>; 12
+* <<express:Qualified_measure_arm.Uncertainty_qualifier>>; 13
+* <<express:Qualified_measure_arm.Type_qualifier>>; 14
+* <<express:Qualified_measure_arm.Qualified_numerical_item_with_unit>>; 15
+* <<express:Qualified_measure_arm.Pre_defined_type_qualifier>>; 16
+* <<express:Qualified_measure_arm.Precision_qualifier>>; 17
+* <<express:Qualified_measure_arm.Representation_with_uncertainty>>; 18
+* <<express:Qualified_measure_arm.Measure_qualification>>; 19
+* <<express:Qualified_measure_arm.Maths_value_precision_qualifier>>; 20
+* <<express:Qualified_measure_arm.Maths_value_qualification>>; 21
+* <<express:Qualified_measure_arm.Qualified_representation_item>>; 22
+====
+*)

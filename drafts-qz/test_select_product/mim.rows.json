@@ -1,0 +1,13 @@
+[
+ {
+  "module": "test_select_product",
+  "kind": "mim",
+  "svg": "mimexpg1.svg",
+  "num": "1",
+  "ocr": "Product_replacement_mim",
+  "ref": "Product_replacement_mim.short_listing",
+  "score": 100,
+  "method": "schema->primary",
+  "flag": "convention"
+ }
+]

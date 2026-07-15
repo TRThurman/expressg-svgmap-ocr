@@ -1,0 +1,189 @@
+[
+ {
+  "module": "tagged_text_representation",
+  "kind": "arm",
+  "svg": "armexpg1.svg",
+  "num": "1",
+  "ocr": "Tagged_text_representation_a",
+  "ref": "Tagged_text_representation_arm.required_am_arms",
+  "score": 90.9090909090909,
+  "method": "fuzzy-local-schema",
+  "flag": "check"
+ },
+ {
+  "module": "tagged_text_representation",
+  "kind": "arm",
+  "svg": "armexpg1.svg",
+  "num": "2",
+  "ocr": "Foundation_representation_amm",
+  "ref": "Foundation_representation_arm.required_am_arms",
+  "score": 92.85714285714286,
+  "method": "fuzzy-local-schema",
+  "flag": "check"
+ },
+ {
+  "module": "tagged_text_representation",
+  "kind": "arm",
+  "svg": "armexpg2.svg",
+  "num": "1",
+  "ocr": "string representation item list_or_set",
+  "ref": "Tagged_text_representation_arm.string_representation_item_list_or_set",
+  "score": 100,
+  "method": "exact-name-local-clean",
+  "flag": ""
+ },
+ {
+  "module": "tagged_text_representation",
+  "kind": "arm",
+  "svg": "armexpg2.svg",
+  "num": "2",
+  "ocr": "string_representation item_select",
+  "ref": "Tagged_text_representation_arm.string_representation_item_select",
+  "score": 100,
+  "method": "exact-name-local-clean",
+  "flag": ""
+ },
+ {
+  "module": "tagged_text_representation",
+  "kind": "arm",
+  "svg": "armexpg2.svg",
+  "num": "3",
+  "ocr": "Foundation representation arm.Representation",
+  "ref": "Foundation_representation_arm.Representation",
+  "score": 100,
+  "method": "qualified-verbatim",
+  "flag": ""
+ },
+ {
+  "module": "tagged_text_representation",
+  "kind": "arm",
+  "svg": "armexpg2.svg",
+  "num": "4",
+  "ocr": "Foundation representation amn Representation_item",
+  "ref": "Foundation_representation_arm.Representation_item",
+  "score": 94.6236559139785,
+  "method": "fuzzy-local-concat",
+  "flag": "check"
+ },
+ {
+  "module": "tagged_text_representation",
+  "kind": "arm",
+  "svg": "armexpg2.svg",
+  "num": "5",
+  "ocr": "Foundation representation arm.String _representatin item",
+  "ref": "Foundation_representation_arm.String_representation_item",
+  "score": 97.87234042553192,
+  "method": "qualified-fuzzy",
+  "flag": "check"
+ },
+ {
+  "module": "tagged_text_representation",
+  "kind": "arm",
+  "svg": "armexpg2.svg",
+  "num": "6",
+  "ocr": "Foundation_representation arm.Representation contex.",
+  "ref": "Foundation_representation_arm.Representation_context",
+  "score": 97.5609756097561,
+  "method": "qualified-fuzzy",
+  "flag": "check"
+ },
+ {
+  "module": "tagged_text_representation",
+  "kind": "arm",
+  "svg": "armexpg2.svg",
+  "num": "7",
+  "ocr": "Structured_text_composition",
+  "ref": "Tagged_text_representation_arm.Structured_text_composition",
+  "score": 100,
+  "method": "exact-name-local-clean",
+  "flag": ""
+ },
+ {
+  "module": "tagged_text_representation",
+  "kind": "arm",
+  "svg": "armexpg2.svg",
+  "num": "8",
+  "ocr": "Tagged_text_format",
+  "ref": "Tagged_text_representation_arm.Tagged_text_format",
+  "score": 100,
+  "method": "exact-name-local-clean",
+  "flag": ""
+ },
+ {
+  "module": "tagged_text_representation",
+  "kind": "arm",
+  "svg": "armexpg2.svg",
+  "num": "9",
+  "ocr": "Included_text_block",
+  "ref": "Tagged_text_representation_arm.Included_text_block",
+  "score": 100,
+  "method": "exact-name-local-clean",
+  "flag": ""
+ },
+ {
+  "module": "tagged_text_representation",
+  "kind": "arm",
+  "svg": "armexpg2.svg",
+  "num": "10",
+  "ocr": "Uniform_resource_identifier",
+  "ref": "Tagged_text_representation_arm.Uniform_resource_identifier",
+  "score": 100,
+  "method": "exact-name-local-clean",
+  "flag": ""
+ },
+ {
+  "module": "tagged_text_representation",
+  "kind": "arm",
+  "svg": "armexpg2.svg",
+  "num": "11",
+  "ocr": "Tagged_text_item",
+  "ref": "Tagged_text_representation_arm.Tagged_text_item",
+  "score": 100,
+  "method": "exact-name-local-clean",
+  "flag": ""
+ },
+ {
+  "module": "tagged_text_representation",
+  "kind": "arm",
+  "svg": "armexpg2.svg",
+  "num": "12",
+  "ocr": "Structured_text_representatio",
+  "ref": "Tagged_text_representation_arm.Structured_text_representation",
+  "score": 94.73684210526316,
+  "method": "fuzzy-local-name",
+  "flag": "check"
+ },
+ {
+  "module": "tagged_text_representation",
+  "kind": "arm",
+  "svg": "armexpg2.svg",
+  "num": "13",
+  "ocr": "string representation_item_list.",
+  "ref": "Tagged_text_representation_arm.string_representation_item_list",
+  "score": 100,
+  "method": "exact-name-local-clean",
+  "flag": ""
+ },
+ {
+  "module": "tagged_text_representation",
+  "kind": "arm",
+  "svg": "armexpg2.svg",
+  "num": "14",
+  "ocr": "string_representation_item_set",
+  "ref": "Tagged_text_representation_arm.string_representation_item_set",
+  "score": 100,
+  "method": "exact-name-local-clean",
+  "flag": ""
+ },
+ {
+  "module": "tagged_text_representation",
+  "kind": "arm",
+  "svg": "armexpg2.svg",
+  "num": "15",
+  "ocr": "*ttr_string_representation_items",
+  "ref": "Foundation_representation_arm.String_representation_item",
+  "score": 88.88888888888889,
+  "method": "fuzzy-local-name",
+  "flag": "check"
+ }
+]

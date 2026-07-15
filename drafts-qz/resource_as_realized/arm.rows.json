@@ -1,0 +1,222 @@
+[
+ {
+  "module": "resource_as_realized",
+  "kind": "arm",
+  "svg": "armexpg1.svg",
+  "num": "1",
+  "ocr": "Resource_as_realized_am",
+  "ref": "Resource_as_realized_arm.required_am_arms",
+  "score": 90.9090909090909,
+  "method": "fuzzy-local-schema",
+  "flag": "check"
+ },
+ {
+  "module": "resource_as_realized",
+  "kind": "arm",
+  "svg": "armexpg1.svg",
+  "num": "2",
+  "ocr": "Resource _item_arm",
+  "ref": "Resource_item_arm.required_am_arms",
+  "score": 100,
+  "method": "schema->primary",
+  "flag": "convention"
+ },
+ {
+  "module": "resource_as_realized",
+  "kind": "arm",
+  "svg": "armexpg1.svg",
+  "num": "3",
+  "ocr": "Required resource_arm",
+  "ref": "Required_resource_arm.required_am_arms",
+  "score": 100,
+  "method": "schema->primary",
+  "flag": "convention"
+ },
+ {
+  "module": "resource_as_realized",
+  "kind": "arm",
+  "svg": "armexpg1.svg",
+  "num": "4",
+  "ocr": "Classification_assignment_arm",
+  "ref": "Classification_assignment_arm.required_am_arms",
+  "score": 100,
+  "method": "schema->primary",
+  "flag": "convention"
+ },
+ {
+  "module": "resource_as_realized",
+  "kind": "arm",
+  "svg": "armexpg1.svg",
+  "num": "5",
+  "ocr": "Value with unit arm",
+  "ref": "Value_with_unit_arm.required_am_arms",
+  "score": 100,
+  "method": "schema->primary",
+  "flag": "convention"
+ },
+ {
+  "module": "resource_as_realized",
+  "kind": "arm",
+  "svg": "armexpg1.svg",
+  "num": "6",
+  "ocr": "Resource_management_arm",
+  "ref": "Resource_management_arm.required_am_arms",
+  "score": 100,
+  "method": "schema->primary",
+  "flag": "convention"
+ },
+ {
+  "module": "resource_as_realized",
+  "kind": "arm",
+  "svg": "armexpg2.svg",
+  "num": "1",
+  "ocr": "Classification_assignment_arm.classification_item",
+  "ref": "Classification_assignment_arm.classification_item",
+  "score": 100,
+  "method": "qualified-verbatim",
+  "flag": ""
+ },
+ {
+  "module": "resource_as_realized",
+  "kind": "arm",
+  "svg": "armexpg2.svg",
+  "num": "2",
+  "ocr": "Required_resource_arm.Required _resource",
+  "ref": "Required_resource_arm.Required_resource",
+  "score": 100,
+  "method": "qualified-verbatim",
+  "flag": ""
+ },
+ {
+  "module": "resource_as_realized",
+  "kind": "arm",
+  "svg": "armexpg2.svg",
+  "num": "3",
+  "ocr": "Resource_item_arm.Resource_item",
+  "ref": "Resource_item_arm.Resource_item",
+  "score": 100,
+  "method": "qualified-verbatim",
+  "flag": ""
+ },
+ {
+  "module": "resource_as_realized",
+  "kind": "arm",
+  "svg": "armexpg2.svg",
+  "num": "4",
+  "ocr": "Resource item arm.resource item select",
+  "ref": "Resource_item_arm.resource_item_select",
+  "score": 100,
+  "method": "qualified-verbatim",
+  "flag": ""
+ },
+ {
+  "module": "resource_as_realized",
+  "kind": "arm",
+  "svg": "armexpg2.svg",
+  "num": "5",
+  "ocr": "Resource_management_arm.Resource_event",
+  "ref": "Resource_management_arm.Resource_event",
+  "score": 100,
+  "method": "qualified-verbatim",
+  "flag": ""
+ },
+ {
+  "module": "resource_as_realized",
+  "kind": "arm",
+  "svg": "armexpg2.svg",
+  "num": "6",
+  "ocr": "Value with unit arm.Value with unit",
+  "ref": "Value_with_unit_arm.Value_with_unit",
+  "score": 100,
+  "method": "qualified-verbatim",
+  "flag": ""
+ },
+ {
+  "module": "resource_as_realized",
+  "kind": "arm",
+  "svg": "armexpg2.svg",
+  "num": "7",
+  "ocr": "(EX) *resource as realized classification_item",
+  "ref": "Resource_as_realized_arm.resource_as_realized_classification_item",
+  "score": 100,
+  "method": "exact-name-local-clean",
+  "flag": ""
+ },
+ {
+  "module": "resource_as_realized",
+  "kind": "arm",
+  "svg": "armexpg2.svg",
+  "num": "8",
+  "ocr": "(EX) *resource_as_realized_item",
+  "ref": "Resource_as_realized_arm.resource_as_realized_item",
+  "score": 100,
+  "method": "exact-name-local-clean",
+  "flag": ""
+ },
+ {
+  "module": "resource_as_realized",
+  "kind": "arm",
+  "svg": "armexpg2.svg",
+  "num": "9",
+  "ocr": "resource_as realized_relationship_select",
+  "ref": "Resource_as_realized_arm.resource_as_realized_relationship_select",
+  "score": 100,
+  "method": "exact-name-local-clean",
+  "flag": ""
+ },
+ {
+  "module": "resource_as_realized",
+  "kind": "arm",
+  "svg": "armexpg2.svg",
+  "num": "10",
+  "ocr": "Resource_as_realized",
+  "ref": "Resource_as_realized_arm.Resource_as_realized",
+  "score": 100,
+  "method": "exact-name-local-clean",
+  "flag": ""
+ },
+ {
+  "module": "resource_as_realized",
+  "kind": "arm",
+  "svg": "armexpg2.svg",
+  "num": "11",
+  "ocr": "Resource_as_realized_assignment",
+  "ref": "Resource_as_realized_arm.Resource_as_realized_assignment",
+  "score": 100,
+  "method": "exact-name-local-clean",
+  "flag": ""
+ },
+ {
+  "module": "resource_as_realized",
+  "kind": "arm",
+  "svg": "armexpg2.svg",
+  "num": "12",
+  "ocr": "Resource_as_realized_by_reference",
+  "ref": "Resource_as_realized_arm.Resource_as_realized_by_reference",
+  "score": 100,
+  "method": "exact-name-local-clean",
+  "flag": ""
+ },
+ {
+  "module": "resource_as_realized",
+  "kind": "arm",
+  "svg": "armexpg2.svg",
+  "num": "13",
+  "ocr": "Resource_as_realized_by_resouroe_item",
+  "ref": "Resource_as_realized_arm.Resource_as_realized_by_resource_item",
+  "score": 89.85507246376811,
+  "method": "fuzzy-local-name",
+  "flag": "check"
+ },
+ {
+  "module": "resource_as_realized",
+  "kind": "arm",
+  "svg": "armexpg2.svg",
+  "num": "14",
+  "ocr": "Resource_as_realized_relationship",
+  "ref": "Resource_as_realized_arm.Resource_as_realized_relationship",
+  "score": 100,
+  "method": "exact-name-local-clean",
+  "flag": ""
+ }
+]

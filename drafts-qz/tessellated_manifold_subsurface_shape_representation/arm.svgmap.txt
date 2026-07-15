@@ -1,0 +1,19 @@
+(*"Tessellated_manifold_subsurface_shape_representation_arm.__expressg"
+[.svgmap]
+====
+image::armexpg1.svg[]
+
+* <<express:Elemental_geometric_shape_arm.required_am_arms>>; 1
+* <<express:Tessellated_manifold_subsurface_shape_representation_arm.required_am_arms>>; 2
+====
+*)
+
+(*"Tessellated_manifold_subsurface_shape_representation_arm.__expressg"
+[.svgmap]
+====
+image::armexpg2.svg[]
+
+* <<express:Elemental_geometric_shape_arm.Geometric_model>>; 1
+* <<express:Tessellated_manifold_subsurface_shape_representation_arm.Tessellated_manifold_subsurface_shape_representation>>; 2
+====
+*)

@@ -1,0 +1,40 @@
+(*"Specification_document_mim.__expressg"
+[.svgmap]
+====
+image::mimexpg1.svg[]
+
+* <<express:Specification_document_mim.short_listing>>; 1
+* <<express:Configuration_item_mim.short_listing>>; 2
+* <<express:product_definition_schema>>; 3
+* <<express:Characteristic_mim.short_listing>>; 4
+* <<express:date_time_schema>>; 5
+* <<express:management_resources_schema>>; 6
+* <<express:document_schema>>; 7
+* <<express:product_property_representation_schema>>; 8
+* <<express:Tagged_text_representation_mim.short_listing>>; 9
+====
+*)
+
+(*"Specification_document_mim.__expressg"
+[.svgmap]
+====
+image::mimexpg2.svg[]
+
+* <<express:Specification_document_mim.sd_document_reference_item>>; 1
+* <<express:Specification_document_mim.document_identifier_assigned_item>>; 2
+* <<express:Document_assignment_mim.document_reference_item>>; 3
+* <<express:product_property_definition_schema.characterized_object>>; 4
+* <<express:Document_assignment_mim.applied_document_usage_constraint_assignment>>; 5
+* <<express:group_schema.group>>; 6
+* <<express:product_definition_schema.product_definition>>; 7
+* <<express:product_definition_schema.product_definition_formation>>; 8
+* <<express:document_schema.document>>; 9
+* <<express:product_definition_schema.product>>; 10
+* <<express:configuration_management_schema.configuration_item>>; 11
+* <<express:management_resources_schema.group_assignment>>; 12
+* <<express:Specification_document_mim.document_identifier>>; 13
+* <<express:Specification_document_mim.document_identifier_assignment>>; 14
+* <<express:Specification_document_mim.specification_definition>>; 15
+* <<express:UNRESOLVED>>; 16
+====
+*)

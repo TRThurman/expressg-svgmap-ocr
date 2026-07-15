@@ -1,0 +1,34 @@
+(*"Schematic_element_arm.__expressg"
+[.svgmap]
+====
+image::armexpg1.svg[]
+
+* <<express:Schematic_element_arm.required_am_arms>>; 1
+* <<express:Draughting_annotation_arm.required_am_arms>>; 2
+* <<express:Foundation_representation_arm.required_am_arms>>; 3
+* <<express:Set_theory_arm.required_am_arms>>; 4
+* <<express:Class_arm.required_am_arms>>; 5
+====
+*)
+
+(*"Schematic_element_arm.__expressg"
+[.svgmap]
+====
+image::armexpg2.svg[]
+
+* <<express:Schematic_element_arm.Connection_of_schematic_element_occurrence>>; 1
+* <<express:Schematic_element_arm.Composition_of_schematic_element_occurrence>>; 2
+* <<express:Schematic_element_arm.Definition_of_schematic_element_occurrence>>; 3
+* <<express:Set_theory_arm.Subset>>; 4
+* <<express:Schematic_element_arm.Usage_of_schematic_element_occurrence>>; 5
+* <<express:Schematic_element_arm.Derivation_of_schematic_element_definition>>; 6
+* <<express:Foundation_representation_arm.Representation>>; 7
+* <<express:Class_arm.Class>>; 8
+* <<express:Schematic_element_arm.Schematic_element>>; 9
+* <<express:Schematic_element_arm.Schematic_element_definition>>; 10
+* <<express:Schematic_element_arm.Implicit_schematic_element_definition>>; 11
+* <<express:Schematic_element_arm.Explicit_schematic_element_definition>>; 12
+* <<express:Draughting_annotation_arm.Annotation_subfigure>>; 13
+* <<express:Schematic_element_arm.Schematic_element_occurrence>>; 14
+====
+*)

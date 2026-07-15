@@ -1,0 +1,57 @@
+[
+ {
+  "module": "shape_parameters",
+  "kind": "mim",
+  "svg": "mimexpg1.svg",
+  "num": "1",
+  "ocr": "Shape parameters_mim",
+  "ref": "Shape_parameters_mim.short_listing",
+  "score": 100,
+  "method": "schema->primary",
+  "flag": "convention"
+ },
+ {
+  "module": "shape_parameters",
+  "kind": "mim",
+  "svg": "mimexpg1.svg",
+  "num": "2",
+  "ocr": "product_property_definition_schema",
+  "ref": "Product_property_definition_schema",
+  "score": 100,
+  "method": "schema->primary",
+  "flag": "convention+unverified"
+ },
+ {
+  "module": "shape_parameters",
+  "kind": "mim",
+  "svg": "mimexpg1.svg",
+  "num": "3",
+  "ocr": "External_item_identification_assignment_mim",
+  "ref": "External_item_identification_assignment_mim.short_listing",
+  "score": 100,
+  "method": "schema->primary",
+  "flag": "convention"
+ },
+ {
+  "module": "shape_parameters",
+  "kind": "mim",
+  "svg": "mimexpg2.svg",
+  "num": "1",
+  "ocr": "product _property definition _schema.characterized_object",
+  "ref": "product_property_definition_schema.characterized_object",
+  "score": 100,
+  "method": "qualified-verbatim",
+  "flag": ""
+ },
+ {
+  "module": "shape_parameters",
+  "kind": "mim",
+  "svg": "mimexpg2.svg",
+  "num": "2",
+  "ocr": "keepout_design_object_category",
+  "ref": "Shape_parameters_mim.keepout_design_object_category",
+  "score": 100,
+  "method": "exact-name-local-clean",
+  "flag": ""
+ }
+]

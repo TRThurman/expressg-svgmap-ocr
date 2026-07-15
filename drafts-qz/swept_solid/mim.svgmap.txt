@@ -1,0 +1,12 @@
+(*"Swept_solid_mim.__expressg"
+[.svgmap]
+====
+image::mimexpg1.svg[]
+
+* <<express:geometry_schema>>; 1
+* <<express:measure_schema>>; 2
+* <<express:geometric_model_schema>>; 3
+* <<express:topology_schema>>; 4
+* <<express:Topologically_bounded_surface_mim.short_listing>>; 5
+====
+*)

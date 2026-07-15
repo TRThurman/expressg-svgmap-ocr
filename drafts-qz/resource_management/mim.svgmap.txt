@@ -1,0 +1,38 @@
+(*"Resource_management_mim.__expressg"
+[.svgmap]
+====
+image::mimexpg1.svg[]
+
+* <<express:Resource_management_mim.short_listing>>; 1
+* <<express:process_property_schema>>; 2
+* <<express:action_schema.action>>; 3
+* <<express:process_property_representation_schema>>; 4
+* <<express:Classification_assignment_mim.short_listing>>; 5
+* <<express:Required_resource_mim.short_listing>>; 6
+* <<express:Value_with_unit_mim.short_listing>>; 7
+* <<express:Resource_item_mim.short_listing>>; 8
+* <<express:Location_assignment_mim.short_listing>>; 9
+* <<express:Activity_method_assignment_mim.short_listing>>; 10
+====
+*)
+
+(*"Resource_management_mim.__expressg"
+[.svgmap]
+====
+image::mimexpg2.svg[]
+
+* <<express:action_schema.action>>; 1
+* <<express:action_schema.action_relationship>>; 2
+* <<express:action_schema.action_resource>>; 3
+* <<express:action_schema.action_resource_relationship>>; 4
+* <<express:action_schema.action_method>>; 5
+* <<express:action_schema.supported_item>>; 6
+* <<express:Classification_assignment_mim.classification_item>>; 7
+* <<express:Location_assignment_mim.location_item>>; 8
+* <<express:process_property_representation_schema.action_property_representation>>; 9
+* <<express:process_property_schema.action_property>>; 10
+* <<express:process_property_schema.characterized_action_definition>>; 11
+* <<express:Resource_management_mim.resource_management_classification_item>>; 12
+* <<express:Resource_management_mim.resource_management_location_item>>; 13
+====
+*)

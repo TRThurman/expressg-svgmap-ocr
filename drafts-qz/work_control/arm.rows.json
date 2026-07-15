@@ -1,0 +1,189 @@
+[
+ {
+  "module": "work_control",
+  "kind": "arm",
+  "svg": "armexpg1.svg",
+  "num": "1",
+  "ocr": "Work_control_arm",
+  "ref": "Work_control_arm.required_am_arms",
+  "score": 100,
+  "method": "schema->primary",
+  "flag": "convention"
+ },
+ {
+  "module": "work_control",
+  "kind": "arm",
+  "svg": "armexpg1.svg",
+  "num": "2",
+  "ocr": "Work order arm",
+  "ref": "Work_order_arm.required_am_arms",
+  "score": 100,
+  "method": "schema->primary",
+  "flag": "convention"
+ },
+ {
+  "module": "work_control",
+  "kind": "arm",
+  "svg": "armexpg1.svg",
+  "num": "3",
+  "ocr": "Temporal objects arm",
+  "ref": "Temporal_objects_arm.required_am_arms",
+  "score": 100,
+  "method": "schema->primary",
+  "flag": "convention"
+ },
+ {
+  "module": "work_control",
+  "kind": "arm",
+  "svg": "armexpg1.svg",
+  "num": "4",
+  "ocr": "Root things_arm",
+  "ref": "Root_things_arm.required_am_arms",
+  "score": 100,
+  "method": "schema->primary",
+  "flag": "convention"
+ },
+ {
+  "module": "work_control",
+  "kind": "arm",
+  "svg": "armexpg2.svg",
+  "num": "1",
+  "ocr": "Root_things_arm.Information_object",
+  "ref": "Root_things_arm.Information_object",
+  "score": 100,
+  "method": "qualified-verbatim",
+  "flag": ""
+ },
+ {
+  "module": "work_control",
+  "kind": "arm",
+  "svg": "armexpg2.svg",
+  "num": "2",
+  "ocr": "Temporal_objects_arm.Temporal_object_activity",
+  "ref": "Temporal_objects_arm.Temporal_object_activity",
+  "score": 100,
+  "method": "qualified-verbatim",
+  "flag": ""
+ },
+ {
+  "module": "work_control",
+  "kind": "arm",
+  "svg": "armexpg2.svg",
+  "num": "3",
+  "ocr": "Work_order am.Work _order",
+  "ref": "Work_order_arm.Work_order",
+  "score": 90.9090909090909,
+  "method": "fuzzy-local-concat",
+  "flag": "check"
+ },
+ {
+  "module": "work_control",
+  "kind": "arm",
+  "svg": "armexpg2.svg",
+  "num": "4",
+  "ocr": "Work_order_arm.Directed_activity",
+  "ref": "Work_order_arm.Directed_activity",
+  "score": 100,
+  "method": "qualified-verbatim",
+  "flag": ""
+ },
+ {
+  "module": "work_control",
+  "kind": "arm",
+  "svg": "armexpg2.svg",
+  "num": "5",
+  "ocr": "Approve work as complete",
+  "ref": "Work_control_arm.Approve_work_as_complete",
+  "score": 100,
+  "method": "exact-name-local-clean",
+  "flag": ""
+ },
+ {
+  "module": "work_control",
+  "kind": "arm",
+  "svg": "armexpg2.svg",
+  "num": "6",
+  "ocr": "Control document",
+  "ref": "Work_control_arm.Control_document",
+  "score": 100,
+  "method": "exact-name-local-clean",
+  "flag": ""
+ },
+ {
+  "module": "work_control",
+  "kind": "arm",
+  "svg": "armexpg2.svg",
+  "num": "7",
+  "ocr": "Disapprove_work",
+  "ref": "Work_control_arm.Disapprove_work",
+  "score": 100,
+  "method": "exact-name-local-clean",
+  "flag": ""
+ },
+ {
+  "module": "work_control",
+  "kind": "arm",
+  "svg": "armexpg2.svg",
+  "num": "8",
+  "ocr": "Monitor work",
+  "ref": "Work_control_arm.Monitor_work",
+  "score": 100,
+  "method": "exact-name-local-clean",
+  "flag": ""
+ },
+ {
+  "module": "work_control",
+  "kind": "arm",
+  "svg": "armexpg2.svg",
+  "num": "9",
+  "ocr": "Oder_an_end_to_work",
+  "ref": "Work_control_arm.Oder_an_end_to_work",
+  "score": 100,
+  "method": "exact-name-local-clean",
+  "flag": ""
+ },
+ {
+  "module": "work_control",
+  "kind": "arm",
+  "svg": "armexpg2.svg",
+  "num": "10",
+  "ocr": "Perform work as directed_by work order",
+  "ref": "Work_control_arm.Perform_work_as_directed_by_work_order",
+  "score": 100,
+  "method": "exact-name-local-clean",
+  "flag": ""
+ },
+ {
+  "module": "work_control",
+  "kind": "arm",
+  "svg": "armexpg2.svg",
+  "num": "11",
+  "ocr": "Prepare work_order",
+  "ref": "Work_control_arm.Prepare_work_order",
+  "score": 100,
+  "method": "exact-name-local-clean",
+  "flag": ""
+ },
+ {
+  "module": "work_control",
+  "kind": "arm",
+  "svg": "armexpg2.svg",
+  "num": "12",
+  "ocr": "Specify_perform_and _monitor wrk",
+  "ref": "Work_control_arm.Specify_perform_and_monitor_work",
+  "score": 91.52542372881356,
+  "method": "fuzzy-local-name",
+  "flag": "check"
+ },
+ {
+  "module": "work_control",
+  "kind": "arm",
+  "svg": "armexpg2.svg",
+  "num": "13",
+  "ocr": "Work order document",
+  "ref": "Work_control_arm.Work_order_document",
+  "score": 100,
+  "method": "exact-name-local-clean",
+  "flag": ""
+ }
+]

@@ -1,0 +1,40 @@
+(*"Type_of_person_mim.__expressg"
+[.svgmap]
+====
+image::mimexpg1.svg[]
+
+* <<express:Type_of_person_mim.short_listing>>; 1
+* <<express:management_resources_schema>>; 2
+* <<express:qualifications_schema>>; 3
+* <<express:Qualifications_mim.short_listing>>; 4
+* <<express:experience_schema>>; 5
+* <<express:Classification_assignment_mim.short_listing>>; 6
+* <<express:person_organization_schema>>; 7
+* <<express:Property_assignment_mim.short_listing>>; 8
+* <<express:Experience_mim.short_listing>>; 9
+* <<express:product_property_definition_schema>>; 10
+====
+*)
+
+(*"Type_of_person_mim.__expressg"
+[.svgmap]
+====
+image::mimexpg2.svg[]
+
+* <<express:Classification_assignment_mim.classification_item>>; 1
+* <<express:experience_schema.experience_type>>; 2
+* <<express:management_resources_schema.person_type_assignment>>; 3
+* <<express:management_resources_schema.person_type_definition_assignment>>; 4
+* <<express:person_organization_schema.person_type>>; 5
+* <<express:person_organization_schema.person_type_definition>>; 6
+* <<express:person_organization_schema.person_type_definition_relationship>>; 7
+* <<express:product_property_definition_schema.characterized_object>>; 8
+* <<express:qualifications_schema.qualification_type>>; 9
+* <<express:Type_of_person_mim.person_definition_item>>; 10
+* <<express:Type_of_person_mim.person_type_definition_relationship_classification_item>>; 11
+* <<express:Type_of_person_mim.person_type_item>>; 12
+* <<express:Type_of_person_mim.applied_person_type_assignment>>; 13
+* <<express:Type_of_person_mim.applied_person_type_definition_assignment>>; 14
+* <<express:Type_of_person_mim.characterized_person_type_definition>>; 15
+====
+*)

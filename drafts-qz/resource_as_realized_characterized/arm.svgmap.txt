@@ -1,0 +1,19 @@
+(*"Resource_as_realized_characterized_arm.__expressg"
+[.svgmap]
+====
+image::armexpg1.svg[]
+
+* <<express:Resource_as_realized_characterized_arm.required_am_arms>>; 1
+* <<express:Resource_as_realized_arm.required_am_arms>>; 2
+* <<express:Resource_management_characterized_arm.required_am_arms>>; 3
+====
+*)
+
+(*"Resource_as_realized_characterized_arm.__expressg"
+[.svgmap]
+====
+image::armexpg2.svg[]
+
+* <<express:Resource_as_realized_characterized_arm.required_am_arms>>; 12
+====
+*)

@@ -1,0 +1,71 @@
+(*"Sketch_arm.__expressg"
+[.svgmap]
+====
+image::armexpg1.svg[]
+
+* <<express:Sketch_arm.required_am_arms>>; 1
+* <<express:Geometric_constraints_arm.required_am_arms>>; 2
+* <<express:Solid_model_arm.required_am_arms>>; 3
+====
+*)
+
+(*"Sketch_arm.__expressg"
+[.svgmap]
+====
+image::armexpg2.svg[]
+
+* <<express:Sketch_arm.sketch_basis_select>>; 1
+* <<express:Sketch_arm.sketch_element_select>>; 2
+* <<express:Sketch_arm.sketch_type_select>>; 3
+* <<express:Sketch_arm.planar_curve_select>>; 4
+* <<express:Sketch_arm.5>>; 5
+* <<express:Elemental_geometric_shape_arm.Detailed_geometric_model_element>>; 6
+* <<express:Topologically_bounded_surface_arm.Advanced_face>>; 7
+* <<express:Elemental_geometric_shape_arm.Axis_placement>>; 8
+* <<express:Basic_geometry_arm.Conic>>; 9
+* <<express:Elemental_geometric_shape_arm.Geometric_model>>; 10
+* <<express:Elemental_geometric_shape_arm.Point>>; 11
+* <<express:Basic_geometry_arm.Curve>>; 12
+* <<express:Parameterization_and_variational_representation_arm.Auxiliary_geometric_representation_item>>; 13
+* <<express:Basic_geometry_arm.Line>>; 14
+* <<express:Sketch_arm.curves_or_area>>; 15
+* <<express:Sketch_arm.Subsketch>>; 16
+* <<express:Sketch_arm.Positioned_sketch>>; 17
+* <<express:Sketch_arm.Repositioned_sketch_2d_in_3d>>; 18
+* <<express:Sketch_arm.Implicit_explicit_sketch_relationship>>; 19
+* <<express:Sketch_arm.Sketch_2d_representation>>; 20
+* <<express:Sketch_arm.Rigid_subsketch>>; 21
+====
+*)
+
+(*"Sketch_arm.__expressg"
+[.svgmap]
+====
+image::armexpg3.svg[]
+
+* <<express:Sketch_arm.surface_or_solid_model>>; 1
+* <<express:Sketch_arm.Positioned_sketch>>; 2
+* <<express:Elemental_geometric_shape_arm.Direction>>; 3
+* <<express:Basic_geometry_arm.Curve>>; 4
+* <<express:Elemental_geometric_shape_arm.Direction>>; 5
+* <<express:Basic_geometry_arm.Curve>>; 6
+* <<express:Elemental_geometric_shape_arm.Direction>>; 7
+* <<express:Basic_geometry_arm.Curve>>; 8
+* <<express:Elemental_geometric_shape_arm.Cartesian_point>>; 9
+* <<express:Basic_geometry_arm.Curve>>; 10
+* <<express:Elemental_geometric_shape_arm.Cartesian_point>>; 11
+* <<express:Basic_geometry_arm.Curve>>; 12
+* <<express:Basic_geometry_arm.Curve>>; 13
+* <<express:Basic_geometry_arm.Curve>>; 14
+* <<express:Solid_model_arm.Solid_model>>; 15
+* <<express:Basic_geometry_arm.Surface>>; 16
+* <<express:Elemental_geometric_shape_arm.Point>>; 17
+* <<express:Parameterization_and_variational_representation_arm.Auxiliary_geometric_representation_item>>; 18
+* <<express:Sketch_arm.Implicit_planar_projection_point>>; 19
+* <<express:Sketch_arm.Implicit_planar_model_intersection_curve>>; 20
+* <<express:Sketch_arm.Implicit_planar_intersection_point>>; 21
+* <<express:Sketch_arm.Implicit_planar_projected_curve>>; 22
+* <<express:Sketch_arm.Implicit_planar_silhouette_curve>>; 23
+* <<express:Sketch_arm.Implicit_planar_intersection_curve>>; 24
+====
+*)

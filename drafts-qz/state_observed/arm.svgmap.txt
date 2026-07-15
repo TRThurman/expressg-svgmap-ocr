@@ -1,0 +1,68 @@
+(*"State_observed_arm.__expressg"
+[.svgmap]
+====
+image::armexpg1.svg[]
+
+* <<express:State_observed_arm.required_am_arms>>; 1
+* <<express:State_definition_arm.required_am_arms>>; 2
+====
+*)
+
+(*"State_observed_arm.__expressg"
+[.svgmap]
+====
+image::armexpg2.svg[]
+
+* <<express:State_observed_arm.Composition_of_state>>; 1
+* <<express:State_observed_arm.Sequence_of_state>>; 2
+* <<express:State_observed_arm.State>>; 3
+* <<express:State_observed_arm.State_cause_effect>>; 4
+* <<express:State_observed_arm.State_observed>>; 5
+* <<express:State_observed_arm.State_predicted>>; 6
+* <<express:State_observed_arm.State_predicted_to_observed>>; 7
+* <<express:State_observed_arm.State_relationship>>; 8
+* <<express:State_observed_arm.State_transition>>; 9
+====
+*)
+
+(*"State_observed_arm.__expressg"
+[.svgmap]
+====
+image::armexpg3.svg[]
+
+* <<express:Foundation_state_definition_arm.State_definition>>; 1
+* <<express:State_observed_arm.Defined_state_association>>; 3
+* <<express:State_observed_arm.Defined_state_relationship>>; 4
+* <<express:State_observed_arm.State>>; 5
+====
+*)
+
+(*"State_observed_arm.__expressg"
+[.svgmap]
+====
+image::armexpg4.svg[]
+
+* <<express:Foundation_state_definition_arm.State_definition>>; 1
+* <<express:State_observed_arm.Defined_state_association>>; 2
+* <<express:State_observed_arm.Defined_state_relationship>>; 3
+* <<express:State_observed_arm.Hypothesis_state_to_confirmation_state_relationship>>; 4
+* <<express:State_observed_arm.State>>; 5
+* <<express:State_observed_arm.State_assertion>>; 6
+* <<express:State_observed_arm.State_assessment>>; 7
+====
+*)
+
+(*"State_observed_arm.__expressg"
+[.svgmap]
+====
+image::armexpg5.svg[]
+
+* <<express:UNRESOLVED>>; 1
+* <<express:State_observed_arm.state_classification_item>>; 2
+* <<express:State_observed_arm.state_of_item>>; 3
+* <<express:State_observed_arm.Applied_state_assignment>>; 4
+* <<express:State_observed_arm.State>>; 5
+* <<express:State_observed_arm.State_relationship>>; 6
+* <<express:State_observed_arm.State_role>>; 7
+====
+*)

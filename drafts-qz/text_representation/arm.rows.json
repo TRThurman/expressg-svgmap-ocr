@@ -1,0 +1,222 @@
+[
+ {
+  "module": "text_representation",
+  "kind": "arm",
+  "svg": "armexpg1.svg",
+  "num": "1",
+  "ocr": "Text_appearance_arm",
+  "ref": "Text_appearance_arm.required_am_arms",
+  "score": 100,
+  "method": "schema->primary",
+  "flag": "convention"
+ },
+ {
+  "module": "text_representation",
+  "kind": "arm",
+  "svg": "armexpg1.svg",
+  "num": "2",
+  "ocr": "Text representation_arm",
+  "ref": "Text_representation_arm.required_am_arms",
+  "score": 100,
+  "method": "schema->primary",
+  "flag": "convention"
+ },
+ {
+  "module": "text_representation",
+  "kind": "arm",
+  "svg": "armexpg1.svg",
+  "num": "3",
+  "ocr": "Associative text arm",
+  "ref": "Associative_text_arm.required_am_arms",
+  "score": 100,
+  "method": "schema->primary",
+  "flag": "convention"
+ },
+ {
+  "module": "text_representation",
+  "kind": "arm",
+  "svg": "armexpg2.svg",
+  "num": "1",
+  "ocr": "(EXtr_font select",
+  "ref": "Text_representation_arm.tr_font_select",
+  "score": 85.71428571428572,
+  "method": "fuzzy-local-name",
+  "flag": "check"
+ },
+ {
+  "module": "text_representation",
+  "kind": "arm",
+  "svg": "armexpg2.svg",
+  "num": "2",
+  "ocr": "*(EX)tr_text _or_composite_text",
+  "ref": "Text_representation_arm.tr_text_or_composite_text",
+  "score": 100,
+  "method": "exact-name-local-clean",
+  "flag": ""
+ },
+ {
+  "module": "text_representation",
+  "kind": "arm",
+  "svg": "armexpg2.svg",
+  "num": "3",
+  "ocr": "(EX)tr_composite _text _element select",
+  "ref": "Text_representation_arm.tr_composite_text_element_select",
+  "score": 100,
+  "method": "exact-name-local-clean",
+  "flag": ""
+ },
+ {
+  "module": "text_representation",
+  "kind": "arm",
+  "svg": "armexpg2.svg",
+  "num": "4",
+  "ocr": "Elemental_geometric_shape_arm. Detailed geometric model_element",
+  "ref": "Elemental_geometric_shape_arm.Detailed_geometric_model_element",
+  "score": 100,
+  "method": "qualified-verbatim",
+  "flag": ""
+ },
+ {
+  "module": "text_representation",
+  "kind": "arm",
+  "svg": "armexpg2.svg",
+  "num": "5",
+  "ocr": "Support resource arm.label",
+  "ref": "Support_resource_arm.label",
+  "score": 100,
+  "method": "qualified-verbatim",
+  "flag": ""
+ },
+ {
+  "module": "text_representation",
+  "kind": "arm",
+  "svg": "armexpg2.svg",
+  "num": "6",
+  "ocr": "Elemental_geometric_shape arm.Axis placement",
+  "ref": "Elemental_geometric_shape_arm.Axis_placement",
+  "score": 100,
+  "method": "qualified-verbatim",
+  "flag": ""
+ },
+ {
+  "module": "text_representation",
+  "kind": "arm",
+  "svg": "armexpg2.svg",
+  "num": "7",
+  "ocr": "Text_appearance_arm.composite text element select",
+  "ref": "Text_appearance_arm.composite_text_element_select",
+  "score": 100,
+  "method": "qualified-verbatim",
+  "flag": ""
+ },
+ {
+  "module": "text_representation",
+  "kind": "arm",
+  "svg": "armexpg2.svg",
+  "num": "8",
+  "ocr": "Text appearance_arm.font _select",
+  "ref": "Text_appearance_arm.font_select",
+  "score": 100,
+  "method": "qualified-verbatim",
+  "flag": ""
+ },
+ {
+  "module": "text_representation",
+  "kind": "arm",
+  "svg": "armexpg2.svg",
+  "num": "9",
+  "ocr": "Associative text arm.text or composite_text",
+  "ref": "Associative_text_arm.text_or_composite_text",
+  "score": 100,
+  "method": "qualified-verbatim",
+  "flag": ""
+ },
+ {
+  "module": "text_representation",
+  "kind": "arm",
+  "svg": "armexpg2.svg",
+  "num": "10",
+  "ocr": "Foundation representation_arm. Representation",
+  "ref": "Foundation_representation_arm.Representation",
+  "score": 100,
+  "method": "qualified-verbatim",
+  "flag": ""
+ },
+ {
+  "module": "text_representation",
+  "kind": "arm",
+  "svg": "armexpg2.svg",
+  "num": "11",
+  "ocr": "Character glyph_symbol",
+  "ref": "Text_representation_arm.Character_glyph_symbol",
+  "score": 100,
+  "method": "exact-name-local-clean",
+  "flag": ""
+ },
+ {
+  "module": "text_representation",
+  "kind": "arm",
+  "svg": "armexpg2.svg",
+  "num": "12",
+  "ocr": "Character_glyph_font_usage",
+  "ref": "Text_representation_arm.Character_glyph_font_usage",
+  "score": 100,
+  "method": "exact-name-local-clean",
+  "flag": ""
+ },
+ {
+  "module": "text_representation",
+  "kind": "arm",
+  "svg": "armexpg2.svg",
+  "num": "13",
+  "ocr": "Text_font_in_family",
+  "ref": "Text_representation_arm.Text_font_in_family",
+  "score": 100,
+  "method": "exact-name-local-clean",
+  "flag": ""
+ },
+ {
+  "module": "text_representation",
+  "kind": "arm",
+  "svg": "armexpg2.svg",
+  "num": "14",
+  "ocr": "Text font",
+  "ref": "Text_representation_arm.Text_font",
+  "score": 100,
+  "method": "exact-name-local-clean",
+  "flag": ""
+ },
+ {
+  "module": "text_representation",
+  "kind": "arm",
+  "svg": "armexpg2.svg",
+  "num": "15",
+  "ocr": "Text font family",
+  "ref": "Text_representation_arm.Text_font_family",
+  "score": 100,
+  "method": "exact-name-local-clean",
+  "flag": ""
+ },
+ {
+  "module": "text_representation",
+  "kind": "arm",
+  "svg": "armexpg2.svg",
+  "num": "16",
+  "ocr": "Annotation text character",
+  "ref": "Text_representation_arm.Annotation_text_character",
+  "score": 100,
+  "method": "exact-name-local-clean",
+  "flag": ""
+ },
+ {
+  "module": "text_representation",
+  "kind": "arm",
+  "svg": "armexpg2.svg",
+  "num": "17",
+  "ocr": "*label1",
+  "ref": "Text_representation_arm.label1",
+  "score": 100,
+  "method": "exact-name-local-clean",
+  "flag": ""
+ }
+]

@@ -1,0 +1,145 @@
+[
+ {
+  "module": "vertex_colours_for_tessellated_geometry",
+  "kind": "arm",
+  "svg": "armexpg1.svg",
+  "num": "1",
+  "ocr": "Tessellated geometry amm",
+  "ref": "Tessellated_geometry_arm.required_am_arms",
+  "score": 91.30434782608697,
+  "method": "fuzzy-local-schema",
+  "flag": "check"
+ },
+ {
+  "module": "vertex_colours_for_tessellated_geometry",
+  "kind": "arm",
+  "svg": "armexpg1.svg",
+  "num": "2",
+  "ocr": "Appearance_assignment_am",
+  "ref": "Appearance_assignment_arm.required_am_arms",
+  "score": 93.61702127659575,
+  "method": "fuzzy-local-schema",
+  "flag": "check"
+ },
+ {
+  "module": "vertex_colours_for_tessellated_geometry",
+  "kind": "arm",
+  "svg": "armexpg1.svg",
+  "num": "3",
+  "ocr": "Vertex colours_for_tessellated_geometry_amm",
+  "ref": "Vertex_colours_for_tessellated_geometry_arm.required_am_arms",
+  "score": 91.35802469135803,
+  "method": "fuzzy-local-schema",
+  "flag": "check"
+ },
+ {
+  "module": "vertex_colours_for_tessellated_geometry",
+  "kind": "arm",
+  "svg": "armexpg2.svg",
+  "num": "1",
+  "ocr": "itessellated surface item",
+  "ref": "Vertex_colours_for_tessellated_geometry_arm.tessellated_surface_item",
+  "score": 93.61702127659575,
+  "method": "fuzzy-local-name",
+  "flag": "check"
+ },
+ {
+  "module": "vertex_colours_for_tessellated_geometry",
+  "kind": "arm",
+  "svg": "armexpg2.svg",
+  "num": "2",
+  "ocr": "TessellatedgeometryammCoordinateslist",
+  "ref": "Tessellated_geometry_arm.Coordinates_list",
+  "score": 93.5064935064935,
+  "method": "fuzzy-local-concat",
+  "flag": "check"
+ },
+ {
+  "module": "vertex_colours_for_tessellated_geometry",
+  "kind": "arm",
+  "svg": "armexpg2.svg",
+  "num": "3",
+  "ocr": "Appearance assignment_amStyled_element",
+  "ref": "Appearance_assignment_arm.Styled_element",
+  "score": 94.5945945945946,
+  "method": "fuzzy-local-concat",
+  "flag": "check"
+ },
+ {
+  "module": "vertex_colours_for_tessellated_geometry",
+  "kind": "arm",
+  "svg": "armexpg2.svg",
+  "num": "4",
+  "ocr": "Tessellatedgeometry_ammTessellated_surfaceset",
+  "ref": "Tessellated_geometry_arm.Tessellated_surface_set",
+  "score": 93.33333333333333,
+  "method": "fuzzy-local-concat",
+  "flag": "check"
+ },
+ {
+  "module": "vertex_colours_for_tessellated_geometry",
+  "kind": "arm",
+  "svg": "armexpg2.svg",
+  "num": "5",
+  "ocr": "Tessellatedgeometry_ammTessellated_shell",
+  "ref": "Tessellated_geometry_arm.Tessellated_shell",
+  "score": 93.67088607594937,
+  "method": "fuzzy-local-concat",
+  "flag": "check"
+ },
+ {
+  "module": "vertex_colours_for_tessellated_geometry",
+  "kind": "arm",
+  "svg": "armexpg2.svg",
+  "num": "6",
+  "ocr": "Tessellatedgeometry_ammTessellated_face",
+  "ref": "Tessellated_geometry_arm.Tessellated_face",
+  "score": 93.5064935064935,
+  "method": "fuzzy-local-concat",
+  "flag": "check"
+ },
+ {
+  "module": "vertex_colours_for_tessellated_geometry",
+  "kind": "arm",
+  "svg": "armexpg2.svg",
+  "num": "7",
+  "ocr": "Tessellatedgeometry_ammTessellated_solid",
+  "ref": "Tessellated_geometry_arm.Tessellated_solid",
+  "score": 93.67088607594937,
+  "method": "fuzzy-local-concat",
+  "flag": "check"
+ },
+ {
+  "module": "vertex_colours_for_tessellated_geometry",
+  "kind": "arm",
+  "svg": "armexpg2.svg",
+  "num": "8",
+  "ocr": "colour type enum",
+  "ref": "Vertex_colours_for_tessellated_geometry_arm.colour_type_enum",
+  "score": 100,
+  "method": "exact-name-local-clean",
+  "flag": ""
+ },
+ {
+  "module": "vertex_colours_for_tessellated_geometry",
+  "kind": "arm",
+  "svg": "armexpg2.svg",
+  "num": "9",
+  "ocr": "*Styled tessellated _element with_colours",
+  "ref": "Vertex_colours_for_tessellated_geometry_arm.Styled_tessellated_element_with_colours",
+  "score": 100,
+  "method": "exact-name-local-clean",
+  "flag": ""
+ },
+ {
+  "module": "vertex_colours_for_tessellated_geometry",
+  "kind": "arm",
+  "svg": "armexpg2.svg",
+  "num": "10",
+  "ocr": "unsigned_8_bit_integer",
+  "ref": "Vertex_colours_for_tessellated_geometry_arm.unsigned_8_bit_integer",
+  "score": 100,
+  "method": "exact-name-local-clean",
+  "flag": ""
+ }
+]

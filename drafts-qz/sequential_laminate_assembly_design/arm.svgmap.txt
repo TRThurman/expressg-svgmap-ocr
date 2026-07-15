@@ -1,0 +1,58 @@
+(*"Sequential_laminate_assembly_design_arm.__expressg"
+[.svgmap]
+====
+image::armexpg1.svg[]
+
+* <<express:Layered_interconnect_module_design_arm.required_am_arms>>; 1
+* <<express:Sequential_laminate_assembly_design_arm.required_am_arms>>; 2
+====
+*)
+
+(*"Sequential_laminate_assembly_design_arm.__expressg"
+[.svgmap]
+====
+image::armexpg2.svg[]
+
+* <<express:Sequential_laminate_assembly_design_arm.stack_or_sub_stack>>; 1
+* <<express:Sequential_laminate_assembly_design_arm.stratum_assembly_relationship_or_stratum_technology_occurrence>>; 2
+* <<express:Sequential_laminate_assembly_design_arm.slad_requirement_assignment_item>>; 3
+* <<express:Fabrication_technology_arm.Stratum_technology_occurrence>>; 4
+* <<express:Item_definition_structure_arm.Assembly_definition>>; 5
+* <<express:Layered_interconnect_module_design_arm.Interconnect_module_stratum_assembly_relationship>>; 6
+* <<express:Assembly_component_arm.Physical_component>>; 7
+* <<express:Layered_interconnect_module_design_arm.Adjacent_stratum_surface_embedded_physical_component_surface_definition>>; 8
+* <<express:Layered_interconnect_module_design_arm.Layered_interconnect_module_design_view>>; 9
+* <<express:UNRESOLVED>>; 10
+* <<express:Product_occurrence_arm.Single_instance>>; 11
+* <<express:Item_definition_structure_arm.Assembled_part_association>>; 12
+* <<express:Requirement_assignment_arm.requirement_assignment_item>>; 13
+* <<express:Fabrication_technology_arm.Design_stack_model>>; 14
+* <<express:Product_view_definition_relationship_arm.View_definition_relationship>>; 15
+* <<express:Sequential_laminate_assembly_design_arm.Sequential_laminate_stackup_definition>>; 16
+* <<express:Sequential_laminate_assembly_design_arm.Adjacent_stratum_surface_embedded_sequential_laminate_surface_definition>>; 17
+* <<express:Sequential_laminate_assembly_design_arm.Sequential_laminate_assembly_relationship>>; 18
+* <<express:Sequential_laminate_assembly_design_arm.Sequential_laminate_stackup_component>>; 19
+* <<express:Sequential_laminate_assembly_design_arm.Stackup_requirement_to_design_relationship>>; 20
+* <<express:Sequential_laminate_assembly_design_arm.Derived_laminate_assignment>>; 21
+====
+*)
+
+(*"Sequential_laminate_assembly_design_arm.__expressg"
+[.svgmap]
+====
+image::armexpg3.svg[]
+
+* <<express:Sequential_laminate_assembly_design_arm.slad_material_item_select>>; 1
+* <<express:Sequential_laminate_assembly_design_arm.slad_groupable_item>>; 2
+* <<express:Product_occurrence_arm.Definition_based_product_occurrence>>; 3
+* <<express:Group_arm.Group_relationship>>; 4
+* <<express:Generic_material_aspects_arm.material_item_select>>; 5
+* <<express:Assembly_module_with_interconnect_component_arm.Interconnect_module_component_terminal>>; 6
+* <<express:Layered_interconnect_module_design_arm.Interconnect_module_stratum_assembly_relationship>>; 7
+* <<express:Group_arm.groupable_item>>; 8
+* <<express:Interconnect_module_usage_view_arm.Interconnect_module_terminal>>; 9
+* <<express:Sequential_laminate_assembly_design_arm.Interconnect_module_product_assembly_view_fabrication_joint>>; 10
+* <<express:Sequential_laminate_assembly_design_arm.Interconnect_module_stratum_based_terminal>>; 11
+* <<express:Sequential_laminate_assembly_design_arm.Interconnect_module_component_stratum_based_terminal>>; 12
+====
+*)

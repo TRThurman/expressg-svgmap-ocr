@@ -1,0 +1,30 @@
+(*"System_structure_arm.__expressg"
+[.svgmap]
+====
+image::armexpg1.svg[]
+
+* <<express:System_structure_arm.required_am_arms>>; 1
+* <<express:Conditional_effectivity_arm.required_am_arms>>; 2
+* <<express:Collection_identification_and_version_arm.required_am_arms>>; 3
+* <<express:Identification_relationship_arm.required_am_arms>>; 4
+* <<express:Interface_arm.required_am_arms>>; 5
+* <<express:Location_assignment_arm.required_am_arms>>; 6
+* <<express:Physical_breakdown_arm.required_am_arms>>; 7
+* <<express:Product_data_management_arm.required_am_arms>>; 8
+* <<express:Product_environment_observed_arm.required_am_arms>>; 9
+* <<express:Product_group_arm.required_am_arms>>; 10
+* <<express:Same_as_external_item_arm.required_am_arms>>; 11
+* <<express:System_breakdown_arm.required_am_arms>>; 12
+* <<express:System_view_definition_arm.required_am_arms>>; 13
+* <<express:Zonal_breakdown_arm.required_am_arms>>; 14
+====
+*)
+
+(*"System_structure_arm.__expressg"
+[.svgmap]
+====
+image::armexpg2.svg[]
+
+* <<express:System_structure_arm.required_am_arms>>; 29
+====
+*)

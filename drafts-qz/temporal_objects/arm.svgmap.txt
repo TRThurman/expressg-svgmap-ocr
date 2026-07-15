@@ -1,0 +1,48 @@
+(*"Temporal_objects_arm.__expressg"
+[.svgmap]
+====
+image::armexpg1.svg[]
+
+* <<express:Temporal_objects_arm.required_am_arms>>; 1
+* <<express:Root_things_arm.required_am_arms>>; 2
+* <<express:Individual_activity_arm.required_am_arms>>; 3
+* <<express:Product_as_individual_arm.required_am_arms>>; 4
+* <<express:Event_arm.required_am_arms>>; 5
+====
+*)
+
+(*"Temporal_objects_arm.__expressg"
+[.svgmap]
+====
+image::armexpg2.svg[]
+
+* <<express:Event_arm.date_or_event>>; 1
+* <<express:Individual_activity_arm.Individual_activity>>; 2
+* <<express:Product_as_individual_arm.Product_as_individual_version>>; 3
+* <<express:Root_things_arm.Root_object_or_relationship>>; 4
+* <<express:Temporal_objects_arm.Temporal_object>>; 5
+* <<express:Temporal_objects_arm.Temporal_object_activity>>; 6
+* <<express:Temporal_objects_arm.Temporal_object_at_instant>>; 7
+* <<express:Temporal_objects_arm.Temporal_object_in_period>>; 8
+* <<express:Temporal_objects_arm.Temporal_object_product_as_individual_version_at_instant>>; 9
+* <<express:Temporal_objects_arm.Temporal_object_product_as_individual_version_in_period>>; 10
+====
+*)
+
+(*"Temporal_objects_arm.__expressg"
+[.svgmap]
+====
+image::armexpg3.svg[]
+
+* <<express:Root_things_arm.Root_relationship>>; 1
+* <<express:Temporal_objects_arm.Temporal_beginning>>; 2
+* <<express:Temporal_objects_arm.Temporal_containment>>; 3
+* <<express:Temporal_objects_arm.Temporal_end>>; 4
+* <<express:Temporal_objects_arm.Temporal_object>>; 5
+* <<express:Temporal_objects_arm.Temporal_object_at_instant>>; 6
+* <<express:Temporal_objects_arm.Temporal_object_in_period>>; 7
+* <<express:Temporal_objects_arm.Temporal_partial_sequence>>; 8
+* <<express:Temporal_objects_arm.Temporal_strict_sequence>>; 9
+* <<express:Temporal_objects_arm.Temporal_whole_part>>; 10
+====
+*)

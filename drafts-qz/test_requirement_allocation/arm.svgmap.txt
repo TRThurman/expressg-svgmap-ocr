@@ -1,0 +1,28 @@
+(*"Test_requirement_allocation_arm.__expressg"
+[.svgmap]
+====
+image::armexpg1.svg[]
+
+* <<express:Requirement_decomposition_arm.required_am_arms>>; 1
+* <<express:Test_requirement_allocation_arm.required_am_arms>>; 2
+* <<express:Functional_usage_view_arm.required_am_arms>>; 3
+* <<express:Functional_assignment_to_part_arm.required_am_arms>>; 4
+====
+*)
+
+(*"Test_requirement_allocation_arm.__expressg"
+[.svgmap]
+====
+image::armexpg2.svg[]
+
+* <<express:Test_requirement_allocation_arm.tra_requirement_assignment_item>>; 1
+* <<express:Functional_assignment_to_part_arm.Functional_usage_view_to_part_terminal_assignment>>; 2
+* <<express:Product_version_arm.Product_version>>; 3
+* <<express:Requirement_assignment_arm.requirement_assignment_item>>; 4
+* <<express:Product_version_arm.Product_version>>; 5
+* <<express:Requirement_decomposition_arm.Predefined_requirement_view_definition>>; 6
+* <<express:Analytical_model_arm.Analytical_model_port_assignment>>; 7
+* <<express:Requirement_assignment_arm.Requirement_assignment>>; 8
+* <<express:Test_requirement_allocation_arm.Test_requirement_allocation>>; 9
+====
+*)

@@ -1,0 +1,189 @@
+[
+ {
+  "module": "surface_visual_texture",
+  "kind": "arm",
+  "svg": "armexpg1.svg",
+  "num": "1",
+  "ocr": "Surface visual texfure amm",
+  "ref": "Surface_visual_texture_arm.required_am_arms",
+  "score": 85.71428571428572,
+  "method": "fuzzy-local-schema",
+  "flag": "check"
+ },
+ {
+  "module": "surface_visual_texture",
+  "kind": "arm",
+  "svg": "armexpg1.svg",
+  "num": "2",
+  "ocr": "Support resource amm",
+  "ref": "Support_resource_arm.required_am_arms",
+  "score": 89.47368421052632,
+  "method": "fuzzy-local-schema",
+  "flag": "check"
+ },
+ {
+  "module": "surface_visual_texture",
+  "kind": "arm",
+  "svg": "armexpg1.svg",
+  "num": "3",
+  "ocr": "Tessellated geometry amm",
+  "ref": "Tessellated_geometry_arm.required_am_arms",
+  "score": 91.30434782608697,
+  "method": "fuzzy-local-schema",
+  "flag": "check"
+ },
+ {
+  "module": "surface_visual_texture",
+  "kind": "arm",
+  "svg": "armexpg1.svg",
+  "num": "4",
+  "ocr": "Appearance_assignment amm",
+  "ref": "Appearance_assignment_arm.required_am_arms",
+  "score": 91.66666666666666,
+  "method": "fuzzy-local-schema",
+  "flag": "check"
+ },
+ {
+  "module": "surface_visual_texture",
+  "kind": "arm",
+  "svg": "armexpg2.svg",
+  "num": "1",
+  "ocr": "isva appearance select",
+  "ref": "Surface_visual_texture_arm.svt_appearance_select",
+  "score": 87.8048780487805,
+  "method": "fuzzy-local-name",
+  "flag": "check"
+ },
+ {
+  "module": "surface_visual_texture",
+  "kind": "arm",
+  "svg": "armexpg2.svg",
+  "num": "2",
+  "ocr": "itessellated_face _or tessellated surface set",
+  "ref": "Surface_visual_texture_arm.tessellated_face_or_tessellated_surface_set",
+  "score": 92.6829268292683,
+  "method": "fuzzy-local-name",
+  "flag": "check"
+ },
+ {
+  "module": "surface_visual_texture",
+  "kind": "arm",
+  "svg": "armexpg2.svg",
+  "num": "3",
+  "ocr": "Appearance assignment_amStyled element",
+  "ref": "Appearance_assignment_arm.Styled_element",
+  "score": 94.5945945945946,
+  "method": "fuzzy-local-concat",
+  "flag": "check"
+ },
+ {
+  "module": "surface_visual_texture",
+  "kind": "arm",
+  "svg": "armexpg2.svg",
+  "num": "4",
+  "ocr": "Tessellatedgeometry_ammTessellated_surfaceset",
+  "ref": "Tessellated_geometry_arm.Tessellated_surface_set",
+  "score": 93.33333333333333,
+  "method": "fuzzy-local-concat",
+  "flag": "check"
+ },
+ {
+  "module": "surface_visual_texture",
+  "kind": "arm",
+  "svg": "armexpg2.svg",
+  "num": "5",
+  "ocr": "Support resource _amlabel",
+  "ref": "Support_resource_arm.label",
+  "score": 93.61702127659575,
+  "method": "fuzzy-local-concat",
+  "flag": "check"
+ },
+ {
+  "module": "surface_visual_texture",
+  "kind": "arm",
+  "svg": "armexpg2.svg",
+  "num": "6",
+  "ocr": "Appearance assignmentamAppearanceassignment",
+  "ref": "Appearance_assignment_arm.Appearance_assignment",
+  "score": 95.45454545454545,
+  "method": "fuzzy-local-concat",
+  "flag": "check"
+ },
+ {
+  "module": "surface_visual_texture",
+  "kind": "arm",
+  "svg": "armexpg2.svg",
+  "num": "7",
+  "ocr": "Tessellatedgeometry_ammTessellated_face",
+  "ref": "Tessellated_geometry_arm.Tessellated_face",
+  "score": 93.5064935064935,
+  "method": "fuzzy-local-concat",
+  "flag": "check"
+ },
+ {
+  "module": "surface_visual_texture",
+  "kind": "arm",
+  "svg": "armexpg2.svg",
+  "num": "8",
+  "ocr": "Appearance_assignment_amappearance select",
+  "ref": "Appearance_assignment_arm.appearance_select",
+  "score": 95.0,
+  "method": "fuzzy-local-concat",
+  "flag": "check"
+ },
+ {
+  "module": "surface_visual_texture",
+  "kind": "arm",
+  "svg": "armexpg2.svg",
+  "num": "9",
+  "ocr": "visual texture file typei",
+  "ref": "Surface_visual_texture_arm.visual_texture_file_type",
+  "score": 91.30434782608697,
+  "method": "fuzzy-local-name",
+  "flag": "check"
+ },
+ {
+  "module": "surface_visual_texture",
+  "kind": "arm",
+  "svg": "armexpg2.svg",
+  "num": "10",
+  "ocr": "(ABS)Texture_style_tessellation_specfcaion",
+  "ref": "Surface_visual_texture_arm.Texture_style_tessellation_specification",
+  "score": 91.89189189189189,
+  "method": "fuzzy-local-name",
+  "flag": "check"
+ },
+ {
+  "module": "surface_visual_texture",
+  "kind": "arm",
+  "svg": "armexpg2.svg",
+  "num": "11",
+  "ocr": "Single texture_style_tessellation specification",
+  "ref": "Surface_visual_texture_arm.Single_texture_style_tessellation_specification",
+  "score": 100,
+  "method": "exact-name-local-clean",
+  "flag": ""
+ },
+ {
+  "module": "surface_visual_texture",
+  "kind": "arm",
+  "svg": "armexpg2.svg",
+  "num": "12",
+  "ocr": "*Styled tessellated face_or surface_with_texture",
+  "ref": "Surface_visual_texture_arm.Styled_tessellated_face_or_surface_with_texture",
+  "score": 100,
+  "method": "exact-name-local-clean",
+  "flag": ""
+ },
+ {
+  "module": "surface_visual_texture",
+  "kind": "arm",
+  "svg": "armexpg2.svg",
+  "num": "13",
+  "ocr": "*non negative real",
+  "ref": "Surface_visual_texture_arm.non_negative_real",
+  "score": 100,
+  "method": "exact-name-local-clean",
+  "flag": ""
+ }
+]

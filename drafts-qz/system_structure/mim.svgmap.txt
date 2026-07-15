@@ -1,0 +1,109 @@
+(*"System_structure_mim.__expressg"
+[.svgmap]
+====
+image::mimexpg1.svg[]
+
+* <<express:System_structure_mim.short_listing>>; 1
+* <<express:Collection_identification_and_version_mim.short_listing>>; 2
+* <<express:Conditional_effectivity_mim.short_listing>>; 3
+* <<express:date_time_schema>>; 4
+* <<express:Identification_relationship_mim.short_listing>>; 5
+* <<express:Interface_mim.short_listing>>; 6
+* <<express:Location_assignment_mim.short_listing>>; 7
+* <<express:Physical_breakdown_mim.short_listing>>; 8
+* <<express:Product_data_management_mim.short_listing>>; 9
+* <<express:Product_environment_observed_mim.short_listing>>; 10
+* <<express:Product_group_mim.short_listing>>; 11
+* <<express:product_property_definition_schema>>; 12
+* <<express:Same_as_external_item_mim.short_listing>>; 13
+* <<express:System_breakdown_mim.short_listing>>; 14
+* <<express:System_view_definition_mim.short_listing>>; 15
+* <<express:Zonal_breakdown_mim.short_listing>>; 16
+====
+*)
+
+(*"System_structure_mim.__expressg"
+[.svgmap]
+====
+image::mimexpg2.svg[]
+
+* <<express:Conditional_effectivity_mim.Group>>; 1
+* <<express:Product_data_management_mim.action_directive>>; 2
+* <<express:Product_data_management_mim.Address>>; 3
+* <<express:UNRESOLVED>>; 4
+* <<express:Product_data_management_mim.applied_action_assignment>>; 5
+* <<express:Product_data_management_mim.applied_document_reference>>; 6
+* <<express:System_structure_mim.syss_characterizable_applied_document_usage_constraint_assignment>>; 7
+* <<express:Product_data_management_mim.applied_organization_assignment>>; 8
+* <<express:Product_data_management_mim.applied_person_and_organization_assignment>>; 9
+* <<express:Product_data_management_mim.assembly_component_usage>>; 10
+* <<express:Product_data_management_mim.configuration_item>>; 11
+* <<express:Product_data_management_mim.general_property_relationship>>; 12
+* <<express:product_property_definition_schema.characterized_object>>; 13
+* <<express:System_structure_mim.syss_characterizable_action_directive>>; 14
+* <<express:System_structure_mim.syss_characterizable_address>>; 15
+* <<express:System_structure_mim.syss_characterizable_alternate_product_relationship>>; 16
+* <<express:System_structure_mim.syss_characterizable_applied_action_assignment>>; 17
+* <<express:System_structure_mim.syss_characterizable_applied_document_reference>>; 18
+* <<express:System_structure_mim.syss_characterizable_applied_document_usage_constraint_assignment>>; 19
+* <<express:System_structure_mim.syss_characterizable_applied_organization_assignment>>; 20
+* <<express:System_structure_mim.syss_characterizable_applied_person_and_organization_assignment>>; 21
+* <<express:System_structure_mim.syss_characterizable_assembly_component_usage>>; 22
+* <<express:System_structure_mim.syss_characterizable_configuration_item>>; 23
+* <<express:System_structure_mim.syss_characterizable_general_property_relationship>>; 24
+* <<express:System_structure_mim.syss_characterizable_group>>; 25
+====
+*)
+
+(*"System_structure_mim.__expressg"
+[.svgmap]
+====
+image::mimexpg3.svg[]
+
+* <<express:Collection_identification_and_version_mim.Product>>; 1
+* <<express:Collection_identification_and_version_mim.product_definition_formation>>; 2
+* <<express:Collection_identification_and_version_mim.product_definition_formation_relationship>>; 3
+* <<express:Product_data_management_mim.Person>>; 4
+* <<express:Product_data_management_mim.person_and_organization>>; 5
+* <<express:Product_data_management_mim.ProductConcept>>; 6
+* <<express:Product_data_management_mim.property_definition_representation>>; 7
+* <<express:Product_data_management_mim.Representation>>; 8
+* <<express:Product_data_management_mim.RepresentationContext>>; 9
+* <<express:Product_data_management_mim.RepresentationItem>>; 10
+* <<express:Product_data_management_mim.SecurityClassification>>; 11
+* <<express:Product_data_management_mim.organizational_project>>; 12
+* <<express:product_property_definition_schema.characterized_object>>; 13
+* <<express:System_structure_mim.syss_characterizable_organizational_project>>; 14
+* <<express:System_structure_mim.syss_characterizable_person>>; 15
+* <<express:System_structure_mim.syss_characterizable_person_and_organization>>; 16
+* <<express:System_structure_mim.syss_characterizable_product>>; 17
+* <<express:System_structure_mim.syss_characterizable_product_concept>>; 18
+* <<express:System_structure_mim.syss_characterizable_product_definition_formation>>; 19
+* <<express:System_structure_mim.syss_characterizable_product_definition_formation_relationship>>; 20
+* <<express:System_structure_mim.syss_characterizable_property_definition_representation>>; 21
+* <<express:System_structure_mim.syss_characterizable_representation>>; 22
+* <<express:System_structure_mim.syss_characterizable_representation_context>>; 23
+* <<express:System_structure_mim.syss_characterizable_representation_item>>; 24
+* <<express:System_structure_mim.syss_characterizable_security_classification>>; 25
+====
+*)
+
+(*"System_structure_mim.__expressg"
+[.svgmap]
+====
+image::mimexpg4.svg[]
+
+* <<express:Product_data_management_mim.versioned_action_request>>; 1
+* <<express:product_property_definition_schema.characterized_object>>; 2
+* <<express:System_structure_mim.syss_characterizable_versioned_action_request>>; 3
+====
+*)
+
+(*"System_structure_mim.__expressg"
+[.svgmap]
+====
+image::mimexpg5.svg[]
+
+* <<express:System_structure_mim.short_listing>>; 30
+====
+*)

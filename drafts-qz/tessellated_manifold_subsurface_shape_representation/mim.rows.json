@@ -1,0 +1,35 @@
+[
+ {
+  "module": "tessellated_manifold_subsurface_shape_representation",
+  "kind": "mim",
+  "svg": "mimexpg1.svg",
+  "num": "1",
+  "ocr": "topology_schema",
+  "ref": "topology_schema",
+  "score": 100,
+  "method": "schema->primary",
+  "flag": "convention"
+ },
+ {
+  "module": "tessellated_manifold_subsurface_shape_representation",
+  "kind": "mim",
+  "svg": "mimexpg1.svg",
+  "num": "2",
+  "ocr": "Elemental_geometric_shape_mim",
+  "ref": "Elemental_geometric_shape_mim.short_listing",
+  "score": 100,
+  "method": "schema->primary",
+  "flag": "convention"
+ },
+ {
+  "module": "tessellated_manifold_subsurface_shape_representation",
+  "kind": "mim",
+  "svg": "mimexpg1.svg",
+  "num": "3",
+  "ocr": "geometric_model_schema",
+  "ref": "geometric_model_schema",
+  "score": 100,
+  "method": "schema->primary",
+  "flag": "convention"
+ }
+]

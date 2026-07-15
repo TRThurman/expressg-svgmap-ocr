@@ -1,0 +1,37 @@
+(*"Wire_and_cable_design_connectivity_arm.__expressg"
+[.svgmap]
+====
+image::armexpg1.svg[]
+
+* <<express:General_design_connectivity_arm.required_am_arms>>; 1
+* <<express:Wire_and_cable_design_connectivity_arm.required_am_arms>>; 2
+====
+*)
+
+(*"Wire_and_cable_design_connectivity_arm.__expressg"
+[.svgmap]
+====
+image::armexpg2.svg[]
+
+* <<express:UNRESOLVED>>; 1
+* <<express:General_design_connectivity_arm.Occurrence_transport_feature>>; 2
+* <<express:General_design_connectivity_arm.Occurrence_terminal>>; 3
+* <<express:UNRESOLVED>>; 4
+* <<express:UNRESOLVED>>; 5
+* <<express:UNRESOLVED>>; 6
+* <<express:General_design_connectivity_arm.Part_transport_feature>>; 7
+* <<express:UNRESOLVED>>; 8
+* <<express:Wire_and_cable_design_connectivity_arm.wacdc_part_category>>; 9
+* <<express:Wire_and_cable_design_connectivity_arm.Cable_occurrence_terminal>>; 10
+* <<express:Wire_and_cable_design_connectivity_arm.Wire_colour_based_identification_code>>; 11
+* <<express:Wire_and_cable_design_connectivity_arm.Wire_occurrence_identification>>; 12
+* <<express:Wire_and_cable_design_connectivity_arm.Cable_occurrence>>; 13
+* <<express:Wire_and_cable_design_connectivity_arm.Cable_occurrence_terminal_location_group>>; 14
+* <<express:Wire_and_cable_design_connectivity_arm.Wire_part_identification>>; 15
+* <<express:Wire_and_cable_design_connectivity_arm.Occurrence_marking_property>>; 16
+* <<express:Wire_and_cable_design_connectivity_arm.Wire_occurrence>>; 17
+* <<express:Wire_and_cable_design_connectivity_arm.Wire_occurrence_terminal>>; 18
+* <<express:Wire_and_cable_design_connectivity_arm.wacdc_occurrence_terminal_subtypes>>; 19
+* <<express:Wire_and_cable_design_connectivity_arm.wacdc_product_occurrence_with_quantity_subtypes>>; 20
+====
+*)

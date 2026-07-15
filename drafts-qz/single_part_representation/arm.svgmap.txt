@@ -1,0 +1,34 @@
+(*"Single_part_representation_arm.__expressg"
+[.svgmap]
+====
+image::armexpg1.svg[]
+
+* <<express:Single_part_representation_arm.required_am_arms>>; 1
+* <<express:Document_assignment_arm.required_am_arms>>; 2
+* <<express:Extended_measure_representation_arm.required_am_arms>>; 3
+* <<express:Part_view_definition_arm.required_am_arms>>; 4
+* <<express:Person_organization_assignment_arm.required_am_arms>>; 5
+* <<express:Property_assignment_arm.required_am_arms>>; 6
+* <<express:Shape_property_assignment_arm.required_am_arms>>; 7
+====
+*)
+
+(*"Single_part_representation_arm.__expressg"
+[.svgmap]
+====
+image::armexpg2.svg[]
+
+* <<express:Document_assignment_arm.documented_element_select>>; 1
+* <<express:Document_assignment_arm.Document>>; 2
+* <<express:Document_assignment_arm.Document_version>>; 3
+* <<express:Document_assignment_arm.Document_definition>>; 4
+* <<express:Part_view_definition_arm.Part>>; 5
+* <<express:Part_view_definition_arm.Part_view_definition>>; 6
+* <<express:Part_view_definition_arm.Part_version>>; 7
+* <<express:Person_organization_assignment_arm.organization_or_person_in_organization_item>>; 8
+* <<express:Property_assignment_arm.property_assignment_select>>; 9
+* <<express:Single_part_representation_arm.spr_documented_element_select>>; 10
+* <<express:Single_part_representation_arm.spr_organization_or_person_in_organization_item>>; 11
+* <<express:Single_part_representation_arm.spr_product_property_assignment>>; 12
+====
+*)

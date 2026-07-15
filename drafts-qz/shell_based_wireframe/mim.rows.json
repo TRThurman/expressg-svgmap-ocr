@@ -1,0 +1,35 @@
+[
+ {
+  "module": "shell_based_wireframe",
+  "kind": "mim",
+  "svg": "mimexpg1.svg",
+  "num": "1",
+  "ocr": "Shell_based_wireframe_mim",
+  "ref": "Shell_based_wireframe_mim.short_listing",
+  "score": 100,
+  "method": "schema->primary",
+  "flag": "convention"
+ },
+ {
+  "module": "shell_based_wireframe",
+  "kind": "mim",
+  "svg": "mimexpg1.svg",
+  "num": "2",
+  "ocr": "aic_shell_based_wireframe",
+  "ref": "aic_shell_based_wireframe",
+  "score": 100,
+  "method": "schema->primary",
+  "flag": "convention"
+ },
+ {
+  "module": "shell_based_wireframe",
+  "kind": "mim",
+  "svg": "mimexpg1.svg",
+  "num": "3",
+  "ocr": "Elemental_geometric_shape_mim",
+  "ref": "Elemental_geometric_shape_mim.short_listing",
+  "score": 100,
+  "method": "schema->primary",
+  "flag": "convention"
+ }
+]

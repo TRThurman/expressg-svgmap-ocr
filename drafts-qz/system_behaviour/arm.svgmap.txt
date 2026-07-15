@@ -1,0 +1,10 @@
+(*"System_behaviour_arm.__expressg"
+[.svgmap]
+====
+image::armexpg1.svg[]
+
+* <<express:System_behaviour_arm.required_am_arms>>; 1
+* <<express:Function_based_behaviour_arm.required_am_arms>>; 2
+* <<express:State_based_behaviour_arm.required_am_arms>>; 3
+====
+*)

@@ -1,0 +1,211 @@
+[
+ {
+  "module": "reference_data_library",
+  "kind": "mim",
+  "svg": "mimexpg1.svg",
+  "num": "1",
+  "ocr": "Reference_data_library_mim",
+  "ref": "Reference_data_library_mim.short_listing",
+  "score": 100,
+  "method": "schema->primary",
+  "flag": "convention"
+ },
+ {
+  "module": "reference_data_library",
+  "kind": "mim",
+  "svg": "mimexpg1.svg",
+  "num": "2",
+  "ocr": "Class_of_activity_library_mim",
+  "ref": "Class_of_activity_library_mim.short_listing",
+  "score": 100,
+  "method": "schema->primary",
+  "flag": "convention"
+ },
+ {
+  "module": "reference_data_library",
+  "kind": "mim",
+  "svg": "mimexpg1.svg",
+  "num": "3",
+  "ocr": "Class_of_product_library_mim",
+  "ref": "Class_of_product_library_mim.short_listing",
+  "score": 100,
+  "method": "schema->primary",
+  "flag": "convention"
+ },
+ {
+  "module": "reference_data_library",
+  "kind": "mim",
+  "svg": "mimexpg1.svg",
+  "num": "4",
+  "ocr": "Organization_type_mim",
+  "ref": "Organization_type_mim.short_listing",
+  "score": 100,
+  "method": "schema->primary",
+  "flag": "convention"
+ },
+ {
+  "module": "reference_data_library",
+  "kind": "mim",
+  "svg": "mimexpg1.svg",
+  "num": "5",
+  "ocr": "Class_of_person_mim",
+  "ref": "Class_of_person_mim.short_listing",
+  "score": 100,
+  "method": "schema->primary",
+  "flag": "convention"
+ },
+ {
+  "module": "reference_data_library",
+  "kind": "mim",
+  "svg": "mimexpg1.svg",
+  "num": "6",
+  "ocr": "Property_condition_mim",
+  "ref": "Property_condition_mim.short_listing",
+  "score": 100,
+  "method": "schema->primary",
+  "flag": "convention"
+ },
+ {
+  "module": "reference_data_library",
+  "kind": "mim",
+  "svg": "mimexpg1.svg",
+  "num": "7",
+  "ocr": "Property_identification_mim",
+  "ref": "Property_identification_mim.short_listing",
+  "score": 100,
+  "method": "schema->primary",
+  "flag": "convention"
+ },
+ {
+  "module": "reference_data_library",
+  "kind": "mim",
+  "svg": "mimexpg1.svg",
+  "num": "8",
+  "ocr": "Property_space_mim",
+  "ref": "Property_space_mim.short_listing",
+  "score": 100,
+  "method": "schema->primary",
+  "flag": "convention"
+ },
+ {
+  "module": "reference_data_library",
+  "kind": "mim",
+  "svg": "mimexpg1.svg",
+  "num": "9",
+  "ocr": "Indep end ent_property_definition_mim",
+  "ref": "Independent_property_definition_mim.short_listing",
+  "score": 100,
+  "method": "schema->primary",
+  "flag": "convention"
+ },
+ {
+  "module": "reference_data_library",
+  "kind": "mim",
+  "svg": "mimexpg1.svg",
+  "num": "10",
+  "ocr": "Schematic_and_symbolization_mim",
+  "ref": "Schematic_and_symbolization_mim.short_listing",
+  "score": 100,
+  "method": "schema->primary",
+  "flag": "convention"
+ },
+ {
+  "module": "reference_data_library",
+  "kind": "mim",
+  "svg": "mimexpg1.svg",
+  "num": "11",
+  "ocr": "External_item_identification_assignm ent_mim",
+  "ref": "External_item_identification_assignment_mim.short_listing",
+  "score": 100,
+  "method": "schema->primary",
+  "flag": "convention"
+ },
+ {
+  "module": "reference_data_library",
+  "kind": "mim",
+  "svg": "mimexpg2.svg",
+  "num": "1",
+  "ocr": "library symbolized_class_select",
+  "ref": "Reference_data_library_mim.library_symbolized_class_select",
+  "score": 100,
+  "method": "exact-name-local-clean",
+  "flag": ""
+ },
+ {
+  "module": "reference_data_library",
+  "kind": "mim",
+  "svg": "mimexpg2.svg",
+  "num": "2",
+  "ocr": "library_ _symbolized_item_seect",
+  "ref": "Reference_data_library_mim.library_symbolized_item_select",
+  "score": 92.85714285714286,
+  "method": "fuzzy-local-name",
+  "flag": "check"
+ },
+ {
+  "module": "reference_data_library",
+  "kind": "mim",
+  "svg": "mimexpg2.svg",
+  "num": "3",
+  "ocr": "library_involved_class_select",
+  "ref": "Reference_data_library_mim.library_involved_class_select",
+  "score": 100,
+  "method": "exact-name-local-clean",
+  "flag": ""
+ },
+ {
+  "module": "reference_data_library",
+  "kind": "mim",
+  "svg": "mimexpg2.svg",
+  "num": "4",
+  "ocr": "externally_identified_rdl_class_or_relationship",
+  "ref": "Reference_data_library_mim.externally_identified_rdl_class_or_relationship",
+  "score": 100,
+  "method": "exact-name-local-clean",
+  "flag": ""
+ },
+ {
+  "module": "reference_data_library",
+  "kind": "mim",
+  "svg": "mimexpg2.svg",
+  "num": "5",
+  "ocr": "Symb olization_by_schematic_elemnent_mim.symbolized_iten_select",
+  "ref": null,
+  "score": 0,
+  "method": "no-match",
+  "flag": "UNRESOLVED"
+ },
+ {
+  "module": "reference_data_library",
+  "kind": "mim",
+  "svg": "mimexpg2.svg",
+  "num": "6",
+  "ocr": "Class_of_involvenent_in_activity_mim.involved_class_select",
+  "ref": null,
+  "score": 0,
+  "method": "no-match",
+  "flag": "UNRESOLVED"
+ },
+ {
+  "module": "reference_data_library",
+  "kind": "mim",
+  "svg": "mimexpg2.svg",
+  "num": "7",
+  "ocr": "Symb olization_by_schematic_elenent_mim.symbolized_class_select",
+  "ref": null,
+  "score": 0,
+  "method": "no-match",
+  "flag": "UNRESOLVED"
+ },
+ {
+  "module": "reference_data_library",
+  "kind": "mim",
+  "svg": "mimexpg2.svg",
+  "num": "8",
+  "ocr": "External_iten_identification_assignm ent_mim.external_identification_iten",
+  "ref": "External_item_identification_assignment_mim.external_identification_item",
+  "score": 92.64705882352942,
+  "method": "fuzzy-local-concat",
+  "flag": "check"
+ }
+]

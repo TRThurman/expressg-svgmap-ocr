@@ -1,0 +1,43 @@
+(*"State_characterized_mim.__expressg"
+[.svgmap]
+====
+image::mimexpg1.svg[]
+
+* <<express:State_characterized_mim.short_listing>>; 1
+* <<express:Condition_characterized_mim.short_listing>>; 2
+* <<express:Condition_evaluation_characterized_mim.short_listing>>; 3
+* <<express:product_property_definition_schema>>; 4
+* <<express:Property_assignment_mim.short_listing>>; 5
+* <<express:State_observed_mim.short_listing>>; 6
+====
+*)
+
+(*"State_characterized_mim.__expressg"
+[.svgmap]
+====
+image::mimexpg2.svg[]
+
+* <<express:product_property_definition_schema.characterized_object>>; 1
+* <<express:State_observed_mim.state_observed_assignment>>; 2
+* <<express:State_observed_mim.StateObserved>>; 3
+* <<express:State_observed_mim.state_observed_relationship>>; 4
+* <<express:State_observed_mim.state_type_assignment>>; 5
+* <<express:State_observed_mim.state_type>>; 6
+* <<express:State_observed_mim.state_type_relationship>>; 7
+* <<express:State_characterized_mim.statechar_applied_object>>; 8
+* <<express:State_characterized_mim.statechar_object>>; 9
+* <<express:State_characterized_mim.statechar_relationship_object>>; 10
+* <<express:State_characterized_mim.statechar_type_applied_object>>; 11
+* <<express:State_characterized_mim.statechar_type_object>>; 12
+* <<express:State_characterized_mim.statechar_type_relationship_object>>; 13
+====
+*)
+
+(*"State_characterized_mim.__expressg"
+[.svgmap]
+====
+image::mimexpg3.svg[]
+
+* <<express:State_characterized_mim.short_listing>>; 12
+====
+*)

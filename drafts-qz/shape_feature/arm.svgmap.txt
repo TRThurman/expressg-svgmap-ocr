@@ -1,0 +1,47 @@
+(*"Shape_feature_arm.__expressg"
+[.svgmap]
+====
+image::armexpg1.svg[]
+
+* <<express:Contextual_shape_positioning_arm.required_am_arms>>; 1
+* <<express:Shape_feature_arm.required_am_arms>>; 2
+* <<express:Property_assignment_arm.required_am_arms>>; 3
+* <<express:Characterizable_object_arm.required_am_arms>>; 4
+* <<express:Support_resource_arm.required_am_arms>>; 5
+====
+*)
+
+(*"Shape_feature_arm.__expressg"
+[.svgmap]
+====
+image::armexpg2.svg[]
+
+* <<express:Shape_feature_arm.shape_feature_definition_or_element>>; 1
+* <<express:Shape_feature_arm.sf_assigned_shape_property_select>>; 2
+* <<express:Shape_feature_arm.sf_property_assignment_select>>; 3
+* <<express:Shape_feature_arm.shape_feature_definition_or_element_relationship_select>>; 4
+* <<express:Shape_feature_arm.sf_shapeable_item>>; 5
+* <<express:Shape_feature_arm.sf_represented_definition>>; 6
+* <<express:Characterizable_object_arm.Characterizable_object>>; 7
+* <<express:Characterizable_object_arm.Characterizable_object>>; 8
+* <<express:Property_assignment_arm.property_assignment_select>>; 9
+* <<express:Support_resource_arm.label>>; 10
+* <<express:Property_assignment_arm.property_assignment_select>>; 11
+* <<express:Property_assignment_arm.Assigned_property>>; 12
+* <<express:Property_assignment_arm.property_assignment_select>>; 13
+* <<express:Property_assignment_arm.represented_definition>>; 14
+* <<express:Support_resource_arm.text>>; 15
+* <<express:Property_assignment_arm.Property_definition_relationship>>; 16
+* <<express:Property_assignment_arm.property_assignment_select>>; 17
+* <<express:Shape_feature_arm.Shape_feature_definition_element>>; 18
+* <<express:Shape_feature_arm.Shape_feature_definition_element_relationship>>; 19
+* <<express:Shape_feature_arm.Placed_feature>>; 20
+* <<express:Shape_feature_arm.Instanced_feature>>; 21
+* <<express:Shape_feature_arm.Shape_feature_definition>>; 22
+* <<express:Shape_feature_arm.Shape_feature_definition_relationship>>; 23
+* <<express:Shape_feature_arm.Shape_feature_definition_occurrence_element>>; 24
+* <<express:Shape_feature_arm.General_feature>>; 25
+* <<express:Shape_feature_arm.Shape_feature_definition_occurrence_element_relationship>>; 26
+* <<express:Shape_feature_arm.sf_shape_element>>; 27
+====
+*)

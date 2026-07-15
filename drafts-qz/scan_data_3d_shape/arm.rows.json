@@ -1,0 +1,233 @@
+[
+ {
+  "module": "scan_data_3d_shape",
+  "kind": "arm",
+  "svg": "armexpg1.svg",
+  "num": "1",
+  "ocr": "Foundation_ representation _am",
+  "ref": "Foundation_representation_arm.required_am_arms",
+  "score": 94.54545454545455,
+  "method": "fuzzy-local-schema",
+  "flag": "check"
+ },
+ {
+  "module": "scan_data_3d_shape",
+  "kind": "arm",
+  "svg": "armexpg1.svg",
+  "num": "2",
+  "ocr": "Scan_data_3d_shape_amm",
+  "ref": "Scan_data_3d_shape_arm.required_am_arms",
+  "score": 85.0,
+  "method": "fuzzy-local-schema",
+  "flag": "check"
+ },
+ {
+  "module": "scan_data_3d_shape",
+  "kind": "arm",
+  "svg": "armexpg1.svg",
+  "num": "3",
+  "ocr": "Elemental geometric_shape_amm",
+  "ref": "Elemental_geometric_shape_arm.required_am_arms",
+  "score": 90.9090909090909,
+  "method": "fuzzy-local-schema",
+  "flag": "check"
+ },
+ {
+  "module": "scan_data_3d_shape",
+  "kind": "arm",
+  "svg": "armexpg2.svg",
+  "num": "1",
+  "ocr": "point cloud set_or_superset",
+  "ref": "Scan_data_3d_shape_arm.point_cloud_set_or_superset",
+  "score": 100,
+  "method": "exact-name-local-clean",
+  "flag": ""
+ },
+ {
+  "module": "scan_data_3d_shape",
+  "kind": "arm",
+  "svg": "armexpg2.svg",
+  "num": "2",
+  "ocr": "Value with unit_ammlength measure",
+  "ref": null,
+  "score": 0,
+  "method": "no-match",
+  "flag": "UNRESOLVED"
+ },
+ {
+  "module": "scan_data_3d_shape",
+  "kind": "arm",
+  "svg": "armexpg2.svg",
+  "num": "3",
+  "ocr": "Foundationrepresentation_ammRepresentation item",
+  "ref": "Foundation_representation_arm.Representation_item",
+  "score": 94.6236559139785,
+  "method": "fuzzy-local-concat",
+  "flag": "check"
+ },
+ {
+  "module": "scan_data_3d_shape",
+  "kind": "arm",
+  "svg": "armexpg2.svg",
+  "num": "4",
+  "ocr": "Elemental geometric_shape_ammGeometric model",
+  "ref": "Elemental_geometric_shape_arm.Geometric_model",
+  "score": 92.85714285714286,
+  "method": "fuzzy-local-concat",
+  "flag": "check"
+ },
+ {
+  "module": "scan_data_3d_shape",
+  "kind": "arm",
+  "svg": "armexpg2.svg",
+  "num": "5",
+  "ocr": "Elemental geometric shape ammDetailed geometric model element",
+  "ref": "Elemental_geometric_shape_arm.Detailed_geometric_model_element",
+  "score": 93.10344827586206,
+  "method": "fuzzy-local-concat",
+  "flag": "check"
+ },
+ {
+  "module": "scan_data_3d_shape",
+  "kind": "arm",
+  "svg": "armexpg2.svg",
+  "num": "6",
+  "ocr": "Support resource _amlabel",
+  "ref": null,
+  "score": 0,
+  "method": "no-match",
+  "flag": "UNRESOLVED"
+ },
+ {
+  "module": "scan_data_3d_shape",
+  "kind": "arm",
+  "svg": "armexpg2.svg",
+  "num": "7",
+  "ocr": "Elemental geometric shape amAxis placement_3d",
+  "ref": "Elemental_geometric_shape_arm.Axis_placement_3d",
+  "score": 93.02325581395348,
+  "method": "fuzzy-local-concat",
+  "flag": "check"
+ },
+ {
+  "module": "scan_data_3d_shape",
+  "kind": "arm",
+  "svg": "armexpg2.svg",
+  "num": "8",
+  "ocr": "*Point _cloud_dataset_with_colours",
+  "ref": "Scan_data_3d_shape_arm.Point_cloud_dataset_with_colours",
+  "score": 100,
+  "method": "exact-name-local-clean",
+  "flag": ""
+ },
+ {
+  "module": "scan_data_3d_shape",
+  "kind": "arm",
+  "svg": "armexpg2.svg",
+  "num": "9",
+  "ocr": "*Scanned_data item",
+  "ref": "Scan_data_3d_shape_arm.Scanned_data_item",
+  "score": 100,
+  "method": "exact-name-local-clean",
+  "flag": ""
+ },
+ {
+  "module": "scan_data_3d_shape",
+  "kind": "arm",
+  "svg": "armexpg2.svg",
+  "num": "10",
+  "ocr": "Scan_data_shape_representation",
+  "ref": "Scan_data_3d_shape_arm.Scan_data_shape_representation",
+  "score": 100,
+  "method": "exact-name-local-clean",
+  "flag": ""
+ },
+ {
+  "module": "scan_data_3d_shape",
+  "kind": "arm",
+  "svg": "armexpg2.svg",
+  "num": "11",
+  "ocr": "Point cloud dataset",
+  "ref": "Scan_data_3d_shape_arm.Point_cloud_dataset",
+  "score": 100,
+  "method": "exact-name-local-clean",
+  "flag": ""
+ },
+ {
+  "module": "scan_data_3d_shape",
+  "kind": "arm",
+  "svg": "armexpg2.svg",
+  "num": "12",
+  "ocr": "(ABS) Scanner_property",
+  "ref": "Scan_data_3d_shape_arm.Scanner_property",
+  "score": 100,
+  "method": "exact-name-local-clean",
+  "flag": ""
+ },
+ {
+  "module": "scan_data_3d_shape",
+  "kind": "arm",
+  "svg": "armexpg2.svg",
+  "num": "13",
+  "ocr": "*Point_cloud_dataset_with_nomals",
+  "ref": "Scan_data_3d_shape_arm.Point_cloud_dataset_with_normals",
+  "score": 91.52542372881356,
+  "method": "fuzzy-local-name",
+  "flag": "check"
+ },
+ {
+  "module": "scan_data_3d_shape",
+  "kind": "arm",
+  "svg": "armexpg2.svg",
+  "num": "14",
+  "ocr": "*Scan_3d model",
+  "ref": "Scan_data_3d_shape_arm.Scan_3d_model",
+  "score": 100,
+  "method": "exact-name-local-clean",
+  "flag": ""
+ },
+ {
+  "module": "scan_data_3d_shape",
+  "kind": "arm",
+  "svg": "armexpg2.svg",
+  "num": "15",
+  "ocr": "Triangulated point cloud_dataset",
+  "ref": "Scan_data_3d_shape_arm.Triangulated_point_cloud_dataset",
+  "score": 100,
+  "method": "exact-name-local-clean",
+  "flag": ""
+ },
+ {
+  "module": "scan_data_3d_shape",
+  "kind": "arm",
+  "svg": "armexpg2.svg",
+  "num": "16",
+  "ocr": "Scanner basic properties",
+  "ref": "Scan_data_3d_shape_arm.Scanner_basic_properties",
+  "score": 100,
+  "method": "exact-name-local-clean",
+  "flag": ""
+ },
+ {
+  "module": "scan_data_3d_shape",
+  "kind": "arm",
+  "svg": "armexpg2.svg",
+  "num": "17",
+  "ocr": "*Point_cloud_superdataset",
+  "ref": "Scan_data_3d_shape_arm.Point_cloud_superdataset",
+  "score": 100,
+  "method": "exact-name-local-clean",
+  "flag": ""
+ },
+ {
+  "module": "scan_data_3d_shape",
+  "kind": "arm",
+  "svg": "armexpg2.svg",
+  "num": "18",
+  "ocr": "*Point _cloud_dataset_with _intensitties",
+  "ref": "Scan_data_3d_shape_arm.Point_cloud_dataset_with_intensities",
+  "score": 92.7536231884058,
+  "method": "fuzzy-local-name",
+  "flag": "check"
+ }
+]

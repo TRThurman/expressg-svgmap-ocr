@@ -1,0 +1,46 @@
+[
+ {
+  "module": "test_select_product",
+  "kind": "arm",
+  "svg": "armexpg1.svg",
+  "num": "1",
+  "ocr": "Product_replacement_arm",
+  "ref": "Product_replacement_arm.required_am_arms",
+  "score": 100,
+  "method": "schema->primary",
+  "flag": "convention"
+ },
+ {
+  "module": "test_select_product",
+  "kind": "arm",
+  "svg": "armexpg1.svg",
+  "num": "2",
+  "ocr": "Test_select_product_arm",
+  "ref": "Test_select_product_arm.required_am_arms",
+  "score": 100,
+  "method": "schema->primary",
+  "flag": "convention"
+ },
+ {
+  "module": "test_select_product",
+  "kind": "arm",
+  "svg": "armexpg2.svg",
+  "num": "1",
+  "ocr": "Product replacement _arm.Alternate product relationship",
+  "ref": "Product_replacement_arm.Alternate_product_relationship",
+  "score": 100,
+  "method": "qualified-verbatim",
+  "flag": ""
+ },
+ {
+  "module": "test_select_product",
+  "kind": "arm",
+  "svg": "armexpg2.svg",
+  "num": "2",
+  "ocr": "Test_select_product",
+  "ref": "Test_select_product_arm.Test_select_product",
+  "score": 100,
+  "method": "exact-name-local-clean",
+  "flag": ""
+ }
+]

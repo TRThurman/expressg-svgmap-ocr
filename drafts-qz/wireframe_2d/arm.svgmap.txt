@@ -1,0 +1,19 @@
+(*"Wireframe_2d_arm.__expressg"
+[.svgmap]
+====
+image::armexpg1.svg[]
+
+* <<express:Wireframe_2d_arm.required_am_arms>>; 1
+* <<express:Elemental_geometric_shape_arm.required_am_arms>>; 2
+====
+*)
+
+(*"Wireframe_2d_arm.__expressg"
+[.svgmap]
+====
+image::armexpg2.svg[]
+
+* <<express:Elemental_geometric_shape_arm.Geometric_model>>; 1
+* <<express:Wireframe_2d_arm.Geometrically_bounded_2d_wireframe_shape_representation>>; 2
+====
+*)

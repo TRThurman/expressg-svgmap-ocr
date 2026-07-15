@@ -1,0 +1,48 @@
+(*"Reference_data_library_mim.__expressg"
+[.svgmap]
+====
+image::mimexpg1.svg[]
+
+* <<express:Reference_data_library_mim.short_listing>>; 1
+* <<express:Class_of_activity_library_mim.short_listing>>; 2
+* <<express:Class_of_product_library_mim.short_listing>>; 3
+* <<express:Organization_type_mim.short_listing>>; 4
+* <<express:Class_of_person_mim.short_listing>>; 5
+* <<express:Property_condition_mim.short_listing>>; 6
+* <<express:Property_identification_mim.short_listing>>; 7
+* <<express:Property_space_mim.short_listing>>; 8
+* <<express:Independent_property_definition_mim.short_listing>>; 9
+* <<express:Schematic_and_symbolization_mim.short_listing>>; 10
+* <<express:External_item_identification_assignment_mim.short_listing>>; 11
+====
+*)
+
+(*"Reference_data_library_mim.__expressg"
+[.svgmap]
+====
+image::mimexpg2.svg[]
+
+* <<express:Reference_data_library_mim.library_symbolized_class_select>>; 1
+* <<express:Reference_data_library_mim.library_symbolized_item_select>>; 2
+* <<express:Reference_data_library_mim.library_involved_class_select>>; 3
+* <<express:Reference_data_library_mim.externally_identified_rdl_class_or_relationship>>; 4
+* <<express:UNRESOLVED>>; 5
+* <<express:UNRESOLVED>>; 6
+* <<express:UNRESOLVED>>; 7
+* <<express:External_item_identification_assignment_mim.external_identification_item>>; 8
+====
+*)
+
+(*"Reference_data_library_mim.__expressg"
+[.svgmap]
+====
+image::mimexpg3.svg[]
+====
+*)
+
+(*"Reference_data_library_mim.__expressg"
+[.svgmap]
+====
+image::mimexpg4.svg[]
+====
+*)

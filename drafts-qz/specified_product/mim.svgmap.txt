@@ -1,0 +1,28 @@
+(*"Specified_product_mim.__expressg"
+[.svgmap]
+====
+image::mimexpg1.svg[]
+
+* <<express:Specified_product_mim.short_listing>>; 1
+* <<express:Characterizable_object_mim.short_listing>>; 2
+* <<express:Product_class_mim.short_listing>>; 3
+* <<express:configuration_management_schema>>; 4
+* <<express:Configuration_item_mim.short_listing>>; 5
+====
+*)
+
+(*"Specified_product_mim.__expressg"
+[.svgmap]
+====
+image::mimexpg2.svg[]
+
+* <<express:Specified_product_mim.id_for_product_identification>>; 1
+* <<express:product_property_definition_schema.characterized_object>>; 2
+* <<express:configuration_management_schema.configurable_item>>; 3
+* <<express:Identification_assignment_mim.identification_item>>; 4
+* <<express:configuration_management_schema.configuration_item>>; 5
+* <<express:Product_class_mim.product_class>>; 6
+* <<express:Specified_product_mim.product_specification>>; 7
+* <<express:Specified_product_mim.product_identification>>; 8
+====
+*)

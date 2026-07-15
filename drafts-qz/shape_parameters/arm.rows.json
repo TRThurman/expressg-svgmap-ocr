@@ -1,0 +1,90 @@
+[
+ {
+  "module": "shape_parameters",
+  "kind": "arm",
+  "svg": "armexpg1.svg",
+  "num": "1",
+  "ocr": "Shape _parameters_amm",
+  "ref": "Shape_parameters_arm.required_am_arms",
+  "score": 89.47368421052632,
+  "method": "fuzzy-local-schema",
+  "flag": "check"
+ },
+ {
+  "module": "shape_parameters",
+  "kind": "arm",
+  "svg": "armexpg1.svg",
+  "num": "2",
+  "ocr": "External_item_identification_assignment_arm",
+  "ref": "External_item_identification_assignment_arm.required_am_arms",
+  "score": 100,
+  "method": "schema->primary",
+  "flag": "convention"
+ },
+ {
+  "module": "shape_parameters",
+  "kind": "arm",
+  "svg": "armexpg2.svg",
+  "num": "1",
+  "ocr": "i(Ex)physical_unit_shape_model_select",
+  "ref": "Shape_parameters_arm.physical_unit_shape_model_select",
+  "score": 88.88888888888889,
+  "method": "fuzzy-local-name",
+  "flag": "check"
+ },
+ {
+  "module": "shape_parameters",
+  "kind": "arm",
+  "svg": "armexpg2.svg",
+  "num": "2",
+  "ocr": "material_condition_property_names",
+  "ref": "Shape_parameters_arm.material_condition_property_names",
+  "score": 100,
+  "method": "exact-name-local-clean",
+  "flag": ""
+ },
+ {
+  "module": "shape_parameters",
+  "kind": "arm",
+  "svg": "armexpg2.svg",
+  "num": "3",
+  "ocr": "predefined_keepout_purpose",
+  "ref": "Shape_parameters_arm.predefined_keepout_purpose",
+  "score": 100,
+  "method": "exact-name-local-clean",
+  "flag": ""
+ },
+ {
+  "module": "shape_parameters",
+  "kind": "arm",
+  "svg": "armexpg2.svg",
+  "num": "4",
+  "ocr": "(EX9 application_environmenti",
+  "ref": "Shape_parameters_arm.application_environment",
+  "score": 89.79591836734694,
+  "method": "fuzzy-local-name",
+  "flag": "check"
+ },
+ {
+  "module": "shape_parameters",
+  "kind": "arm",
+  "svg": "armexpg2.svg",
+  "num": "5",
+  "ocr": "material_condition",
+  "ref": "Shape_parameters_arm.material_condition",
+  "score": 100,
+  "method": "exact-name-local-clean",
+  "flag": ""
+ },
+ {
+  "module": "shape_parameters",
+  "kind": "arm",
+  "svg": "armexpg2.svg",
+  "num": "6",
+  "ocr": "keepout_product_design_object _catgory",
+  "ref": "Shape_parameters_arm.keepout_product_design_object_category",
+  "score": 92.95774647887323,
+  "method": "fuzzy-local-name",
+  "flag": "check"
+ }
+]

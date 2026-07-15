@@ -1,0 +1,9 @@
+(*"Thickened_face_solid_mim.__expressg"
+[.svgmap]
+====
+image::mimexpg1.svg[]
+
+* <<express:Topologically_bounded_surface_mim.short_listing>>; 1
+* <<express:solid_shape_element_schema>>; 2
+====
+*)

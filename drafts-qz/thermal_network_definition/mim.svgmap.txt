@@ -1,0 +1,23 @@
+(*"Thermal_network_definition_mim.__expressg"
+[.svgmap]
+====
+image::mimexpg1.svg[]
+
+* <<express:Component_feature_mim.short_listing>>; 1
+* <<express:Network_functional_design_view_mim.short_listing>>; 2
+* <<express:Thermal_network_definition_mim.short_listing>>; 3
+* <<express:Non_feature_shape_element_mim.short_listing>>; 4
+====
+*)
+
+(*"Thermal_network_definition_mim.__expressg"
+[.svgmap]
+====
+image::mimexpg2.svg[]
+
+* <<express:Functional_usage_view_mim.functional_unit>>; 1
+* <<express:Network_functional_design_view_mim.network_node_definition>>; 2
+* <<express:Thermal_network_definition_mim.thermal_network>>; 3
+* <<express:Thermal_network_definition_mim.thermal_network_node_definition>>; 4
+====
+*)

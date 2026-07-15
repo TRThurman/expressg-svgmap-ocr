@@ -1,0 +1,13 @@
+(*"Resource_property_assignment_mim.__expressg"
+[.svgmap]
+====
+image::mimexpg1.svg[]
+
+* <<express:Resource_property_assignment_mim.short_listing>>; 1
+* <<express:Foundation_representation_mim.short_listing>>; 2
+* <<express:Independent_property_mim.short_listing>>; 3
+* <<express:process_property_schema>>; 4
+* <<express:process_property_representation_schema>>; 5
+* <<express:product_property_definition_schema>>; 6
+====
+*)

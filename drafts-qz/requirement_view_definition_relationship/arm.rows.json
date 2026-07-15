@@ -1,0 +1,101 @@
+[
+ {
+  "module": "requirement_view_definition_relationship",
+  "kind": "arm",
+  "svg": "armexpg1.svg",
+  "num": "1",
+  "ocr": "Product_view _definition _relationship arm",
+  "ref": "Product_view_definition_relationship_arm.required_am_arms",
+  "score": 100,
+  "method": "schema->primary",
+  "flag": "convention"
+ },
+ {
+  "module": "requirement_view_definition_relationship",
+  "kind": "arm",
+  "svg": "armexpg1.svg",
+  "num": "2",
+  "ocr": "Requirement_view_definition_arm",
+  "ref": "Requirement_view_definition_arm.required_am_arms",
+  "score": 100,
+  "method": "schema->primary",
+  "flag": "convention"
+ },
+ {
+  "module": "requirement_view_definition_relationship",
+  "kind": "arm",
+  "svg": "armexpg1.svg",
+  "num": "3",
+  "ocr": "Requirement_view_definition_relationship arm",
+  "ref": "Requirement_view_definition_relationship_arm.required_am_arms",
+  "score": 100,
+  "method": "schema->primary",
+  "flag": "convention"
+ },
+ {
+  "module": "requirement_view_definition_relationship",
+  "kind": "arm",
+  "svg": "armexpg2.svg",
+  "num": "1",
+  "ocr": "Requirement_view_definition_arm.Requirement view definition",
+  "ref": "Requirement_view_definition_arm.Requirement_view_definition",
+  "score": 100,
+  "method": "qualified-verbatim",
+  "flag": ""
+ },
+ {
+  "module": "requirement_view_definition_relationship",
+  "kind": "arm",
+  "svg": "armexpg2.svg",
+  "num": "2",
+  "ocr": "Product_view_definition_relationship_arm. View_definition_relationship",
+  "ref": "Product_view_definition_relationship_arm.View_definition_relationship",
+  "score": 100,
+  "method": "qualified-verbatim",
+  "flag": ""
+ },
+ {
+  "module": "requirement_view_definition_relationship",
+  "kind": "arm",
+  "svg": "armexpg2.svg",
+  "num": "3",
+  "ocr": "*Requirement_view definition relationship",
+  "ref": "Requirement_view_definition_relationship_arm.Requirement_view_definition_relationship",
+  "score": 100,
+  "method": "exact-name-local-clean",
+  "flag": ""
+ },
+ {
+  "module": "requirement_view_definition_relationship",
+  "kind": "arm",
+  "svg": "armexpg2.svg",
+  "num": "4",
+  "ocr": "Requirement_precedence_relationship",
+  "ref": "Requirement_view_definition_relationship_arm.Requirement_precedence_relationship",
+  "score": 100,
+  "method": "exact-name-local-clean",
+  "flag": ""
+ },
+ {
+  "module": "requirement_view_definition_relationship",
+  "kind": "arm",
+  "svg": "armexpg2.svg",
+  "num": "5",
+  "ocr": "Tracing relationship",
+  "ref": "Requirement_view_definition_relationship_arm.Tracing_relationship",
+  "score": 100,
+  "method": "exact-name-local-clean",
+  "flag": ""
+ },
+ {
+  "module": "requirement_view_definition_relationship",
+  "kind": "arm",
+  "svg": "armexpg2.svg",
+  "num": "6",
+  "ocr": "Requirement collection relationship",
+  "ref": "Requirement_view_definition_relationship_arm.Requirement_collection_relationship",
+  "score": 100,
+  "method": "exact-name-local-clean",
+  "flag": ""
+ }
+]

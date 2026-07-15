@@ -1,0 +1,20 @@
+(*"Shape_parameters_mim.__expressg"
+[.svgmap]
+====
+image::mimexpg1.svg[]
+
+* <<express:Shape_parameters_mim.short_listing>>; 1
+* <<express:Product_property_definition_schema>>; 2
+* <<express:External_item_identification_assignment_mim.short_listing>>; 3
+====
+*)
+
+(*"Shape_parameters_mim.__expressg"
+[.svgmap]
+====
+image::mimexpg2.svg[]
+
+* <<express:product_property_definition_schema.characterized_object>>; 1
+* <<express:Shape_parameters_mim.keepout_design_object_category>>; 2
+====
+*)

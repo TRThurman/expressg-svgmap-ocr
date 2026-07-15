@@ -1,0 +1,37 @@
+(*"Work_output_mim.__expressg"
+[.svgmap]
+====
+image::mimexpg1.svg[]
+
+* <<express:Work_output_mim.short_listing>>; 1
+* <<express:Classification_assignment_mim.short_listing>>; 2
+* <<express:Value_with_unit_mim.short_listing>>; 3
+* <<express:Activity_method_assignment_mim.short_listing>>; 4
+* <<express:action_schema>>; 5
+* <<express:representation_schema>>; 6
+* <<express:process_property_schema>>; 7
+* <<express:process_property_representation_schema>>; 8
+* <<express:management_resources_schema>>; 9
+====
+*)
+
+(*"Work_output_mim.__expressg"
+[.svgmap]
+====
+image::mimexpg2.svg[]
+
+* <<express:action_schema.action_method>>; 1
+* <<express:action_schema.action_method_relationship>>; 2
+* <<express:Classification_assignment_mim.classification_item>>; 3
+* <<express:management_resources_schema.action_method_assignment>>; 4
+* <<express:management_resources_schema.action_method_role>>; 5
+* <<express:process_property_representation_schema.action_property_representation>>; 6
+* <<express:process_property_schema.action_property>>; 7
+* <<express:process_property_schema.characterized_action_definition>>; 8
+* <<express:representation_schema.representation>>; 9
+* <<express:representation_schema.representation_context>>; 10
+* <<express:representation_schema.representation_item>>; 11
+* <<express:representation_schema.value_representation_item>>; 12
+* <<express:Work_output_mim.work_output_classification_item>>; 13
+====
+*)

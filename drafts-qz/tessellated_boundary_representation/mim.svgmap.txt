@@ -1,0 +1,9 @@
+(*"Tessellated_boundary_representation_mim.__expressg"
+[.svgmap]
+====
+image::mimexpg1.svg[]
+
+* <<express:geometric_model_schema>>; 1
+* <<express:Elemental_geometric_shape_mim.short_listing>>; 2
+====
+*)

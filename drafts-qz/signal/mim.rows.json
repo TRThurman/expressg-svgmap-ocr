@@ -1,0 +1,178 @@
+[
+ {
+  "module": "signal",
+  "kind": "mim",
+  "svg": "mimexpg1.svg",
+  "num": "1",
+  "ocr": "material_property_definition_schema",
+  "ref": "Material_property_definition_schema",
+  "score": 100,
+  "method": "schema->primary",
+  "flag": "convention+unverified"
+ },
+ {
+  "module": "signal",
+  "kind": "mim",
+  "svg": "mimexpg1.svg",
+  "num": "2",
+  "ocr": "group schema",
+  "ref": "Group_schema",
+  "score": 100,
+  "method": "schema->primary",
+  "flag": "convention+unverified"
+ },
+ {
+  "module": "signal",
+  "kind": "mim",
+  "svg": "mimexpg1.svg",
+  "num": "3",
+  "ocr": "product_property_definition_schema",
+  "ref": "Product_property_definition_schema",
+  "score": 100,
+  "method": "schema->primary",
+  "flag": "convention+unverified"
+ },
+ {
+  "module": "signal",
+  "kind": "mim",
+  "svg": "mimexpg1.svg",
+  "num": "4",
+  "ocr": "Characteristic_mim",
+  "ref": "Characteristic_mim.short_listing",
+  "score": 100,
+  "method": "schema->primary",
+  "flag": "convention"
+ },
+ {
+  "module": "signal",
+  "kind": "mim",
+  "svg": "mimexpg1.svg",
+  "num": "5",
+  "ocr": "Signal mim",
+  "ref": "Signal_mim.short_listing",
+  "score": 100,
+  "method": "schema->primary",
+  "flag": "convention"
+ },
+ {
+  "module": "signal",
+  "kind": "mim",
+  "svg": "mimexpg1.svg",
+  "num": "6",
+  "ocr": "document schema",
+  "ref": "Document_schema",
+  "score": 100,
+  "method": "schema->primary",
+  "flag": "convention+unverified"
+ },
+ {
+  "module": "signal",
+  "kind": "mim",
+  "svg": "mimexpg2.svg",
+  "num": "1",
+  "ocr": "\uff08EX)s_external_identification_item",
+  "ref": "Signal_mim.s_external_identification_item",
+  "score": 91.52542372881356,
+  "method": "fuzzy-local-name",
+  "flag": "check"
+ },
+ {
+  "module": "signal",
+  "kind": "mim",
+  "svg": "mimexpg2.svg",
+  "num": "2",
+  "ocr": "product property definition _schema.characterized_object",
+  "ref": "product_property_definition_schema.characterized_object",
+  "score": 100,
+  "method": "qualified-verbatim",
+  "flag": ""
+ },
+ {
+  "module": "signal",
+  "kind": "mim",
+  "svg": "mimexpg2.svg",
+  "num": "3",
+  "ocr": "group schema.group",
+  "ref": "group_schema.group",
+  "score": 100,
+  "method": "qualified-verbatim",
+  "flag": ""
+ },
+ {
+  "module": "signal",
+  "kind": "mim",
+  "svg": "mimexpg2.svg",
+  "num": "4",
+  "ocr": "material_property_definition_schema.property_ definition_relationship",
+  "ref": "material_property_definition_schema.property_definition_relationship",
+  "score": 100,
+  "method": "qualified-verbatim",
+  "flag": ""
+ },
+ {
+  "module": "signal",
+  "kind": "mim",
+  "svg": "mimexpg2.svg",
+  "num": "5",
+  "ocr": "product property _definition schema.property definition",
+  "ref": "product_property_definition_schema.property_definition",
+  "score": 100,
+  "method": "qualified-verbatim",
+  "flag": ""
+ },
+ {
+  "module": "signal",
+  "kind": "mim",
+  "svg": "mimexpg2.svg",
+  "num": "6",
+  "ocr": "product_property_definition_schema.property_ definition",
+  "ref": "product_property_definition_schema.property_definition",
+  "score": 100,
+  "method": "qualified-verbatim",
+  "flag": ""
+ },
+ {
+  "module": "signal",
+  "kind": "mim",
+  "svg": "mimexpg2.svg",
+  "num": "7",
+  "ocr": "External_item_identification_assignment_mim.external_identification_item",
+  "ref": "External_item_identification_assignment_mim.external_identification_item",
+  "score": 100,
+  "method": "qualified-verbatim",
+  "flag": ""
+ },
+ {
+  "module": "signal",
+  "kind": "mim",
+  "svg": "mimexpg2.svg",
+  "num": "8",
+  "ocr": "signal",
+  "ref": "Signal_mim.signal",
+  "score": 100,
+  "method": "exact-name-local-clean",
+  "flag": ""
+ },
+ {
+  "module": "signal",
+  "kind": "mim",
+  "svg": "mimexpg2.svg",
+  "num": "9",
+  "ocr": "composite signal property relationship",
+  "ref": "Signal_mim.composite_signal_property_relationship",
+  "score": 100,
+  "method": "exact-name-local-clean",
+  "flag": ""
+ },
+ {
+  "module": "signal",
+  "kind": "mim",
+  "svg": "mimexpg2.svg",
+  "num": "10",
+  "ocr": "signal_category",
+  "ref": "Signal_mim.signal_category",
+  "score": 100,
+  "method": "exact-name-local-clean",
+  "flag": ""
+ }
+]

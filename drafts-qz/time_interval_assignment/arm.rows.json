@@ -1,0 +1,68 @@
+[
+ {
+  "module": "time_interval_assignment",
+  "kind": "arm",
+  "svg": "armexpg1.svg",
+  "num": "1",
+  "ocr": "Time _interval_assignment arm",
+  "ref": "Time_interval_assignment_arm.required_am_arms",
+  "score": 100,
+  "method": "schema->primary",
+  "flag": "convention"
+ },
+ {
+  "module": "time_interval_assignment",
+  "kind": "arm",
+  "svg": "armexpg1.svg",
+  "num": "2",
+  "ocr": "Time interval arm",
+  "ref": "Time_interval_arm.required_am_arms",
+  "score": 100,
+  "method": "schema->primary",
+  "flag": "convention"
+ },
+ {
+  "module": "time_interval_assignment",
+  "kind": "arm",
+  "svg": "armexpg2.svg",
+  "num": "1",
+  "ocr": "Time_interval_arm.Time_interval",
+  "ref": "Time_interval_arm.Time_interval",
+  "score": 100,
+  "method": "qualified-verbatim",
+  "flag": ""
+ },
+ {
+  "module": "time_interval_assignment",
+  "kind": "arm",
+  "svg": "armexpg2.svg",
+  "num": "2",
+  "ocr": "(EX) time_interval_item",
+  "ref": "Time_interval_assignment_arm.time_interval_item",
+  "score": 100,
+  "method": "exact-name-local-clean",
+  "flag": ""
+ },
+ {
+  "module": "time_interval_assignment",
+  "kind": "arm",
+  "svg": "armexpg2.svg",
+  "num": "3",
+  "ocr": "Time_interval_assignment",
+  "ref": "Time_interval_assignment_arm.Time_interval_assignment",
+  "score": 100,
+  "method": "exact-name-local-clean",
+  "flag": ""
+ },
+ {
+  "module": "time_interval_assignment",
+  "kind": "arm",
+  "svg": "armexpg2.svg",
+  "num": "4",
+  "ocr": "Time interval role",
+  "ref": "Time_interval_assignment_arm.Time_interval_role",
+  "score": 100,
+  "method": "exact-name-local-clean",
+  "flag": ""
+ }
+]

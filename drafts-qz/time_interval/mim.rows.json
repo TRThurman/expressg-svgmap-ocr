@@ -1,0 +1,46 @@
+[
+ {
+  "module": "time_interval",
+  "kind": "mim",
+  "svg": "mimexpg1.svg",
+  "num": "1",
+  "ocr": "Time_interval_mim",
+  "ref": "Time_interval_mim.short_listing",
+  "score": 100,
+  "method": "schema->primary",
+  "flag": "convention"
+ },
+ {
+  "module": "time_interval",
+  "kind": "mim",
+  "svg": "mimexpg1.svg",
+  "num": "2",
+  "ocr": "Event mim",
+  "ref": "Event_mim.short_listing",
+  "score": 100,
+  "method": "schema->primary",
+  "flag": "convention"
+ },
+ {
+  "module": "time_interval",
+  "kind": "mim",
+  "svg": "mimexpg1.svg",
+  "num": "3",
+  "ocr": "Value_with_unit_mim",
+  "ref": "Value_with_unit_mim.short_listing",
+  "score": 100,
+  "method": "schema->primary",
+  "flag": "convention"
+ },
+ {
+  "module": "time_interval",
+  "kind": "mim",
+  "svg": "mimexpg1.svg",
+  "num": "4",
+  "ocr": "date_time_schema",
+  "ref": "date_time_schema",
+  "score": 100,
+  "method": "schema->primary",
+  "flag": "convention"
+ }
+]

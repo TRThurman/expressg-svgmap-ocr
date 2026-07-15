@@ -1,0 +1,101 @@
+[
+ {
+  "module": "requirement_view_definition",
+  "kind": "arm",
+  "svg": "armexpg1.svg",
+  "num": "1",
+  "ocr": "Requirement_view_definition_arm",
+  "ref": "Requirement_view_definition_arm.required_am_arms",
+  "score": 100,
+  "method": "schema->primary",
+  "flag": "convention"
+ },
+ {
+  "module": "requirement_view_definition",
+  "kind": "arm",
+  "svg": "armexpg1.svg",
+  "num": "2",
+  "ocr": "Product view definition arm",
+  "ref": "Product_view_definition_arm.required_am_arms",
+  "score": 100,
+  "method": "schema->primary",
+  "flag": "convention"
+ },
+ {
+  "module": "requirement_view_definition",
+  "kind": "arm",
+  "svg": "armexpg1.svg",
+  "num": "3",
+  "ocr": "Property_as_definition_arm",
+  "ref": "Property_as_definition_arm.required_am_arms",
+  "score": 100,
+  "method": "schema->primary",
+  "flag": "convention"
+ },
+ {
+  "module": "requirement_view_definition",
+  "kind": "arm",
+  "svg": "armexpg1.svg",
+  "num": "4",
+  "ocr": "Requirement_ identification_and_version _am",
+  "ref": "Requirement_identification_and_version_arm.required_am_arms",
+  "score": 93.67088607594937,
+  "method": "fuzzy-local-schema",
+  "flag": "check"
+ },
+ {
+  "module": "requirement_view_definition",
+  "kind": "arm",
+  "svg": "armexpg2.svg",
+  "num": "1",
+  "ocr": "Requirement_identification_and_version_arm.Requirement_version",
+  "ref": "Requirement_identification_and_version_arm.Requirement_version",
+  "score": 100,
+  "method": "qualified-verbatim",
+  "flag": ""
+ },
+ {
+  "module": "requirement_view_definition",
+  "kind": "arm",
+  "svg": "armexpg2.svg",
+  "num": "2",
+  "ocr": "Property as definition_arm.Single property is definition",
+  "ref": "Property_as_definition_arm.Single_property_is_definition",
+  "score": 100,
+  "method": "qualified-verbatim",
+  "flag": ""
+ },
+ {
+  "module": "requirement_view_definition",
+  "kind": "arm",
+  "svg": "armexpg2.svg",
+  "num": "3",
+  "ocr": "Product view definition arm.Product view definition",
+  "ref": "Product_view_definition_arm.Product_view_definition",
+  "score": 100,
+  "method": "qualified-verbatim",
+  "flag": ""
+ },
+ {
+  "module": "requirement_view_definition",
+  "kind": "arm",
+  "svg": "armexpg2.svg",
+  "num": "4",
+  "ocr": "Single_requirement_view_definition",
+  "ref": "Requirement_view_definition_arm.Single_requirement_view_definition",
+  "score": 100,
+  "method": "exact-name-local-clean",
+  "flag": ""
+ },
+ {
+  "module": "requirement_view_definition",
+  "kind": "arm",
+  "svg": "armexpg2.svg",
+  "num": "5",
+  "ocr": "Requirement_view_definition",
+  "ref": "Requirement_view_definition_arm.Requirement_view_definition",
+  "score": 100,
+  "method": "exact-name-local-clean",
+  "flag": ""
+ }
+]

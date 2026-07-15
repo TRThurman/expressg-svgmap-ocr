@@ -1,0 +1,20 @@
+(*"Same_as_external_item_arm.__expressg"
+[.svgmap]
+====
+image::armexpg1.svg[]
+
+* <<express:Same_as_external_item_arm.required_am_arms>>; 1
+* <<express:External_source_arm.required_am_arms>>; 2
+====
+*)
+
+(*"Same_as_external_item_arm.__expressg"
+[.svgmap]
+====
+image::armexpg2.svg[]
+
+* <<express:External_source_arm.External_source>>; 1
+* <<express:Same_as_external_item_arm.same_as_item>>; 2
+* <<express:Same_as_external_item_arm.Same_as_external_item>>; 3
+====
+*)

@@ -1,0 +1,134 @@
+[
+ {
+  "module": "specification_based_configuration",
+  "kind": "arm",
+  "svg": "armexpg1.svg",
+  "num": "1",
+  "ocr": "Product class arm",
+  "ref": "Product_class_arm.required_am_arms",
+  "score": 100,
+  "method": "schema->primary",
+  "flag": "convention"
+ },
+ {
+  "module": "specification_based_configuration",
+  "kind": "arm",
+  "svg": "armexpg1.svg",
+  "num": "2",
+  "ocr": "Specification_based_configuration_arm",
+  "ref": "Specification_based_configuration_arm.required_am_arms",
+  "score": 100,
+  "method": "schema->primary",
+  "flag": "convention"
+ },
+ {
+  "module": "specification_based_configuration",
+  "kind": "arm",
+  "svg": "armexpg1.svg",
+  "num": "3",
+  "ocr": "Effectivity_application_arm",
+  "ref": "Effectivity_application_arm.required_am_arms",
+  "score": 100,
+  "method": "schema->primary",
+  "flag": "convention"
+ },
+ {
+  "module": "specification_based_configuration",
+  "kind": "arm",
+  "svg": "armexpg2.svg",
+  "num": "1",
+  "ocr": "iconfigured_specification_select",
+  "ref": "Specification_based_configuration_arm.configured_specification_select",
+  "score": 95.08196721311475,
+  "method": "fuzzy-local-name",
+  "flag": "check"
+ },
+ {
+  "module": "specification_based_configuration",
+  "kind": "arm",
+  "svg": "armexpg2.svg",
+  "num": "2",
+  "ocr": "ieffectivity_for_configuration",
+  "ref": "Specification_based_configuration_arm.effectivity_for_configuration",
+  "score": 94.73684210526316,
+  "method": "fuzzy-local-name",
+  "flag": "check"
+ },
+ {
+  "module": "specification_based_configuration",
+  "kind": "arm",
+  "svg": "armexpg2.svg",
+  "num": "3",
+  "ocr": "*(EX)configured_item_select",
+  "ref": "Specification_based_configuration_arm.configured_item_select",
+  "score": 100,
+  "method": "exact-name-local-clean",
+  "flag": ""
+ },
+ {
+  "module": "specification_based_configuration",
+  "kind": "arm",
+  "svg": "armexpg2.svg",
+  "num": "4",
+  "ocr": "Effectivity_application_arm.effectivityitem",
+  "ref": "Effectivity_application_arm.effectivity_item",
+  "score": 100,
+  "method": "qualified-verbatim",
+  "flag": ""
+ },
+ {
+  "module": "specification_based_configuration",
+  "kind": "arm",
+  "svg": "armexpg2.svg",
+  "num": "5",
+  "ocr": "Product_ class arm.Class _specification _association",
+  "ref": "Product_class_arm.Class_specification_association",
+  "score": 100,
+  "method": "qualified-verbatim",
+  "flag": ""
+ },
+ {
+  "module": "specification_based_configuration",
+  "kind": "arm",
+  "svg": "armexpg2.svg",
+  "num": "6",
+  "ocr": "Product class_arm.Class_condition _association",
+  "ref": "Product_class_arm.Class_condition_association",
+  "score": 100,
+  "method": "qualified-verbatim",
+  "flag": ""
+ },
+ {
+  "module": "specification_based_configuration",
+  "kind": "arm",
+  "svg": "armexpg2.svg",
+  "num": "7",
+  "ocr": "configuration_kindi",
+  "ref": "Specification_based_configuration_arm.configuration_kind",
+  "score": 94.44444444444444,
+  "method": "fuzzy-local-name",
+  "flag": "check"
+ },
+ {
+  "module": "specification_based_configuration",
+  "kind": "arm",
+  "svg": "armexpg2.svg",
+  "num": "8",
+  "ocr": "configuration_inheritance_typesi",
+  "ref": "Specification_based_configuration_arm.configuration_inheritance_types",
+  "score": 95.08196721311475,
+  "method": "fuzzy-local-name",
+  "flag": "check"
+ },
+ {
+  "module": "specification_based_configuration",
+  "kind": "arm",
+  "svg": "armexpg2.svg",
+  "num": "9",
+  "ocr": "*Configuration",
+  "ref": "Specification_based_configuration_arm.Configuration",
+  "score": 100,
+  "method": "exact-name-local-clean",
+  "flag": ""
+ }
+]

@@ -1,0 +1,57 @@
+[
+ {
+  "module": "swept_solid",
+  "kind": "mim",
+  "svg": "mimexpg1.svg",
+  "num": "1",
+  "ocr": "geometry schema",
+  "ref": "geometry_schema",
+  "score": 100,
+  "method": "schema->primary",
+  "flag": "convention"
+ },
+ {
+  "module": "swept_solid",
+  "kind": "mim",
+  "svg": "mimexpg1.svg",
+  "num": "2",
+  "ocr": "measure schema",
+  "ref": "measure_schema",
+  "score": 100,
+  "method": "schema->primary",
+  "flag": "convention"
+ },
+ {
+  "module": "swept_solid",
+  "kind": "mim",
+  "svg": "mimexpg1.svg",
+  "num": "3",
+  "ocr": "geometric_ model schema",
+  "ref": "geometric_model_schema",
+  "score": 100,
+  "method": "schema->primary",
+  "flag": "convention"
+ },
+ {
+  "module": "swept_solid",
+  "kind": "mim",
+  "svg": "mimexpg1.svg",
+  "num": "4",
+  "ocr": "topology_schema",
+  "ref": "topology_schema",
+  "score": 100,
+  "method": "schema->primary",
+  "flag": "convention"
+ },
+ {
+  "module": "swept_solid",
+  "kind": "mim",
+  "svg": "mimexpg1.svg",
+  "num": "5",
+  "ocr": "Topologically_bounded_surface_nim",
+  "ref": "Topologically_bounded_surface_mim.short_listing",
+  "score": 92.06349206349206,
+  "method": "fuzzy-local-schema",
+  "flag": "check"
+ }
+]

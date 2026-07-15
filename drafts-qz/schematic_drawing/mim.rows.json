@@ -1,0 +1,145 @@
+[
+ {
+  "module": "schematic_drawing",
+  "kind": "mim",
+  "svg": "mimexpg1.svg",
+  "num": "1",
+  "ocr": "schematic elenent mim",
+  "ref": "Schematic_element_mim.short_listing",
+  "score": 90.0,
+  "method": "fuzzy-local-schema",
+  "flag": "check"
+ },
+ {
+  "module": "schematic_drawing",
+  "kind": "mim",
+  "svg": "mimexpg1.svg",
+  "num": "2",
+  "ocr": "draw ing_structure_and_administration_mim",
+  "ref": "Drawing_structure_and_administration_mim.short_listing",
+  "score": 100,
+  "method": "schema->primary",
+  "flag": "convention"
+ },
+ {
+  "module": "schematic_drawing",
+  "kind": "mim",
+  "svg": "mimexpg1.svg",
+  "num": "3",
+  "ocr": "foundation_representation_mim",
+  "ref": "Foundation_representation_mim.short_listing",
+  "score": 100,
+  "method": "schema->primary",
+  "flag": "convention"
+ },
+ {
+  "module": "schematic_drawing",
+  "kind": "mim",
+  "svg": "mimexpg1.svg",
+  "num": "4",
+  "ocr": "schematic_drawing_mim",
+  "ref": "Schematic_drawing_mim.short_listing",
+  "score": 100,
+  "method": "schema->primary",
+  "flag": "convention"
+ },
+ {
+  "module": "schematic_drawing",
+  "kind": "mim",
+  "svg": "mimexpg2.svg",
+  "num": "1",
+  "ocr": "schenatic_elenent_mim. schematic_elemnent definition",
+  "ref": "Schematic_element_mim.schematic_element_definition",
+  "score": 90.52631578947368,
+  "method": "fuzzy-local-concat",
+  "flag": "check"
+ },
+ {
+  "module": "schematic_drawing",
+  "kind": "mim",
+  "svg": "mimexpg2.svg",
+  "num": "2",
+  "ocr": "drawing structure_and administration mim. drawing _sheet_revision",
+  "ref": "Drawing_structure_and_administration_mim.Drawing_sheet_revision",
+  "score": 100,
+  "method": "qualified-verbatim-global",
+  "flag": "check+unverified"
+ },
+ {
+  "module": "schematic_drawing",
+  "kind": "mim",
+  "svg": "mimexpg2.svg",
+  "num": "3",
+  "ocr": "foundation_representation_mim. repres entation_relation ship",
+  "ref": "Foundation_representation_mim.RepresentationRelationship",
+  "score": 100,
+  "method": "qualified-verbatim-global",
+  "flag": "check+unverified"
+ },
+ {
+  "module": "schematic_drawing",
+  "kind": "mim",
+  "svg": "mimexpg2.svg",
+  "num": "4",
+  "ocr": "intra_page_connector",
+  "ref": "Schematic_drawing_mim.intra_page_connector",
+  "score": 100,
+  "method": "exact-name-local-clean",
+  "flag": ""
+ },
+ {
+  "module": "schematic_drawing",
+  "kind": "mim",
+  "svg": "mimexpg2.svg",
+  "num": "5",
+  "ocr": "off_page_connector",
+  "ref": "Schematic_drawing_mim.off_page_connector",
+  "score": 100,
+  "method": "exact-name-local-clean",
+  "flag": ""
+ },
+ {
+  "module": "schematic_drawing",
+  "kind": "mim",
+  "svg": "mimexpg2.svg",
+  "num": "6",
+  "ocr": "on_page_connector",
+  "ref": "Schematic_drawing_mim.on_page_connector",
+  "score": 100,
+  "method": "exact-name-local-clean",
+  "flag": ""
+ },
+ {
+  "module": "schematic_drawing",
+  "kind": "mim",
+  "svg": "mimexpg2.svg",
+  "num": "7",
+  "ocr": "page_connector",
+  "ref": "Schematic_drawing_mim.page_connector",
+  "score": 100,
+  "method": "exact-name-local-clean",
+  "flag": ""
+ },
+ {
+  "module": "schematic_drawing",
+  "kind": "mim",
+  "svg": "mimexpg2.svg",
+  "num": "8",
+  "ocr": "schematic_drawing",
+  "ref": "Schematic_drawing_mim.schematic_drawing",
+  "score": 100,
+  "method": "exact-name-local-clean",
+  "flag": ""
+ },
+ {
+  "module": "schematic_drawing",
+  "kind": "mim",
+  "svg": "mimexpg2.svg",
+  "num": "9",
+  "ocr": "reference between_page connectors",
+  "ref": "Schematic_drawing_mim.reference_between_page_connectors",
+  "score": 100,
+  "method": "exact-name-local-clean",
+  "flag": ""
+ }
+]

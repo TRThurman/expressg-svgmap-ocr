@@ -1,0 +1,123 @@
+[
+ {
+  "module": "test_requirement_allocation",
+  "kind": "mim",
+  "svg": "mimexpg1.svg",
+  "num": "1",
+  "ocr": "Test requirement_allocation mim",
+  "ref": "Test_requirement_allocation_mim.short_listing",
+  "score": 100,
+  "method": "schema->primary",
+  "flag": "convention"
+ },
+ {
+  "module": "test_requirement_allocation",
+  "kind": "mim",
+  "svg": "mimexpg1.svg",
+  "num": "2",
+  "ocr": "Functional _usage_view_mim",
+  "ref": "Functional_usage_view_mim.short_listing",
+  "score": 100,
+  "method": "schema->primary",
+  "flag": "convention"
+ },
+ {
+  "module": "test_requirement_allocation",
+  "kind": "mim",
+  "svg": "mimexpg1.svg",
+  "num": "3",
+  "ocr": "Functional _assignment_to_part_mim",
+  "ref": "Functional_assignment_to_part_mim.short_listing",
+  "score": 100,
+  "method": "schema->primary",
+  "flag": "convention"
+ },
+ {
+  "module": "test_requirement_allocation",
+  "kind": "mim",
+  "svg": "mimexpg1.svg",
+  "num": "4",
+  "ocr": "Requirement_decomposition_mim",
+  "ref": "Requirement_decomposition_mim.short_listing",
+  "score": 100,
+  "method": "schema->primary",
+  "flag": "convention"
+ },
+ {
+  "module": "test_requirement_allocation",
+  "kind": "mim",
+  "svg": "mimexpg2.svg",
+  "num": "1",
+  "ocr": "(EX)tra_groupable_item",
+  "ref": "Test_requirement_allocation_mim.tra_groupable_item",
+  "score": 100,
+  "method": "exact-name-local-clean",
+  "flag": ""
+ },
+ {
+  "module": "test_requirement_allocation",
+  "kind": "mim",
+  "svg": "mimexpg2.svg",
+  "num": "2",
+  "ocr": "EX tra_requirement _assigned_item",
+  "ref": "Test_requirement_allocation_mim.tra_requirement_assigned_item",
+  "score": 91.22807017543859,
+  "method": "fuzzy-local-name",
+  "flag": "check"
+ },
+ {
+  "module": "test_requirement_allocation",
+  "kind": "mim",
+  "svg": "mimexpg2.svg",
+  "num": "3",
+  "ocr": "product property_representation_schema.property_ definition_representation",
+  "ref": "product_property_representation_schema.property_definition_representation",
+  "score": 100,
+  "method": "qualified-verbatim",
+  "flag": ""
+ },
+ {
+  "module": "test_requirement_allocation",
+  "kind": "mim",
+  "svg": "mimexpg2.svg",
+  "num": "4",
+  "ocr": "product definition schema.product definition formation",
+  "ref": "product_definition_schema.product_definition_formation",
+  "score": 100,
+  "method": "qualified-verbatim",
+  "flag": ""
+ },
+ {
+  "module": "test_requirement_allocation",
+  "kind": "mim",
+  "svg": "mimexpg2.svg",
+  "num": "5",
+  "ocr": "Group mim.groupable item",
+  "ref": "Group_mim.groupable_item",
+  "score": 100,
+  "method": "qualified-verbatim",
+  "flag": ""
+ },
+ {
+  "module": "test_requirement_allocation",
+  "kind": "mim",
+  "svg": "mimexpg2.svg",
+  "num": "6",
+  "ocr": "Requirement_assignment mim.requirement_assigned_item",
+  "ref": "Requirement_assignment_mim.requirement_assigned_item",
+  "score": 100,
+  "method": "qualified-verbatim",
+  "flag": ""
+ },
+ {
+  "module": "test_requirement_allocation",
+  "kind": "mim",
+  "svg": "mimexpg2.svg",
+  "num": "7",
+  "ocr": "product property definition_schema.shape _aspect relationship",
+  "ref": "product_property_definition_schema.shape_aspect_relationship",
+  "score": 100,
+  "method": "qualified-verbatim",
+  "flag": ""
+ }
+]

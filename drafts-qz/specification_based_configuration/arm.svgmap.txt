@@ -1,0 +1,27 @@
+(*"Specification_based_configuration_arm.__expressg"
+[.svgmap]
+====
+image::armexpg1.svg[]
+
+* <<express:Product_class_arm.required_am_arms>>; 1
+* <<express:Specification_based_configuration_arm.required_am_arms>>; 2
+* <<express:Effectivity_application_arm.required_am_arms>>; 3
+====
+*)
+
+(*"Specification_based_configuration_arm.__expressg"
+[.svgmap]
+====
+image::armexpg2.svg[]
+
+* <<express:Specification_based_configuration_arm.configured_specification_select>>; 1
+* <<express:Specification_based_configuration_arm.effectivity_for_configuration>>; 2
+* <<express:Specification_based_configuration_arm.configured_item_select>>; 3
+* <<express:Effectivity_application_arm.effectivity_item>>; 4
+* <<express:Product_class_arm.Class_specification_association>>; 5
+* <<express:Product_class_arm.Class_condition_association>>; 6
+* <<express:Specification_based_configuration_arm.configuration_kind>>; 7
+* <<express:Specification_based_configuration_arm.configuration_inheritance_types>>; 8
+* <<express:Specification_based_configuration_arm.Configuration>>; 9
+====
+*)

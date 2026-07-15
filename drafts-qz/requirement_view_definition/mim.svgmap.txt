@@ -1,0 +1,10 @@
+(*"Requirement_view_definition_mim.__expressg"
+[.svgmap]
+====
+image::mimexpg1.svg[]
+
+* <<express:Property_as_definition_mim.short_listing>>; 1
+* <<express:Requirement_identification_and_version_mim.short_listing>>; 2
+* <<express:Product_view_definition_mim.short_listing>>; 3
+====
+*)

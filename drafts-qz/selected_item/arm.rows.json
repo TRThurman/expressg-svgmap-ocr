@@ -1,0 +1,101 @@
+[
+ {
+  "module": "selected_item",
+  "kind": "arm",
+  "svg": "armexpg1.svg",
+  "num": "1",
+  "ocr": "Selected item_arm",
+  "ref": "Selected_item_arm.required_am_arms",
+  "score": 100,
+  "method": "schema->primary",
+  "flag": "convention"
+ },
+ {
+  "module": "selected_item",
+  "kind": "arm",
+  "svg": "armexpg1.svg",
+  "num": "2",
+  "ocr": "Classiflcation _assignment arm",
+  "ref": "Classification_assignment_arm.required_am_arms",
+  "score": 92.85714285714286,
+  "method": "fuzzy-local-schema",
+  "flag": "check"
+ },
+ {
+  "module": "selected_item",
+  "kind": "arm",
+  "svg": "armexpg2.svg",
+  "num": "1",
+  "ocr": "Class_arm. Class",
+  "ref": "Class_arm.Class",
+  "score": 100,
+  "method": "qualified-verbatim",
+  "flag": ""
+ },
+ {
+  "module": "selected_item",
+  "kind": "arm",
+  "svg": "armexpg2.svg",
+  "num": "2",
+  "ocr": "Classification assignment arm. Classification assignment",
+  "ref": "Classification_assignment_arm.Classification_assignment",
+  "score": 100,
+  "method": "qualified-verbatim",
+  "flag": ""
+ },
+ {
+  "module": "selected_item",
+  "kind": "arm",
+  "svg": "armexpg2.svg",
+  "num": "3",
+  "ocr": "Classification_assignment t_arm. classification item",
+  "ref": "Classification_assignment_arm.classification_item",
+  "score": 95.74468085106383,
+  "method": "fuzzy-local-concat",
+  "flag": "check"
+ },
+ {
+  "module": "selected_item",
+  "kind": "arm",
+  "svg": "armexpg2.svg",
+  "num": "4",
+  "ocr": "(EX) \"selected item_context_items",
+  "ref": "Selected_item_arm.selected_item_context_items",
+  "score": 100,
+  "method": "exact-name-local-clean",
+  "flag": ""
+ },
+ {
+  "module": "selected_item",
+  "kind": "arm",
+  "svg": "armexpg2.svg",
+  "num": "5",
+  "ocr": "(EX) selected item_select",
+  "ref": "Selected_item_arm.selected_item_select",
+  "score": 100,
+  "method": "exact-name-local-clean",
+  "flag": ""
+ },
+ {
+  "module": "selected_item",
+  "kind": "arm",
+  "svg": "armexpg2.svg",
+  "num": "6",
+  "ocr": "Selected item",
+  "ref": "Selected_item_arm.Selected_item",
+  "score": 100,
+  "method": "exact-name-local-clean",
+  "flag": ""
+ },
+ {
+  "module": "selected_item",
+  "kind": "arm",
+  "svg": "armexpg2.svg",
+  "num": "7",
+  "ocr": "Selected_item_assignment",
+  "ref": "Selected_item_arm.Selected_item_assignment",
+  "score": 100,
+  "method": "exact-name-local-clean",
+  "flag": ""
+ }
+]

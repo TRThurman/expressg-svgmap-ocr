@@ -1,0 +1,35 @@
+(*"Required_resource_arm.__expressg"
+[.svgmap]
+====
+image::armexpg1.svg[]
+
+* <<express:Required_resource_arm.required_am_arms>>; 1
+* <<express:Resource_item_arm.required_am_arms>>; 2
+* <<express:Value_with_unit_arm.required_am_arms>>; 3
+* <<express:Classification_assignment_arm.required_am_arms>>; 4
+* <<express:Requirement_identification_and_version_arm.required_am_arms>>; 5
+====
+*)
+
+(*"Required_resource_arm.__expressg"
+[.svgmap]
+====
+image::armexpg2.svg[]
+
+* <<express:Classification_assignment_arm.classification_item>>; 1
+* <<express:Requirement_identification_and_version_arm.Requirement_version>>; 2
+* <<express:Resource_item_arm.Resource_item>>; 3
+* <<express:Resource_item_arm.resource_item_select>>; 4
+* <<express:Value_with_unit_arm.Value_with_unit>>; 5
+* <<express:Required_resource_arm.required_resource_classification_item>>; 6
+* <<express:Required_resource_arm.required_resource_item>>; 7
+* <<express:Required_resource_arm.resource_requirement_select>>; 8
+* <<express:Required_resource_arm.Required_resource>>; 9
+* <<express:Required_resource_arm.Required_resource_assignment>>; 10
+* <<express:Required_resource_arm.Required_resource_by_reference>>; 11
+* <<express:Required_resource_arm.Required_resource_by_requirement>>; 12
+* <<express:Required_resource_arm.Required_resource_by_resource_item>>; 13
+* <<express:Required_resource_arm.Required_resource_relationship>>; 14
+* <<express:Required_resource_arm.Required_resource_requirement>>; 15
+====
+*)

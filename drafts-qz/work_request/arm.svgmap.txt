@@ -1,0 +1,24 @@
+(*"Work_request_arm.__expressg"
+[.svgmap]
+====
+image::armexpg1.svg[]
+
+* <<express:Work_request_arm.required_am_arms>>; 1
+* <<express:Activity_method_arm.required_am_arms>>; 2
+====
+*)
+
+(*"Work_request_arm.__expressg"
+[.svgmap]
+====
+image::armexpg2.svg[]
+
+* <<express:Work_request_arm.affected_item_select>>; 1
+* <<express:Activity_method_arm.Activity_method>>; 2
+* <<express:Work_request_arm.Activity_method_assignment>>; 3
+* <<express:Work_request_arm.Work_request>>; 4
+* <<express:Work_request_arm.Work_request_relationship>>; 5
+* <<express:Work_request_arm.Work_request_status>>; 6
+* <<express:Work_request_arm.Affected_items_assignment>>; 7
+====
+*)

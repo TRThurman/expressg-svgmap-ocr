@@ -1,0 +1,25 @@
+(*"Via_component_mim.__expressg"
+[.svgmap]
+====
+image::mimexpg1.svg[]
+
+* <<express:Layered_interconnect_module_design_mim.short_listing>>; 1
+* <<express:Interconnect_module_connection_routing_mim.short_listing>>; 2
+* <<express:Via_component_mim.short_listing>>; 3
+====
+*)
+
+(*"Via_component_mim.__expressg"
+[.svgmap]
+====
+image::mimexpg2.svg[]
+
+* <<express:Layered_interconnect_module_design_mim.via>>; 1
+* <<express:Via_component_mim.non_conductive_base_blind_via>>; 2
+* <<express:Via_component_mim.blind_via>>; 3
+* <<express:Via_component_mim.interfacial_connection>>; 4
+* <<express:Via_component_mim.buried_via>>; 5
+* <<express:Via_component_mim.plated_conductive_base_blind_via>>; 6
+* <<express:Via_component_mim.via_subtypes>>; 7
+====
+*)

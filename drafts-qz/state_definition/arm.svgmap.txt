@@ -1,0 +1,38 @@
+(*"State_definition_arm.__expressg"
+[.svgmap]
+====
+image::armexpg1.svg[]
+
+* <<express:State_definition_arm.required_am_arms>>; 1
+* <<express:Identification_assignment_arm.required_am_arms>>; 2
+* <<express:Classification_assignment_arm.required_am_arms>>; 3
+* <<express:Activity_arm.required_am_arms>>; 4
+* <<express:Foundation_state_definition_arm.required_am_arms>>; 5
+====
+*)
+
+(*"State_definition_arm.__expressg"
+[.svgmap]
+====
+image::armexpg2.svg[]
+
+* <<express:Activity_arm.activity_item>>; 1
+* <<express:Classification_assignment_arm.classification_item>>; 2
+* <<express:Identification_assignment_arm.identification_item>>; 3
+* <<express:State_definition_arm.state_definition_activity_item>>; 4
+* <<express:State_definition_arm.state_definition_classification_item>>; 5
+* <<express:State_definition_arm.state_definition_identification_item>>; 6
+* <<express:State_definition_arm.And_state_cause_effect_definition>>; 7
+* <<express:Foundation_state_definition_arm.Applied_state_definition_assignment>>; 8
+* <<express:State_definition_arm.Or_state_cause_effect_definition>>; 9
+* <<express:State_definition_arm.Sequence_of_state_definition>>; 10
+* <<express:State_definition_arm.State_cause_effect_definition>>; 11
+* <<express:State_definition_arm.State_complement_definition>>; 12
+* <<express:Foundation_state_definition_arm.State_definition>>; 13
+* <<express:Foundation_state_definition_arm.State_definition_relationship>>; 14
+* <<express:State_definition_arm.State_proper_subset_definition>>; 15
+* <<express:State_definition_arm.State_subset_definition>>; 16
+* <<express:State_definition_arm.State_symptom_definition>>; 17
+* <<express:State_definition_arm.Xor_state_cause_effect_definition>>; 18
+====
+*)

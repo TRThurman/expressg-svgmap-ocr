@@ -1,0 +1,19 @@
+(*"Solid_model_arm.__expressg"
+[.svgmap]
+====
+image::armexpg1.svg[]
+
+* <<express:Solid_model_arm.required_am_arms>>; 1
+* <<express:Elemental_geometric_shape_arm.required_am_arms>>; 2
+====
+*)
+
+(*"Solid_model_arm.__expressg"
+[.svgmap]
+====
+image::armexpg2.svg[]
+
+* <<express:Elemental_geometric_shape_arm.Detailed_geometric_model_element>>; 1
+* <<express:Solid_model_arm.Solid_model>>; 2
+====
+*)

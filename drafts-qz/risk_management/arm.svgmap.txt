@@ -1,0 +1,24 @@
+(*"Risk_management_arm.__expressg"
+[.svgmap]
+====
+image::armexpg1.svg[]
+
+* <<express:Risk_management_arm.required_am_arms>>; 1
+* <<express:Approval_arm.required_am_arms>>; 2
+* <<express:Collection_identification_and_version_arm.required_am_arms>>; 3
+* <<express:Condition_arm.required_am_arms>>; 4
+* <<express:Document_assignment_arm.required_am_arms>>; 5
+* <<express:Identification_relationship_arm.required_am_arms>>; 6
+* <<express:Justification_arm.required_am_arms>>; 7
+* <<express:Person_organization_assignment_arm.required_am_arms>>; 8
+* <<express:Resource_item_arm.required_am_arms>>; 9
+* <<express:Risk_definition_arm.required_am_arms>>; 10
+====
+*)
+
+(*"Risk_management_arm.__expressg"
+[.svgmap]
+====
+image::armexpg2.svg[]
+====
+*)

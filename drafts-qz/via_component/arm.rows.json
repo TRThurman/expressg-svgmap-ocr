@@ -1,0 +1,112 @@
+[
+ {
+  "module": "via_component",
+  "kind": "arm",
+  "svg": "armexpg1.svg",
+  "num": "1",
+  "ocr": "Interconnect module_connection_routing am",
+  "ref": "Interconnect_module_connection_routing_arm.required_am_arms",
+  "score": 93.67088607594937,
+  "method": "fuzzy-local-schema",
+  "flag": "check"
+ },
+ {
+  "module": "via_component",
+  "kind": "arm",
+  "svg": "armexpg1.svg",
+  "num": "2",
+  "ocr": "Via_component_ amm",
+  "ref": "Via_component_arm.required_am_arms",
+  "score": 87.5,
+  "method": "fuzzy-local-schema",
+  "flag": "check"
+ },
+ {
+  "module": "via_component",
+  "kind": "arm",
+  "svg": "armexpg1.svg",
+  "num": "3",
+  "ocr": "Layered_interconnect_module_design ammn",
+  "ref": "Layered_interconnect_module_design_arm.required_am_arms",
+  "score": 90.41095890410959,
+  "method": "fuzzy-local-schema",
+  "flag": "check"
+ },
+ {
+  "module": "via_component",
+  "kind": "arm",
+  "svg": "armexpg2.svg",
+  "num": "1",
+  "ocr": "Layered interconnect module design amVia",
+  "ref": "Layered_interconnect_module_design_arm.Via",
+  "score": 93.5064935064935,
+  "method": "fuzzy-local-concat",
+  "flag": "check"
+ },
+ {
+  "module": "via_component",
+  "kind": "arm",
+  "svg": "armexpg2.svg",
+  "num": "2",
+  "ocr": "Non conductive_base_blind_via",
+  "ref": "Via_component_arm.Non_conductive_base_blind_via",
+  "score": 100,
+  "method": "exact-name-local-clean",
+  "flag": ""
+ },
+ {
+  "module": "via_component",
+  "kind": "arm",
+  "svg": "armexpg2.svg",
+  "num": "3",
+  "ocr": "(ABS) Blind via",
+  "ref": "Via_component_arm.Blind_via",
+  "score": 100,
+  "method": "exact-name-local-clean",
+  "flag": ""
+ },
+ {
+  "module": "via_component",
+  "kind": "arm",
+  "svg": "armexpg2.svg",
+  "num": "4",
+  "ocr": "Interfacial_connection",
+  "ref": "Via_component_arm.Interfacial_connection",
+  "score": 100,
+  "method": "exact-name-local-clean",
+  "flag": ""
+ },
+ {
+  "module": "via_component",
+  "kind": "arm",
+  "svg": "armexpg2.svg",
+  "num": "5",
+  "ocr": "Plated_conductive_base _blind_via",
+  "ref": "Via_component_arm.Plated_conductive_base_blind_via",
+  "score": 100,
+  "method": "exact-name-local-clean",
+  "flag": ""
+ },
+ {
+  "module": "via_component",
+  "kind": "arm",
+  "svg": "armexpg2.svg",
+  "num": "6",
+  "ocr": "Buried via",
+  "ref": "Via_component_arm.Buried_via",
+  "score": 100,
+  "method": "exact-name-local-clean",
+  "flag": ""
+ },
+ {
+  "module": "via_component",
+  "kind": "arm",
+  "svg": "armexpg2.svg",
+  "num": "7",
+  "ocr": "*via_subtypes",
+  "ref": "Via_component_arm.via_subtypes",
+  "score": 100,
+  "method": "exact-name-local-clean",
+  "flag": ""
+ }
+]

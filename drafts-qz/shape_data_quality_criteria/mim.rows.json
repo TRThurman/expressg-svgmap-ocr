@@ -1,0 +1,57 @@
+[
+ {
+  "module": "shape_data_quality_criteria",
+  "kind": "mim",
+  "svg": "mimexpg1.svg",
+  "num": "1",
+  "ocr": "shape_data_quality_criteria_schema",
+  "ref": "Shape_data_quality_criteria_schema",
+  "score": 100,
+  "method": "schema->primary",
+  "flag": "convention+unverified"
+ },
+ {
+  "module": "shape_data_quality_criteria",
+  "kind": "mim",
+  "svg": "mimexpg1.svg",
+  "num": "2",
+  "ocr": "Qualified_measure_mim",
+  "ref": "Qualified_measure_mim.short_listing",
+  "score": 100,
+  "method": "schema->primary",
+  "flag": "convention"
+ },
+ {
+  "module": "shape_data_quality_criteria",
+  "kind": "mim",
+  "svg": "mimexpg1.svg",
+  "num": "3",
+  "ocr": "Product_data_quality_criteria_mim",
+  "ref": "Product_data_quality_criteria_mim.short_listing",
+  "score": 100,
+  "method": "schema->primary",
+  "flag": "convention"
+ },
+ {
+  "module": "shape_data_quality_criteria",
+  "kind": "mim",
+  "svg": "mimexpg1.svg",
+  "num": "4",
+  "ocr": "Shape_data_quality_inspection_result_min",
+  "ref": "Shape_data_quality_inspection_result_mim.short_listing",
+  "score": 90.66666666666666,
+  "method": "fuzzy-local-schema",
+  "flag": "check"
+ },
+ {
+  "module": "shape_data_quality_criteria",
+  "kind": "mim",
+  "svg": "mimexpg1.svg",
+  "num": "5",
+  "ocr": "representation_schema",
+  "ref": "representation_schema",
+  "score": 100,
+  "method": "schema->primary",
+  "flag": "convention"
+ }
+]

@@ -1,0 +1,24 @@
+(*"Thickened_face_solid_arm.__expressg"
+[.svgmap]
+====
+image::armexpg1.svg[]
+
+* <<express:Topologically_bounded_surface_arm.required_am_arms>>; 1
+* <<express:Thickened_face_solid_arm.required_am_arms>>; 2
+====
+*)
+
+(*"Thickened_face_solid_arm.__expressg"
+[.svgmap]
+====
+image::armexpg2.svg[]
+
+* <<express:Topologically_bounded_surface_arm.Advanced_face>>; 1
+* <<express:Value_with_unit_arm.length_measure>>; 2
+* <<express:Value_with_unit_arm.length_measure>>; 3
+* <<express:Elemental_geometric_shape_arm.Detailed_geometric_model_element>>; 4
+* <<express:Thickened_face_solid_arm.Thickened_face_solid_model_element>>; 5
+* <<express:Thickened_face_solid_arm.Solid_model_element>>; 6
+* <<express:Thickened_face_solid_arm.tbsa_detailed_geometric_model_element_subtypes>>; 7
+====
+*)

@@ -1,0 +1,46 @@
+[
+ {
+  "module": "shape_appearance_layers",
+  "kind": "mim",
+  "svg": "mimexpg1.svg",
+  "num": "1",
+  "ocr": "Appearance_assignment_min",
+  "ref": "Appearance_assignment_mim.short_listing",
+  "score": 91.66666666666666,
+  "method": "fuzzy-local-schema",
+  "flag": "check"
+ },
+ {
+  "module": "shape_appearance_layers",
+  "kind": "mim",
+  "svg": "mimexpg1.svg",
+  "num": "2",
+  "ocr": "Fi area_style_mim",
+  "ref": "Fill_area_style_mim.short_listing",
+  "score": 84.84848484848484,
+  "method": "fuzzy-local-schema",
+  "flag": "check"
+ },
+ {
+  "module": "shape_appearance_layers",
+  "kind": "mim",
+  "svg": "mimexpg1.svg",
+  "num": "3",
+  "ocr": "General_sutface_appearance_min",
+  "ref": "General_surface_appearance_mim.short_listing",
+  "score": 87.71929824561404,
+  "method": "fuzzy-local-schema",
+  "flag": "check"
+ },
+ {
+  "module": "shape_appearance_layers",
+  "kind": "mim",
+  "svg": "mimexpg1.svg",
+  "num": "4",
+  "ocr": "Layer_assignment_mim",
+  "ref": "Layer_assignment_mim.short_listing",
+  "score": 100,
+  "method": "schema->primary",
+  "flag": "convention"
+ }
+]

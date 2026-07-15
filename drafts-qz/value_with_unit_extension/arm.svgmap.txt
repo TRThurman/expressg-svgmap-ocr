@@ -1,0 +1,56 @@
+(*"Value_with_unit_extension_arm.__expressg"
+[.svgmap]
+====
+image::armexpg1.svg[]
+
+* <<express:Value_with_unit_arm.required_am_arms>>; 1
+* <<express:Value_with_unit_extension_arm.required_am_arms>>; 2
+====
+*)
+
+(*"Value_with_unit_extension_arm.__expressg"
+[.svgmap]
+====
+image::armexpg2.svg[]
+
+* <<express:Value_with_unit_arm.Value_with_unit>>; 1
+* <<express:Value_with_unit_extension_arm.Frequency_data_element>>; 2
+* <<express:Value_with_unit_extension_arm.Inductance_data_element>>; 3
+* <<express:Value_with_unit_extension_arm.Thermodynamic_temperature_data_element>>; 4
+* <<express:Value_with_unit_extension_arm.Magnetic_flux_data_element>>; 5
+* <<express:Value_with_unit_extension_arm.Luminous_flux_data_element>>; 6
+* <<express:Value_with_unit_extension_arm.Absorbed_dose_data_element>>; 7
+* <<express:Value_with_unit_extension_arm.Velocity_data_element>>; 8
+* <<express:Value_with_unit_extension_arm.Amount_of_substance_data_element>>; 9
+* <<express:Value_with_unit_extension_arm.Energy_data_element>>; 10
+* <<express:Value_with_unit_extension_arm.Power_data_element>>; 11
+* <<express:Value_with_unit_extension_arm.Conductance_data_element>>; 12
+* <<express:Value_with_unit_extension_arm.Acceleration_data_element>>; 13
+* <<express:Value_with_unit_extension_arm.Luminous_intensity_data_element>>; 14
+* <<express:Value_with_unit_extension_arm.Resistance_data_element>>; 15
+* <<express:Value_with_unit_extension_arm.Celsius_temperature_data_element>>; 16
+* <<express:Value_with_unit_extension_arm.Area_data_element>>; 17
+* <<express:Value_with_unit_extension_arm.Angle_data_element>>; 18
+* <<express:Value_with_unit_extension_arm.Thermal_resistance_data_element>>; 19
+* <<express:Value_with_unit_extension_arm.Solid_angle_data_element>>; 20
+* <<express:Value_with_unit_extension_arm.Force_data_element>>; 21
+* <<express:Value_with_unit_extension_arm.Positive_angle_data_element>>; 22
+* <<express:Value_with_unit_extension_arm.Capacitance_data_element>>; 23
+* <<express:Value_with_unit_extension_arm.Radioactivity_data_element>>; 24
+* <<express:Value_with_unit_extension_arm.Dose_equivalent_data_element>>; 25
+* <<express:Value_with_unit_extension_arm.Mass_data_element>>; 26
+* <<express:Value_with_unit_extension_arm.Volume_data_element>>; 27
+* <<express:Value_with_unit_extension_arm.Illuminance_data_element>>; 28
+* <<express:Value_with_unit_extension_arm.Dielectric_constant_data_element>>; 29
+* <<express:Value_with_unit_extension_arm.Length_data_element>>; 30
+* <<express:Value_with_unit_extension_arm.Magnetic_flux_density_data_element>>; 31
+* <<express:Value_with_unit_extension_arm.Pressure_data_element>>; 32
+* <<express:Value_with_unit_extension_arm.Electric_potential_data_element>>; 33
+* <<express:Value_with_unit_extension_arm.Positive_length_data_element>>; 34
+* <<express:Value_with_unit_extension_arm.Electric_current_data_element>>; 35
+* <<express:Value_with_unit_extension_arm.Electric_charge_data_element>>; 36
+* <<express:Value_with_unit_extension_arm.Ratio_data_element>>; 37
+* <<express:Value_with_unit_extension_arm.Loss_tangent_data_element>>; 38
+* <<express:Value_with_unit_extension_arm.value_with_unit_subtypes>>; 39
+====
+*)

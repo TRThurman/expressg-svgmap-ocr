@@ -1,0 +1,36 @@
+(*"Qualifications_arm.__expressg"
+[.svgmap]
+====
+image::armexpg1.svg[]
+
+* <<express:Qualifications_arm.required_am_arms>>; 1
+* <<express:Person_organization_assignment_arm.required_am_arms>>; 2
+* <<express:Person_organization_arm.required_am_arms>>; 3
+* <<express:Certification_arm.required_am_arms>>; 4
+* <<express:Classification_assignment_arm.required_am_arms>>; 5
+* <<express:Date_time_assignment_arm.required_am_arms>>; 6
+====
+*)
+
+(*"Qualifications_arm.__expressg"
+[.svgmap]
+====
+image::armexpg2.svg[]
+
+* <<express:Certification_arm.certification_item>>; 1
+* <<express:Classification_assignment_arm.classification_item>>; 2
+* <<express:Date_time_assignment_arm.date_or_date_time_item>>; 3
+* <<express:Person_organization_arm.Organization>>; 4
+* <<express:Person_organization_arm.Person>>; 5
+* <<express:Person_organization_arm.Person_in_organization>>; 6
+* <<express:Person_organization_assignment_arm.organization_or_person_in_organization_item>>; 7
+* <<express:Qualifications_arm.qualification_organization_or_person_in_organization_item>>; 8
+* <<express:Qualifications_arm.qualifications_certification_item>>; 9
+* <<express:Qualifications_arm.qualifications_classified_select>>; 10
+* <<express:Qualifications_arm.qualifications_date_or_date_time_item>>; 11
+* <<express:Qualifications_arm.qualifications_select>>; 12
+* <<express:Qualifications_arm.Qualification_assignment>>; 13
+* <<express:Qualifications_arm.Qualification_type>>; 14
+* <<express:Qualifications_arm.Qualification_type_relationship>>; 15
+====
+*)

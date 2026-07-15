@@ -1,0 +1,21 @@
+(*"Shape_composition_arm.__expressg"
+[.svgmap]
+====
+image::armexpg1.svg[]
+
+* <<express:Shape_property_assignment_arm.required_am_arms>>; 1
+* <<express:Shape_composition_arm.required_am_arms>>; 2
+====
+*)
+
+(*"Shape_composition_arm.__expressg"
+[.svgmap]
+====
+image::armexpg2.svg[]
+
+* <<express:Shape_property_assignment_arm.Shape_element>>; 1
+* <<express:Shape_composition_arm.Composite_shape_element>>; 2
+* <<express:Shape_composition_arm.Composite_unit_shape_element>>; 3
+* <<express:Shape_composition_arm.Composite_group_shape_element>>; 4
+====
+*)

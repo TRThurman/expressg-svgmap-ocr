@@ -1,0 +1,8 @@
+(*"Test_select_product_mim.__expressg"
+[.svgmap]
+====
+image::mimexpg1.svg[]
+
+* <<express:Product_replacement_mim.short_listing>>; 1
+====
+*)

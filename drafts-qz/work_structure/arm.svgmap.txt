@@ -1,0 +1,19 @@
+(*"Work_structure_arm.__expressg"
+[.svgmap]
+====
+image::armexpg1.svg[]
+
+* <<express:Work_structure_arm.required_am_arms>>; 1
+* <<express:Project_management_resource_information_arm.required_am_arms>>; 2
+* <<express:Work_order_arm.required_am_arms>>; 3
+====
+*)
+
+(*"Work_structure_arm.__expressg"
+[.svgmap]
+====
+image::armexpg2.svg[]
+
+* <<express:Work_structure_arm.required_am_arms>>; 25
+====
+*)

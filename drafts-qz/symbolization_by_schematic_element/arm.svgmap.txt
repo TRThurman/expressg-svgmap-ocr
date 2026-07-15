@@ -1,0 +1,25 @@
+(*"Symbolization_by_schematic_element_arm.__expressg"
+[.svgmap]
+====
+image::armexpg1.svg[]
+
+* <<express:Symbolization_by_schematic_element_arm.required_am_arms>>; 1
+* <<express:Schematic_element_arm.required_am_arms>>; 2
+* <<express:Class_arm.required_am_arms>>; 3
+====
+*)
+
+(*"Symbolization_by_schematic_element_arm.__expressg"
+[.svgmap]
+====
+image::armexpg2.svg[]
+
+* <<express:Schematic_element_arm.Schematic_element>>; 1
+* <<express:Schematic_element_arm.Schematic_element_definition>>; 2
+* <<express:Class_arm.Class>>; 3
+* <<express:Symbolization_by_schematic_element_arm.Symbolization_by_schematic_element>>; 4
+* <<express:Symbolization_by_schematic_element_arm.Symbolization_of_member_or_subclass_by_schematic_element>>; 5
+* <<express:Symbolization_by_schematic_element_arm.symbolized_item_select>>; 6
+* <<express:Symbolization_by_schematic_element_arm.symbolized_class_select>>; 7
+====
+*)

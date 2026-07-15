@@ -1,0 +1,19 @@
+(*"Shell_based_wireframe_arm.__expressg"
+[.svgmap]
+====
+image::armexpg1.svg[]
+
+* <<express:Shell_based_wireframe_arm.required_am_arms>>; 1
+* <<express:Elemental_geometric_shape_arm.required_am_arms>>; 2
+====
+*)
+
+(*"Shell_based_wireframe_arm.__expressg"
+[.svgmap]
+====
+image::armexpg2.svg[]
+
+* <<express:Elemental_geometric_shape_arm.Geometric_model>>; 1
+* <<express:Shell_based_wireframe_arm.Shell_based_wireframe_shape_representation>>; 2
+====
+*)

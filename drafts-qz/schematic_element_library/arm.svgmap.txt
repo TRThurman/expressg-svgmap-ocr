@@ -1,0 +1,11 @@
+(*"Schematic_element_library_arm.__expressg"
+[.svgmap]
+====
+image::armexpg1.svg[]
+
+* <<express:Schematic_element_library_arm.required_am_arms>>; 1
+* <<express:Schematic_element_arm.required_am_arms>>; 2
+* <<express:Symbolization_by_schematic_element_arm.required_am_arms>>; 3
+* <<express:Set_theory_arm.required_am_arms>>; 4
+====
+*)

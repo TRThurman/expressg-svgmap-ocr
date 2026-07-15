@@ -1,0 +1,46 @@
+[
+ {
+  "module": "solid_model",
+  "kind": "arm",
+  "svg": "armexpg1.svg",
+  "num": "1",
+  "ocr": "Solid model amm",
+  "ref": "Solid_model_arm.required_am_arms",
+  "score": 85.71428571428572,
+  "method": "fuzzy-local-schema",
+  "flag": "check"
+ },
+ {
+  "module": "solid_model",
+  "kind": "arm",
+  "svg": "armexpg1.svg",
+  "num": "2",
+  "ocr": "Elemental_geometric_shape_am",
+  "ref": "Elemental_geometric_shape_arm.required_am_arms",
+  "score": 92.5925925925926,
+  "method": "fuzzy-local-schema",
+  "flag": "check"
+ },
+ {
+  "module": "solid_model",
+  "kind": "arm",
+  "svg": "armexpg2.svg",
+  "num": "1",
+  "ocr": "Elemental geometric_shape_amm Detailed _geometric_model element",
+  "ref": "Elemental_geometric_shape_arm.Detailed_geometric_model_element",
+  "score": 93.10344827586206,
+  "method": "fuzzy-local-concat",
+  "flag": "check"
+ },
+ {
+  "module": "solid_model",
+  "kind": "arm",
+  "svg": "armexpg2.svg",
+  "num": "2",
+  "ocr": "Solid model",
+  "ref": "Solid_model_arm.Solid_model",
+  "score": 100,
+  "method": "exact-name-local-clean",
+  "flag": ""
+ }
+]

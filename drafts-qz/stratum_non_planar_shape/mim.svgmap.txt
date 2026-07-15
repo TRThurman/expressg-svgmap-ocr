@@ -1,0 +1,9 @@
+(*"Stratum_non_planar_shape_mim.__expressg"
+[.svgmap]
+====
+image::mimexpg1.svg[]
+
+* <<express:Manifold_surface_mim.short_listing>>; 1
+* <<express:Layered_interconnect_module_design_mim.short_listing>>; 2
+====
+*)

@@ -1,0 +1,68 @@
+[
+ {
+  "module": "system_view_definition",
+  "kind": "arm",
+  "svg": "armexpg1.svg",
+  "num": "1",
+  "ocr": "System_view_definition_arm",
+  "ref": "System_view_definition_arm.required_am_arms",
+  "score": 100,
+  "method": "schema->primary",
+  "flag": "convention"
+ },
+ {
+  "module": "system_view_definition",
+  "kind": "arm",
+  "svg": "armexpg1.svg",
+  "num": "2",
+  "ocr": "Product_view_definition_arm",
+  "ref": "Product_view_definition_arm.required_am_arms",
+  "score": 100,
+  "method": "schema->primary",
+  "flag": "convention"
+ },
+ {
+  "module": "system_view_definition",
+  "kind": "arm",
+  "svg": "armexpg1.svg",
+  "num": "3",
+  "ocr": "System_identification_and_version_am",
+  "ref": "System_identification_and_version_arm.required_am_arms",
+  "score": 92.7536231884058,
+  "method": "fuzzy-local-schema",
+  "flag": "check"
+ },
+ {
+  "module": "system_view_definition",
+  "kind": "arm",
+  "svg": "armexpg2.svg",
+  "num": "1",
+  "ocr": "Product view_ definition _arm.Product view definition",
+  "ref": "Product_view_definition_arm.Product_view_definition",
+  "score": 100,
+  "method": "qualified-verbatim",
+  "flag": ""
+ },
+ {
+  "module": "system_view_definition",
+  "kind": "arm",
+  "svg": "armexpg2.svg",
+  "num": "2",
+  "ocr": "System identification_and_version_arm.System_version",
+  "ref": "System_identification_and_version_arm.System_version",
+  "score": 100,
+  "method": "qualified-verbatim",
+  "flag": ""
+ },
+ {
+  "module": "system_view_definition",
+  "kind": "arm",
+  "svg": "armexpg2.svg",
+  "num": "3",
+  "ocr": "System_view_definition",
+  "ref": "System_view_definition_arm.System_view_definition",
+  "score": 100,
+  "method": "exact-name-local-clean",
+  "flag": ""
+ }
+]

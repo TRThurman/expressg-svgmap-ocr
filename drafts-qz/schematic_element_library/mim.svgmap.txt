@@ -1,0 +1,11 @@
+(*"Schematic_element_library_mim.__expressg"
+[.svgmap]
+====
+image::mimexpg1.svg[]
+
+* <<express:Schematic_element_library_mim.short_listing>>; 1
+* <<express:Schematic_element_mim.short_listing>>; 2
+* <<express:Symbolization_by_schematic_element_mim.short_listing>>; 3
+* <<express:Set_theory_mim.short_listing>>; 4
+====
+*)

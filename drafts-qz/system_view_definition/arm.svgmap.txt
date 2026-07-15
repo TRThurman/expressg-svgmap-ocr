@@ -1,0 +1,21 @@
+(*"System_view_definition_arm.__expressg"
+[.svgmap]
+====
+image::armexpg1.svg[]
+
+* <<express:System_view_definition_arm.required_am_arms>>; 1
+* <<express:Product_view_definition_arm.required_am_arms>>; 2
+* <<express:System_identification_and_version_arm.required_am_arms>>; 3
+====
+*)
+
+(*"System_view_definition_arm.__expressg"
+[.svgmap]
+====
+image::armexpg2.svg[]
+
+* <<express:Product_view_definition_arm.Product_view_definition>>; 1
+* <<express:System_identification_and_version_arm.System_version>>; 2
+* <<express:System_view_definition_arm.System_view_definition>>; 3
+====
+*)

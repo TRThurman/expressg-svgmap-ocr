@@ -1,0 +1,70 @@
+(*"Work_output_characterized_mim.__expressg"
+[.svgmap]
+====
+image::mimexpg1.svg[]
+
+* <<express:Work_output_characterized_mim.short_listing>>; 1
+* <<express:Approval_mim.short_listing>>; 2
+* <<express:Certification_mim.short_listing>>; 3
+* <<express:Date_time_assignment_mim.short_listing>>; 4
+* <<express:Identification_assignment_mim.short_listing>>; 5
+* <<express:Person_organization_assignment_mim.short_listing>>; 6
+* <<express:Security_classification_mim.short_listing>>; 7
+* <<express:Work_output_mim.short_listing>>; 8
+* <<express:Ap239_properties_mim.short_listing>>; 9
+* <<express:Process_property_assignment_mim.short_listing>>; 10
+* <<express:action_schema>>; 11
+* <<express:Attribute_classification_mim.short_listing>>; 12
+* <<express:Multi_linguism_mim.short_listing>>; 13
+====
+*)
+
+(*"Work_output_characterized_mim.__expressg"
+[.svgmap]
+====
+image::mimexpg2.svg[]
+
+* <<express:action_schema.action_method>>; 1
+* <<express:Approval_mim.approval_item>>; 2
+* <<express:Certification_mim.certification_item>>; 3
+* <<express:Identification_assignment_mim.identification_item>>; 4
+* <<express:Security_classification_mim.security_classification_item>>; 5
+* <<express:Work_output_characterized_mim.work_output_approval_item>>; 6
+* <<express:Work_output_characterized_mim.work_output_certification_item>>; 7
+* <<express:Work_output_characterized_mim.work_output_identification_item>>; 8
+* <<express:Work_output_characterized_mim.work_output_security_classification_item>>; 9
+====
+*)
+
+(*"Work_output_characterized_mim.__expressg"
+[.svgmap]
+====
+image::mimexpg3.svg[]
+
+* <<express:action_schema.action_method>>; 1
+* <<express:Date_time_assignment_mim.date_item>>; 2
+* <<express:Date_time_assignment_mim.date_and_time_item>>; 3
+* <<express:Person_organization_assignment_mim.organization_item>>; 4
+* <<express:Person_organization_assignment_mim.person_and_organization_item>>; 5
+* <<express:Work_output_characterized_mim.work_output_date_and_time_item>>; 6
+* <<express:Work_output_characterized_mim.work_output_date_item>>; 7
+* <<express:Work_output_characterized_mim.work_output_organization_item>>; 8
+* <<express:Work_output_characterized_mim.work_output_person_and_organization_item>>; 9
+====
+*)
+
+(*"Work_output_characterized_mim.__expressg"
+[.svgmap]
+====
+image::mimexpg4.svg[]
+
+* <<express:action_schema.action_method>>; 1
+* <<express:action_schema.action_method_relationship>>; 2
+* <<express:Attribute_classification_mim.attribute_classification_item>>; 3
+* <<express:Multi_linguism_mim.attribute_language_item>>; 4
+* <<express:Multi_linguism_mim.multi_language_attribute_item>>; 5
+* <<express:Work_output_characterized_mim.work_output_attribute_classification_item>>; 6
+* <<express:Work_output_characterized_mim.work_output_attribute_language_item>>; 7
+* <<express:Work_output_characterized_mim.work_output_multi_language_attribute_item>>; 8
+====
+*)

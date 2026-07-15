@@ -1,0 +1,31 @@
+(*"Value_with_unit_extension_mim.__expressg"
+[.svgmap]
+====
+image::mimexpg1.svg[]
+
+* <<express:measure_schema>>; 1
+* <<express:Value_with_unit_extension_mim.short_listing>>; 2
+* <<express:Value_with_unit_mim.short_listing>>; 3
+* <<express:iso13584_generic_expressions_schema>>; 4
+* <<express:mathematical_functions_schema>>; 5
+====
+*)
+
+(*"Value_with_unit_extension_mim.__expressg"
+[.svgmap]
+====
+image::mimexpg2.svg[]
+
+* <<express:measure_schema.ratio_measure_with_unit>>; 1
+* <<express:measure_schema.measure_with_unit>>; 2
+* <<express:measure_schema.context_dependent_unit>>; 3
+* <<express:measure_schema.derived_unit>>; 4
+* <<express:iso13584_generic_expressions_schema.variable_semantics>>; 5
+* <<express:iso13584_generic_expressions_schema.environment>>; 6
+* <<express:Value_with_unit_extension_mim.expression_conversion_based_unit>>; 7
+* <<express:Value_with_unit_extension_mim.dielectric_constant_measure_with_unit>>; 8
+* <<express:Value_with_unit_extension_mim.thermal_resistance_measure_with_unit>>; 9
+* <<express:Value_with_unit_extension_mim.thermal_resistance_unit>>; 10
+* <<express:Value_with_unit_extension_mim.loss_tangent_measure_with_unit>>; 11
+====
+*)

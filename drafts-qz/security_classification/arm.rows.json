@@ -1,0 +1,46 @@
+[
+ {
+  "module": "security_classification",
+  "kind": "arm",
+  "svg": "armexpg1.svg",
+  "num": "1",
+  "ocr": "Security_classification_arm",
+  "ref": "Security_classification_arm.required_am_arms",
+  "score": 100,
+  "method": "schema->primary",
+  "flag": "convention"
+ },
+ {
+  "module": "security_classification",
+  "kind": "arm",
+  "svg": "armexpg2.svg",
+  "num": "1",
+  "ocr": "(EX) security classification item",
+  "ref": "Security_classification_arm.security_classification_item",
+  "score": 100,
+  "method": "exact-name-local-clean",
+  "flag": ""
+ },
+ {
+  "module": "security_classification",
+  "kind": "arm",
+  "svg": "armexpg2.svg",
+  "num": "2",
+  "ocr": "Security_classification assignment",
+  "ref": "Security_classification_arm.Security_classification_assignment",
+  "score": 100,
+  "method": "exact-name-local-clean",
+  "flag": ""
+ },
+ {
+  "module": "security_classification",
+  "kind": "arm",
+  "svg": "armexpg2.svg",
+  "num": "3",
+  "ocr": "Security classification",
+  "ref": "Security_classification_arm.Security_classification",
+  "score": 100,
+  "method": "exact-name-local-clean",
+  "flag": ""
+ }
+]

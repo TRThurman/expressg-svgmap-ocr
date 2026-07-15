@@ -1,0 +1,17 @@
+(*"Shape_data_quality_inspection_result_mim.__expressg"
+[.svgmap]
+====
+image::mimexpg1.svg[]
+
+* <<express:Shape_data_quality_criteria_mim.short_listing>>; 1
+* <<express:B_spline_geometry_mim.short_listing>>; 2
+* <<express:Basic_curve_mim.short_listing>>; 3
+* <<express:Basic_geometric_topology_mim.short_listing>>; 4
+* <<express:Shape_property_assignment_mim.short_listing>>; 5
+* <<express:Composite_surface_mim.short_listing>>; 6
+* <<express:Advanced_boundary_representation_mim.short_listing>>; 7
+* <<express:UNRESOLVED>>; 8
+* <<express:Manifold_surface_mim.short_listing>>; 9
+* <<express:Product_data_quality_inspection_result_mim.short_listing>>; 10
+====
+*)

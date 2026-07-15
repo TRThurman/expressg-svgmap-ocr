@@ -1,0 +1,30 @@
+(*"State_definition_mim.__expressg"
+[.svgmap]
+====
+image::mimexpg1.svg[]
+
+* <<express:State_definition_mim.short_listing>>; 1
+* <<express:Activity_mim.short_listing>>; 2
+* <<express:Classification_assignment_mim.short_listing>>; 3
+* <<express:Identification_assignment_mim.short_listing>>; 4
+* <<express:Foundation_state_definition_mim.short_listing>>; 5
+====
+*)
+
+(*"State_definition_mim.__expressg"
+[.svgmap]
+====
+image::mimexpg2.svg[]
+
+* <<express:Activity_mim.action_items>>; 1
+* <<express:Classification_assignment_mim.classification_item>>; 2
+* <<express:Foundation_state_definition_mim.applied_state_type_assignment>>; 3
+* <<express:Foundation_state_definition_mim.state_type>>; 4
+* <<express:Foundation_state_definition_mim.state_type_assignment>>; 5
+* <<express:Foundation_state_definition_mim.state_type_relationship>>; 6
+* <<express:Identification_assignment_mim.identification_item>>; 7
+* <<express:State_definition_mim.state_definition_action_items>>; 8
+* <<express:State_definition_mim.state_definition_classification_item>>; 9
+* <<express:State_definition_mim.state_definition_identification_item>>; 10
+====
+*)

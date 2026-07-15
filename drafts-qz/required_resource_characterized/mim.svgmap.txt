@@ -1,0 +1,89 @@
+(*"Required_resource_characterized_mim.__expressg"
+[.svgmap]
+====
+image::mimexpg1.svg[]
+
+* <<express:Required_resource_characterized_mim.short_listing>>; 1
+* <<express:Approval_mim.short_listing>>; 2
+* <<express:Identification_assignment_mim.short_listing>>; 3
+* <<express:Justification_mim.short_listing>>; 4
+* <<express:Person_organization_assignment_mim.short_listing>>; 5
+* <<express:Required_resource_mim.short_listing>>; 6
+* <<express:Resource_item_characterized_mim.short_listing>>; 7
+* <<express:Date_time_assignment_mim.short_listing>>; 8
+* <<express:Requirement_assignment_mim.short_listing>>; 9
+* <<express:Resource_property_assignment_mim.short_listing>>; 10
+* <<express:Condition_mim.short_listing>>; 11
+* <<express:process_property_schema>>; 12
+* <<express:Attribute_classification_mim.short_listing>>; 13
+* <<express:Multi_linguism_mim.short_listing>>; 14
+* <<express:Process_property_assignment_mim.short_listing>>; 15
+* <<express:action_schema>>; 16
+====
+*)
+
+(*"Required_resource_characterized_mim.__expressg"
+[.svgmap]
+====
+image::mimexpg2.svg[]
+
+* <<express:action_schema.action_method>>; 1
+* <<express:Approval_mim.approval_item>>; 2
+* <<express:Justification_mim.justification_item>>; 3
+* <<express:process_property_schema.action_resource_requirement>>; 4
+* <<express:process_property_schema.action_resource_requirement_relationship>>; 5
+* <<express:Required_resource_characterized_mim.required_resource_approval_item>>; 6
+* <<express:Required_resource_characterized_mim.required_resource_justification_item>>; 7
+====
+*)
+
+(*"Required_resource_characterized_mim.__expressg"
+[.svgmap]
+====
+image::mimexpg3.svg[]
+
+* <<express:action_schema.action_method>>; 1
+* <<express:Condition_mim.condition_action_method_items>>; 2
+* <<express:Date_time_assignment_mim.date_and_time_item>>; 3
+* <<express:Date_time_assignment_mim.date_item>>; 4
+* <<express:Identification_assignment_mim.identification_item>>; 5
+* <<express:process_property_schema.action_resource_requirement>>; 6
+* <<express:process_property_schema.action_resource_requirement_relationship>>; 7
+* <<express:Required_resource_characterized_mim.required_resource_condition_action_method_items>>; 8
+* <<express:Required_resource_characterized_mim.required_resource_date_and_time_item>>; 9
+* <<express:Required_resource_characterized_mim.required_resource_date_item>>; 10
+* <<express:Required_resource_characterized_mim.required_resource_identification_item>>; 11
+====
+*)
+
+(*"Required_resource_characterized_mim.__expressg"
+[.svgmap]
+====
+image::mimexpg4.svg[]
+
+* <<express:Attribute_classification_mim.attribute_classification_item>>; 1
+* <<express:Person_organization_assignment_mim.person_and_organization_item>>; 2
+* <<express:Person_organization_assignment_mim.organization_item>>; 3
+* <<express:process_property_schema.action_resource_requirement>>; 4
+* <<express:process_property_schema.action_resource_requirement_relationship>>; 5
+* <<express:Requirement_assignment_mim.requirement_assigned_item>>; 6
+* <<express:Required_resource_characterized_mim.required_resource_attribute_classification_item>>; 7
+* <<express:Required_resource_characterized_mim.required_resource_organization_item>>; 8
+* <<express:Required_resource_characterized_mim.required_resource_person_and_organization_item>>; 9
+* <<express:Required_resource_characterized_mim.required_resource_requirement_assigned_item>>; 10
+====
+*)
+
+(*"Required_resource_characterized_mim.__expressg"
+[.svgmap]
+====
+image::mimexpg5.svg[]
+
+* <<express:Multi_linguism_mim.attribute_language_item>>; 1
+* <<express:Multi_linguism_mim.multi_language_attribute_item>>; 2
+* <<express:process_property_schema.action_resource_requirement>>; 3
+* <<express:process_property_schema.action_resource_requirement_relationship>>; 4
+* <<express:Required_resource_characterized_mim.required_resource_attribute_language_item>>; 5
+* <<express:Required_resource_characterized_mim.required_resource_multi_language_attribute_item>>; 6
+====
+*)

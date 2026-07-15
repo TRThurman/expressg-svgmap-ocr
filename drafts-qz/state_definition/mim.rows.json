@@ -1,0 +1,167 @@
+[
+ {
+  "module": "state_definition",
+  "kind": "mim",
+  "svg": "mimexpg1.svg",
+  "num": "1",
+  "ocr": "State definition_mim",
+  "ref": "State_definition_mim.short_listing",
+  "score": 100,
+  "method": "schema->primary",
+  "flag": "convention"
+ },
+ {
+  "module": "state_definition",
+  "kind": "mim",
+  "svg": "mimexpg1.svg",
+  "num": "2",
+  "ocr": "Activity mim",
+  "ref": "Activity_mim.short_listing",
+  "score": 100,
+  "method": "schema->primary",
+  "flag": "convention"
+ },
+ {
+  "module": "state_definition",
+  "kind": "mim",
+  "svg": "mimexpg1.svg",
+  "num": "3",
+  "ocr": "Classification_assignment mim",
+  "ref": "Classification_assignment_mim.short_listing",
+  "score": 100,
+  "method": "schema->primary",
+  "flag": "convention"
+ },
+ {
+  "module": "state_definition",
+  "kind": "mim",
+  "svg": "mimexpg1.svg",
+  "num": "4",
+  "ocr": "Identification_assignment mim",
+  "ref": "Identification_assignment_mim.short_listing",
+  "score": 100,
+  "method": "schema->primary",
+  "flag": "convention"
+ },
+ {
+  "module": "state_definition",
+  "kind": "mim",
+  "svg": "mimexpg1.svg",
+  "num": "5",
+  "ocr": "Foundation state definition mim",
+  "ref": "Foundation_state_definition_mim.short_listing",
+  "score": 100,
+  "method": "schema->primary",
+  "flag": "convention"
+ },
+ {
+  "module": "state_definition",
+  "kind": "mim",
+  "svg": "mimexpg2.svg",
+  "num": "1",
+  "ocr": "Activity_mim. action items",
+  "ref": "Activity_mim.action_items",
+  "score": 100,
+  "method": "qualified-verbatim",
+  "flag": ""
+ },
+ {
+  "module": "state_definition",
+  "kind": "mim",
+  "svg": "mimexpg2.svg",
+  "num": "2",
+  "ocr": "Classification assignment mim. classification item",
+  "ref": "Classification_assignment_mim.classification_item",
+  "score": 100,
+  "method": "qualified-verbatim",
+  "flag": ""
+ },
+ {
+  "module": "state_definition",
+  "kind": "mim",
+  "svg": "mimexpg2.svg",
+  "num": "3",
+  "ocr": "Foundation state_ _definition_mim. applied_ state type_assignment",
+  "ref": "Foundation_state_definition_mim.applied_state_type_assignment",
+  "score": 100,
+  "method": "qualified-verbatim",
+  "flag": ""
+ },
+ {
+  "module": "state_definition",
+  "kind": "mim",
+  "svg": "mimexpg2.svg",
+  "num": "4",
+  "ocr": "Foundation_state_definition_mim. state_type",
+  "ref": "Foundation_state_definition_mim.state_type",
+  "score": 100,
+  "method": "qualified-verbatim-global",
+  "flag": "check+unverified"
+ },
+ {
+  "module": "state_definition",
+  "kind": "mim",
+  "svg": "mimexpg2.svg",
+  "num": "5",
+  "ocr": "Foundation_state_definition_mim. state_type_assignment",
+  "ref": "Foundation_state_definition_mim.state_type_assignment",
+  "score": 100,
+  "method": "qualified-verbatim-global",
+  "flag": "check+unverified"
+ },
+ {
+  "module": "state_definition",
+  "kind": "mim",
+  "svg": "mimexpg2.svg",
+  "num": "6",
+  "ocr": "Foundation state_ _definition_mim. state type_ _relationship",
+  "ref": "Foundation_state_definition_mim.state_type_relationship",
+  "score": 100,
+  "method": "qualified-verbatim-global",
+  "flag": "check+unverified"
+ },
+ {
+  "module": "state_definition",
+  "kind": "mim",
+  "svg": "mimexpg2.svg",
+  "num": "7",
+  "ocr": "Identification_assignment mim. identification item",
+  "ref": "Identification_assignment_mim.identification_item",
+  "score": 100,
+  "method": "qualified-verbatim",
+  "flag": ""
+ },
+ {
+  "module": "state_definition",
+  "kind": "mim",
+  "svg": "mimexpg2.svg",
+  "num": "8",
+  "ocr": "(EX) *state_definition_action_items",
+  "ref": "State_definition_mim.state_definition_action_items",
+  "score": 100,
+  "method": "exact-name-local-clean",
+  "flag": ""
+ },
+ {
+  "module": "state_definition",
+  "kind": "mim",
+  "svg": "mimexpg2.svg",
+  "num": "9",
+  "ocr": "(EX) *state_definition classification_item",
+  "ref": "State_definition_mim.state_definition_classification_item",
+  "score": 100,
+  "method": "exact-name-local-clean",
+  "flag": ""
+ },
+ {
+  "module": "state_definition",
+  "kind": "mim",
+  "svg": "mimexpg2.svg",
+  "num": "10",
+  "ocr": "(EX) *state_definition identification item",
+  "ref": "State_definition_mim.state_definition_identification_item",
+  "score": 100,
+  "method": "exact-name-local-clean",
+  "flag": ""
+ }
+]

@@ -1,0 +1,68 @@
+[
+ {
+  "module": "security_classification",
+  "kind": "mim",
+  "svg": "mimexpg1.svg",
+  "num": "1",
+  "ocr": "Security_classification_mim",
+  "ref": "Security_classification_mim.short_listing",
+  "score": 100,
+  "method": "schema->primary",
+  "flag": "convention"
+ },
+ {
+  "module": "security_classification",
+  "kind": "mim",
+  "svg": "mimexpg1.svg",
+  "num": "2",
+  "ocr": "security_classification_schema",
+  "ref": "security_classification_schema",
+  "score": 100,
+  "method": "schema->primary",
+  "flag": "convention"
+ },
+ {
+  "module": "security_classification",
+  "kind": "mim",
+  "svg": "mimexpg1.svg",
+  "num": "3",
+  "ocr": "management_resources_schema",
+  "ref": "management_resources_schema",
+  "score": 100,
+  "method": "schema->primary",
+  "flag": "convention"
+ },
+ {
+  "module": "security_classification",
+  "kind": "mim",
+  "svg": "mimexpg2.svg",
+  "num": "1",
+  "ocr": "management_resources_schema.security_classification_assignment",
+  "ref": "management_resources_schema.security_classification_assignment",
+  "score": 100,
+  "method": "qualified-verbatim",
+  "flag": ""
+ },
+ {
+  "module": "security_classification",
+  "kind": "mim",
+  "svg": "mimexpg2.svg",
+  "num": "2",
+  "ocr": "applied_security classification_assignment",
+  "ref": "Security_classification_mim.applied_security_classification_assignment",
+  "score": 100,
+  "method": "exact-name-local-clean",
+  "flag": ""
+ },
+ {
+  "module": "security_classification",
+  "kind": "mim",
+  "svg": "mimexpg2.svg",
+  "num": "3",
+  "ocr": "(EX) classification_item security",
+  "ref": "management_resources_schema.classification_assignment",
+  "score": 70.58823529411764,
+  "method": "fuzzy-local-name",
+  "flag": "check"
+ }
+]

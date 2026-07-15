@@ -1,0 +1,145 @@
+[
+ {
+  "module": "schematic_drawing",
+  "kind": "arm",
+  "svg": "armexpg1.svg",
+  "num": "1",
+  "ocr": "Schematic elenent arm",
+  "ref": "Schematic_element_arm.required_am_arms",
+  "score": 90.0,
+  "method": "fuzzy-local-schema",
+  "flag": "check"
+ },
+ {
+  "module": "schematic_drawing",
+  "kind": "arm",
+  "svg": "armexpg1.svg",
+  "num": "2",
+  "ocr": "Drawing_structure_and_administration_arm",
+  "ref": "Drawing_structure_and_administration_arm.required_am_arms",
+  "score": 100,
+  "method": "schema->primary",
+  "flag": "convention"
+ },
+ {
+  "module": "schematic_drawing",
+  "kind": "arm",
+  "svg": "armexpg1.svg",
+  "num": "3",
+  "ocr": "Foundation_representation_arm",
+  "ref": "Foundation_representation_arm.required_am_arms",
+  "score": 100,
+  "method": "schema->primary",
+  "flag": "convention"
+ },
+ {
+  "module": "schematic_drawing",
+  "kind": "arm",
+  "svg": "armexpg1.svg",
+  "num": "4",
+  "ocr": "Schematic_drawing_arm",
+  "ref": "Schematic_drawing_arm.required_am_arms",
+  "score": 100,
+  "method": "schema->primary",
+  "flag": "convention"
+ },
+ {
+  "module": "schematic_drawing",
+  "kind": "arm",
+  "svg": "armexpg2.svg",
+  "num": "1",
+  "ocr": "Schematic elenent arm. S chematic element definition",
+  "ref": "Schematic_element_arm.Schematic_element_definition",
+  "score": 93.61702127659575,
+  "method": "fuzzy-local-concat",
+  "flag": "check"
+ },
+ {
+  "module": "schematic_drawing",
+  "kind": "arm",
+  "svg": "armexpg2.svg",
+  "num": "2",
+  "ocr": "Drawing structure_and administration arm. Drawing _sheet_revision",
+  "ref": "Drawing_structure_and_administration_arm.Drawing_sheet_revision",
+  "score": 100,
+  "method": "qualified-verbatim",
+  "flag": ""
+ },
+ {
+  "module": "schematic_drawing",
+  "kind": "arm",
+  "svg": "armexpg2.svg",
+  "num": "3",
+  "ocr": "Foundation repr esenta tion arm. Representation_relationship",
+  "ref": "Foundation_representation_arm.Representation_relationship",
+  "score": 100,
+  "method": "qualified-verbatim",
+  "flag": ""
+ },
+ {
+  "module": "schematic_drawing",
+  "kind": "arm",
+  "svg": "armexpg2.svg",
+  "num": "4",
+  "ocr": "Intra_page_connector",
+  "ref": "Schematic_drawing_arm.Intra_page_connector",
+  "score": 100,
+  "method": "exact-name-local-clean",
+  "flag": ""
+ },
+ {
+  "module": "schematic_drawing",
+  "kind": "arm",
+  "svg": "armexpg2.svg",
+  "num": "5",
+  "ocr": "Off_page_connector",
+  "ref": "Schematic_drawing_arm.Off_page_connector",
+  "score": 100,
+  "method": "exact-name-local-clean",
+  "flag": ""
+ },
+ {
+  "module": "schematic_drawing",
+  "kind": "arm",
+  "svg": "armexpg2.svg",
+  "num": "6",
+  "ocr": "On_page_connector",
+  "ref": "Schematic_drawing_arm.On_page_connector",
+  "score": 100,
+  "method": "exact-name-local-clean",
+  "flag": ""
+ },
+ {
+  "module": "schematic_drawing",
+  "kind": "arm",
+  "svg": "armexpg2.svg",
+  "num": "7",
+  "ocr": "Page_connector",
+  "ref": "Schematic_drawing_arm.Page_connector",
+  "score": 100,
+  "method": "exact-name-local-clean",
+  "flag": ""
+ },
+ {
+  "module": "schematic_drawing",
+  "kind": "arm",
+  "svg": "armexpg2.svg",
+  "num": "8",
+  "ocr": "Schematic_drawing",
+  "ref": "Schematic_drawing_arm.Schematic_drawing",
+  "score": 100,
+  "method": "exact-name-local-clean",
+  "flag": ""
+ },
+ {
+  "module": "schematic_drawing",
+  "kind": "arm",
+  "svg": "armexpg2.svg",
+  "num": "9",
+  "ocr": "Reference_b etween_page_ connectors",
+  "ref": "Schematic_drawing_arm.Reference_between_page_connectors",
+  "score": 100,
+  "method": "exact-name-local-clean",
+  "flag": ""
+ }
+]

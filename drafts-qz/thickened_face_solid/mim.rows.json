@@ -1,0 +1,24 @@
+[
+ {
+  "module": "thickened_face_solid",
+  "kind": "mim",
+  "svg": "mimexpg1.svg",
+  "num": "1",
+  "ocr": "Topologically_bounded_surface_min",
+  "ref": "Topologically_bounded_surface_mim.short_listing",
+  "score": 92.06349206349206,
+  "method": "fuzzy-local-schema",
+  "flag": "check"
+ },
+ {
+  "module": "thickened_face_solid",
+  "kind": "mim",
+  "svg": "mimexpg1.svg",
+  "num": "2",
+  "ocr": "solid_shape_element_schema",
+  "ref": "solid_shape_element_schema",
+  "score": 100,
+  "method": "schema->primary",
+  "flag": "convention"
+ }
+]

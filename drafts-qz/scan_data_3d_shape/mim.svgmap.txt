@@ -1,0 +1,10 @@
+(*"Scan_data_3d_shape_mim.__expressg"
+[.svgmap]
+====
+image::mimexpg1.svg[]
+
+* <<express:elemental_geometric_shape_mim.short_listing>>; 1
+* <<express:representation_schema>>; 2
+* <<express:scan_data_3d_shape_model_schema>>; 3
+====
+*)

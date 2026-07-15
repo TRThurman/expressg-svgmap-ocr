@@ -1,0 +1,52 @@
+(*"Specification_control_arm.__expressg"
+[.svgmap]
+====
+image::armexpg1.svg[]
+
+* <<express:Specification_based_configuration_arm.required_am_arms>>; 1
+* <<express:Part_collection_arm.required_am_arms>>; 2
+* <<express:Product_placement_arm.required_am_arms>>; 3
+* <<express:Alternative_solution_arm.required_am_arms>>; 4
+* <<express:Specification_control_arm.required_am_arms>>; 5
+* <<express:Requirement_view_definition_arm.required_am_arms>>; 6
+====
+*)
+
+(*"Specification_control_arm.__expressg"
+[.svgmap]
+====
+image::armexpg2.svg[]
+
+* <<express:Specification_control_arm.effectivity_specification_for_replacement>>; 1
+* <<express:Specification_control_arm.constraint_context_select>>; 2
+* <<express:Specification_control_arm.instance_usage_context_select>>; 3
+* <<express:Specification_control_arm.breakdown_element_select>>; 4
+* <<express:Specification_control_arm.sc_configured_element>>; 5
+* <<express:Functional_breakdown_arm.Functional_element_definition>>; 6
+* <<express:Part_collection_arm.Collected_item_association>>; 7
+* <<express:Effectivity_application_arm.effectivity_item>>; 8
+* <<express:Alternative_solution_arm.complex_product_select>>; 9
+* <<express:Functional_breakdown_arm.Functional_element_definition>>; 10
+* <<express:Product_class_arm.Class_category_association>>; 11
+* <<express:Product_occurrence_arm.Product_occurrence>>; 12
+* <<express:Product_class_arm.Product_class>>; 13
+* <<express:Specification_based_configuration_arm.configured_item_select>>; 14
+* <<express:Product_view_definition_relationship_arm.View_definition_relationship>>; 15
+* <<express:Alternative_solution_arm.Alternative_solution>>; 16
+* <<express:Alternative_solution_arm.Solution_element>>; 17
+* <<express:Alternative_solution_arm.complex_product_select>>; 18
+* <<express:Requirement_view_definition_arm.Requirement_view_definition>>; 19
+* <<express:UNRESOLVED>>; 20
+* <<express:Part_view_definition_arm.Part_view_definition>>; 21
+* <<express:Specification_control_arm.Design_constraint_context_association>>; 22
+* <<express:Specification_control_arm.Design_constraint_definition>>; 23
+* <<express:Specification_control_arm.Part_function_association>>; 24
+* <<express:Specification_control_arm.Complex_node_relationship>>; 25
+* <<express:Specification_control_arm.Class_breakdown_association>>; 26
+* <<express:Specification_control_arm.Part_occurrence_relationship>>; 27
+* <<express:Specification_control_arm.Design_constraint_association>>; 28
+* <<express:Specification_control_arm.Replaced_usage_relationship>>; 29
+* <<express:Specification_control_arm.Specification_category_breakdown_influence>>; 30
+* <<express:Specification_control_arm.Breakdown_node_relationship>>; 31
+====
+*)

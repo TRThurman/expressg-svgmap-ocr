@@ -1,0 +1,34 @@
+(*"Specification_control_mim.__expressg"
+[.svgmap]
+====
+image::mimexpg1.svg[]
+
+* <<express:Specification_based_configuration_mim.short_listing>>; 1
+* <<express:Alternative_solution_mim.short_listing>>; 2
+* <<express:Product_placement_mim.short_listing>>; 3
+* <<express:product_definition_schema>>; 4
+* <<express:Specification_control_mim.short_listing>>; 5
+* <<express:Part_collection_mim.short_listing>>; 6
+* <<express:Requirement_view_definition_mim.short_listing>>; 7
+====
+*)
+
+(*"Specification_control_mim.__expressg"
+[.svgmap]
+====
+image::mimexpg2.svg[]
+
+* <<express:Specification_control_mim.instance_usage_context_select>>; 1
+* <<express:Specification_control_mim.class_usage_effectivity_context_item>>; 2
+* <<express:Specification_control_mim.effectivity_specification_for_replacement>>; 3
+* <<express:application_context_schema.product_definition_context>>; 4
+* <<express:management_resources_schema.effectivity_context_assignment>>; 5
+* <<express:product_definition_schema.product_definition>>; 6
+* <<express:product_structure_schema.product_definition_usage>>; 7
+* <<express:Effectivity_application_mim.effectivity_item>>; 8
+* <<express:product_definition_schema.product_definition_substitute>>; 9
+* <<express:product_definition_schema.product_definition_relationship>>; 10
+* <<express:Specification_control_mim.instance_usage_context_assignment>>; 11
+* <<express:Specification_control_mim.class_usage_effectivity_context_assignment>>; 12
+====
+*)

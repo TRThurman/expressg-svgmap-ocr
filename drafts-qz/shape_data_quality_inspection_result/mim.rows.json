@@ -1,0 +1,112 @@
+[
+ {
+  "module": "shape_data_quality_inspection_result",
+  "kind": "mim",
+  "svg": "mimexpg1.svg",
+  "num": "1",
+  "ocr": "Shape_data_quality_criteria_mim",
+  "ref": "Shape_data_quality_criteria_mim.short_listing",
+  "score": 100,
+  "method": "schema->primary",
+  "flag": "convention"
+ },
+ {
+  "module": "shape_data_quality_inspection_result",
+  "kind": "mim",
+  "svg": "mimexpg1.svg",
+  "num": "2",
+  "ocr": "B_spline_geometry_mim",
+  "ref": "B_spline_geometry_mim.short_listing",
+  "score": 100,
+  "method": "schema->primary",
+  "flag": "convention"
+ },
+ {
+  "module": "shape_data_quality_inspection_result",
+  "kind": "mim",
+  "svg": "mimexpg1.svg",
+  "num": "3",
+  "ocr": "Basic_ _curve_mim",
+  "ref": "Basic_curve_mim.short_listing",
+  "score": 100,
+  "method": "schema->primary",
+  "flag": "convention"
+ },
+ {
+  "module": "shape_data_quality_inspection_result",
+  "kind": "mim",
+  "svg": "mimexpg1.svg",
+  "num": "4",
+  "ocr": "Basic_geometric_topology_mim",
+  "ref": "Basic_geometric_topology_mim.short_listing",
+  "score": 100,
+  "method": "schema->primary",
+  "flag": "convention"
+ },
+ {
+  "module": "shape_data_quality_inspection_result",
+  "kind": "mim",
+  "svg": "mimexpg1.svg",
+  "num": "5",
+  "ocr": "Shape property_assignment_mim",
+  "ref": "Shape_property_assignment_mim.short_listing",
+  "score": 100,
+  "method": "schema->primary",
+  "flag": "convention"
+ },
+ {
+  "module": "shape_data_quality_inspection_result",
+  "kind": "mim",
+  "svg": "mimexpg1.svg",
+  "num": "6",
+  "ocr": "Composite_sutface_mim",
+  "ref": "Composite_surface_mim.short_listing",
+  "score": 90.0,
+  "method": "fuzzy-local-schema",
+  "flag": "check"
+ },
+ {
+  "module": "shape_data_quality_inspection_result",
+  "kind": "mim",
+  "svg": "mimexpg1.svg",
+  "num": "7",
+  "ocr": "Advanced_boundary_representation_mim",
+  "ref": "Advanced_boundary_representation_mim.short_listing",
+  "score": 100,
+  "method": "schema->primary",
+  "flag": "convention"
+ },
+ {
+  "module": "shape_data_quality_inspection_result",
+  "kind": "mim",
+  "svg": "mimexpg1.svg",
+  "num": "8",
+  "ocr": "shape_data_quality_inspection_resut_schema",
+  "ref": null,
+  "score": 0,
+  "method": "no-match",
+  "flag": "UNRESOLVED"
+ },
+ {
+  "module": "shape_data_quality_inspection_result",
+  "kind": "mim",
+  "svg": "mimexpg1.svg",
+  "num": "9",
+  "ocr": "Manifold_surface_mim",
+  "ref": "Manifold_surface_mim.short_listing",
+  "score": 100,
+  "method": "schema->primary",
+  "flag": "convention"
+ },
+ {
+  "module": "shape_data_quality_inspection_result",
+  "kind": "mim",
+  "svg": "mimexpg1.svg",
+  "num": "10",
+  "ocr": "Product_data_quality_inspection_resut_nn",
+  "ref": "Product_data_quality_inspection_result_mim.short_listing",
+  "score": 85.71428571428572,
+  "method": "fuzzy-local-schema",
+  "flag": "check"
+ }
+]

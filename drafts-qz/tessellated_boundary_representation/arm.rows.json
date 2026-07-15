@@ -1,0 +1,46 @@
+[
+ {
+  "module": "tessellated_boundary_representation",
+  "kind": "arm",
+  "svg": "armexpg1.svg",
+  "num": "1",
+  "ocr": "Elemental_geometric_shape_arm",
+  "ref": "Elemental_geometric_shape_arm.required_am_arms",
+  "score": 100,
+  "method": "schema->primary",
+  "flag": "convention"
+ },
+ {
+  "module": "tessellated_boundary_representation",
+  "kind": "arm",
+  "svg": "armexpg1.svg",
+  "num": "2",
+  "ocr": "Tessellated_boundary_representation_arm",
+  "ref": "Tessellated_boundary_representation_arm.required_am_arms",
+  "score": 100,
+  "method": "schema->primary",
+  "flag": "convention"
+ },
+ {
+  "module": "tessellated_boundary_representation",
+  "kind": "arm",
+  "svg": "armexpg2.svg",
+  "num": "1",
+  "ocr": "Elemental geometric_shape_arm.Geometric_model",
+  "ref": "Elemental_geometric_shape_arm.Geometric_model",
+  "score": 100,
+  "method": "qualified-verbatim",
+  "flag": ""
+ },
+ {
+  "module": "tessellated_boundary_representation",
+  "kind": "arm",
+  "svg": "armexpg2.svg",
+  "num": "2",
+  "ocr": "Tessellated_boundary_representation",
+  "ref": "Tessellated_boundary_representation_arm.Tessellated_boundary_representation",
+  "score": 100,
+  "method": "exact-name-local-clean",
+  "flag": ""
+ }
+]

@@ -1,0 +1,112 @@
+[
+ {
+  "module": "symbolization_by_schematic_element",
+  "kind": "arm",
+  "svg": "armexpg1.svg",
+  "num": "1",
+  "ocr": "Symb olization_by_schematic_element_arm",
+  "ref": "Symbolization_by_schematic_element_arm.required_am_arms",
+  "score": 100,
+  "method": "schema->primary",
+  "flag": "convention"
+ },
+ {
+  "module": "symbolization_by_schematic_element",
+  "kind": "arm",
+  "svg": "armexpg1.svg",
+  "num": "2",
+  "ocr": "Schematic_elenent_arm",
+  "ref": "Schematic_element_arm.required_am_arms",
+  "score": 90.0,
+  "method": "fuzzy-local-schema",
+  "flag": "check"
+ },
+ {
+  "module": "symbolization_by_schematic_element",
+  "kind": "arm",
+  "svg": "armexpg1.svg",
+  "num": "3",
+  "ocr": "Class_arm",
+  "ref": "Class_arm.required_am_arms",
+  "score": 100,
+  "method": "schema->primary",
+  "flag": "convention"
+ },
+ {
+  "module": "symbolization_by_schematic_element",
+  "kind": "arm",
+  "svg": "armexpg2.svg",
+  "num": "1",
+  "ocr": "Schematic elenent arm. Schematic element",
+  "ref": "Schematic_element_arm.Schematic_element",
+  "score": 93.15068493150685,
+  "method": "fuzzy-local-concat",
+  "flag": "check"
+ },
+ {
+  "module": "symbolization_by_schematic_element",
+  "kind": "arm",
+  "svg": "armexpg2.svg",
+  "num": "2",
+  "ocr": "Schematic elenent arm. Schematic element definition",
+  "ref": "Schematic_element_arm.Schematic_element_definition",
+  "score": 93.61702127659575,
+  "method": "fuzzy-local-concat",
+  "flag": "check"
+ },
+ {
+  "module": "symbolization_by_schematic_element",
+  "kind": "arm",
+  "svg": "armexpg2.svg",
+  "num": "3",
+  "ocr": "Chss arm. Class",
+  "ref": "Class_arm.Class",
+  "score": 84.61538461538461,
+  "method": "fuzzy-local-concat",
+  "flag": "check"
+ },
+ {
+  "module": "symbolization_by_schematic_element",
+  "kind": "arm",
+  "svg": "armexpg2.svg",
+  "num": "4",
+  "ocr": "Symb olization_by_schematic_element",
+  "ref": "Symbolization_by_schematic_element_arm.Symbolization_by_schematic_element",
+  "score": 100,
+  "method": "exact-name-local-clean",
+  "flag": ""
+ },
+ {
+  "module": "symbolization_by_schematic_element",
+  "kind": "arm",
+  "svg": "armexpg2.svg",
+  "num": "5",
+  "ocr": "Symb olization_of_member_or_subclass by_schematic_element",
+  "ref": "Symbolization_by_schematic_element_arm.Symbolization_of_member_or_subclass_by_schematic_element",
+  "score": 100,
+  "method": "exact-name-local-clean",
+  "flag": ""
+ },
+ {
+  "module": "symbolization_by_schematic_element",
+  "kind": "arm",
+  "svg": "armexpg2.svg",
+  "num": "6",
+  "ocr": "symbolized_item_select",
+  "ref": "Symbolization_by_schematic_element_arm.symbolized_item_select",
+  "score": 100,
+  "method": "exact-name-local-clean",
+  "flag": ""
+ },
+ {
+  "module": "symbolization_by_schematic_element",
+  "kind": "arm",
+  "svg": "armexpg2.svg",
+  "num": "7",
+  "ocr": "symbolized_class_select",
+  "ref": "Symbolization_by_schematic_element_arm.symbolized_class_select",
+  "score": 100,
+  "method": "exact-name-local-clean",
+  "flag": ""
+ }
+]

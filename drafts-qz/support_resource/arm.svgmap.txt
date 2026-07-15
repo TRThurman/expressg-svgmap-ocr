@@ -1,0 +1,19 @@
+(*"Support_resource_arm.__expressg"
+[.svgmap]
+====
+image::armexpg1.svg[]
+
+* <<express:Support_resource_arm.required_am_arms>>; 1
+====
+*)
+
+(*"Support_resource_arm.__expressg"
+[.svgmap]
+====
+image::armexpg2.svg[]
+
+* <<express:Support_resource_arm.label>>; 1
+* <<express:Support_resource_arm.identifier>>; 2
+* <<express:Support_resource_arm.text>>; 3
+====
+*)

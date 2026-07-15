@@ -1,0 +1,11 @@
+(*"Text_appearance_mim.__expressg"
+[.svgmap]
+====
+image::mimexpg1.svg[]
+
+* <<express:presentation_appearance_schema>>; 1
+* <<express:presentation_resource_schema>>; 2
+* <<express:presentation_definition_schema>>; 3
+* <<express:Basic_geometry_mim.short_listing>>; 4
+====
+*)

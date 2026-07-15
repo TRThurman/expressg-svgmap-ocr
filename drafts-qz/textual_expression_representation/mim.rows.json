@@ -1,0 +1,211 @@
+[
+ {
+  "module": "textual_expression_representation",
+  "kind": "mim",
+  "svg": "mimexpg1.svg",
+  "num": "1",
+  "ocr": "Textual_expression_representation_mim",
+  "ref": "Textual_expression_representation_mim.short_listing",
+  "score": 100,
+  "method": "schema->primary",
+  "flag": "convention"
+ },
+ {
+  "module": "textual_expression_representation",
+  "kind": "mim",
+  "svg": "mimexpg1.svg",
+  "num": "2",
+  "ocr": "representation_schema",
+  "ref": "representation_schema",
+  "score": 100,
+  "method": "schema->primary",
+  "flag": "convention"
+ },
+ {
+  "module": "textual_expression_representation",
+  "kind": "mim",
+  "svg": "mimexpg1.svg",
+  "num": "3",
+  "ocr": "qualified_measure_schema",
+  "ref": "qualified_measure_schema",
+  "score": 100,
+  "method": "schema->primary",
+  "flag": "convention"
+ },
+ {
+  "module": "textual_expression_representation",
+  "kind": "mim",
+  "svg": "mimexpg1.svg",
+  "num": "4",
+  "ocr": "Classification_assignment mim",
+  "ref": "Classification_assignment_mim.short_listing",
+  "score": 100,
+  "method": "schema->primary",
+  "flag": "convention"
+ },
+ {
+  "module": "textual_expression_representation",
+  "kind": "mim",
+  "svg": "mimexpg1.svg",
+  "num": "5",
+  "ocr": "Foundation_representation_mim",
+  "ref": "Foundation_representation_mim.short_listing",
+  "score": 100,
+  "method": "schema->primary",
+  "flag": "convention"
+ },
+ {
+  "module": "textual_expression_representation",
+  "kind": "mim",
+  "svg": "mimexpg2.svg",
+  "num": "1",
+  "ocr": "Classification_assignment_ _mim.classification_item",
+  "ref": "Classification_assignment_mim.classification_item",
+  "score": 100,
+  "method": "qualified-verbatim",
+  "flag": ""
+ },
+ {
+  "module": "textual_expression_representation",
+  "kind": "mim",
+  "svg": "mimexpg2.svg",
+  "num": "2",
+  "ocr": "qualified_ _measure_schema.descriptive_representation_item",
+  "ref": "qualified_measure_schema.descriptive_representation_item",
+  "score": 100,
+  "method": "qualified-verbatim",
+  "flag": ""
+ },
+ {
+  "module": "textual_expression_representation",
+  "kind": "mim",
+  "svg": "mimexpg2.svg",
+  "num": "3",
+  "ocr": "representation_schema.representation",
+  "ref": "representation_schema.representation",
+  "score": 100,
+  "method": "qualified-verbatim",
+  "flag": ""
+ },
+ {
+  "module": "textual_expression_representation",
+  "kind": "mim",
+  "svg": "mimexpg2.svg",
+  "num": "4",
+  "ocr": "representation_schema.representation_item",
+  "ref": "representation_schema.representation_item",
+  "score": 100,
+  "method": "qualified-verbatim",
+  "flag": ""
+ },
+ {
+  "module": "textual_expression_representation",
+  "kind": "mim",
+  "svg": "mimexpg2.svg",
+  "num": "5",
+  "ocr": "representation_schema.representation_context",
+  "ref": "representation_schema.representation_context",
+  "score": 100,
+  "method": "qualified-verbatim",
+  "flag": ""
+ },
+ {
+  "module": "textual_expression_representation",
+  "kind": "mim",
+  "svg": "mimexpg2.svg",
+  "num": "6",
+  "ocr": "representation_schema.compound_representation_item",
+  "ref": "representation_schema.compound_representation_item",
+  "score": 100,
+  "method": "qualified-verbatim",
+  "flag": ""
+ },
+ {
+  "module": "textual_expression_representation",
+  "kind": "mim",
+  "svg": "mimexpg2.svg",
+  "num": "7",
+  "ocr": "",
+  "ref": null,
+  "score": 0,
+  "method": "empty",
+  "flag": "UNRESOLVED"
+ },
+ {
+  "module": "textual_expression_representation",
+  "kind": "mim",
+  "svg": "mimexpg2.svg",
+  "num": "8",
+  "ocr": "ter classification item",
+  "ref": "Textual_expression_representation_mim.ter_classification_item",
+  "score": 100,
+  "method": "exact-name-local-clean",
+  "flag": ""
+ },
+ {
+  "module": "textual_expression_representation",
+  "kind": "mim",
+  "svg": "mimexpg2.svg",
+  "num": "9",
+  "ocr": "(EX) *text_based_item_select",
+  "ref": "Textual_expression_representation_mim.text_based_item_select",
+  "score": 100,
+  "method": "exact-name-local-clean",
+  "flag": ""
+ },
+ {
+  "module": "textual_expression_representation",
+  "kind": "mim",
+  "svg": "mimexpg2.svg",
+  "num": "10",
+  "ocr": "included_text_based_representation",
+  "ref": "Textual_expression_representation_mim.included_text_based_representation",
+  "score": 100,
+  "method": "exact-name-local-clean",
+  "flag": ""
+ },
+ {
+  "module": "textual_expression_representation",
+  "kind": "mim",
+  "svg": "mimexpg2.svg",
+  "num": "11",
+  "ocr": "text_based_representation",
+  "ref": "Textual_expression_representation_mim.text_based_representation",
+  "score": 100,
+  "method": "exact-name-local-clean",
+  "flag": ""
+ },
+ {
+  "module": "textual_expression_representation",
+  "kind": "mim",
+  "svg": "mimexpg2.svg",
+  "num": "12",
+  "ocr": "text_based_representation_context",
+  "ref": "Textual_expression_representation_mim.text_based_representation_context",
+  "score": 100,
+  "method": "exact-name-local-clean",
+  "flag": ""
+ },
+ {
+  "module": "textual_expression_representation",
+  "kind": "mim",
+  "svg": "mimexpg2.svg",
+  "num": "13",
+  "ocr": "textual_expression_composition",
+  "ref": "Textual_expression_representation_mim.textual_expression_composition",
+  "score": 100,
+  "method": "exact-name-local-clean",
+  "flag": ""
+ },
+ {
+  "module": "textual_expression_representation",
+  "kind": "mim",
+  "svg": "mimexpg2.svg",
+  "num": "14",
+  "ocr": "textual_expression_representation_item",
+  "ref": "Textual_expression_representation_mim.textual_expression_representation_item",
+  "score": 100,
+  "method": "exact-name-local-clean",
+  "flag": ""
+ }
+]

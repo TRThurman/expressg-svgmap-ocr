@@ -1,0 +1,24 @@
+(*"Requirement_view_definition_arm.__expressg"
+[.svgmap]
+====
+image::armexpg1.svg[]
+
+* <<express:Requirement_view_definition_arm.required_am_arms>>; 1
+* <<express:Product_view_definition_arm.required_am_arms>>; 2
+* <<express:Property_as_definition_arm.required_am_arms>>; 3
+* <<express:Requirement_identification_and_version_arm.required_am_arms>>; 4
+====
+*)
+
+(*"Requirement_view_definition_arm.__expressg"
+[.svgmap]
+====
+image::armexpg2.svg[]
+
+* <<express:Requirement_identification_and_version_arm.Requirement_version>>; 1
+* <<express:Property_as_definition_arm.Single_property_is_definition>>; 2
+* <<express:Product_view_definition_arm.Product_view_definition>>; 3
+* <<express:Requirement_view_definition_arm.Single_requirement_view_definition>>; 4
+* <<express:Requirement_view_definition_arm.Requirement_view_definition>>; 5
+====
+*)

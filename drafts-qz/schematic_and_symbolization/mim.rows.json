@@ -1,0 +1,167 @@
+[
+ {
+  "module": "schematic_and_symbolization",
+  "kind": "mim",
+  "svg": "mimexpg1.svg",
+  "num": "1",
+  "ocr": "schematic_and_symbolization_mim",
+  "ref": "Schematic_and_symbolization_mim.short_listing",
+  "score": 100,
+  "method": "schema->primary",
+  "flag": "convention"
+ },
+ {
+  "module": "schematic_and_symbolization",
+  "kind": "mim",
+  "svg": "mimexpg1.svg",
+  "num": "2",
+  "ocr": "schenatic_element_library_mim",
+  "ref": "Schematic_element_library_mim.short_listing",
+  "score": 90.9090909090909,
+  "method": "fuzzy-local-schema",
+  "flag": "check"
+ },
+ {
+  "module": "schematic_and_symbolization",
+  "kind": "mim",
+  "svg": "mimexpg1.svg",
+  "num": "3",
+  "ocr": "schenatic_drawing_mim",
+  "ref": "Schematic_drawing_mim.short_listing",
+  "score": 90.0,
+  "method": "fuzzy-local-schema",
+  "flag": "check"
+ },
+ {
+  "module": "schematic_and_symbolization",
+  "kind": "mim",
+  "svg": "mimexpg1.svg",
+  "num": "4",
+  "ocr": "symbolization_by_schematic_element_mim",
+  "ref": "Symbolization_by_schematic_element_mim.short_listing",
+  "score": 100,
+  "method": "schema->primary",
+  "flag": "convention"
+ },
+ {
+  "module": "schematic_and_symbolization",
+  "kind": "mim",
+  "svg": "mimexpg1.svg",
+  "num": "5",
+  "ocr": "document _and _version _identification_mim",
+  "ref": "Document_and_version_identification_mim.short_listing",
+  "score": 100,
+  "method": "schema->primary",
+  "flag": "convention"
+ },
+ {
+  "module": "schematic_and_symbolization",
+  "kind": "mim",
+  "svg": "mimexpg1.svg",
+  "num": "6",
+  "ocr": "external_item_identification_assignment_mim",
+  "ref": "External_item_identification_assignment_mim.short_listing",
+  "score": 100,
+  "method": "schema->primary",
+  "flag": "convention"
+ },
+ {
+  "module": "schematic_and_symbolization",
+  "kind": "mim",
+  "svg": "mimexpg1.svg",
+  "num": "7",
+  "ocr": "class_mim",
+  "ref": "Class_mim.short_listing",
+  "score": 100,
+  "method": "schema->primary",
+  "flag": "convention"
+ },
+ {
+  "module": "schematic_and_symbolization",
+  "kind": "mim",
+  "svg": "mimexpg2.svg",
+  "num": "1",
+  "ocr": "docum ent and version identification_mim. product definition _formation",
+  "ref": "Document_and_version_identification_mim.product_definition_formation",
+  "score": 100,
+  "method": "qualified-verbatim-global",
+  "flag": "check+unverified"
+ },
+ {
+  "module": "schematic_and_symbolization",
+  "kind": "mim",
+  "svg": "mimexpg2.svg",
+  "num": "2",
+  "ocr": "class mim. class",
+  "ref": "Class_mim.Class",
+  "score": 100,
+  "method": "qualified-verbatim-global",
+  "flag": "check+unverified"
+ },
+ {
+  "module": "schematic_and_symbolization",
+  "kind": "mim",
+  "svg": "mimexpg2.svg",
+  "num": "3",
+  "ocr": "drawing_revision_class_of_document",
+  "ref": "Schematic_and_symbolization_mim.drawing_revision_class_of_document",
+  "score": 100,
+  "method": "exact-name-local-clean",
+  "flag": ""
+ },
+ {
+  "module": "schematic_and_symbolization",
+  "kind": "mim",
+  "svg": "mimexpg2.svg",
+  "num": "4",
+  "ocr": "drawing _sheet_revision_class_of_document",
+  "ref": "Schematic_and_symbolization_mim.drawing_sheet_revision_class_of_document",
+  "score": 100,
+  "method": "exact-name-local-clean",
+  "flag": ""
+ },
+ {
+  "module": "schematic_and_symbolization",
+  "kind": "mim",
+  "svg": "mimexpg2.svg",
+  "num": "5",
+  "ocr": "externally_identified_schematic_element",
+  "ref": "Schematic_and_symbolization_mim.externally_identified_schematic_element_definition",
+  "score": 83.72093023255813,
+  "method": "fuzzy-local-name",
+  "flag": "check"
+ },
+ {
+  "module": "schematic_and_symbolization",
+  "kind": "mim",
+  "svg": "mimexpg2.svg",
+  "num": "6",
+  "ocr": "schenatic drawing mim drawing sheet revision",
+  "ref": null,
+  "score": 0,
+  "method": "no-match",
+  "flag": "UNRESOLVED"
+ },
+ {
+  "module": "schematic_and_symbolization",
+  "kind": "mim",
+  "svg": "mimexpg2.svg",
+  "num": "7",
+  "ocr": "schenatic_ drawing mim. drawing revision",
+  "ref": null,
+  "score": 0,
+  "method": "no-match",
+  "flag": "UNRESOLVED"
+ },
+ {
+  "module": "schematic_and_symbolization",
+  "kind": "mim",
+  "svg": "mimexpg2.svg",
+  "num": "8",
+  "ocr": "Schematic_elenent arm. Implicit t_schematic element definition",
+  "ref": null,
+  "score": 0,
+  "method": "no-match",
+  "flag": "UNRESOLVED"
+ }
+]

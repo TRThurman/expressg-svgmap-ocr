@@ -1,0 +1,31 @@
+(*"Single_part_representation_mim.__expressg"
+[.svgmap]
+====
+image::mimexpg1.svg[]
+
+* <<express:Single_part_representation_mim.short_listing>>; 1
+* <<express:Document_assignment_mim.short_listing>>; 2
+* <<express:Extended_measure_representation_mim.short_listing>>; 3
+* <<express:Part_view_definition_mim.short_listing>>; 4
+* <<express:Person_organization_assignment_mim.short_listing>>; 5
+* <<express:Property_assignment_mim.short_listing>>; 6
+* <<express:Shape_property_assignment_mim.short_listing>>; 7
+====
+*)
+
+(*"Single_part_representation_mim.__expressg"
+[.svgmap]
+====
+image::mimexpg2.svg[]
+
+* <<express:Document_assignment_mim.Product>>; 1
+* <<express:Document_assignment_mim.product_definition>>; 2
+* <<express:Document_assignment_mim.product_definition_formation>>; 3
+* <<express:Document_assignment_mim.document_reference_item>>; 4
+* <<express:Person_organization_assignment_mim.person_and_organization_item>>; 5
+* <<express:Person_organization_assignment_mim.organization_item>>; 6
+* <<express:Single_part_representation_mim.spr_document_reference_item>>; 7
+* <<express:Single_part_representation_mim.spr_organization_item>>; 8
+* <<express:Single_part_representation_mim.spr_person_and_organization_item>>; 9
+====
+*)

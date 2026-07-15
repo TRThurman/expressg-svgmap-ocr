@@ -1,0 +1,19 @@
+(*"Test_select_product_arm.__expressg"
+[.svgmap]
+====
+image::armexpg1.svg[]
+
+* <<express:Product_replacement_arm.required_am_arms>>; 1
+* <<express:Test_select_product_arm.required_am_arms>>; 2
+====
+*)
+
+(*"Test_select_product_arm.__expressg"
+[.svgmap]
+====
+image::armexpg2.svg[]
+
+* <<express:Product_replacement_arm.Alternate_product_relationship>>; 1
+* <<express:Test_select_product_arm.Test_select_product>>; 2
+====
+*)

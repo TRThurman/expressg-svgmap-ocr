@@ -1,0 +1,33 @@
+(*"Root_things_arm.__expressg"
+[.svgmap]
+====
+image::armexpg1.svg[]
+
+* <<express:Root_things_arm.required_am_arms>>; 1
+* <<express:Class_arm.required_am_arms>>; 2
+* <<express:Data_creation_and_maintenance_activity_arm.required_am_arms>>; 3
+* <<express:Document_and_version_identification_arm.required_am_arms>>; 4
+* <<express:Group_arm.required_am_arms>>; 5
+* <<express:Temporal_objects_arm.required_am_arms>>; 6
+====
+*)
+
+(*"Root_things_arm.__expressg"
+[.svgmap]
+====
+image::armexpg2.svg[]
+
+* <<express:Class_arm.Class>>; 1
+* <<express:Document_and_version_identification_arm.Document_version>>; 2
+* <<express:Group_arm.Group>>; 3
+* <<express:Group_arm.groupable_item>>; 4
+* <<express:Temporal_objects_arm.Temporal_object_activity>>; 5
+* <<express:Root_things_arm.global_id>>; 6
+* <<express:Root_things_arm.relationship_in_information_object_select>>; 7
+* <<express:Root_things_arm.Class_under_root>>; 8
+* <<express:Root_things_arm.Information_object>>; 9
+* <<express:Root_things_arm.Information_object_as_set_of_statements>>; 10
+* <<express:Root_things_arm.Root_object_or_relationship>>; 11
+* <<express:Root_things_arm.Root_relationship>>; 12
+====
+*)

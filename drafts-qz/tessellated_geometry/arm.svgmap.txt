@@ -1,0 +1,122 @@
+(*"Tessellated_geometry_arm.__expressg"
+[.svgmap]
+====
+image::armexpg1.svg[]
+
+* <<express:Elemental_topology_arm.required_am_arms>>; 1
+* <<express:Elemental_geometric_shape_arm.required_am_arms>>; 2
+* <<express:Advanced_boundary_representation_arm.required_am_arms>>; 3
+* <<express:Basic_geometric_topology_arm.required_am_arms>>; 4
+* <<express:Tessellated_geometry_arm.required_am_arms>>; 5
+* <<express:Draughting_element_arm.required_am_arms>>; 6
+* <<express:Basic_geometry_arm.required_am_arms>>; 7
+* <<express:Basic_curve_arm.required_am_arms>>; 8
+* <<express:Foundation_representation_arm.required_am_arms>>; 9
+====
+*)
+
+(*"Tessellated_geometry_arm.__expressg"
+[.svgmap]
+====
+image::armexpg2.svg[]
+
+* <<express:Tessellated_geometry_arm.tg_draughting_callout_content_select>>; 1
+* <<express:Tessellated_geometry_arm.tessellated_edge_or_vertex>>; 2
+* <<express:Tessellated_geometry_arm.path_or_composite_curve>>; 3
+* <<express:Tessellated_geometry_arm.Tessellated_structured_item>>; 4
+* <<express:Tessellated_geometry_arm.Tessellated_surface_set>>; 5
+* <<express:Tessellated_geometry_arm.Coordinates_list>>; 6
+* <<express:Tessellated_geometry_arm.Tessellated_structured_item>>; 7
+* <<express:Tessellated_geometry_arm.Coordinates_list>>; 8
+* <<express:Tessellated_geometry_arm.Tessellated_shape_representation_with_accuracy_parameters>>; 9
+* <<express:Tessellated_geometry_arm.Tessellated_vertex>>; 10
+* <<express:Tessellated_geometry_arm.Coordinates_list>>; 11
+* <<express:Tessellated_geometry_arm.Tessellated_edge>>; 12
+* <<express:Tessellated_geometry_arm.Tessellated_structured_item>>; 13
+* <<express:Elemental_geometric_shape_arm.Geometric_model>>; 14
+* <<express:Advanced_boundary_representation_arm.Manifold_solid_brep>>; 15
+* <<express:Draughting_element_arm.draughting_callout_content_select>>; 16
+* <<express:Elemental_geometric_shape_arm.Detailed_geometric_model_element>>; 17
+* <<express:Basic_curve_arm.Composite_curve>>; 18
+* <<express:Elemental_geometric_shape_arm.Axis_placement_3d>>; 19
+* <<express:UNRESOLVED>>; 20
+* <<express:Elemental_topology_arm.Path>>; 21
+* <<express:Elemental_topology_arm.Connected_face_set>>; 22
+* <<express:Tessellated_geometry_arm.Tessellated_solid>>; 23
+* <<express:Tessellated_geometry_arm.Tessellated_geometric_set>>; 24
+* <<express:Tessellated_geometry_arm.Tessellated_shell>>; 25
+* <<express:Tessellated_geometry_arm.Tessellated_shape_representation>>; 26
+* <<express:Tessellated_geometry_arm.Tessellated_curve_set>>; 27
+* <<express:Tessellated_geometry_arm.Tessellated_annotation>>; 28
+* <<express:Tessellated_geometry_arm.Repositioned_tessellated_item>>; 29
+* <<express:Tessellated_geometry_arm.Tessellated_item>>; 30
+* <<express:Tessellated_geometry_arm.Tessellated_wire>>; 31
+* <<express:Tessellated_geometry_arm.Tessellated_point_set>>; 32
+====
+*)
+
+(*"Tessellated_geometry_arm.__expressg"
+[.svgmap]
+====
+image::armexpg3.svg[]
+
+* <<express:Tessellated_geometry_arm.face_or_surface>>; 1
+* <<express:Tessellated_geometry_arm.edge_or_curve>>; 2
+* <<express:Tessellated_geometry_arm.Coordinates_list>>; 3
+* <<express:Tessellated_geometry_arm.Coordinates_list>>; 4
+* <<express:Tessellated_geometry_arm.Coordinates_list>>; 5
+* <<express:Tessellated_geometry_arm.6>>; 6
+* <<express:Tessellated_geometry_arm.7>>; 7
+* <<express:Tessellated_geometry_arm.8>>; 8
+* <<express:Basic_geometry_arm.Curve>>; 9
+* <<express:Elemental_topology_arm.Face>>; 10
+* <<express:Elemental_topology_arm.Edge>>; 11
+* <<express:Basic_geometric_topology_arm.Vertex_point>>; 12
+* <<express:Basic_geometry_arm.Surface>>; 13
+* <<express:Tessellated_geometry_arm.Tessellated_vertex>>; 14
+* <<express:Tessellated_geometry_arm.Tessellated_edge>>; 15
+* <<express:Tessellated_geometry_arm.Complex_triangulated_face>>; 16
+* <<express:Tessellated_geometry_arm.Tessellated_face>>; 17
+* <<express:Tessellated_geometry_arm.Triangulated_face>>; 18
+* <<express:Tessellated_geometry_arm.Cubic_bezier_triangulated_face>>; 19
+* <<express:Tessellated_geometry_arm.Cubic_bezier_tessellated_edge>>; 20
+* <<express:Tessellated_geometry_arm.Tessellated_connecting_edge>>; 21
+* <<express:Tessellated_geometry_arm.Cubic_tessellated_connecting_edge>>; 22
+* <<express:Tessellated_geometry_arm.Tessellated_structured_item>>; 23
+====
+*)
+
+(*"Tessellated_geometry_arm.__expressg"
+[.svgmap]
+====
+image::armexpg4.svg[]
+
+* <<express:Tessellated_geometry_arm.1>>; 1
+* <<express:Tessellated_geometry_arm.2>>; 2
+* <<express:Tessellated_geometry_arm.Tessellated_surface_set>>; 3
+* <<express:Tessellated_geometry_arm.Triangulated_surface_set>>; 4
+* <<express:Tessellated_geometry_arm.Coordinates_list>>; 5
+* <<express:Tessellated_geometry_arm.Complex_triangulated_surface_set>>; 6
+====
+*)
+
+(*"Tessellated_geometry_arm.__expressg"
+[.svgmap]
+====
+image::armexpg5.svg[]
+
+* <<express:Tessellated_geometry_arm.tessellation_accuracy_parameter_item>>; 1
+* <<express:Tessellated_geometry_arm.2>>; 2
+* <<express:UNRESOLVED>>; 3
+* <<express:UNRESOLVED>>; 4
+* <<express:UNRESOLVED>>; 5
+* <<express:UNRESOLVED>>; 6
+* <<express:UNRESOLVED>>; 7
+* <<express:Tessellated_geometry_arm.Tessellated_shape_representation_with_accuracy_parameters>>; 8
+* <<express:Tessellated_geometry_arm.angular_deviation>>; 9
+* <<express:Tessellated_geometry_arm.tessellated_facet_long_short_edge_ratio>>; 10
+* <<express:Tessellated_geometry_arm.chordal_deviation>>; 11
+* <<express:Tessellated_geometry_arm.length_to_height_ratio>>; 12
+* <<express:Tessellated_geometry_arm.maximum_edge_length>>; 13
+====
+*)

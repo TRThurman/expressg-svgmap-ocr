@@ -1,0 +1,31 @@
+(*"Signal_mim.__expressg"
+[.svgmap]
+====
+image::mimexpg1.svg[]
+
+* <<express:Material_property_definition_schema>>; 1
+* <<express:Group_schema>>; 2
+* <<express:Product_property_definition_schema>>; 3
+* <<express:Characteristic_mim.short_listing>>; 4
+* <<express:Signal_mim.short_listing>>; 5
+* <<express:Document_schema>>; 6
+====
+*)
+
+(*"Signal_mim.__expressg"
+[.svgmap]
+====
+image::mimexpg2.svg[]
+
+* <<express:Signal_mim.s_external_identification_item>>; 1
+* <<express:product_property_definition_schema.characterized_object>>; 2
+* <<express:group_schema.group>>; 3
+* <<express:material_property_definition_schema.property_definition_relationship>>; 4
+* <<express:product_property_definition_schema.property_definition>>; 5
+* <<express:product_property_definition_schema.property_definition>>; 6
+* <<express:External_item_identification_assignment_mim.external_identification_item>>; 7
+* <<express:Signal_mim.signal>>; 8
+* <<express:Signal_mim.composite_signal_property_relationship>>; 9
+* <<express:Signal_mim.signal_category>>; 10
+====
+*)

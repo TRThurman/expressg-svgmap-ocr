@@ -1,0 +1,70 @@
+(*"Wiring_harness_assembly_design_arm.__expressg"
+[.svgmap]
+====
+image::armexpg1.svg[]
+
+* <<express:Extruded_structure_cross_section_arm.required_am_arms>>; 1
+* <<express:Wiring_harness_assembly_design_arm.required_am_arms>>; 2
+* <<express:Wire_and_cable_design_connectivity_arm.required_am_arms>>; 3
+* <<express:Edge_based_topological_representation_with_length_constraint_arm.required_am_arms>>; 4
+* <<express:Foundation_representation_arm.required_am_arms>>; 5
+====
+*)
+
+(*"Wiring_harness_assembly_design_arm.__expressg"
+[.svgmap]
+====
+image::armexpg2.svg[]
+
+* <<express:Elemental_topology_arm.Edge>>; 1
+* <<express:Part_shape_arm.Part_shape_element>>; 2
+* <<express:Product_view_definition_arm.additional_application_domain_enumeration>>; 3
+* <<express:Value_with_unit_extension_arm.Length_data_element>>; 4
+* <<express:General_design_connectivity_arm.Occurrence_shape_feature>>; 5
+* <<express:General_design_connectivity_arm.general_assembly_joint_type_enumeration>>; 6
+* <<express:Item_definition_structure_arm.Assembly_definition>>; 7
+* <<express:Design_product_data_management_arm.part_category>>; 8
+* <<express:Edge_based_topological_representation_with_length_constraint_arm.Edge_based_topological_representation_with_length_constraint>>; 9
+* <<express:Elemental_topology_arm.Vertex>>; 10
+* <<express:Characterizable_object_arm.characterizable_object_shape_type_enumeration>>; 11
+* <<express:Extruded_structure_cross_section_arm.cross_sectional_constituent_element>>; 12
+* <<express:General_design_connectivity_arm.general_terminal_joint_type_enumeration>>; 13
+* <<express:Wiring_harness_assembly_design_arm.whad_characterizable_object_shape_type_enumeration>>; 14
+* <<express:Wiring_harness_assembly_design_arm.whad_terminal_joint_type_enumeration>>; 15
+* <<express:Wiring_harness_assembly_design_arm.whad_additional_application_domain_enumeration>>; 16
+* <<express:Wiring_harness_assembly_design_arm.whad_assembly_joint_type_enumeration>>; 17
+* <<express:Wiring_harness_assembly_design_arm.whad_part_category>>; 18
+* <<express:Wiring_harness_assembly_design_arm.Harness_node>>; 19
+* <<express:Wiring_harness_assembly_design_arm.Harness_segment>>; 20
+* <<express:Wiring_harness_assembly_design_arm.Wiring_harness_assembly_design>>; 21
+* <<express:Wiring_harness_assembly_design_arm.whad_part_shape_element_subtypes>>; 22
+====
+*)
+
+(*"Wiring_harness_assembly_design_arm.__expressg"
+[.svgmap]
+====
+image::armexpg3.svg[]
+
+* <<express:Wiring_harness_assembly_design_arm.geometry_association_item_select>>; 1
+* <<express:Wiring_harness_assembly_design_arm.whad_geometric_representation_select>>; 2
+* <<express:Wiring_harness_assembly_design_arm.topology_association_item_select>>; 3
+* <<express:Basic_geometric_topology_arm.Edge_curve>>; 4
+* <<express:Elemental_geometric_shape_arm.Axis_placement>>; 5
+* <<express:Elemental_topology_arm.Vertex>>; 6
+* <<express:Edge_based_topological_representation_with_length_constraint_arm.Edge_based_topological_representation_with_length_constraint>>; 7
+* <<express:Basic_geometric_topology_arm.Vertex_point>>; 8
+* <<express:Elemental_topology_arm.Path>>; 9
+* <<express:Elemental_geometric_shape_arm.Cartesian_point>>; 10
+* <<express:Elemental_topology_arm.Edge>>; 11
+* <<express:Basic_geometry_arm.Curve>>; 12
+* <<express:Geometric_model_relationship_arm.geometric_representation_select>>; 13
+* <<express:Contextual_shape_positioning_arm.Contextual_shape_representation>>; 14
+* <<express:Geometric_model_relationship_arm.Geometric_model_relationship>>; 15
+* <<express:Wiring_harness_assembly_design_arm.Geometry_to_topology_model_association>>; 16
+* <<express:Wiring_harness_assembly_design_arm.Topology_to_geometry_item_association>>; 17
+* <<express:Wiring_harness_assembly_design_arm.Topology_to_geometry_model_association>>; 18
+* <<express:Wiring_harness_assembly_design_arm.Geometry_to_topology_item_association>>; 19
+* <<express:Wiring_harness_assembly_design_arm.whad_geometric_model_relationship_subtypes>>; 20
+====
+*)
