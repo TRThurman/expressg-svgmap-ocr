@@ -1,0 +1,280 @@
+(*"Ap210_electronic_assembly_interconnect_and_packaging_design_arm.__expressg"
+[.svgmap]
+====
+image::armexpg1.svg[]
+
+* <<express:Fabrication_requirement_arm.required_am_arms>>; 1
+* <<express:Assembly_2d_shape_arm.required_am_arms>>; 2
+* <<express:Sequential_laminate_assembly_design_arm.required_am_arms>>; 3
+* <<express:Interconnect_physical_requirement_allocation_arm.required_am_arms>>; 4
+* <<express:Physical_node_requirement_to_implementing_component_allocation_arm.required_am_arms>>; 5
+* <<express:Support_resource_arm.required_am_arms>>; 6
+* <<express:Interconnect_2d_shape_arm.required_am_arms>>; 7
+* <<express:Interconnect_non_planar_shape_arm.required_am_arms>>; 8
+* <<express:Design_specific_assignment_to_assembly_usage_view_arm.required_am_arms>>; 9
+* <<express:Electrical_network_definition_arm.required_am_arms>>; 10
+* <<express:Assembly_module_with_macro_component_arm.required_am_arms>>; 11
+* <<express:Ap210_electronic_assembly_interconnect_and_packaging_design_arm.required_am_arms>>; 12
+* <<express:Functional_decomposition_to_interconnect_design_arm.required_am_arms>>; 13
+* <<express:Physical_unit_interconnect_definition_arm.required_am_arms>>; 14
+* <<express:Layered_interconnect_module_2d_design_arm.required_am_arms>>; 15
+* <<express:Via_component_arm.required_am_arms>>; 16
+* <<express:Functional_decomposition_to_assembly_design_arm.required_am_arms>>; 17
+* <<express:Interconnect_module_to_assembly_module_relationship_arm.required_am_arms>>; 18
+* <<express:Assembly_physical_requirement_allocation_arm.required_am_arms>>; 19
+* <<express:Pre_defined_datum_symbol_arm.required_am_arms>>; 20
+* <<express:Assembly_module_with_cable_component_2d_arm.required_am_arms>>; 21
+* <<express:Thermal_network_definition_arm.required_am_arms>>; 22
+* <<express:Functional_unit_requirement_allocation_arm.required_am_arms>>; 23
+* <<express:Datum_difference_based_model_arm.required_am_arms>>; 24
+* <<express:Device_marking_arm.required_am_arms>>; 25
+* <<express:Packaged_part_white_box_model_arm.required_am_arms>>; 26
+* <<express:Layered_interconnect_module_3d_design_arm.required_am_arms>>; 27
+* <<express:Part_feature_grouping_arm.required_am_arms>>; 28
+* <<express:Ap242_managed_model_based_3d_engineering_arm.required_am_arms>>; 29
+* <<express:Layout_macro_definition_arm.required_am_arms>>; 30
+* <<express:Test_requirement_allocation_arm.required_am_arms>>; 31
+* <<express:Assembly_3d_shape_arm.required_am_arms>>; 32
+* <<express:Interconnect_placement_requirements_arm.required_am_arms>>; 33
+* <<express:Connectivity_allocation_to_physical_network_arm.required_am_arms>>; 34
+* <<express:Assembly_module_with_cable_component_3d_arm.required_am_arms>>; 35
+* <<express:Design_specific_assignment_to_interconnect_usage_view_arm.required_am_arms>>; 36
+====
+*)
+
+(*"Ap210_electronic_assembly_interconnect_and_packaging_design_arm.__expressg"
+[.svgmap]
+====
+image::armexpg2.svg[]
+
+* <<express:Ap210_electronic_assembly_interconnect_and_packaging_design_arm.ap210_change_management_object>>; 1
+* <<express:Layered_interconnect_module_design_arm.Generic_physical_network>>; 2
+* <<express:Interconnect_module_connection_routing_arm.Junction_vertex_allocation>>; 3
+* <<express:Layered_interconnect_module_design_arm.Internal_stratum_access>>; 4
+* <<express:Physical_connectivity_definition_arm.Physical_connectivity_definition_relationship>>; 5
+* <<express:Assembly_component_placement_requirements_arm.Component_placement_restriction_assignment>>; 6
+* <<express:Value_with_unit_arm.Value_with_unit>>; 7
+* <<express:Shape_property_assignment_arm.Shape_element_relationship>>; 8
+* <<express:Styled_curve_arm.Solid_curve_font>>; 9
+* <<express:Functional_decomposition_to_design_arm.Reference_functional_unit_assignment_to_part>>; 10
+* <<express:Physical_connectivity_definition_arm.Physical_connectivity_make_from_relationship>>; 11
+* <<express:Packaged_part_white_box_model_arm.Device_terminal_map_relationship>>; 12
+* <<express:Interconnect_module_to_assembly_module_relationship_arm.Component_feature_to_layout_feature_relationship>>; 13
+* <<express:Date_time_arm.Calendar_date>>; 14
+* <<express:Assembly_module_design_arm.Component_feature_external_reference>>; 15
+* <<express:Fabrication_technology_arm.Passage_technology>>; 16
+* <<express:Packaged_part_white_box_model_arm.Device_2d_position>>; 17
+* <<express:Product_version_relationship_arm.Product_version_relationship>>; 18
+* <<express:Assembly_module_with_interconnect_component_arm.Design_view_terminal_component_shape_relationship>>; 19
+* <<express:Change_management_arm.change_management_object>>; 20
+* <<express:Layered_interconnect_module_2d_design_arm.Stratum_interconnect_module_planar_position>>; 21
+* <<express:Independent_property_arm.Independent_property_relationship>>; 22
+* <<express:Assembly_3d_shape_arm.Bond_assembly_position>>; 23
+* <<express:Text_appearance_arm.Externally_defined_text_font>>; 24
+* <<express:Assembly_physical_interface_requirement_arm.Next_higher_assembly_interface_requirement>>; 25
+* <<express:Assembly_physical_interface_requirement_arm.Mating_connector_termination>>; 26
+* <<express:Printed_physical_layout_template_arm.Printed_connector_template_terminal_relationship>>; 27
+* <<express:Design_specific_assignment_to_interconnect_usage_view_arm.Stratum_concept_to_physical_usage_view_assignment>>; 28
+* <<express:Component_grouping_arm.Assembly_component_placement_link>>; 29
+* <<express:Assembly_technology_arm.Assembly_bond_definition>>; 30
+* <<express:Planned_characteristic_arm.Evaluated_characteristic>>; 31
+* <<express:Person_organization_arm.Person_in_organization>>; 32
+* <<express:Text_representation_arm.Text_font>>; 33
+* <<express:Network_functional_design_view_arm.Functional_unit_terminal_node_assignment>>; 34
+* <<express:Dimension_tolerance_arm.Geometric_dimension>>; 35
+* <<express:Layered_interconnect_module_design_arm.Stratum_feature_conductive_join>>; 36
+* <<express:Functional_usage_view_arm.Functional_terminal_group>>; 37
+* <<express:UNRESOLVED>>; 38
+* <<express:Production_rule_arm.Complex_clause>>; 39
+* <<express:Physical_unit_design_view_arm.Assembly_item_number>>; 40
+* <<express:Packaged_part_white_box_model_arm.Device_terminal_map>>; 41
+* <<express:Measure_representation_arm.Property_value_representation>>; 42
+* <<express:Functional_decomposition_to_assembly_design_arm.Design_functional_unit_allocation_to_assembly_joint>>; 43
+* <<express:Product_identification_arm.Product>>; 44
+* <<express:Device_marking_arm.Marking>>; 45
+* <<express:Production_rule_arm.Simple_clause>>; 46
+* <<express:Analytical_model_arm.Terminal_pair_port_equivalence_relationship>>; 47
+* <<express:Product_version_arm.Product_version>>; 48
+* <<express:Analytical_model_arm.Port_variable>>; 49
+* <<express:Package_arm.Connection_zone_package_interface_plane_relationship>>; 50
+* <<express:Fabrication_technology_arm.Stratum_technology_occurrence_link>>; 51
+* <<express:Text_appearance_arm.Draughting_pre_defined_text_font>>; 52
+* <<express:Printed_physical_layout_template_arm.Functional_usage_view_to_printed_part_template_terminal_assignment>>; 53
+* <<express:Product_view_definition_arm.Product_view_definition>>; 54
+* <<express:Network_functional_design_view_arm.Functional_unit_terminal_bus_assignment>>; 55
+* <<express:Production_rule_arm.Rule_justification>>; 56
+* <<express:Assembly_structure_arm.Assembly_component_relationship>>; 57
+* <<express:Analytical_model_arm.Analytical_model_application>>; 58
+* <<express:Functional_specification_arm.Signal_specification>>; 59
+* <<express:Interconnect_module_connection_routing_arm.Direct_stratum_component_join_implementation>>; 60
+* <<express:Work_order_arm.Work_order>>; 61
+* <<express:Styled_curve_arm.Externally_defined_curve_font>>; 62
+* <<express:Fabrication_requirement_arm.Pitch_class>>; 63
+* <<express:Layered_interconnect_module_design_arm.Interconnect_connection_zone_position_relationship>>; 64
+* <<express:Physical_unit_usage_view_arm.Usage_view_connection_zone_terminal_shape_relationship>>; 65
+* <<express:Model_parameter_arm.Parameter_assignment_override>>; 66
+* <<express:Model_parameter_arm.Product_specific_parameter_value_assignment>>; 67
+* <<express:Assembly_module_design_arm.Component_mounting_clearance_relationship>>; 68
+* <<express:Physical_connectivity_definition_arm.Physical_connectivity_element>>; 69
+* <<express:Product_concept_identification_arm.Product_concept>>; 70
+* <<express:Requirement_assignment_arm.Requirement_assignment>>; 71
+* <<express:Physical_unit_usage_view_arm.Connection_zone_map_identification>>; 72
+* <<express:Device_marking_arm.Configuration_controlled_message>>; 73
+* <<express:Network_functional_design_view_arm.Functional_unit_network_terminal_definition_bus_assignment>>; 74
+* <<express:Effectivity_arm.Effectivity>>; 75
+* <<express:Network_functional_design_view_arm.Functional_unit_terminal>>; 76
+* <<express:Physical_unit_interconnect_definition_arm.Connector_based_interconnect_definition>>; 77
+* <<express:Part_external_reference_arm.Package_external_reference>>; 78
+* <<express:Assembly_module_with_packaged_connector_component_arm.Interface_mounted_join>>; 79
+* <<express:Layered_interconnect_module_3d_design_arm.Stratum_interconnect_module_3d_position>>; 80
+* <<express:Geometric_tolerance_arm.Tolerance_zone_definition>>; 81
+* <<express:Assembly_module_with_cable_component_3d_arm.Sub_model_placement_3d>>; 82
+* <<express:Layered_interconnect_module_design_arm.Layout_junction>>; 83
+* <<express:Functional_decomposition_to_design_arm.Design_composition_path>>; 84
+* <<express:Basic_curve_arm.Composite_curve_segment>>; 85
+* <<express:Packaged_part_white_box_model_arm.Device_3d_position>>; 86
+* <<express:Functional_decomposition_to_design_arm.Reference_composition_path>>; 87
+* <<express:Constructive_solid_geometry_2d_arm.Curve_style_parameters>>; 88
+* <<express:Layered_interconnect_module_design_arm.Adjacent_stratum_surface_embedded_physical_component_surface_definition>>; 89
+* <<express:Interconnect_placement_requirements_arm.Layout_spacing_requirement_non_conforming_design_object>>; 90
+* <<express:Production_rule_arm.Rule_priority>>; 91
+* <<express:Fabrication_requirement_arm.Line_width_class>>; 92
+* <<express:Configuration_item_arm.Product_configuration>>; 93
+* <<express:Network_functional_design_view_arm.Bus_structural_definition>>; 94
+* <<express:Bare_die_arm.Connection_zone_bare_die_interface_plane_relationship>>; 95
+* <<express:Physical_node_requirement_to_implementing_component_allocation_arm.Physical_node_requirement_to_implementing_component_allocation>>; 96
+* <<express:Elemental_geometric_shape_arm.Geometric_coordinate_space>>; 97
+* <<express:Layered_interconnect_module_design_arm.Inter_stratum_join_implementation>>; 98
+* <<express:Assembly_module_design_arm.Component_external_reference>>; 99
+* <<express:Printed_physical_layout_template_arm.Printed_part_template_connected_terminals_definition>>; 100
+* <<express:Sequential_laminate_assembly_design_arm.Interconnect_module_product_assembly_view_fabrication_joint>>; 101
+* <<express:Elemental_geometric_shape_arm.Geometric_model>>; 102
+* <<express:Work_request_arm.Work_request>>; 103
+* <<express:Assembly_component_placement_requirements_arm.Placement_group_area_assignment>>; 104
+* <<express:Functional_decomposition_with_nodal_representation_to_packaged_mapping_arm.Connectivity_allocation>>; 105
+* <<express:Alias_identification_arm.Alias_identification>>; 106
+* <<express:Network_functional_design_view_arm.Functional_unit_network_terminal_definition_node_assignment>>; 107
+* <<express:Generic_material_aspects_arm.Material_identification>>; 108
+* <<express:Functional_specification_arm.Functional_specification>>; 109
+* <<express:Assembly_component_placement_requirements_arm.Component_group_assignment>>; 110
+* <<express:Packaged_part_white_box_model_arm.Part_device>>; 111
+* <<express:Approval_arm.Approval>>; 112
+* <<express:Functional_usage_view_arm.Equivalent_functional_unit_definition_assignment>>; 113
+* <<express:Security_classification_arm.Security_classification>>; 114
+* <<express:Analytical_model_arm.Analytical_model_port>>; 115
+* <<express:External_item_identification_assignment_arm.External_item_identification>>; 116
+* <<express:Assembly_module_with_interconnect_component_arm.Assembly_connection_zone_position_relationship>>; 117
+* <<express:Planned_characteristic_arm.Planned_characteristic>>; 118
+* <<express:Curve_appearance_arm.Curve_appearance>>; 119
+* <<express:Physical_unit_3d_design_view_arm.Component_3d_location>>; 120
+* <<express:Interconnect_module_usage_view_arm.Located_interconnect_module_thickness_requirement>>; 121
+* <<express:Model_parameter_arm.Model_parameter>>; 122
+* <<express:Physical_unit_2d_design_view_arm.Component_2d_location>>; 123
+* <<express:Functional_assignment_to_part_arm.Part_connected_terminals_definition>>; 124
+* <<express:Product_replacement_arm.Alternate_product_relationship>>; 125
+* <<express:Change_management_arm.Frozen_assignment>>; 126
+* <<express:Shape_property_assignment_arm.Shape_element>>; 127
+* <<express:Functional_usage_view_arm.Functional_unit_usage_view_terminal_definition>>; 128
+* <<express:Layered_interconnect_module_design_arm.Interconnect_module_stratum_assembly_relationship>>; 129
+* <<express:Functional_assignment_to_part_arm.Functional_usage_view_to_part_terminal_assignment>>; 130
+* <<express:Certification_arm.Certification>>; 131
+* <<express:Signal_arm.Signal_property>>; 132
+* <<express:Layered_interconnect_module_design_arm.Conductive_interconnect_element_terminal_link>>; 133
+* <<express:Person_organization_arm.Organization>>; 134
+* <<express:Datum_difference_based_model_arm.Datum_difference_functional_unit_usage_view_terminal_assignment>>; 135
+* <<express:Layered_interconnect_module_design_arm.Stratum_surface>>; 136
+* <<express:Packaged_connector_model_arm.Packaged_connector_terminal_relationship>>; 137
+* <<express:Datum_and_datum_systems_arm.Datum>>; 138
+* <<express:Model_parameter_arm.Parameter_assignment>>; 139
+* <<express:Part_external_reference_arm.Package_terminal_external_reference>>; 140
+* <<express:Physical_unit_design_view_arm.Component_feature_to_physical_usage_view_assignment>>; 141
+* <<express:Person_organization_arm.Person>>; 142
+* <<express:Product_view_definition_relationship_arm.View_definition_relationship>>; 143
+* <<express:Functional_usage_view_arm.Equivalent_functional_terminals_assignment>>; 144
+* <<express:Printed_physical_layout_template_arm.Printed_part_template_material_link>>; 145
+* <<express:Geometric_tolerance_arm.Geometric_tolerance>>; 146
+* <<express:Assembly_module_with_cable_component_2d_arm.Sub_model_placement_2d>>; 147
+* <<express:Assembly_physical_interface_requirement_arm.Mating_connector_placement_relationship>>; 148
+* <<express:Layered_interconnect_module_design_arm.Join_relationship>>; 149
+* <<express:Functional_decomposition_to_interconnect_design_arm.Design_functional_unit_allocation_to_fabrication_joint>>; 150
+* <<express:Foundation_representation_arm.Representation_item>>; 151
+* <<express:Printed_physical_layout_template_arm.Printed_part_template_material>>; 152
+* <<express:Analytical_model_arm.Analytical_model_port_assignment>>; 153
+* <<express:Connectivity_allocation_to_physical_network_arm.Connectivity_allocation_to_physical_network>>; 154
+* <<express:Layered_interconnect_module_design_arm.Stratum_feature_based_derived_pattern>>; 155
+* <<express:Person_organization_assignment_arm.Organization_or_person_in_organization_assignment>>; 156
+* <<express:Network_functional_design_view_arm.Bus_element_link>>; 157
+* <<express:Signal_arm.Composite_signal_property_relationship>>; 158
+* <<express:Assembly_module_with_interconnect_component_arm.Component_overlap_relationship>>; 159
+* <<express:Date_time_arm.Date_time>>; 160
+* <<express:Packaged_part_white_box_model_arm.Part_device_terminal>>; 161
+* <<express:Production_rule_arm.Func>>; 162
+* <<express:Component_grouping_arm.Linear_array_placement_group_component_link>>; 163
+* <<express:Physical_connectivity_definition_arm.Topological_junction>>; 164
+* <<express:Functional_decomposition_to_interconnect_design_arm.Transmission_line_functional_unit_terminal_allocation>>; 165
+* <<express:Product_replacement_arm.Assembly_relationship_substitution>>; 166
+* <<express:Fabrication_technology_arm.Stratum_technology>>; 167
+* <<express:Interconnect_module_connection_routing_arm.Dielectric_crossover_area>>; 168
+* <<express:Specification_document_arm.Specification_allocation>>; 169
+* <<express:Interconnect_module_connection_routing_arm.Physical_connectivity_abstraction_map>>; 170
+* <<express:Functional_usage_view_arm.Scalar_terminal_definition_link>>; 171
+* <<express:Assembly_physical_requirement_allocation_arm.Interface_component_allocation>>; 172
+====
+*)
+
+(*"Ap210_electronic_assembly_interconnect_and_packaging_design_arm.__expressg"
+[.svgmap]
+====
+image::armexpg3.svg[]
+
+* <<express:Physical_unit_usage_view_arm.Part_usage_view>>; 1
+* <<express:Physical_unit_design_view_arm.Part_design_view>>; 2
+* <<express:Product_identification_arm.Product>>; 3
+* <<express:Part_view_definition_arm.Part_view_definition>>; 4
+* <<express:Layered_2d_shape_arm.Planar_projected_shape_model>>; 5
+* <<express:Geometric_model_relationship_arm.Geometric_model_relationship>>; 6
+* <<express:Physical_unit_2d_design_view_arm.Component_2d_location>>; 7
+* <<express:Information_product_arm.Information_product>>; 8
+* <<express:Layered_interconnect_module_design_arm.Laminate_component_interface_terminal>>; 9
+* <<express:Assembly_component_arm.Physical_component>>; 10
+* <<express:Functional_assignment_to_part_arm.Part_terminal>>; 11
+* <<express:Packaged_part_black_box_model_arm.Packaged_part>>; 12
+* <<express:Interface_component_arm.Physical_component_interface_terminal>>; 13
+* <<express:Layered_interconnect_module_design_arm.Laminate_component_join_terminal>>; 14
+* <<express:Product_view_definition_arm.Product_view_definition>>; 15
+* <<express:Physical_unit_design_view_arm.Component_feature_to_physical_usage_view_assignment>>; 16
+* <<express:Layered_3d_shape_arm.Shape_definition_3d_intersection>>; 17
+* <<express:Ap210_electronic_assembly_interconnect_and_packaging_design_arm.ap210_part_usage_view_subtypes>>; 18
+* <<express:Ap210_electronic_assembly_interconnect_and_packaging_design_arm.component_2d_location_subtypes>>; 19
+* <<express:Ap210_electronic_assembly_interconnect_and_packaging_design_arm.ap210_apd_part_view_definition_subtypes>>; 20
+* <<express:Ap210_electronic_assembly_interconnect_and_packaging_design_arm.laminate_component_join_terminal_subtypes>>; 21
+* <<express:Ap210_electronic_assembly_interconnect_and_packaging_design_arm.component_feature_to_physical_usage_view_assignment_subtypes>>; 22
+* <<express:Ap210_electronic_assembly_interconnect_and_packaging_design_arm.ap210_physical_component_subtypes>>; 23
+* <<express:Ap210_electronic_assembly_interconnect_and_packaging_design_arm.packaged_part_subtypes>>; 24
+* <<express:Ap210_electronic_assembly_interconnect_and_packaging_design_arm.geometric_representation_relationship_subtypes>>; 25
+* <<express:Ap210_electronic_assembly_interconnect_and_packaging_design_arm.ap210_eaiapd_restrict_product_view_definition_subtypes>>; 26
+* <<express:Ap210_electronic_assembly_interconnect_and_packaging_design_arm.shape_definition_3d_intersection_subtypes>>; 27
+* <<express:Ap210_electronic_assembly_interconnect_and_packaging_design_arm.laminate_component_interface_terminal_subtypes>>; 28
+* <<express:Ap210_electronic_assembly_interconnect_and_packaging_design_arm.part_design_view_subtypes>>; 29
+* <<express:Ap210_electronic_assembly_interconnect_and_packaging_design_arm.physical_component_interface_terminal_subtypes>>; 30
+* <<express:Ap210_electronic_assembly_interconnect_and_packaging_design_arm.part_terminal_subtypes>>; 31
+* <<express:Ap210_electronic_assembly_interconnect_and_packaging_design_arm.planar_projected_shape_model_subtypes>>; 32
+* <<express:Ap210_electronic_assembly_interconnect_and_packaging_design_arm.ap210_eaiapd_restrict_information_product_subtypes>>; 33
+* <<express:Ap210_electronic_assembly_interconnect_and_packaging_design_arm.ap210_eaiapd_restrict_product_subtypes>>; 34
+====
+*)
+
+(*"Ap210_electronic_assembly_interconnect_and_packaging_design_arm.__expressg"
+[.svgmap]
+====
+image::armexpg4.svg[]
+
+* <<express:Ap210_electronic_assembly_interconnect_and_packaging_design_arm.ap210_assembly_module_or_assembly_group_component>>; 1
+* <<express:Ap210_electronic_assembly_interconnect_and_packaging_design_arm.ap210_requirement_basis_select>>; 2
+* <<express:Analytical_model_arm.Analytical_model_application>>; 3
+* <<express:Requirement_decomposition_arm.requirement_basis_select>>; 4
+* <<express:Functional_specification_arm.Functional_specification>>; 5
+* <<express:Component_grouping_arm.Assembly_group_component>>; 6
+* <<express:Assembly_module_design_arm.assembly_module_or_assembly_group_component>>; 7
+====
+*)

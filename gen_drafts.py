@@ -15,10 +15,16 @@ Usage:
   ISO10303_REPO=/path/to/worktree python3.12 gen_drafts.py q          # one letter
   ISO10303_REPO=/path/to/worktree python3.12 gen_drafts.py q-z        # range
   ISO10303_REPO=... python3.12 gen_drafts.py q-z 2/6                  # shard 2 of 6
+  ISO10303_REPO=... python3.12 gen_drafts.py mod_a,mod_b              # explicit
+      module directory names (selector containing '_' or ',')
   ISO10303_REPO=... python3.12 gen_drafts.py --reresolve              # re-run
       resolution + drafts from the OCR text cached in rows.json (no OCR)
 Shards partition the in-scope module list round-robin; per-module output
 files make the run resumable, so shards never conflict.
+
+Env: DRAFTS_OUT names the output directory (default drafts-qz);
+KINDS restricts the schema kinds processed (default arm,mim) so one
+module's arm and mim can run as parallel processes.
 """
 import io, json, os, re, sys
 from pathlib import Path
@@ -31,7 +37,8 @@ from PIL import Image
 from rapidfuzz import process, fuzz
 
 REPO = sp.REPO
-OUT = SELF_DIR / "drafts-qz"
+OUT = SELF_DIR / os.environ.get("DRAFTS_OUT", "drafts-qz")
+KINDS = tuple(k for k in os.environ.get("KINDS", "arm,mim").split(",") if k)
 TMP_CROP = os.environ.get("CROP_TMP", "/tmp") + f"/_gen_drafts_crop_{os.getpid()}.png"
 
 NSL = lambda el: etree.QName(el).localname
@@ -138,14 +145,32 @@ def resolve_qualified(txt, ctx):
     with the dot lost by OCR) where the name is interfaced via USE FROM, not
     declared locally — sim_pipeline's declaration catalog misses these.
     Convention per the committed a-p blocks: transcribe the qualified label
-    as the diagram shows it."""
+    as the diagram shows it.
+
+    The schema part itself is OCR-corrupted on AP overview diagrams
+    ('_arm' read as 'amm'/'anm'/'am', doubled letters), so exact prefix
+    matching alone strands hundreds of boxes per module: after the exact
+    paths fail, the schema is matched fuzzily (cutoff 90, dotted left part
+    or a head slice of the dotless text). Any fuzzy-schema resolution
+    returns a method outside CLEAN_METHODS so it always classifies as
+    'check', and it stands only if the remaining tail also resolves."""
     if not txt:
         return None
     schema = tail_txt = None
+    fuzzy_schema = 0  # ratio when the schema part matched fuzzily
     if "." in txt:
         left, right = txt.split(".", 1)
         schema = ctx.schema_by_clean.get(sp.clean(left))
         tail_txt = right
+        if schema is None:
+            lc = sp.clean(left)
+            if len(lc) >= 8:
+                m = process.extractOne(lc, list(ctx.schema_by_clean),
+                                       scorer=fuzz.ratio, score_cutoff=90)
+                if m:
+                    schema = ctx.schema_by_clean[m[0]]
+                    fuzzy_schema = int(m[1])
+                    tail_txt = right
     if schema is None:
         # dot lost by OCR: longest schema whose clean form prefixes the text
         cleaned = sp.clean(txt)
@@ -156,6 +181,20 @@ def resolve_qualified(txt, ctx):
                 tail_txt = cleaned[len(sc_clean):]
                 break
     if schema is None:
+        # dot lost AND schema part corrupted: fuzzy head-slice split
+        cleaned = sp.clean(txt)
+        best = None
+        for sc_clean, sc in ctx.schema_by_clean.items():
+            L = len(sc_clean)
+            if L < 8 or len(cleaned) < L - 1:
+                continue
+            for k in range(max(6, L - 2), min(len(cleaned) - 1, L + 2) + 1):
+                s = fuzz.ratio(cleaned[:k], sc_clean)
+                if s >= 90 and (best is None or s > best[0]):
+                    best = (s, sc, cleaned[k:])
+        if best:
+            fuzzy_schema, schema, tail_txt = int(best[0]), best[1], best[2]
+    if schema is None:
         return None
     rc = sp.clean(tail_txt)
     if not rc:
@@ -164,9 +203,15 @@ def resolve_qualified(txt, ctx):
     # a global-only hit keeps the diagram's schema but stays flagged
     closure_hits = {n for n in ctx.visible_names(schema) if sp.clean(n) == rc}
     if closure_hits:
+        if fuzzy_schema:
+            return (f"{schema}.{sorted(closure_hits)[0]}", fuzzy_schema,
+                    "qualified-fuzzy-schema")
         return (f"{schema}.{sorted(closure_hits)[0]}", 100, "qualified-verbatim")
     global_hits = set(ctx.name_by_clean.get(rc, []))
     if global_hits:
+        if fuzzy_schema:
+            return (f"{schema}.{sorted(global_hits)[0]}", fuzzy_schema,
+                    "qualified-fuzzy-schema-global")
         return (f"{schema}.{sorted(global_hits)[0]}", 100,
                 "qualified-verbatim-global")
     pool = sorted(ctx.visible_names(schema))
@@ -174,7 +219,8 @@ def resolve_qualified(txt, ctx):
         m = process.extractOne(rc, [sp.clean(n) for n in pool],
                                scorer=fuzz.ratio, score_cutoff=80)
         if m:
-            return (f"{schema}.{pool[m[2]]}", m[1], "qualified-fuzzy")
+            return (f"{schema}.{pool[m[2]]}",
+                    min(int(m[1]), fuzzy_schema or 100), "qualified-fuzzy")
     return None
 
 
@@ -394,7 +440,10 @@ def write_drafts(mod: Path, kind: str, schema, rows, outdir: Path, ctx):
 
 # ── main: OCR run ───────────────────────────────────────────────────────────
 def run_ocr(sel, shard):
-    if "-" in sel:
+    explicit = None
+    if "_" in sel or "," in sel:
+        explicit = [s for s in sel.split(",") if s]
+    elif "-" in sel:
         lo, hi = sel.split("-")
         letters = {chr(c) for c in range(ord(lo), ord(hi) + 1)}
     else:
@@ -403,15 +452,25 @@ def run_ocr(sel, shard):
     if shard and "/" in shard:
         shard_i, shard_n = (int(x) for x in shard.split("/"))
 
+    if explicit is not None:
+        dirs = [REPO / "schemas/modules" / n for n in explicit]
+        missing = [p.name for p in dirs if not p.is_dir()]
+        if missing:
+            sys.exit(f"unknown module dir(s): {', '.join(missing)}")
+        skipped_asset_dirs = [p.name for p in dirs
+                              if not (p / "arm.exp").exists()
+                              and not (p / "mim.exp").exists()]
+        eligible = [p for p in dirs if p.name not in skipped_asset_dirs]
+    else:
+        eligible, skipped_asset_dirs = in_scope_modules(letters)
     ctx = Ctx()
     OUT.mkdir(exist_ok=True)
-    eligible, skipped_asset_dirs = in_scope_modules(letters)
     mod_dirs = [p for i, p in enumerate(eligible) if i % shard_n == shard_i]
     print(f"Shard {shard_i}/{shard_n}: {len(mod_dirs)} of {len(eligible)} modules",
           file=sys.stderr)
     total_entries = 0
     for mod in mod_dirs:
-        for kind in ("arm", "mim"):
+        for kind in KINDS:
             exp = mod / f"{kind}.exp"
             if not exp.exists():
                 continue
@@ -448,6 +507,8 @@ def run_ocr(sel, shard):
                                  "svg": svg.name, "num": num, "ocr": txt,
                                  "ref": pred, "score": score,
                                  "method": method, "flag": flag})
+                print(f"    {mod.name}/{kind} {svg.name}: "
+                      f"{len(shapes)} anchors done", file=sys.stderr)
             outdir.mkdir(exist_ok=True)
             write_drafts(mod, kind, schema, rows, outdir, ctx)
             rows_f.write_text(json.dumps(rows, indent=1))
